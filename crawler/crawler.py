@@ -1,4 +1,11 @@
-# crawler/crawler.py
+"""
+Asynchronous seed crawler:
+- Uses Playwright for dynamic page rendering and link extraction
+- Identifies and downloads PDF files (direct + from product-like subpages)
+- Stores files in ../data/raw_pdfs and metadata in ../data/meta
+- Falls back to plain requests when Playwright navigation fails
+"""
+
 import asyncio
 import json
 import os
@@ -10,36 +17,39 @@ import requests
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright, TimeoutError as PWTimeoutError
 
-# OUTPUT
-OUT_DIR = "../data/raw_pdfs"
-META_DIR = "../data/meta"
+OUT_DIR = "../data/raw_pdfs"  # Target directory for downloaded PDF binaries
+META_DIR = "../data/meta"     # Directory for JSON metadata per file
 os.makedirs(OUT_DIR, exist_ok=True)
 os.makedirs(META_DIR, exist_ok=True)
 
-# Seed pages - replace with your list
-SEEDS = [
+SEEDS = [  # Initial seed URLs (adjust based on target domains)
     "https://www.policybazaar.com/life-insurance/term-insurance/",
     "https://www.icicilombard.com/general-insurance/health-insurance",
     "https://www.hdfcergo.com/health-insurance",
 ]
 
-# Headers & UA (pretend to be a normal browser)
-DEFAULT_HEADERS = {
+DEFAULT_HEADERS = {  # Mimic typical browser UA, basic language prefs
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
                   "Chrome/119.0.0.0 Safari/537.36",
     "Accept-Language": "en-US,en;q=0.9",
 }
 
-# small helper: save metadata
 def save_meta(meta):
+    """
+    Persist metadata dictionary as JSON using file hash + original name.
+    Includes: url, file_name, path, hash, downloaded_at (epoch).
+    """
     basename = meta["file_name"]
     jpath = os.path.join(META_DIR, basename + ".json")
     with open(jpath, "w", encoding="utf-8") as f:
         json.dump(meta, f, indent=2, ensure_ascii=False)
 
-# download using aiohttp (async)
 async def download_bytes(session, url, timeout=60):
+    """
+    Fetch raw bytes asynchronously with aiohttp for a given URL.
+    Returns None on non-200 or errors.
+    """
     try:
         async with session.get(url, timeout=timeout, headers=DEFAULT_HEADERS) as resp:
             if resp.status == 200:
@@ -51,8 +61,10 @@ async def download_bytes(session, url, timeout=60):
         print("aiohttp error", url, e)
         return None
 
-# synchronous fallback using requests (useful when Playwright fails)
 def requests_get_bytes(url, timeout=30):
+    """
+    Synchronous fallback using requests for cases where async or browser retrieval fails.
+    """
     try:
         r = requests.get(url, headers=DEFAULT_HEADERS, timeout=timeout, verify=True)
         if r.status_code == 200:
@@ -64,8 +76,11 @@ def requests_get_bytes(url, timeout=30):
         print("requests error", url, e)
         return None
 
-# Save file helper
 def save_file_bytes(data, url):
+    """
+    Write binary PDF data to disk with a hash-prefixed filename.
+    Also store JSON metadata.
+    """
     h = hashlib.sha256(data).hexdigest()
     parsed = urlparse(url)
     name = os.path.basename(parsed.path) or "file"
@@ -84,8 +99,11 @@ def save_file_bytes(data, url):
     print("Saved", path)
     return meta
 
-# Extract links from HTML content (beautifulsoup)
 def extract_links_from_html(content, base_url):
+    """
+    Parse HTML content and return unique absolute links.
+    Skips javascript: and fragment-only anchors.
+    """
     soup = BeautifulSoup(content, "html.parser")
     found = []
     for a in soup.find_all("a", href=True):
@@ -96,15 +114,21 @@ def extract_links_from_html(content, base_url):
         found.append(full)
     return list(set(found))
 
-# Main crawler
 async def crawl_seeds(seeds):
+    """
+    Orchestrate crawling:
+    - Launch headless Chromium via Playwright.
+    - For each seed: navigate, extract links, download direct PDFs.
+    - Follow a limited number of 'deep' subpages likely to contain policy PDFs.
+    - Use aiohttp for PDF download with requests fallback.
+    - Fallback to plain requests if Playwright navigation fails entirely.
+    """
     found_pdfs = set()
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True, args=["--no-sandbox"])
         for seed in seeds:
             print("\n-- SEED:", seed)
             try:
-                # create a fresh context per seed (isolates navigations)
                 context = await browser.new_context(
                     user_agent=DEFAULT_HEADERS["User-Agent"],
                     locale="en-US",
@@ -112,7 +136,6 @@ async def crawl_seeds(seeds):
                     java_script_enabled=True,
                 )
                 page = await context.new_page()
-                # navigation with longer timeout, wait for networkidle
                 try:
                     await page.goto(seed, wait_until="networkidle", timeout=45000)
                 except PWTimeoutError as e:
@@ -122,22 +145,18 @@ async def crawl_seeds(seeds):
                     except Exception as e2:
                         print("Second attempt also failed:", e2)
 
-                # get page content
                 try:
                     content = await page.content()
                 except Exception as e:
                     print("Could not get content from page:", e)
                     content = ""
 
-                # extract links
                 links = extract_links_from_html(content, seed)
                 print("Found links:", len(links))
 
-                # first harvest direct pdf links
                 for link in links:
                     if link.lower().endswith(".pdf") and link not in found_pdfs:
                         found_pdfs.add(link)
-                        # try to download via aiohttp, fallback to requests
                         async with aiohttp.ClientSession() as sess:
                             data = await download_bytes(sess, link)
                         if not data:
@@ -148,10 +167,8 @@ async def crawl_seeds(seeds):
                         else:
                             print("Failed to download pdf:", link)
 
-                # then follow product-ish pages for deeper discovery
                 to_follow = [l for l in links if ("policy" in l or "wording" in l or "product" in l or "brochure" in l)]
-                # limit how many subpages we follow per seed to be polite
-                to_follow = to_follow[:6]
+                to_follow = to_follow[:6]  # politeness limit
                 for sub in to_follow:
                     print("Following subpage:", sub)
                     try:
@@ -178,7 +195,6 @@ async def crawl_seeds(seeds):
 
             except Exception as e:
                 print("fetch error", seed, e)
-                # fallback: try a plain requests GET to seed and parse HTML
                 try:
                     print("Attempting HTTP fallback for seed:", seed)
                     r = requests.get(seed, headers=DEFAULT_HEADERS, timeout=30, verify=True)
