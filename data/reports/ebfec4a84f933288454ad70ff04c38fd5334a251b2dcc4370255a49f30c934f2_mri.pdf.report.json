@@ -1,0 +1,65 @@
+[
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": "the",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Policy Wordings\nMega Risk Insurance Policy\nThis policy of insurance is made between\n1.\nthe insuring party and     2. the insurer\nThe insuring party has submitted to the insurer a proposal \nrequesting insurance cover to be provided under one or \nmore sections of this policy of insurance and the proposal \nhas been accepted by the insurer. The insurance cover\nprovided by this policy of insurance is only in respect of\nand subject to the wording of those sections to which\nthe schedule has been completed and which have been \nsigned and dated by the insurer.\nSubject to the insuring party having paid "
+  },
+  {
+    "title": "IRDAN125CP0005V01201920.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "2\nInsuring party\nmeans the individual, firm, company, corporation, joint \nventure or combination of the above named as such in \nthis policy of insurance that has entered into this policy of \ninsurance on behalf of itself and any other party named \nas an insured in any section in this policy of insurance.\nLanguage of insurer Communication\nmeans the language in which communication between \nthe insured and the under this policy of insurance shall \ntake place.\nMalfunction\nmeans the failure of a data processing system, software \nprogram or built-in microprocessor to function properly \nor the produc"
+  },
+  {
+    "title": "SECTION 1. OPERATIONAL MATERIAL DAMAGE",
+    "deductible": "8.1.",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.\nIndemnification\n1.1.\t The insurer shall indemnify the insured for any sudden\nphysical loss of or damage to the property insured which \nthe insured could not reasonably have foreseen and which \noccurs at the premises at any time during the period of \ninsurance due to any cause not specifically excluded and \nwhich results in property insured needing to be repaired \nor replaced.\n1.2.\t The indemnity for each item specified in the schedule \nshall not exceed the amount set opposite thereto or any \nlimit of indemnity that may be applicable.\n2.\t\nProperty insured\n2.1.\t The property insured under thi"
+  },
+  {
+    "title": "IRDAN125CP0005V01201920.",
+    "deductible": "specified in the",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "6\nbe liable for the respective deductible specified in the \nschedule, provided that if more than one item is lost or \ndamaged as a result of any one occurrence, the insured \nshall not be called upon to bear more than the highest \nsingle deductible applicable to any lost or damaged item. \nAny loss of or damage to the property insured under this \nsection arising during any one period of 72 consecutive \nhours caused by acts of God of the same type covered \nby this section shall be deemed to have been caused \nby a single occurrence and shall therefore be subject \nto one deductible. For the purpose"
+  },
+  {
+    "title": "SECTION 2. OPERATIONAL BUSINESS INTERRUPTION",
+    "deductible": ", thereby causing an",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.\nIndemnification\n1.1.\t The insurer shall indemnify the insured for a loss of the\ninterest insured unless specifically excluded if at any time \nduring the period of insurance the property insured under \nthe operational material damage section suffers loss or \ndamage indemnifiable under the operational material \ndamage section or which would have been indemnifiable \nunder the operational material damage section but \nfor the application of a deductible, thereby causing an \ninterruption of or interference with the business insured.\nThe indemnity for the loss of interest insured shall be in \nresp"
+  },
+  {
+    "title": "IRDAN125CP0005V01201920.",
+    "deductible": "or monetary",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "8\nearned during the accounting period of twelve months \nmost closely concurrent with any period of insurance, \nas certified by the insured\u2019s auditors, was less than the \nsum insured thereon, a pro rata return of premium not \nexceeding one-third of the premium paid on such sum \ninsured for such period of insurance shall be made in \nrespect of the difference.\nIf any loss or damage has occurred giving rise to any \npayment under this section then the amount of any such \npayment before application of the time excess or monetary \ndeductible shall be added to the gross profit as certified \nby the ins"
+  },
+  {
+    "title": "IRDAN125CP0005V01201920.",
+    "deductible": ". The",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "9\nthe amount payable shall be reduced proportionately. \nIncreased cost of working In respect of increased cost of \nworking, the insurer shall pay the additional expenditure \nnecessarily and reasonably incurred for the sole purpose \nof avoiding or diminishing the reduction in turnover which, \nwithout such expenditure, would have occurred during \nthe indemnity period after expiry of the time excess. The \nindemnity shall not exceed the amount of loss of interest \ninsured thereby avoided. Calculation of rate of gross profit \nand annual turnover In calculating the rate of gross profit \nand annual t"
+  },
+  {
+    "title": "10. Payment of indemnity",
+    "deductible": "means the amount to be deducted from any",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "10.1.\tSubject to clause 10.3 below the insurer shall pay the\ninsured any amount due under this section one month \nafter final determination of the amount due. The insured \nmay, one month after the insurer has been duly notified \nof the loss of interest insured and has acknowledged \nits liability, claim as advance payment(s) the minimum \namount(s) the insurer agrees are payable. The insurer \nshall be entitled to postpone payment beyond the period \nset out in 10.1 above if there are doubts as to the insured\u2019s \nright to receive payment, in which case payment shall not \nbecome due until such time "
+  },
+  {
+    "title": "RESOLUTION OF DISPUTES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Any dispute concerning the interpretation of the terms, \nexclusions or conditions contained herein or in the clauses \nattached and agreed to by both the Insured and the \nCompany to be subject to Indian Law.\nSpecified working Expenses\nmeans any costs incurred for the acquisition of goods, \nraw materials or auxiliaries as well as for supplies unless \nrequired for the upkeep of operations and any costs \nfor packaging, carriage, freight, intermediate storage, \nturnover tax, purchase tax, licence fees and royalties, \ninsofar as such costs are dependent on turnover.\nTurnover\nmeans the amount of mone"
+  }
+]

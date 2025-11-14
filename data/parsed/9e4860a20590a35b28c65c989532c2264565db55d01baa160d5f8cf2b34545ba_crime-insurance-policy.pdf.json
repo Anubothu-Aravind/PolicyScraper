@@ -1,0 +1,485 @@
+[
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wording\n1\nattorneys' fees, court costs or similar legal expenses incurred and paid by the \nInsured or bank in defence shall be considered a loss under this Insuring Clause, \nand the liability of the Company for such loss shall be in addition to any other liability \nunder this Insuring Clause.\nIf, at the Insured's request, the Company waives any rights it may have against the \nbank upon which the instrument was drawn, the Insured and the bank shall assign \nto the Company all of their rights against any other person, firm or corporation."
+  },
+  {
+    "title": "SECTION 2: EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "2.1 \nExclusions Applicable to All Insuring Clauses.\n \nCoverage under this policy does not apply to:\n \n(A) \nloss arising from, or in consequence of any claim, cost or expense of  \n \n \nwhatsoever nature directly or indirectly caused by, resulting from or in \n \n \nconnection with any of the following regardless of any other cause or  \n \n \nevent contributing concurrently or in any other sequence to the loss;\n \n \ndue to war, invasion, acts of foreign enemies, hostilities or warlike  \n \n \noperations (whether war be declared or not), civil war, rebellion,  \n \n \nrevolution, insurrection, civil commotio"
+  },
+  {
+    "title": "INSURING CLAUSE 1 - EMPLOYEE THEFT COVERAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.1 \nThe Company shall be liable for direct losses of Money, Securities or other \n \nproperty caused by Theft or forgery by any identifiable Employee of any  \n \nInsured acting alone or in collusion with others."
+  },
+  {
+    "title": "INSURING CLAUSE 2 - PREMISES COVERAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.2 \nThe Company shall be liable for direct losses caused by the actual  \n \ndestruction, disappearance, wrongful abstraction or Computer Theft of  \n \nMoney or Securities within or from the Premises, Banking Premises or  \n \nnight depository chute or safe maintained by any bank or trust company.\n \nCoverage under this Insuring Clause shall also include:\n \n(A) \nloss of or damage to other property by Robbery or attempt thereat  \n \n \nwithin the Premises,\n \n(B) \nloss of or damage to such property contained within any safe which  \n \n \nresults from Safe Burglary or attempt thereat within the Premises,\n"
+  },
+  {
+    "title": "INSURING CLAUSE 3 - TRANSIT COVERAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.3 \nThe Company shall be liable for direct losses caused by the actual  \n \ndestruction, disappearance or wrongful abstraction of Money or Securities \n \noutside the Premises, while being conveyed by the Insured, a partner of the \n \nInsured, an Employee, an armoured motor vehicle company or any other  \n \nperson duly authorised by the Insured to have custody thereof or while  \n \ntemporarily within the home of a partner of the Insured, an Employee or any \n \nsuch other natural person.\nCoverage under this Insuring Clause shall also include:\n(A) \nloss of or damage to other property by Robbery or att"
+  },
+  {
+    "title": "INSURING CLAUSE 4 - DEPOSITORS FORGERY COVERAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.4 \nThe Company shall be liable for direct losses caused by forgery or alteration \n \nof, on or in any cheque, draft, promissory note, bill of exchange, or similar  \n \nwritten promise, order or direction to pay a sum certain in Money, made or  \n \ndrawn by, or drawn upon the Insured, or made or drawn by one acting as  \n \nagent of the Insured, or purporting to have been made or drawn as set forth \n \nabove, including:\n \n(A) \nany cheque or draft made or drawn in the name of the Insured payable \n \n \nto a fictitious payee and endorsed in the name of the fictitious payee;\n \n(B) \nany cheque or draft p"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai \u2013 400 059. UIN: Crime Insurance - IRDAN125RP0003V02200910."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wording\n2"
+  },
+  {
+    "title": "JOINT INSURED",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "3.2 \nOnly the first named Insured shall have any right to claim, adjust, receive or \n \nenforce payment of any loss and shall be deemed to be the sole agent of the \n \nothers for such purposes and for the giving or receiving of any notice or proof \n \nrequired to be given by the terms of this policy and for the purpose of effecting \n \nor accepting any amendments to or termination of this policy. Each and every \n \nother Insured shall be conclusively deemed to have consented and agreed \n \nthat none of them shall have any direct beneficial interest herein or any right of \n \naction hereunder whatsoev"
+  },
+  {
+    "title": "CONSOLIDATION OR MERGER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "3.3 \nIf, through (1) consolidation or merger with, (2) acquisition of the majority stock \n \nownership of, or (3) acquisition of the assets of some other entity, exposures \n \nare created which are covered by this policy by reason of the description of the \n \nInsured, the Insured shall give the Company written notice of the  \n \nconsolidation, merger or acquisition within thirty (30) days and shall pay the \n \nCompany an additional premium; otherwise coverage as may be provided for \n \nsuch other entity shall be null and void from the date of the consolidation,  \n \nmerger or acquisition."
+  },
+  {
+    "title": "OTHER INSURANCE",
+    "deductible": "of the amount recoverable or received un",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "3.4 \nIf the Insured or any other party at interest in any loss covered by this policy \n \nhas any bond, indemnity or insurance which would cover such loss in whole or \n \nin part in the absence of this policy, then this policy shall be null and void to the \n \nextent of the amount recoverable or received under such other bond,  \n \nindemnity or insurance; but this policy shall cover such loss, subject to its  \n \nexclusions, conditions and other terms, only to the extent of the amount of  \n \nsuch loss in excess of the amount recoverable or received under such other \n \nbond, indemnity or insurance.\n"
+  },
+  {
+    "title": "LIABILITY FOR PRIOR LOSSES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "3.5 \nThe liability of the Company for loss sustained prior to (1) the effective date of \n \nthis policy, or (2) the effective date additional Insureds or coverages are  \n \nsubsequently added, is subject to the following:\n \n(A) \nthe Insured or some predecessor in interest of the Insured carried  \n \n \nsome other bond or policy (other than a fidelity bond or policy, with  \n \n \nrespect to such loss under Insuring Clause 4) which, at the time such  \n \n \nloss was sustained, afforded on or at the Premises at which the loss  \n \n \nwas sustained or on the person or persons (whether Employee of the \n \n \nI"
+  },
+  {
+    "title": "ALTERATION AND ASSIGNMENT",
+    "deductible": "of the amount recovered or received by t",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "3.6 \nNo change in, modification of, or assignment of interest under this policy shall \n \nbe effective except when made by written endorsement which signed by an \n \nauthorised employee of HDFC ERGO General Insurance Company Limited.\n \n \ncharacter;\n \n(D) \nloss resulting directly or indirectly from trading whether or not in the  \n \n \nname of the Insured and whether or not in a genuine or fictitious  \n \n \naccount; or\n \n(E) \nloss or that part of any loss the proof of which involves in any manner (1) \n \n \na profit and loss computation or comparison or (2) a comparison of  \n \n \ninventory records with"
+  },
+  {
+    "title": "OWNERSHIP",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "3.1 \nThe Company's liability under this policy shall apply only to Money,  \n \nSecurities and other property owned by the Insured for which the Insured is \n \nlegally liable or held by the Insured in any capacity whether or not the Insured \n \nis liable; provided that the Company shall not be liable for damage to the  \n \nPremises unless the Insured is the owner or is liable for such damage."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai \u2013 400 059. UIN: Crime Insurance - IRDAN125RP0003V02200910."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wording\n3\n \nSpecialty Insurance Department"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited, 6th Floor, Leela Business",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Park, Andheri Kurla Road, Andheri East,  Mumbai - 400 059,  India.\n \nSuch notice shall be effective on the date of receipt by the Company at such \n \naddress."
+  },
+  {
+    "title": "VALUATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4.6 \nIn no event shall the Company be liable for more than:\n \n(A) \nthe actual market value of lost, damaged or destroyed Securities at the \n \n \nclose of business on the business day immediately preceding the day on \n \n \nwhich the loss is discovered, or for more than the actual cost of replacing \n \n \nthe Securities, whichever is less;\n \n \n(B) \nthe cost of blank books, pages, tapes or other blank materials to replace \n \n \nlost or damaged books of account or other records;\n \n(C) \nthe actual cash value at the time of loss of other lost, damaged or  \n \n \ndestroyed property or for more than the actu"
+  },
+  {
+    "title": "RECOVERIES",
+    "deductible": ", the Insured shall be fully",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4.7 \nIf the Insured shall sustain any loss covered by this policy, then all recoveries \n \n(except from sureties, insurance, reinsurance or indemnity taken by or for the \n \nbenefit of the Company) made after the loss, less the actual cost of recovery, \n \nshall be distributed as follows:\n \n(A) \nif the loss is not subject to a deductible, the Insured shall be fully  \n \n \nreimbursed from such recoveries for the amount of the loss which  \n \n \nexceeds the amount of coverage provided by this policy and any  \n \n \nbalance shall be applied to the reimbursement of the Company;\n \n(B) \nif the loss is subje"
+  },
+  {
+    "title": "SUBROGATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4.8 \nIn the event of any payment under this policy, the Company shall be  \n \nsubrogated, to the extent of such payment, to all the Insured's rights of  \n \nrecovery and the Insured shall execute all papers required and shall do  \n \neverything necessary to secure and preserve such rights, including the  \n \nexecution of such documents necessary to enable the Company to effectively \n \nbring suit in the name of the Insured."
+  },
+  {
+    "title": "KNOWLEDGE OF PRIOR THEFT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "4.9 \nFor the purposes of this policy and the exclusions contained in Section 2.2(B), \n \nknowledge possessed by the Insured means knowledge possessed by a  \n \npartner, director or an elected or appointed officer who is aware of the  \n \nemployment of a person and that person's prior acts of Theft, fraud or  \n \ndishonesty.\n \nAt the sole discretion of the Company, coverage may be extended to any  \n \nindividual upon written application by the Insured and consent given by the \n \nCompany."
+  },
+  {
+    "title": "EMPLOYEE BENEFIT PLANS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "5.1 \nThe Employee Benefit Plans listed in item 5 of the Schedule are included as \n \nInsureds under Insuring Clause 1. With respect to losses sustained or  \n \ndiscovered by any such Plan, Insuring Clause 1 as contained in Section 1.1 is \n \ndeleted and replaced by the following:\n \n\" The Company shall be liable for direct losses for Money, Securities or other \n \nproperty caused by any fraudulent or dishonest act or acts committed by any \n \nEmployee of any Insured acting alone or in collusion with others.\"\n \nFor the purposes of Employee Benefit Plan Coverage, the words \"sixty days\" \n \nare deleted "
+  },
+  {
+    "title": "LIMITS OF LIABILITY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4.1   (A)   The Company's maximum liability for all loss shall not exceed the  \n \n \nLimit(s) of Liability as set forth in Item 2 of the Schedule for this policy, \n \n \nregardless of the number of Insureds sustaining the loss.\n \n(B) \nAll loss resulting from a single act or any number of acts of the same  \n \n \nEmployee will be treated as a single loss and the applicable Limit  \n \n \nof Liability of this policy will apply."
+  },
+  {
+    "title": "NON-ACCUMULATION OF LIABILITY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4.2 \n(A) \nWhen there is more than one Insured, the maximum liability of the  \n \n \nCompany for loss sustained by one or all Insureds shall not exceed the \n \n \namount for which the Company would be liable if all losses were  \n \n \nsustained by any one Insured.\n \n(B) \nRegardless of the number of years this policy remains in effect and the \n \n \ntotal premium amounts due or paid, the amount the Company shall pay \n \n \nfor any loss shall not be cumulative from year to year or from Policy  \n \n \nPeriod to Policy Period."
+  },
+  {
+    "title": "DEDUCTIBLE - NO SUPERSEDED INSURANCE CARRIER INVOLVED",
+    "deductible": "shall apply to",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4.3 \nFrom each loss sustained or discovered by the Insured after deducting all  \n \nrecoveries (except insurance or sureties held by the Insured or the Company \n \nfor their benefit) on account thereof made prior to payment shall be deducted \n \nthe amount(s) specified in Item 3 of the Schedule. No deductible shall apply to \n \nloss sustained or discovered by any Employee Benefit Plans unless a  \n \ndeductible amount is specified for such Plans in Item 3 of the Schedule."
+  },
+  {
+    "title": "DEDUCTIBLE - SUPERSEDED INSURANCE CARRIER INVOLVED",
+    "deductible": "amount, the deductible amount specified",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4.4 \nShould any loss be discovered which is partly recoverable under this policy  \n \nand partly recoverable under a prior bond or policy containing a deductible  \n \namount, the deductible amount specified in Item 3 of the Schedule shall be  \n \nreduced by the deductible amount applied to such loss by the superseded  \n \ninsurance carrier."
+  },
+  {
+    "title": "PROCEDURES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4.5 \nAs a condition precedent to liability, upon knowledge or discovery by a  \n \nproprietor, partner or officer of any Insured of loss or of an occurrence which \n \nmay become a loss, written notice shall be given to the Company at the  \n \nearliest practicable moment, and in no event later than sixty (60) days after  \n \nsuch discovery. Within four (4) months after such discovery the Insured shall \n \nfurnish to the Company affirmative proof of loss with full particulars. The proof \n \nof loss shall be accompanied by any and all documents relevant to such loss, \n \nincluding but not limited to inte"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited, 6th Floor, Leela Business",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Park, Andheri Kurla Road, Andheri East,  Mumbai - 400 059,  India.\n \nAll other notices:"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai \u2013 400 059. UIN: Crime Insurance - IRDAN125RP0003V02200910."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wording\n4"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East),",
+    "deductible": "of the amount of coverage required by su",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai \u2013 400 059. UIN: Crime Insurance - IRDAN125RP0003V02200910. \n \nare substituted in their place.\n5.2 \nIn compliance with Title 1 of the U.S. Employee Retirement Income Security \n \nAct of 1974, as amended, or similar provision of any national, state, territory or \n \nlocal statutory or common law any where in the world, payment by the  \n \nCompany under this policy to the first named Insured shall be held by such \n \nInsured for the use and benefit of the Employee Benefit Plans sustaining such \n \nloss. If such payment is in excess of the amount of coverage required by such \n \nAct for said Plan"
+  },
+  {
+    "title": "TERMINATION AS TO ANY EMPLOYEE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6.1 \nThis policy shall terminate as to any Employee (1) immediately upon  \n \ndiscovery by the Insured, any partner of the Insured or any elected or  \n \nappointed officer of the Insured (not in collusion with such Employee) of any \n \nact of Theft or other fraudulent or dishonest act by the Employee, without  \n \nprejudice to the loss of any property then being conveyed by the Employee \n \noutside the Premises, or (2) twenty (20) days after the receipt by the Insured \n \nof a written notice of termination from the Company, whichever first occurs."
+  },
+  {
+    "title": "TERMINATION OF POLICY OR INSURING CLAUSE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6.2 \nThe Insured can cancel the policy at any time during the policy term, by \n \ninforming the Company.  The Company can cancel the policy only on the \n \ngrounds of established fraud, by giving minimum notice of 7 days to the \n \nInsured. The Company shall refund proportion premium for unexpired policy \n \nperiod subject to no claim(s) made during the policy period."
+  },
+  {
+    "title": "TERMINATION OF PRIOR BONDS OR POLICIES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6.3 \nThe taking effect of this policy shall terminate, if not already terminated, all  \n \nprevious liability of the Company to the Insured under bonds or policies  \n \nspecified in Item 8 of the Schedule of this policy. By reason of the issuance of \n \nthis policy, the prior bonds or policies shall not cover any loss not discovered \n \nand notified to the Company prior to the effective date of this policy as  \n \nspecified in Item 6 of the Schedule."
+  },
+  {
+    "title": "SECTION 7.: POLICY DEFINITIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "When used in this policy:\nBanking Premises means the interior of that portion of any building or buildings \noccupied by any bank, trust company or similar recognised place of safe deposit.\nComputer Theft means the intentional taking of Money or Securities through use \nof a computer located at the Insured's Premises or elsewhere.\nEmployee means one or more persons while in the regular service of any Insured in \nthe ordinary course of the Insured's business during the term of this policy and \nwhom any Insured compensates by salary, wages and/or commissions and has the \nright to govern and direct"
+  },
+  {
+    "title": "SECTION 8.: TERRITORY, CHOICE OF LAW AND JURISDICTION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Coverage shall extend only to the Territory as listed in Item 4.of the Schedule for this \npolicy. \nThe construction, interpretation, meaning and enforcement of the provisions of this \npolicy shall be determined in accordance with and governed by the laws of the \nRepublic of India. Except as set forth in Section 9 of this policy, any disputes relating \nto the construction, interpretation, meaning and enforcement of this policy shall be \nsubmitted to the exclusive jurisdiction of the Indian courts."
+  },
+  {
+    "title": "SECTION9.: GRIEVANCE REDRESSAL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Any Insured who has a grievance against the Company arising under, out of, in \nconnection with or in relation to this Policy, or to its existence, validity or termination, \nor to the determination of any amounts payable under this Policy, may, personally or \nthrough their legal heirs, make a complaint in writing to the Indian Insurance \nOmbudsman in accordance with the procedure contained in The Redressal of \nPublic Grievance Rules, 1998, as amended. Provided that, in accordance with Rule \n16(2) of the Ombudsman Rules, any compensation awarded by the Ombudsman \nwill be limited to the lower of "
+  },
+  {
+    "title": "SECTION 10.: ARBITRATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The parties to the contract may mutually agree and enter into a separate Arbitration \nAgreement to settle any and all disputes in relation to this policy.  \nArbitration shall be conducted under and in accordance with the provisions of the \nArbitration and Conciliation Act, 199"
+  },
+  {
+    "title": "SECTION 11.:  FRAUD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(A) \nAny person who, knowingly and with intent to defraud the Company or other\n \nperson, files a proposal for insurance containing any false information, or\n \nconceals for the purpose of misleading, information concerning any fact\n \nmaterial thereto, commits a fraudulent insuranceact which will render the\n \npolicy voidable at the Company's sole discretion and result in a denial of\n \n insurance benefits. \n(B) \nIf a claim is in any respect fraudulent, or if any fraudulent or false plan,\n \nspecification, estimate, deed, book, account entry, voucher, invoice or other\n \ndocument, proof or explanati"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wording\n5\n \noccasioned by or through the procurement or with the knowledge or\n \nconnivance of the Insured, policyholder, beneficiary, claimant or other person,\n \nthen all benefits under this policy are forfeited."
+  },
+  {
+    "title": "SECTION 12.:  CONFORMITY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The provisions of this Policy shall be read subject to the provisions of any statute \ngoverning its construction. If the provisions of this policy are inconsistent with such \nstatute then the provisions of this policy shall be deemed to be amended so as to"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai \u2013 400 059. UIN: Crime Insurance - IRDAN125RP0003V02200910. \nI. Our Grievance Redressal Officer \nIf you have a grievance that you wish us to redress, you may contact us with the details of your grievance through:\nOur Grievance Redressal O\ufb00icer\n\u2022 Call Centre - 120 6234 6234 / 022-6234 6234\n\u2022 Emails \u2013 grievance@hdfcergo.com  \n\u2022 Contact Details for Senior Citizens: 022 6242 6226 | Email ID: seniorcitizen@hdfcergo.com Designated Grievance O\ufb00icer in each branch.\n\u2022 Company Website \u2013 www.hdfcergo.com \n\u2022 Courier - Any of our Branch o\ufb00ice or corporate o\ufb00ice\nYou may also approach the Complaint & G"
+  },
+  {
+    "title": "HDFC ERGO General Insurance The Company Ltd.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301,3rd Floor, Eastern Business District (Magnet Mall), LBS Marg, Bhandup (West), Mumbai \u2013 400078, Maharashtra\nIn case you are not satis\ufb01ed with the response / resolution given / o\ufb00ered by the C&G cell, then you can write to the Chief Grievance O\ufb00icer of the Company at the following \naddress \nTo the Chief Grievance O\ufb00icer"
+  },
+  {
+    "title": "HDFC ERGO General Insurance The Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District (Magnet Mall), LBS Marg, Bhandup (West), Mumbai - 400078, Maharashtra\ne-mail: cgo@hdfcergo.com\nGrievance may also be lodged at IRDAI Integrated Grievance Management system-  https://bimabharosa.irdai.gov.in  \nYou may also approach the nearest Insurance Ombudsman for resolution, if your grievance is not redressed by the Company. The contact details of Ombudsman o\ufb03ces \nare below if your grievance pertains to: \n\u2022 Insurance claim that has been rejected or dispute of a claim on legal construction of the policy \n\u2022 Delay in settlement of claim \n\u2022 Dispute wi"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Co. Ltd.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Stellar IT Park, Tower-1,\n5th Floor, C - 25, Noida, \nSector 62, 201301, Uttar Pradesh\nEmail: healthclaims@hdfcergo.com"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Co. Ltd.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Stellar IT Park, Tower-1, 5th Floor, C - 25, Noida, Sector 62, \n201301, Uttar Pradesh,\nGlobal Toll Free No : +800 08250825 \n(accessible from locations outside India only) \nLandline no (Chargeable) : 0120-4507250 \nEmail: travelclaims@hdfcergo.com\nEmail: healthclaims@hdfcergo.com\ncomply with the statute."
+  },
+  {
+    "title": "SECTION 10.: ARBITRATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The parties to the contract may mutually agree and enter into a separate Arbitration \nAgreement to settle any and all disputes in relation to this policy.  \nArbitration shall be conducted under and in accordance with the provisions of the \nArbitration and Conciliation Act, 199"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wording\n6"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai \u2013 400 059. UIN: Crime Insurance - IRDAN125RP0003V02200910. \nOf\ufb01ce Details"
+  },
+  {
+    "title": "AHMEDABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, \nJeevan Prakash Building, 6th \ufb02oor, Tilak Marg, Relief Road, Ahmedabad \u2013 380 001. \nTel.: 079 - 25501201/02 \nEmail: bimalokpal.ahmedabad@cioins.co.in \nGujarat,\nDadra & Nagar Haveli,\nDaman and Diu."
+  },
+  {
+    "title": "BENGALURU",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, Jeevan Soudha Building, PID No. 57-27-N-19 \nGround Floor, 19/19, 24th Main Road, JP Nagar, Ist Phase, Bengaluru \u2013 560 078. \nTel.: 080 - 26652048 / 26652049 \nEmail: bimalokpal.bengaluru@cioins.co.in \nKarnataka."
+  },
+  {
+    "title": "BHOPAL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, 62, Forest park, \nBhubneshwar \u2013 751 009. \nTel.: 0674 - 2596461 /2596455 \nFax: 0674 - 2596429 \nEmail: bimalokpal.ahmedabad@cioins.co.in \nMadhya Pradesh\nChattisgarh."
+  },
+  {
+    "title": "BHUBANESHWAR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, 62, Forest park, Bhubneshwar \u2013 751 009.\nTel.: 0674 - 2596461 /2596455\nFax: 0674 - 2596429\nEmail: bimalokpal.bhubaneswar@ecoi.co.in\nOrissa."
+  },
+  {
+    "title": "CHANDIGARH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, \nJeevan Deep Building SCO 20-27, \nGround Floor Sector- 17 A, \nChandigarh \u2013 160 017. Tel.: 0172-2706468 \nEmail: bimalokpal.chandigarh@cioins.co.in \nStates of Punjab, Haryana (excluding 4 districts viz Gurugram, Faridabad, \nSonepat and Bahadurgarh), Himachal Pradesh, Union Territories of Jammu & \nKashmir, Ladakh and Chandigarh."
+  },
+  {
+    "title": "CHENNAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman,\nFatima Akhtar Court, 4th Floor, 453, Anna Salai, Teynampet,"
+  },
+  {
+    "title": "CHENNAI \u2013 600 018.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 044 - 24333668 / 24333678 \nFax: 044 - 24333664 \nEmail: bimalokpal.chandigarh@cioins.co.in\nState of Tamil Nadu and Union Territories - Puducherry Town and Karaikal \n(which are part of Union Terriority of Puducherry)."
+  },
+  {
+    "title": "DELHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, 2/2 A, Universal Insurance Building,\nAsaf Ali Road, New Delhi \u2013 110 002. \nTel.: 011 - 23237539 \nEmail: bimalokpal.delhi@cioins.co.in \nDelhi, 4 Districts of Haryana viz. Gurugram, Faridabad, Sonepat and \nBahudurgarh"
+  },
+  {
+    "title": "GUWAHATI ,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, JeevanNivesh, 5th Floor, \nNr. Panbazar over bridge, S.S. Road, Guwahati \u2013 781001(ASSAM). \nTel.: 0361 - 2632204 / 2602205 \nEmail: bimalokpal.guwahati@cioins.co.in \nAssam,\nMeghalaya,\nManipur,\nMizoram,\nArunachal Pradesh,\nNagaland and Tripura."
+  },
+  {
+    "title": "HYDERABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, 6-2-46, 1st \ufb02oor, \"Moin Court\", \nLane Opp. Saleem Function Palace, A. C. Guards, \nLakdi-Ka-Pool, Hyderabad - 500 004. \nTel.: 040 - 23312122 \nEmail: bimalokpal.hyderabad@ecoi.co.in\nState of Andhra Pradesh, Telangana and Yanam - a part of Union Territory of \nPuducherry."
+  },
+  {
+    "title": "JAIPUR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, JeevanNidhi \u2013 II Bldg., Gr. Floor, \nBhawani Singh Marg, Jaipur - 302 005. \nTel.: 0141 -\u2013 2740363/2740798 \nEmail: bimalokpal.jaipur@cioins.co.in \nRajasthan.\n\n7"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wording"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai \u2013 400 059. UIN: Crime Insurance - IRDAN125RP0003V02200910. \nOf\ufb01ce Details"
+  },
+  {
+    "title": "KOCHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, 10th Floor, Jeevan Prakash,LIC Building, \nOpp to Maharaja's College Ground,M.G.Road, Kochi - 682 011. \nTel.: 0484 - 2358759 \nEmail: bimalokpal.ernakulam@cioins.co.in \nStates of Kerala and Union Territory of (a) Lakshadweep (b) Mahe - a part of \nUnion Territory of Puducherry."
+  },
+  {
+    "title": "KOLKATA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, Hindustan Bldg. Annexe, 4th Floor, \n4, C.R. Avenue, KOLKATA - 700 072. \nTel.: 033 - 22124339 \nFax : 033 - 22124341 \nEmail: bimalokpal.kolkata@cioins.co.in \nStates of West Bengal, Sikkim and Union Territories of Andaman & Nicobar \nIslands."
+  },
+  {
+    "title": "LUCKNOW",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, 6th Floor, JeevanBhawan, Phase-II, \nNawal Kishore Road, Hazratganj, Lucknow - 226 001. \nTel.: 0522 - 4002082 / 3500613 \nEmail: bimalokpal.lucknow@cioins.co.in \nDistricts of Uttar Pradesh : \nLaitpur, Jhansi, Mahoba, Hamirpur, Banda, Chitrakoot, Allahabad, Mirzapur, \nSonbhabdra, Fatehpur, Pratapgarh, Jaunpur,Varanasi, Gazipur, Jalaun, \nKanpur, Lucknow, Unnao, Sitapur, Lakhimpur, Bahraich, Barabanki, \nRaebareli, Sravasti, Gonda, Faizabad, Amethi, Kaushambi, Balrampur, Basti, \nAmbedkarnagar, Sultanpur, Maharajgang, Santkabirnagar, Azamgarh, \nKushinagar, Gorkhpur, "
+  },
+  {
+    "title": "MUMBAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, \n3rd Floor, JeevanSevaAnnexe, S. V. Road, Santacruz (W), \nMumbai - 400 054. \nTel.: 022 - 69038800/27/29/31/32/33 \nEmail: bimalokpal.mumbai@cioins.co.in \nGoa,\nMumbai Metropolitan Region\nexcluding Navi Mumbai & Thane."
+  },
+  {
+    "title": "NOIDA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, BhagwanSahai Palace \n4th Floor, Main Road, Naya Bans, Sector 15, \nDistt: GautamBuddh Nagar, U.P-201301. \nTel.: 0120- 2514252 / 2514253 \nEmail: bimalokpal.noida@cioins.co.in \nState of Uttaranchal and the following Districts of Uttar Pradesh:\nAgra, Aligarh, Bagpat, Bareilly, Bijnor, Budaun, Bulandshehar, Etah, Kanooj, \nMainpuri, Mathura, Meerut, Moradabad, Muza\ufb00arnagar, Oraiyya, Pilibhit, \nEtawah, Farrukhabad, Firozbad, Gautambodhanagar, Ghaziabad, Hardoi, \nShahjahanpur, Hapur, Shamli, Rampur, Kashganj, Sambhal, Amroha, \nHathras, Kanshiramnagar, Saharanpur."
+  },
+  {
+    "title": "PATNA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, \n2nd Floor, Lalit Bhawan, Bailey Road, Patna 800 001. \nTel.: 0612-2547068 \nEmail: bimalokpal.patna@cioins.co.in \nBihar,\nJharkhand."
+  },
+  {
+    "title": "PUNE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Of\ufb01ce of the Insurance Ombudsman, JeevanDarshan Bldg., 3rd Floor, \nC.T.S. No.s. 195 to 198, N.C. Kelkar Road, Narayan Peth, Pune \u2013 411 030. \nTel.: 020- 24471175 \nEmail: bimalokpal.pune@cioins.co.in \nMaharashtra,\nArea of Navi Mumbai and Thane\nexcluding Mumbai Metropolitan Region."
+  }
+]

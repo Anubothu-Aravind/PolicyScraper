@@ -1,0 +1,23 @@
+[
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": "This insurance shall only pay the excess",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings\nShip Repairers\u2019 Liability Insurance Clauses\n1\t\nName of Insured\n2\t\nLocation\tof\t\nPremises and/or\tYard\n3\t\nPeriod: 12 Months From ..............To. ............... midnight\n4\t\nPremium:\n\t\nThe minimum and deposit Premium shall be ................ \nsubject to adjustment at expiry of the period of this \ninsurance at % on gross charges of the Insured, such \nadjustment to be paid within 90-days.\n5\t\nGross Charges:\n\t\nGross Charges shall be defined as total charges (collected \nor uncollected) made by the Insured as ship repairers \nduring the period of this insurance. No deduction shall \nbe "
+  },
+  {
+    "title": "EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Notwithstanding anything contained herein to the contrary, this \ninsurance shall not cover any liability:\ni.\t\nfor Death or Personal Injury or any claim arising directly or \nindirectly under Workmen\u2019s Compensation or Employers\u2019 \nLiability Acts or any other statutory or Common Law \nLiability in respect of loss of life, bodily injury to or illness \nof any workman or other person employed in any capacity \nwhatsoever by the Insured, his agents or sub-contractors \nwhen such loss of life, bodily injury or illness arises out of \nor in the course of the employment of such workman or \nother person;\nii.\t"
+  },
+  {
+    "title": "GENERAL CONDITIONS:",
+    "deductible": "of the amount which would be recoverable",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Inspection of Books: The Insured shall keep a complete \nand accurate record of all gross charges for operations \ncovered hereunder and shall make these records available to \nUnderwriters upon request.\nNotice of Claim: In the event of any occurrence which may \nresult in a claim under this insurance the Insured shall give \nprompt written notice to the Underwriters hereon, shall forward \nevery summons or process (or copies thereof) served upon the \nInsured and shall keep Underwriters fully advised.\nClaim Control: Underwriters shall at any time be entitled \n(but not obliged) to control or take ove"
+  }
+]

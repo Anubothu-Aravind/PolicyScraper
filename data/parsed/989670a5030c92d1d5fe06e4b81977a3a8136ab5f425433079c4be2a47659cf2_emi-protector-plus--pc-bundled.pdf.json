@@ -1,0 +1,30 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: EMI Protector Plus - Private \nCar Package Policy - Bundled - IRDAN146RPMT0041V01202425/A0051V01202425"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings Add On Covers"
+  },
+  {
+    "title": "EMI PROTECTOR PLUS",
+    "deductible": "of 1 day which means that calculation of",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Definition:\nEMI: means Equated monthly instalment amount mentioned \nin amortization chart of original loan document pertaining to \ninsured vehicle.\nCoverage: In consideration of the payment of additional \npremium paid by the Insured and realized by the Company \nnot withstanding anything to the contrary contained in the \nPolicy, it is hereby understood & agreed that for the purpose \nof this policy Company will pay as per the option mentioned \nin the policy schedule.\n1.\n50% of one EMI\nIf the insured vehicle is kept in garage for accidental\nrepairs for more than 6 days, Company will pay an amount"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "NOW THIS POLICY OF INSURANCE WITNESSETH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "That subject to the terms, exceptions, exclusions, provisions and conditions contained herein or endorsed hereon, \nthe Company will, at its own option, by payment or reinstatement or repair indemnify the Insured against unforeseen \nand sudden physical damage by any cause not hereinafter excluded, to any insured Property specified in the \nattached Schedule(s) whilst at the location mentioned therein necessitating its immediate repair or replacement. \nThis Policy shall apply to the insured items whether they are at work or at rest, or being dismantled for the purpose \nof cleaning or overhauling,"
+  },
+  {
+    "title": "EXCEPTIONS",
+    "deductible": "stated in the Schedule to be borne by th",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The company shall not be liable under this policy in respect of\na)\t\nthe Excess stated in the Schedule to be borne by the Insured in any one occurrence; if more than one item \nis lost or damaged in one occurrence, the Insured shall not, however, be called upon to bear more than the \nhighest single Excess applicable to such items;\nb)\t\nloss or damage due to electrical or Mechanical breakdown, failure, breakage or derangement, \nfreezing of coolant or other fluid, defective lubrication or lack of oil or coolant, but if as a consequence of \nsuch breakdown or derangement, an accident occurs causing e"
+  },
+  {
+    "title": "IRDAN146RPEN0073V01202526.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "f)\t\nloss of or damage to hull and machinery of waterborne vessels or craft; however this exclusion shall not apply \nto Contractors\u2019 Plant and Machinery mounted on water borne vessels or crafts for the purpose of use for \ncontract work.\ng)\t\nloss or damage due to total or partial immersion in tidal waters;\nh)\t\nloss or damage whilst in transit, from one location to another location. Any sort of liability whether bodily \ninjury fatal or non fatal or damage to property will not be payable while Contractors\u2019 Plant & Machinery\u2019s are \non Public Roads;\ni)\t\nloss or damage as a direct consequence of the "
+  },
+  {
+    "title": "TERRORISM DAMAGE EXCLUSION WARRANTY\u2013",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "This Policy excludes loss, damage, cost or expense of whatsoever nature directly or indirectly caused by, \nresulting from or in connection with any act of terrorism regardless of any other cause or event contributing \nconcurrently or in any other sequence to the loss. \n\t\nFor the purpose of this exclusion, an act of terrorism means an act or series of acts, including but not limited \nto the use of force or violence and/or the threat thereof, of any person or group(s) of persons, whether acting \nalone or on behalf of or in connection with any organisation(s) or government(s), or unlawful associa"
+  }
+]

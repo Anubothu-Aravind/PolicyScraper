@@ -1,0 +1,44 @@
+[
+  {
+    "title": "DEDUCTIBLE",
+    "deductible": "stated in the schedule.",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Company shall not be liable for each and every claim \nunder Section -I (loss of or damage to the vehicle insured) of \nthis Policy in respect of the deductible stated in the schedule."
+  },
+  {
+    "title": "DEDUCTIBLE",
+    "deductible": "in addition to any amount which the insu",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "(Applicable to all Commercial Vehicles excluding taxis and \nmotorized two wheelers carrying passengers for hire or \nreward.)\n\t\nNotwithstanding anything to the contrary contained herein \nit is hereby understood and agreed that\n\t\na.\t\nSpecial Exclusions\n\t\n\t\nexcept in the case of Total Loss of the vehicle insured, \nthe insurer shall not be liable under Section I of the \npolicy for loss of or damage to lampstyres tubes \nmudguards bonnet side parts bumpers and paint \nwork.\n\t\nb.\t\nCompulsory Deductible\n\t\n\t\nin addition to any amount which the insured may be \nrequired to bear under para (a) above the in"
+  },
+  {
+    "title": "19.\t IMT. 22. COMPULSORY DEDUCTIBLE",
+    "deductible": "in addition to the compulsory deductible",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(Applicable to Private Cars, three wheelers rated as private \ncars, all motorized two wheelers, taxis, private car type \nvehicle plying for public/private hire, private type taxi let \nout on private hire)\n\t\nNotwithstanding anything to the contrary contained in \nthe policy it is hereby understood and agreed that the \ninsured shall bear under Section 1 of the policy in respect \nof each and every event (including event giving rise to a \ntotal loss/constructive total loss) the first Rs. * (or any less \nexpenditure which may be incurred) of any expenditure \nfor which provision has been made under t"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": "other",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Miscellaneous & Special \nType of Vehicles Package Policy - Annual - IRDAN125RP0013V01202122.\nthe policy. It is further understood and agreed that in \nrespect of paint work for the damaged portion only \n(as referred to above) shall also be as per schedule \nprovided in Section 1 of the policy.\n\t\nb.\t\nIn addition to any amount which the insured may be \nrequired to bear under para (a) above, the insured \nshall also bear 50% of the assessedloss in respect \nof each and every claim under this Endorsement.\n\t\nc.\t\n"
+  },
+  {
+    "title": "42.\t IMT. 49. Exclusion of Liability to the Public Working Risk",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "(Except as required by the Motor Vehicle Act, 1988)\n\t\nIt is hereby declared and agreed that except so far as is \nnecessary to meet the requirements of the Motor Vehicles \nAct, 1988, the Insurer shall be under no liability under \nSection II of this Policy in respect of liability incurred by \nthe Insured arising out of the operation as a tool of the \nMotor Vehicle or of plant forming part of the Motor Vehicle \nor attached thereto."
+  },
+  {
+    "title": "45.\t IMT 52. Exclusion of damage while in use as a Tool of",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Trade\n\t\nIt is hereby declared and agreed that except so far as is \nnecessary to meet the requirements of the Motor Vehicles \nAct, 1988 the insurer shall be under no liability under \nSection II of this Policy in respect of liability incurred by the \ninsured arising out of the operation as a tool of the motor \nvehicle or of plant forming part of the vehicle insured or \nattached thereto."
+  }
+]

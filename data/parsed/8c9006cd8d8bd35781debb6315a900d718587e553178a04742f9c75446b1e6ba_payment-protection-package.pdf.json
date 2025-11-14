@@ -1,0 +1,3026 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122."
+  },
+  {
+    "title": "PREAMBLE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy is effective when the accompanying Policy \nSchedule is signed by an authorized representative of HDFC"
+  },
+  {
+    "title": "ERGO General Insurance Company Limited.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy wording, Policy Schedule and any Endorsements \nthereto shall be considered as one document and any word \nor expression to which a specific meaning has been attached \nin any of them shall bear such meaning throughout unless \nspecified otherwise. \nWords and phrases that appear in bold letters have, for the \npurpose of this Policy, a special meaning which can be read \nin the Definitions section."
+  },
+  {
+    "title": "INSURING CLAUSE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "In consideration of payment of the premium and receipt thereof \nby the Company and in reliance upon the information provided \nin the proposal form and including any statements made by \nInsured to the Company, the Company hereby agrees, subject \nto the terms, conditions and exclusions herein contained or \nendorsed or otherwise expressed hereon, to indemnify the \nInsured to the extent and in the manner specified herein, \nagainst any loss/damage due to operation of any of the Insured \nEvent as opted by the Insured and listed in the Policy Schedule \nthat occurs during the Policy Period and reporte"
+  },
+  {
+    "title": "GENERAL DEFINITIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(These general definitions are not applicable to Add on Covers)"
+  },
+  {
+    "title": "1.\t \u201cAccident or Accidental\u201d means a sudden, unforeseen",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "and involuntary event caused by external, visible and \n\t\nviolent means. (This definition is not applicable on Add \n\t\non Covers)"
+  },
+  {
+    "title": "2.\t \u201cAccount Holder\u201d means any and all persons designated",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "and authorized to transact business on behalf of an \n\t\naccount."
+  },
+  {
+    "title": "3.\t \u201cAnnual Aggregate Limit\u201d means the maximum liability",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "payable in a single Policy Year."
+  },
+  {
+    "title": "4.\t \u201cATM\u201d means Automated Teller Machines of banks which",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "have been approved by Reserve Bank of India."
+  },
+  {
+    "title": "5.\t \u201cBank\u201d means an entity licensed as a Bank under Banking",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Regulation Act, 1949 and any subsequent amendments \n\t\nthereof and permitted by the Reserve Bank of India to \n\t\ncarry on banking business in India."
+  },
+  {
+    "title": "6.\t \u201cBenefit\u201d means the payment or entitlement available in",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "accordance with the Policy."
+  },
+  {
+    "title": "7.\t \u201cCard\u201d means any Credit Card/ Debit Card /ATM or any",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "similar payment cards issued by Financial Institution / \n\t\nBank."
+  },
+  {
+    "title": "8.\t \u201cCardholders\u201d means such person\u2019s to whom card has",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "been issued by the Financial Institution /Bank."
+  },
+  {
+    "title": "9.\t \u201cCompany/Insurer\u201d means HDFC ERGO General",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Insurance Company Limited."
+  },
+  {
+    "title": "10.\t \u201cCondition Precedent\u201d shall mean a policy term or",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "condition upon which the Insurer\u2019s liability under the policy \n\t\nare subject to."
+  },
+  {
+    "title": "11.\t \u201cContribution\u201d is essentially the right of an insurer to call",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "upon other Insurers liable to the \u201csame Insured to share \n\t\nthe cost of an indemnity claim on a rateable proportion of \n\t\nSum Insured. This clause shall not apply to any Benefit \n\t\noffered on fixed benefit basis."
+  },
+  {
+    "title": "12.\t \u201cDeductible or Excess\u201d means an amount stated in the",
+    "deductible": "is a cost",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Schedule as a percentage, or a fixed amount, which will \n\t\nbe deducted from the Compensation for a specific benefit, \n\t\nor a period of time for which the Company will not pay \n\t\nany benefit. A deductible is a cost-sharing requirement \n\t\nunder an insurance policy that provides that the Insurer \n\t\nwill not be liable for a specified amount or percentage, of \n\t\nthe covered expenses, which will apply before any benefits \n\t\nare payable by the Insurer. A deductible does not reduce \n\t\nthe sum insured."
+  },
+  {
+    "title": "13.\t \u201cDigital Payment Wallet\u201d means any online account in",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "which one deposits or earns money which is denominated \n\t\nin a specific currency that can be spent in a (online) store."
+  },
+  {
+    "title": "14.\t \u201cEDC\u201d means Electronic Data Capturing Machine used",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "for Card Transactions."
+  },
+  {
+    "title": "15.\t \u201cEmployee\u201d means any person employed under a contract",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "of service or apprenticeship during or prior to \n\t\ncommencement of the Period of Insurance and for the \n\t\navoidance of doubt shall include agents or consultants or \n\t\nsub-contractors or independent professional advisors of \n\t\nthe Insured."
+  },
+  {
+    "title": "16.\t \u201cFinancial Institution\u201d means any financial body authorized",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "and regulated directly or through any entity authorized by \n\t\nCentral Government, State Government or Reserve Bank \n\t\nof India."
+  },
+  {
+    "title": "17.\t \u201cHold-up\u201d means when a person having some weapon",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "threatens the Insured / Insured Persons and there exists a"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings\nPayment Protection Package\n\n2"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\npossibility of actual physical threat to the person of the \n\t\nInsured / Insured Persons."
+  },
+  {
+    "title": "18.\t \u201cIdentity Theft\u201d means the unauthorized and/or illegal use",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "of Insured Person\u2019s personal and sensitive information \n\t\nsuch as his/her name, government identification IDs to \n\t\nopen credit accounts and/ or bank accounts that he/she \n\t\ndid not authorize."
+  },
+  {
+    "title": "20.\t \u201cInsured Person(s)\u201d means the beneficiaries / members /",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "card holders / customers & account holders of the entity \n\t\nnamed in the schedule."
+  },
+  {
+    "title": "21.\t \u201cPhishing\u201d means the attempt to obtain sensitive",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "information such as usernames, passwords, and credit / \n\t\nother card details (and sometimes, indirectly, money), \n\t\noften for malicious reasons, by masquerading as a \n\t\ntrustworthy entity in an electronic communication \n\t\n(including Vishing, Pharming and Smishing)"
+  },
+  {
+    "title": "22.\t \u201cPIN\u201d means specific personal identification number",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "assigned to the Cardholder in connection with the Card."
+  },
+  {
+    "title": "23.\t \u201cPolicy\u201d means Insured\u2019s proposal, the schedule,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Company\u2019s covering letter to the insured, insuring clauses, \n\t\ndefinitions, exclusions, conditions and other terms \n\t\ncontained herein and any endorsement attaching to or \n\t\nforming part hereof, either at inception or during the period \n\t\nof insurance."
+  },
+  {
+    "title": "24.\t \u201cPolicy Period\u201d means the period from Commencement",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "of Insurance Cover to the end of the Insurance Cover as \n\t\nper the Schedule."
+  },
+  {
+    "title": "25.\t \u201cPost Reporting Period\u201d means period specified in the",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "policy schedule representing the number of days post \n\t\nreporting of incident by the insured person to the financial \n\t\nentity."
+  },
+  {
+    "title": "26.\t \u201cPre Reporting Period\u201d means period specified in the",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "policy schedule representing the number of days prior to \n\t\nthe reporting of incident by the insured person to the \n\t\nfinancial entity"
+  },
+  {
+    "title": "27.\t \u201cProposal\u201d means any signed proposal in form of letters",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "and declarations, written statements and any information \n\t\nin addition hereto supplied to the Company by or on behalf \n\t\nof the Insured."
+  },
+  {
+    "title": "28.\t \u201cPublic Authority\u201d means any governmental, quasi-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "governmental organisation or any statutory body or duly \n\t\nauthorised organisation with the power to enforce laws, \n\t\nexact obedience, and command, determine or judge."
+  },
+  {
+    "title": "29.\t \u201cRenewal\u201d defines the terms on which the contract of",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "insurance can be renewed on mutual consent with a \n\t\nprovision of grace period for treating the renewal \n\t\ncontinuous for the purpose of all waiting periods."
+  },
+  {
+    "title": "30.\t \u201cSchedule\u201d means the document attached to and forming",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "part of this Policy mentioning the details of the Insured, \n\t\nthe Sum Insured, the Policy Period and the limits, \n\t\nconditions etc. to which benefits under the Policy are \n\t\nsubject to including any annexures and / or endorsements."
+  },
+  {
+    "title": "31.\t \u201cSIM Card\u201d means the Subscriber Identity Module (SIM)",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "card that is delivered together with a subscription contract \n\t\nor pay-as-you-go contract used for the operating of mobile \n\t\nphones."
+  },
+  {
+    "title": "32.\t \u201cSkimming\u201d means an electronic method of capturing a",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "victim\u2019s personal information used by unauthorized \n\t\nmeans."
+  },
+  {
+    "title": "33.\t \u201cStrike\u201d refers to cessation of work or a temporary",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "stoppage of normal and regular activity or work \n\t\nundertaken by some persons in support of the demands \n\t\nmade on their employer, as for higher pay or improved \n\t\nconditions."
+  },
+  {
+    "title": "34.\t \u201cSubrogation\u201d shall mean the right of the Insurer to",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "assume the rights of the Insured person to recover \n\t\nexpenses paid out under the policy that may be recovered \n\t\nfrom any other source."
+  },
+  {
+    "title": "35.\t \u201cSum Insured / Limit of Liability\u201d means the amount",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "shown against each item in the Schedule which is \n\t\nCompany\u2019s maximum liability."
+  },
+  {
+    "title": "36.\t \u201cWar\u201d means war, whether declared or not, or any warlike",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "activities, including use of military force by any sovereign \n\t\nnation to achieve economic, geographic, nationalistic, \n\t\npolitical, racial, religious or other ends."
+  },
+  {
+    "title": "1.\t Incontestability and Duty of Disclosure",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "THIS POLICY SHALL BE VOIDABLE AT THE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "OPTION OF THE COMPANY IN THE EVENT OF",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "MIS \u2013 REPRESENTATION, MIS-DESCRIPTION OR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "NON-DISCLOSURE OF ANY MATERIAL PARTICULAR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "BY THE INSURED, IN THE PROPOSAL FORM,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "PERSONAL STATEMENT, DECLARATION AND",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "CONNECTED DOCUMENTS, OR ANY MATERIAL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "INFORMATION HAVING BEEN WITHHELD. ANY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "PERSON WHO, KNOWINGLY AND WITH INTENT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "TO DEFRAUD THE INSURANCE COMPANY OR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "OTHER PERSONS, FILES A PROPOSAL FOR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "INSURANCE CONTAINING ANY FALSE INFORMATION,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "OR A CLAIM BEING FRAUDULENT OR ANY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "FRAUDULENT MEANS OR DEVICES BEING USED BY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "THE INSURED/INSURED PERSON OR ANY ONE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "ACTING ON HIS BEHALF TO OBTAIN ANY BENEFIT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "UNDER THIS POLICY/ OR CONCEALS FOR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "THE PURPOSE OF MISLEADING, INFORMATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "CONCERNING ANY FACT MATERIAL THERETO,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "COMMITS A FRAUDULENT INSURANCE ACT WHICH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "WILL RENDER THE POLICY VOIDABLE AT THE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "INSURANCE COMPANY\u2019S SOLE DISCRETION AND",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "RESULT IN A DENIAL OF INSURANCE BENEFITS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "OF A CLAIM IS IN ANY RESPECT FRAUDULENT, OR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "I F  A N Y F R A U D U L E N T O R  FA L S E  P L A N ,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "SPECIFICATION, ESTIMATE, DEED, BOOK, ACCOUNT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "ENTRY, VOUCHER, INVOICE OR OTHER DOCUMENT,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "PROOF OR EXPLANATION IS PRODUCED, OR ANY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "FRAUDULENT MEANS OR DEVICES ARE USED BY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "THE INSURED/INSURED PERSON, POLICYHOLDER,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "BENEFICIARY, CLAIMANT OR BY ANYONE ACTING ON",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "3"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122."
+  },
+  {
+    "title": "THEIR BEHALF TO OBTAIN ANY BENEFIT UNDER THIS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "POLICY, OR IF ANY FALSE STATUTORY DECLARATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "IS MADE OR USED IN SUPPORT THEREOF, OR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "IF LOSS IS OCCASIONED BY OR THROUGH THE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "PROCUREMENT OR WITH THE KNOWLEDGE OR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "CONNIVANCE OF THE INSURED/INSURED PERSON,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "POLICYHOLDER, BENEFICIARY, CLAIMANT OR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "OTHER PERSON, THEN ALL BENEFITS UNDER THIS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "2.\t Observance of terms and conditions",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The due observance and fulfillment of the terms, \n\t\nconditions and endorsement of this Policy in so far as they \n\t\nrelate to anything to be done or complied with by the \n\t\nInsured, shall be a condition precedent to any liability of \n\t\nthe Company to make any payment under this Policy."
+  },
+  {
+    "title": "3.\t Records to be maintained",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insured shall keep an accurate record containing all \n\t\nrelevant particulars and shall allow the Company to \n\t\ninspect such record."
+  },
+  {
+    "title": "4.\t No constructive Notice",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Any of the circumstances in relation to the general \n\t\nconditions mentioned in this section, that comes to \n\t\nthe knowledge of any official of the Company shall not be \n\t\nconstrued as notice to or be held to bind or prejudicially \n\t\naffect the Company notwithstanding to subsequent \n\t\nacceptance of any premium."
+  },
+  {
+    "title": "5.\t Notice of charge",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Company shall not be bound to notice or be affected \n\t\nby any notice of any trust, charge, lien, assignment or \n\t\nother dealing with or relating to this Policy but the receipt \n\t\nof the Insured or his legal personal representative shall \n\t\nin all cases be an effectual discharge to the Company."
+  },
+  {
+    "title": "6.\t Special Provisions",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Any special provisions subject to which this Policy \n\t\nhas been entered into and endorsed in the Policy as an \n\t\nendorsement shall be deemed to be part of this Policy \n\t\nand shall have effect accordingly."
+  },
+  {
+    "title": "7.\t Entire Contract",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Policy constitutes the complete contract of insurance. \n\t\nNo change or alteration in this Policy shall be valid or \n\t\neffective unless approved in writing by the Company, \n\t\nwhich approval shall be evidenced by an endorsement \n\t\non the Policy."
+  },
+  {
+    "title": "8.\t Right to inspect",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If required by the Company, an representative of the \n\t\nCompany including a loss assessor or a Surveyor \n\t\nappointed on that behalf shall in case of any loss or \n\t\nany circumstances that have given rise to the claim to \n\t\nthe Insured be permitted at all reasonable times to \n\t\nexamine into the circumstances of such loss. The Insured \n\t\nshall on being required so to do by the Company produce \n\t\nall books of accounts, receipts, documents relating to or \n\t\ncontaining entries relating to the loss or such circumstance \n\t\nin his possession and furnish copies of or extracts from \n\t\nsuch of them as may"
+  },
+  {
+    "title": "9.\t Fraudulent claims",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If any claim is in any respect fraudulent, or if any false \n\t\nstatement, or declaration is made or used in support \n\t\nthereof, or if any fraudulent means or devices are used \n\t\nby the Insured/insured person, or anyone acting on his \n\t\nbehalf to obtain any benefit under this Policy, or if a claim \n\t\nis made and rejected and no court action or suit is \n\t\ncommenced within twelve months after such rejection all \n\t\nbenefits under this Policy shall be forfeited."
+  },
+  {
+    "title": "10.\t Arbitration clause",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The parties to the contract may mutually agree and enter \ninto a separate Arbitration Agreement to settle any and all \ndisputes in relation to this policy.  \nArbitration shall be conducted under and in accordance \nwith the provisions of the Arbitration and Conciliation \nAct, 1996."
+  },
+  {
+    "title": "11.\t Renewal notice",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Company shall be under no obligation to renew the \n\t\npolicy on expiry of the period for which premium has been \n\t\npaid. The Company reserves the right to offer revised \n\t\nrates, terms and conditions at renewal based on claim \n\t\nexperience and a fresh assessment of the risk. This \n\t\npolicy may be renewed only by mutual consent and \n\t\nsubject to payment in advance of the total premium at the \n\t\nrate in force at the time of renewal. The Company, \n\t\nhowever, shall not be bound to give notice that the policy \n\t\nis due for renewal or to accept any renewal premium. \n\t\nUnless renewed as herein pro"
+  },
+  {
+    "title": "12.\t The Insured",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Should understand that if a proposal has been completed \n\t\nfor this insurance, then all statements and all particulars \n\t\nprovided in such proposal, and any attachments thereto \n\t\nare true, accurate and complete and are material to the \n\t\nCompany\u2019s decision to provide this insurance.  The \n\t\nInsured further should understand that the Company has \n\t\nissued this Policy in reliance upon the truth of such \n\t\nstatements and particulars which are deemed to be \n\t\nincorporated into and constitute a part of this Policy, are \n\t\nthe basis of this Policy and are material to the \n\t\nUnderwriter\u2019s acceptance"
+  },
+  {
+    "title": "13.\t Reasonable Care",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Insured person must take due care and reasonable \n\t\nprecautions to safeguard his Personal Information, details \n\t\nof Bank Accounts and/or Credit/Debit Cards and internet \n\t\ncommunications. Insured person should also take all \n\t\npractical measures to minimize claims. Such measures \n\t\ninclude but are not limited to not sharing sensitive \n\t\naccount information, regular data backup, logins, PIN/ \n\n4"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122."
+  },
+  {
+    "title": "TAN and Personal Information with Third Parties, securing",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "physical access to devices, only installing legal software \n\t\nfrom trusted sources such as manufacturer app-stores \n\t\nand maintaining an updated and secure state of their \n\t\nsoftware and operating systems as recommended by the \n\t\nmanufacturer. Insured person have to keep himself/herself \n\t\ninformed of further recommendations and alerts made \n\t\nfrom time to time by the Company, The Insured, Bank, \n\t\nFinancial Institution, Social Networks, other service \n\t\nproviders or software manufacturers, as well as relevant \n\t\nauthorities such as the police, CERT-IN and RBI.  \n\t\nInsured person should take a"
+  },
+  {
+    "title": "14.\t Duties and Obligations after Occurrence of an Insured",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Event\n\t\nIt is a condition precedent to the Company\u2019s liability under \n\t\nthis Policy that, upon the happening of any event giving \n\t\nrises to or likely to give rise to a claim under this Policy:\n\t\nThe Insured/Insured Person shall immediately and in \n\t\nany event within 30 days give written notice of the same \n\t\nto the Company at the address shown in the Schedule \n\t\nfor this purpose and in case of notification of an event \n\t\nlikely to give rise to a claim to specify the grounds for such \n\t\nbelief; and \n\t\nWherever necessary and as maybe specifically advised \n\t\nby the Company, immediately lodge a c"
+  },
+  {
+    "title": "15.\t Condonation of delay in case of claim:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If the claim is not notified/ or submitted to us within the \n\t\nspecified time limits, then we shall be provided the reasons \n\t\nfor the delay in writing. We will condone such delay on \n\t\nmerits where the delay has been proved to be for reasons \n\t\nbeyond the claimant\u2019s control."
+  },
+  {
+    "title": "16.\t Contribution",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In the event of an incident which results in a claim under \n\t\nthis Policy and Insured have other insurance covering \n\t\nthe same loss, the Company will not pay more than its \n\t\nshare, subject to the maximum limit of Cover granted \n\t\nunder this Policy. This clause shall not apply to any cover \n\t\noffered on fixed benefit basis\n\t\nMultiple policies involving Bank or other lending or \n\t\nfinancing entity - \n\t\nIn case there is more than one insurance policy issued \n\t\nto the customer/ policyholder covering the same risk, the \n\t\nCompany will not apply contribution clause. \n\t\nUnderinsurance will be appli"
+  },
+  {
+    "title": "17.\t Reinstatement",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "On payment of a claim by the Company, the total amount \n\t\nof indemnities and the indemnity amount per Cardholder \n\t\nwill stand reduced by the amount of claim paid, unless \n\t\nthe same is reinstated on payment of additional premium \n\t\nby the Insured."
+  },
+  {
+    "title": "18.\t Subrogation",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If any payment is made under this policy, the Company \n\t\nwill be subrogated to the extent of such payment up to \n\t\nall Insured/Insured Person\u2019s rights of recovery from any \n\t\nthird party. Insured Person must do all that is necessary \n\t\nto secure and must not prejudice such rights. Any monies \n\t\nrecovered will be applied first to any costs and expenses \n\t\nmade to obtain the recovery, second to any payments \n\t\nmade by the Company, and third to any other payments \n\t\nmade by the Insured/Insured Person."
+  },
+  {
+    "title": "19.\t Indian Contract Act 1872",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A person or any entity who is not a party to this Policy shall \n\t\nhave no rights under the Contracts (Rights of Third \n\t\nParties) Act 2001 or any similar act, common law or any \n\t\nprovision of law in any other jurisdiction to enforce any of \n\t\nits terms."
+  },
+  {
+    "title": "20.\t Premium Payment",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "It is hereby agreed that, as a condition precedent to any \n\t\nliability under this Policy, any premium due must be paid \n\t\nand actually realised by the Company in full. In the event \n\t\nof non-realisation of the premium, the Policy shall be \n\t\ntreated as void-ab-initio.\n\n5"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122."
+  },
+  {
+    "title": "21.\t Assignment",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "No assignment of interest under this Policy shall be \n\t\nbinding upon the Company. The Company does not \n\t\nassume any responsibility for the validity of an assignment."
+  },
+  {
+    "title": "22.\t Sanctions/Embargoes",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Company shall not be deemed to provide cover and \n\t\nprovide any benefit hereunder to the extent that the \n\t\nprovision of such cover, payment of such loss or claim \n\t\nor provision of such benefit would expose the Company \n\t\nto any sanction, prohibition or restriction under United \n\t\nNations resolutions or the trade or economic sanctions, \n\t\nlaw or regulations of the European Union, United States \n\t\nof America and/or any other applicable national economic \n\t\nor trade sanction law or regulations."
+  },
+  {
+    "title": "23.\t Territorial scope",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Where payment is to be made under this policy and \n\t\nsubject to all terms and conditions of this policy, this policy \n\t\nshall apply to any Loss incurred or claims made in India, \n\t\nunless otherwise stated in the Policy Schedule."
+  },
+  {
+    "title": "24.\t Jurisdiction",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "This Policy is subject to the exclusive jurisdiction of the \n\t\nCourts of India.\n\t\nAny dispute concerning the interpretation of the terms, \n\t\nconditions, limitations and/or exclusions contained herein \n\t\nis understood and agreed to by both the Insured and the \n\t\nCompany to be subject to Indian Law. Each party agrees \n\t\nto submit such dispute to a Court of competent jurisdiction \n\t\nand to comply with all requirements necessary to give \n\t\nsuch Court the jurisdiction. All matters arising hereunder \n\t\nshall be determined in accordance with the law and \n\t\npractice of such Court."
+  },
+  {
+    "title": "25.\t Cancellation:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insured can cancel the policy at any time during the \n\t\npolicy term, by informing the Company.  The Company can \n\t\ncancel the policy only on the grounds of established \n\t\nfraud, by giving minimum notice of 7 days to the Insured. \n\t\nThe Company shall refund proportion premium for \n\t\nunexpired policy period subject to no claim(s) made during \n\t\nthe policy period."
+  },
+  {
+    "title": "26.\t Premium Payment Options",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "i.\t\nPolicy holder/Insured shall have the option to \n\t\n\t\npay policy premium in total at the inception of policy \n\t\n\t\nor in instalments as per options as below \nOptions\nInstalment Premium Option\nGrace Period\nOption 1\nYearly\n30 days\nOption 2\nHalf Yearly\n30 days\nOption 3\nQuarterly\n30 days\nOption 4\nMonthly\n15 days\n\t\nii.\t\nGrace Period of 15 days in case of Monthly \n\t\n\t\npremium payment option and 30 days for Yearly, \n\t\n\t\nhalf yearly and Quarterly premium payment option \n\t\n\t\nshall be applicable. Any hospitalization for diagnosis \n\t\n\t\nan Illness/Critical Illness contracted during the grace \n\t\n\t\nperiod "
+  },
+  {
+    "title": "ECS Facility",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "i.\t\nIf Option of Premium payment by Payment is \n\t\n\t\n\t\nopted through auto Debit/ECS facility, a \n\t\n\t\n\t\nseparate authorization form shall be submitted \n\t\n\t\n\t\nby Policy Holder/ Insured Person where \n\t\n\t\n\t\nPremium to be debited at a chosen frequency \n\t\n\t\n\t\nwill be mentioned upfront\n\t\n\t\nii.\t Where there is a change either in the terms and \n\t\n\t\n\t\nconditions of the Coverage or Policy or in the \n\t\n\t\n\t\npremium rate, the ECS authorization shall be \n\t\n\t\n\t\nobtained afresh \n\t\n\t\niii.\t The Policyholder/Insured Person has the option \n\t\n\t\n\t\nto withdraw from the ECS mode at least fifteen \n\t\n\t\n\t\ndays prior to th"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park,\n\t\n\t\nAndheri Kurla Road, Andheri (E), Mumbai \u2013 400059\n\t\n\t\nCall Centre - 022-6234 6234"
+  },
+  {
+    "title": "29.\t Claim Settlement",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Company will settle the claim under this policy within \n\t\n30 days from the date of receipt of necessary documents \n\t\nrequired for assessing the claim. In the event that the \n\t\ncompany decides to reject a claim made under this policy, \n\t\nthe Company shall do so within a period of thirty days \n\t\nfrom the date of receipt of the survey report or the \n\t\nadditional document, as the case may be, in accordance \n\t\nwith the provisions of Protection of Policyholders\u2019 Interest \n\t\nRegulations 2017."
+  },
+  {
+    "title": "30.\t Portability:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Individual members including the family members \n\t\ncovered under health section ofpolicy shall have the right \n\t\nto migrate from such group policy to a suitable individual \n\t\npersonal accident insurance policy offered by the \n\t\nCompany only in cases of the member leaving the group \n\t\non account of disassociation with the group in capacity \n\t\nof his membership."
+  },
+  {
+    "title": "GENERAL EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "(Not Applicable on Section VI \u2013 Health, Section VII \u2013 Group \nTravel Insurance and Section IX \u2013 Wellness Services)\nThe Company shall not be liable for \n1)\t Damage directly or indirectly occasioned by or happening \n\t\nthrough or in consequence of war, invasion, act of foreign \n\t\nenemy, hostilities (whether war be declared or not), civil \n\t\nwar, Rebellion, revolution, insurrection, military or usurped \n\t\npower, confiscation, nationalisation, civil commotion or \n\t\nloot or pillage in connection herewith.\n2)\t Loss or damage directly or indirectly caused by or arising \n\t\nfrom or in consequence of or c"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122."
+  },
+  {
+    "title": "SCOPE OF COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Company will pay up to the Sum Insured/limit of liability \nmentioned in the Policy Schedule for the coverages mentioned \nin the policy during the policy period subject to terms, \nconditions and exclusions of this Policy."
+  },
+  {
+    "title": "SECTION I - FINANCIAL LIABILITY COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The cover is applicable only if it is mentioned in the policy \nschedule.\nThe Company hereby agrees subject to the terms, conditions \nand exclusions herein contained or otherwise expressed \nherein, to pay direct and pure financial loss resulting from \nfollowing perils, if opted by the Insured: \na)\t LOST OR STOLEN CARD COVER - The Company \n\t\nwill pay in respect of the debits or transactions established \n\t\nagainst the Insured/ Insured Person resulting only from \n\t\nthe unauthorized use of any lost or stolen Card issued by \n\t\nthe Insured named in the Schedule\nb)\t FRAUD BEFORE DELIVERY OF CARD COVER"
+  },
+  {
+    "title": "COVER - The Company will pay in respect of the debits",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "or transactions established against the Insured/ Insured \n\t\nPerson resulting only froma robbery event that occurs \n\t\nwithin a specified period as mentioned in the policy \n\t\nschedule after withdrawal of the money from the ATM\nf)"
+  },
+  {
+    "title": "SIM CLONING & DEACTIVATION FRAUD COVER - The",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Company will pay in respect of the debits or transactions \n\t\nestablished against the Insured/ Insured Person resulting \n\t\nonly fromSIM cloning and/or post deactivation of SIM that \n\t\nInsured person are responsible for. \ng)\t THEFT OF FUNDS DUE TO UNAUTHORIZED DIGITAL"
+  },
+  {
+    "title": "ACCESS COVER - The Company will pay in respect of",
+    "deductible": "It is hereby agreed and declared that mo",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "the debits or transactions established against the Insured/ \n\t\nInsured Person resulting only fromunauthorized digital \n\t\naccess to Insured person\u2019sbank account, credit or debit \n\t\ncard, digital payment wallets, UPI account by use of tele \n\t\nphishing, phishing, vishing or email spoofing or any other \n\t\nmeans.\nh)\t IDENTITY THEFT / ACCOUNT TAKE OVER COVER - \n\t\nThe Company will pay in respect of the debits or \n\t\ntransactions established against the Insured/ Insured \n\t\nPerson resulting only froman identity theft/account take \n\t\nover.  Reasonable and necessary costs incurred by \n\t\nInsured person for"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\nv.\t\nPayments of claim under tele-phishing shall be restricted \n\t\nto number of instances mentioned in the policy schedule\nSpecific Exclusions applicable to Section I\nThe Company will not make any payment in respect of:\n1)\t\nAny loss or damage arising out of any transactions \n\t\nwhich have occurred beyond the pre and post reporting \n\t\nperiod named in the Schedule.\n2)\t\nDebits established against the Insured Person(s) \n\t\nresulting from the use of counterfeit Card Counterfei"
+  },
+  {
+    "title": "SECTION II - PURCHASE PROTECTION COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The cover is applicable only if stated in the policy schedule.\nDefinitions Specific to this section:\n1. \t\nHome Contents means those articles or things that are \n\t\nnot permanently attached or fixed to the structure of \n\t\nInsured Person\u2019s Home. Home Contents may consist of \n\t\nGeneral Contents and/or Valuable Contents. \n2. \t\nGeneral Contents are all the contents of household use \n\t\nin Insured Person\u2019s Home, e.g., furniture, electronic items \n\t\nand goods, antennae, solar panels, water storage \n\t\nequipment, kitchen equipment, electrical equipment \n\t\n(including those fitted on walls), clothing and a"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": "as per Terrorism Clause",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\nColumn A\nColumn B\nWe cover physical loss or damage, or destruction \ncaused to the Insured Property by\nWe do not cover any loss or damage, or destruction \ncaused to the Insured Property\n1\nFire\ncaused by burning of Insured Property by order of \nany Public Authority.\n2\nExplosion or Implosion\n-\n3\nLightning\n-\n4\nEarthquake, volcanic eruption, or other convulsions \nof nature\n-\n5\nStorm, Cyclone, Typhoon, Tempest, Hurricane, \nTornado, Tsunami, Flood and Inundation\n-\n6\nSubsiden"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": "ive pressure, short circuiting, arcing,",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\nSum Insured:\nThe Sum Insured for the Home Contents Cover is shown in the \nPolicy Schedule and will be the maximum amount payable in \nthe event the Home Contents are destroyed /lost completely.\nRestoration of Sum Insured: Except if the policy is being \ncancelled the insurance cover will at all times be maintained \nduring the Policy Period to the full extent of the respective Sum \nInsured. This means that after Company has paid for any loss, \nthe coverage under this sec"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n12)\t losses that are caused by vermin, insects, termites, mold, \n\t\nwet or dry rot, bacteria or rust;\n13)\t losses due to mechanical failure, electrical failure, \n\t\nsoftware failure, or data failure including, but not limited to \n\t\nany electrical power interruption, surge, brownout or \n\t\nblackout, or telecommunications or satellite systems \n\t\nfailure;\n14)\t items damaged due to normal wear and tear, inherent \n\t\nproduct defect or normal course of play (such as, but not \n\t"
+  },
+  {
+    "title": "SECTION III: PRICE PROTECTION COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Company hereby agrees subject to the terms, conditions \nand exclusions herein contained or otherwise expressed \nherein, to pay for the difference between the price insured \nperson has paid for an item and a lower printed advertised \nprice for the same item (same brand, make, model name \nand/or number) that has occurred and reported during the \npolicy period.\nSpecific Exclusions applicable to Section III\nThe Company will not pay for:\n1)\t\nany item with an original purchase price less than a price \n\t\nas mentioned in the policy schedule.\n2)\t\ncash, travelers\u2019 cheque(s), transportation tickets, "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n18)\t items advertised in or as result of \u201climited quantity,\u201d \n\t\n\u201cgoing out-of-business sales,\u201d \u201ccash only\u201d or \u201cclose out\u201d \n\t\nadvertisements, items shown on price lists or \n\t\nprice quotes, cost savings as a result of package offer, \n\t\nmanufacturer\u2019s coupons, employees discount, or free \n\t\nitems, or where the advertised price includes bonus or \n\t\nfree offers, special financing, installation or rebate, or \n\t\none-of-a-kind or other limited offers;\n19)\t any price differenc"
+  },
+  {
+    "title": "COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Company hereby agrees subject to the terms, conditions \nand exclusions herein contained or otherwise expressed \nherein, to pay for a sum not exceeding the Sum Insured / \nLimit of Liability as mentioned in the Schedule, in the event \nof any debits being established against the Insured Person(s) \nor the loss suffered by the Insured Person(s) resulting from \nforgery or counterfeiting of cheques issued by a Banks. The \nsection covers:\n1)\t\nFraudulent encashment of stolen/lost cheques of the \n\t\nInsured through forged endorsements and/or through \n\t\nforged alterations.\n2)\t\nCounterfeit cheques.\nSpe"
+  },
+  {
+    "title": "DEFINITIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Any word or expression found in the Policy and Policy \nSchedule shall have these meanings, unless otherwise \ndefined.\n1.\t\nConfidential Information means any form of sensitive \n\t\ninformation not publicly available, whether or not marked \n\t\nas \u2018confidential\u2019.\n2.\t\nCyber Bullying means any acts of: \n\t\ni.\t\nharassment (including foster personal interaction \n\t\n\t\nrepeatedly despite a clear indication of disinterest) \n\t\nii.\t\nintimidation\n\t\niii.\t illegitimate invasion of privacy (including monitoring \n\t\n\t\nthe use of the internet, email or any other form of \n\t\n\t\nelectronic communication) or \n\t\niv.\t threa"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n7.\t\nDoS attack means any malicious act causing total or \n\t\npartial disruption or unavailability of personal devices \n\t\nby an overloading stream of requests, including \n\t\ndistributed denial-of-service attacks.\n8.\t\nEmail Spoofing means any forgery or wrongful \n\t\nmanipulation of an email so that the receiver of such \n\t\na message is misled to believe that the email is real and \n\t\ntherefore trusts the faked origin of the massage. \n9.\t\nExpert means any person or legal entit"
+  },
+  {
+    "title": "10.\t Family means Insured Person, spouse, children, siblings,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "parents or parents-in-law, residing in the same \n\t\nhousehold, maximum up to 4 in number."
+  },
+  {
+    "title": "11.\t Hardware means the physical components of any",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "personal devices used to store, record, transmit, process, \n\t\nread, amend or control data."
+  },
+  {
+    "title": "12.\t Insured Event means any theft of funds, cyber incident",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "affecting Insured Person\u2019s personal devices and their \n\t\nsmart home, identity theft, cyber bullying, cyber stalking, \n\t\nfinancial loss due to online sale or online shopping and \n\t\nthird-party claim."
+  },
+  {
+    "title": "13.\t Legal Costs means any costs, expenses and/or fees",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "for experts, investigations, court appearances, surveys, \n\t\nexamination and/or procedures that are necessary for \n\t\ncivil, administrative and/or criminal proceedings. \n\t\nThis does not include general expenses (such as \n\t\nsalaries, transportation costs and overheads)."
+  },
+  {
+    "title": "14.\t Loss of Reputation means any adverse effect on",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "reputation of insured person due to a publication on the \n\t\ninternet by a third party."
+  },
+  {
+    "title": "15.\t Lost Wages means any salary that was lost or not paid",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "by Insured person\u2019s employer, solely as a result of any \n\t\nInsured Event. Computation of lost wages for self- \n\t\nemployed persons must be supported by, and will be \n\t\nbased on, prior year tax returns."
+  },
+  {
+    "title": "16.\t Malicious act means any unauthorized or illegal acts of",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a third party intending to cause harm to or to gain access \n\t\nto, or disclose data from personal devices through the \n\t\nuse of any personal devices, computer system or \n\t\ncomputer network including the internet."
+  },
+  {
+    "title": "17.\t Malware means any unauthorized or illegal software",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "or code (such as viruses, spyware, computer worms, \n\t\ntrojan horses, rootkits, ransomware, keyloggers, dialers \n\t\nand rogue security software) designed to cause harm to \n\t\nor to gain access to or disrupt personal devices or \n\t\ncomputer networks."
+  },
+  {
+    "title": "18.\t Non-Commercially means Private sales, not through an",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "owned web-shop and goods sold non-commercially and \n\t\nare not sold in bulk amounts."
+  },
+  {
+    "title": "19.\t Online media activities means any text, images, videos or",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "sound distributed via Insured Person\u2019s website, social \n\t\nmedia presence or e-mail."
+  },
+  {
+    "title": "20.\t Personal Data/ Information means any information",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "relating to a data subject who can be identified, directly \n\t\nor indirectly, in relation to other information (such as \n\t\na name, an identification number, location data, an online \n\t\nidentifier or to one or more factors specific to the physical, \n\t\nphysiological, genetic, mental, economic, cultural or \n\t\nsocial identity of that natural person) as defined by \n\t\napplicable data protection laws."
+  },
+  {
+    "title": "21.\t Personal Devices means any devices (computers,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "laptops, tablets, mobile phones, etc.) used by the Insured \n\t\nfor the purpose of creating, accessing, processing, \n\t\nprotecting, monitoring, storing, retrieving, displaying or \n\t\ntransmitting Data."
+  },
+  {
+    "title": "22.\t Psychological assistance and treatment means the",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "involvement of an accredited psychiatrist, psychologist \n\t\nor counsellor chosen by Insured Person\u2019s discretion with \n\t\nthe prior written consent of Us, not to be unreasonably \n\t\nwithheld or delayed, to treat Insured Person for stress, \n\t\nanxiety or such similar medical conditions."
+  },
+  {
+    "title": "23.\t Software means any digital standard, customized or",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "individual developed program, or application held or \n\t\nrun by a personal device that comprises a set of \n\t\ninstructions that are capable, when incorporated in \n\t\na machine readable medium, of causing a machine with \n\t\ninformation processing capabilities to indicate, perform \n\t\nor achieve a particular function, task or result."
+  },
+  {
+    "title": "24.\t Third Party means any person or legal entity other than",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "the Insured as stated in the Policy Schedule and his \n\t\nfamily members.\nOperation of Cover:\nAny Insured Event must be occurred during the Policy Period \nand reported to the Company and/or Insuredwithin 30 days \nof such occurrence.\nAny third party claim must first be made against Insured \nPerson during the Policy Period and reported to the Company \nand/or Insured within 30 days of such occurrence.\nInsured events arising from the same cause of action will be \ndeemed to be one Insured Event, up to the Sum Insured as \nprescribed in the Policy Schedule. \nA."
+  },
+  {
+    "title": "INSURED EVENTS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "1. \t\nData Restoration / Malware Decontamination\n\t\nThe Company shall reimburse for any reasonable and \n\t\nnecessary costs incurred by the involvement of an IT \n\t\nexpert after a cyber-incident to restore Insured Person\u2019s \n\t\ndata or to decontaminate or clean Insured Person\u2019s \n\t\npersonal devices from malware, to the closest possible \n\t\ncondition in which they were immediately before the \n\t\ncyber incident. \n\t\nSpecific Exclusion:"
+  },
+  {
+    "title": "1.\t Loss or damage resulting from malware of disputable",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "websites, such as pornographic websites"
+  },
+  {
+    "title": "2.\t Loss or damage resulting from accessing application",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "or website that are banned for usage as per \n\n14"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\nnotification of any government authority.\n2. \t\nReplacement of Hardware\n\t\nThe Company shall reimburse for any reasonable \n\t\ncosts to replace Insured Person\u2019s personal devices if \n\t\nan IT expert involved by The Company has determined \n\t\nthat the replacement of the entire or parts of the personal \n\t\ndevices will be more efficient and economical than to \n\t\nrestore Insured Person\u2019s data or to decontaminate or \n\t\nclean the personal devices after the occurrence of a \n\t\nc"
+  },
+  {
+    "title": "1.\t Insured Person should have made reasonable",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "attempts to seek payment or recover the delivered goods \n\t\n\t\nfrom the third party buyer or other relevant parties \n5. \t\nSmart Home Cover\n\t\nThe Company will reimburse for any reasonable \n\t\nand necessary costs incurred by the Insured Person \n\t\nfor involvement of an IT expert after a cyber-incident \n\t\nto decontaminate and restore Insured Person\u2019s smart \n\t\nhome systems and devices, to the closest possible \n\t\ncondition in which they were immediately before the \n\t\ncyber incident. \n6. \t\nCyber Bullying, Cyber Stalking and Loss of \n\t\nReputation"
+  },
+  {
+    "title": "1.\t The Company will indemnify for any reasonable",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "and necessary costs incurred by Insured Person for \n\t\n\t\ncivil proceedings against a third party for committing \n\t\n\t\ncyber bullying or cyber stalking against Insured \n\t\n\t\nperson."
+  },
+  {
+    "title": "2.\t In case of an evident and significant loss of reputation",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "caused by cyber bullying or cyber stalking, the \n\t\n\t\nCompany will indemnify for any reasonable and \n\t\n\t\nnecessary costs and expenses for an expert to \n\t\n\t\nmanage and restore Insured Person reputation"
+  },
+  {
+    "title": "3.\t The Company will indemnify for all reasonable",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "fees, costs and expenses incurred by insured person \n\t\n\t\nfor a necessary his/her relocation to another \n\t\n\t\neducational institution due to a significant and \n\t\n\t\non-going cyber bullying or cyber stalking, provided \n\t\n\t\nthat the relocation was recommended by an expert \n\t\n\t\nor relevant authorities"
+  },
+  {
+    "title": "4.\t The Company will indemnify for all reasonable fees,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "costs and expenses of psychological assistance and \n\t\n\t\ntreatment resulting from cyber bullying or cyber \n\t\n\t\nstalking.\n7. \t\nSocial Media and Media Liability\n\t\nThe Companywill pay any sum for which Insured Person \n\t\nis legally liable including legal cost arising from a third \n\t\nparty claim for any unintentional: \n\t\ni.\t\nbreach of copyright, title, slogan, trademark, trade \n\t\n\t\nname, service mark, service name or domain name, \n\t\n\t\nor \n\t\nii.\t\nbreach or interference of privacy rights resulting from \n\t\n\t\nInsured Person online media activities including \n\t\n\t\nactivities in social media.\n\t\nSpecific ex"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\nProvided that,\n\t\nInsured Person report to The Company, card issuer or \n\t\nbank or other relevant entity immediately inform on \n\t\nreceipt of any such notice that may lead to a third party \n\t\nclaim."
+  },
+  {
+    "title": "10. \t Privacy Breach and Data Breach by Third Party",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Company will reimburse for legal costs incurred \n\t\nfor claims for damages filed by Insured Person against \n\t\na third party for data breach relating to Insured Persons \n\t\nconfidential information or personal data, provided the \n\t\nthird party has communicated in writing to Insured Person \n\t\nor has acknowledged publicly by electronic or print \n\t\nmedia the occurrence of a data breach of Insured \n\t\nPersons confidential information or personal data.\n\t\nProvided that,\n\t\nInsured Person reports to Insured and the Company \n\t\nbefore initiating any legal process of any data breach \n\t\nrelating to Insure"
+  },
+  {
+    "title": "11. \t Liability arising due to Underage Dependent Children",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Companywill pay for any sums for which Insured \n\t\nPerson are legally liable including legal cost arising from \n\t\na third party claim for:\n\t\ni.\t\na cyber incident resulting from online activities on \n\t\n\t\nInsured Person\u2019s personal devices by an underage \n\t\n\t\nperson (i.e. an age below 18 years) who is a family \n\t\n\t\nmember that Insured Person failed to prevent and \n\t\n\t\nwhich has caused damage, alteration, destruction or \n\t\n\t\ntheft of data or a DoS attack on third parties\u2019 personal \n\t\n\t\ndevices\n\t\nii.\t\nfor any intentional:\n\t\n\t\na.\t\nbreach of copyright, title, slogan, trademark, \n\t\n\t\n\t\ntrade name, "
+  },
+  {
+    "title": "ADD-ON COVERS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A. DEFINITIONS\nDefinitions applicable to Section VI (Health), Section VII(Group \nTravel Insurance) & Section IX(Wellness Services) of the Policy\nI.\t\nStandard Definitions\nDef. 1.\t\nAccident or Accidental means a sudden, unforeseen \n\t\n\t\nand involuntary event caused by external, visible \n\t\n\t\nand violent means.\nDef. 2.\t\nAny one illness means continuous period of Illness \n\t\n\t\nand includes relapse within 45 days from the date \n\t\n\t\nof last consultation with the Hospital/Nursing Home \n\t\n\t\nwhere treatment was taken.\nDef. 3."
+  },
+  {
+    "title": "AYUSH HOSPITAL means an AYUSH Hospital is",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a healthcare facility wherein medical/surgical/para- \n\t\n\t\nsurgical treatment procedures and interventions are \n\t\n\t\ncarried out by AYUSH Medical Practitioner(s) \n\t\n\t\ncomprising of any of the following:\n\t\n\t\na.\t\nCentral or State Government AYUSH Hospital; \n\t\n\t\n\t\nor\n\t\n\t\nb.\t\nTeaching hospital attached to AYUSH College \n\t\n\t\n\t\nrecognized by the Central Government /Central \n\t\n\t\n\t\nCouncil of Indian Medicine/Central Council for \n\t\n\t\n\t\nHomeopathy; or\n\t\n\t\nc."
+  },
+  {
+    "title": "AYUSH Hospital, standalone or co-located",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "within-patient healthcare facility of any \n\t\n\t\n\t\nrecognized system of medicine, registered \n\t\n\t\n\t\nwith the local authorities, wherever applicable, \n\t\n\t\n\t\nand is under the supervision of a qualified \n\t\n\t\n\t\nregistered AYUSH Medical Practitioner and \n\t\n\t\n\t\nmust comply with all the following criterion:\n\t\n\t\n\t\ni.\t\nHaving at least 5 in-patient beds; \n\t\n\t\n\t\nii.\t\nHaving qualified AYUSH Medical \n\t\n\t\n\t\n\t\nPractitioner in charge round the clock; \n\t\n\t\n\t\niii.\t\nHaving dedicated AYUSH therapy \n\t\n\t\n\t\n\t\nsections as required and/or has \n\t\n\t\n\t\n\t\nequipped operation theatre where \n\t\n\t\n\t\n\t\nsurgical procedures are to "
+  },
+  {
+    "title": "AYUSH Day Care Centre means and includes",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Community Health Centre (CHC), Primary Health \n\t\n\t\nCentre (PHC), Dispensary, Clinic, Polyclinic or any \n\t\n\t\nsuch health center which is registered with the \n\t\n\t\nlocal authorities, wherever applicable and having \n\t\n\t\nfacilities for carrying out treatment procedures and \n\t\n\t\nmedical or surgical/para-surgical interventions or \n\t\n\t\nboth under the supervision of registered AYUSH \n\t\n\t\nMedical Practitioner(s) on day care basis without \n\t\n\t\nin-patient services and must comply with all the \n\t\n\t\nfollowing criterion:\n\t\n\t\ni.\t\nHaving qualified registered AYUSH Medical \n\t\n\t\n\t\nPractitioner (s) in charge;\n\t\n\t"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": "means a cost",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\niii.\t\nMaintaining daily records of the patients and \n\t\n\t\n\t\nmaking them accessible to the insurance \n\t\n\t\n\t\ncompany\u2019s \nDef. 5.\t\nCashless Facility means a facility extended by the \n\t\n\t\ninsurer to the insured where the payments, of the \n\t\n\t\ncosts of treatment undergone by the insured in \n\t\n\t\naccordance with the policy terms and conditions, \n\t\n\t\nare directly made to the Network Provider by the \n\t\n\t\ninsurer to the extent pre-authorization is approved.\nDef. 6.\t\nCondition"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n \n\u00a7\t\nhas a fully equipped operation theatre of its own \n\t\n\t\nwhere surgical procedures are carried out,\n \n\u00a7\t\nmaintains daily records of patients and will make \n\t\n\t\nthese accessible to the insurance company\u2019s \n\t\n\t\nauthorized personnel.\nDef. 18.\t Hospitalization means admission in a Hospital for \n\t\n\t\na minimum period of 24 consecutive \u2018In-patient Care\u2019 \n\t\n\t\nhours except for specified procedures/ treatments, \n\t\n\t\nwhere such admission could be for a period of less \n\t\n\t\ntha"
+  },
+  {
+    "title": "ICU patient including monitoring devices, critical care",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "nursing and intensive charges.\nDef. 24.\t Maternity Expenses means\n\t\n\t\na.\t\nMedical treatment expenses traceable to \n\t\n\t\n\t\nchildbirth (including complicated deliveries and \n\t\n\t\n\t\ncaesarean section incurred during \n\t\n\t\n\t\nHospitalization).\n\t\n\t\nb.\t\nExpenses towards lawful medical termination \n\t\n\t\n\t\nof pregnancy during the policy Period.\nDef. 25.\t Medical Advice means any consultation or advice \n\t\n\t\nfrom a Medical Practitioner including the issue of \n\t\n\t\nany prescription or follow up prescription.\nDef. 26.\t Medical consultation is a procedure where a \n\t\n\t\nMedical Practitioner reviews an Insured Pers"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\nDef. 30.\t New-born Baby means baby born during the Policy \n\t\n\t\nPeriod and is Aged up to 90 days\nDef. 31.\t Network Provider means Hospitals or health care \n\t\n\t\nproviders enlisted by an insurer, TPA or jointly by an \n\t\n\t\nInsurer and TPA to provide medical services to an \n\t\n\t\ninsured by a Cashless facility. \nDef. 32.\t Non Network means any Hospital, Day Care Centre \n\t\n\t\nor other provider that is not part of the Network\nDef. 33.\t Notification of Claim means the process of"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\nemergency assistance services.\nDef. 5."
+  },
+  {
+    "title": "AYUSH Treatment refers to hospitalisation",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "treatments given under Ayurveda, Yoga and \nNaturopathy, Unani, Siddha and Homeopathy \nsystems.\nDef. 6.\t\nBank means a bank or any financial institution\nDef. 7.\t\nBodily Injury means physical, external, Accidental \n\t\n\t\nbodily injury occurring suddenly in time and resulting \n\t\n\t\nsolely and independently of any other cause or \n\t\n\t\nany physical defect or infirmity existing before the \n\t\n\t\nPeriod of Insurance.\nDef. 8.\t\nBiological attack or weapons the emission, \n\t\n\t\ndischarge, dispersal, release or escape of any \n\t\n\t\npathogenic (disease producing) micro-organisms \n\t\n\t\nand/or biologically produced tox"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\nb.\t\nfor all other benefits means the date the event \n\t\n\t\n\t\nhappened that leads to an alleged claim.\n\t\n\t\nc.\t\nfor Sickness means the first date of diagnosis \n\t\n\t\n\t\nor the date the Insured Person first became \n\t\n\t\n\t\naware of the Sickness.\nDef. 23.\t Day means a continuous period of twenty-four (24) \n\t\n\t\nhours.\nDef. 24.\t Dependents means only the family members listed \n\t\n\t\nbelow:\n\t\n\t\na)\t\nYour spouse or husband \n\t\n\t\nb)\t\nYour children Aged between 91 days and 25 \n\t\n\t\n\t\ny"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\nDef. 39.\t Operative Time means the time that the insurance \n\t\n\t\nis effective as stated on the Policy Schedule / \n\t\n\t\nCertificate of Insurance.\nDef. 40.\t Valuable Contents of Your Home consist of items \n\t\n\t\nsuch as jewellery, silverware, paintings, works of art, \n\t\n\t\nantique items, curios and items of similar nature.\nDef. 41.\t Kutcha Construction means Building(s) having walls \n\t\n\t\nand/or roofs of wooden planks/thatched leaves and/ \n\t\n\t\nor grass/hay of any kind/bamboo/"
+  },
+  {
+    "title": "ERGO General Insurance Company. With this App",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "you can:\n\t\n\t\no\t\nAccess Your Policy Details\n\t\n\t\n\t\n\u00a7\t\nManage Your policy, download Your policy \n\t\n\t\n\t\n\t\nschedule and access to Your e-card will \n\t\n\t\n\t\n\t\nalways be at Your fingertips, 24 x 7.\n\t\n\t\no\t\nPolicy Endorsement made easy\n\t\n\t\n\t\n\u00a7\t\nBy submitting a request to us through"
+  },
+  {
+    "title": "HDFC ERGO Mobile App, you can make",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "any modifications in Your policy, for e.g. \n\t\n\t\n\t\n\t\nchange in spelling of the name, contact \n\t\n\t\n\t\n\t\nnumber etc.\n\t\n\t\no\t\nEffortless Claims Management\n \n \n \n\u00a7\t\nNow you can Submit Your claims from \n\t\n\t\n\t\n\t\nthe app for faster processing and track \n\t\n\t\n\t\n\t\nthe status at Your fingertips. You can also \n\t\n\t\n\t\n\t\nintimate a claim using the app. You can \n\t\n\t\n\t\n\t\nalso view Network hospitals in Your area \n\t\n\t\n\t\n\t\nwith directions.\nDef. 49.\t Period of Insurance means the period between \n\t\n\t\nthe Coverage Commencement Date and the Expiry \n\t\n\t\nDate specified in the Certificate of Insurance under \n\t\n\t\nthe Policy"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\nDef. 55.\t Policy Year means a year following the Coverage \n\t\n\t\nCommencement Date and its subsequent annual \n\t\n\t\nanniversary. \nDef. 56.\t Principal outstanding means the principal amount \n\t\n\t\nof the Loan outstanding as on the date of occurrence \n\t\n\t\nof Insured Event less the portion of principal \n\t\n\t\ncomponent included in the EMIs payable but not paid \n\t\n\t\nfrom the date of the loan agreement till the date of \n\t\n\t\nthe Insured Event/s. For the purpose of avoidance of \n\t\n\t"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": "means a cost sharing requirement",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\n\t\nb)\t\nit appears that the intent is to intimidate \n\t\n\t\n\t\n\t\nor coerce a government, or to further \n\t\n\t\n\t\n\t\npolitical, ideological, religious, social or \n\t\n\t\n\t\n\t\neconomic objectives or to express (or \n\t\n\t\n\t\n\t\nexpress opposition to) a philosophy or \n\t\n\t\n\t\n\t\nideology.\nDef. 69.\t Time Deductible means a cost sharing requirement \n\t\n\t\nunder a health insurance policy that provides that \n\t\n\t\nthe Insurer will not be liable for a specified number of \n\t\n\t\ndays, which will appl"
+  },
+  {
+    "title": "CIN-1, CIN - 2 and CIN-3.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "b.\t\nAny non-melanoma skin carcinoma unless \n\t\n\t\n\t\nthere is evidence of metastases to lymph \n\t\n\t\n\t\nnodes or beyond;\n\t\n\t\nc.\t\nMalignant melanoma that has not caused \n\t\n\t\n\t\ninvasion beyond the epidermis;\n\t\n\t\nd.\t\nAll tumors of the prostate unless histologically \n\t\n\t\n\t\nclassified as having a Gleason score \n\t\n\t\n\t\ngreater than 6 or having progressed to at least \n\t\n\t\n\t\nclinical TNM classification T2N0M0\n\t\n\t\ne.\t\nAll Thyroid cancers histologically classified as \n\t\n\t\n\t\nT1N0M0 (TNM Classification) or below;\n\t\n\t\nf.\t\nChronic lymphocytic leukemia less than RAI \n\t\n\t\n\t\nstage 3\n\t\n\t\ng.\t\nNon-invasive papillary can"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\nb.\t\nNew characteristic electrocardiogram changes\n\t\n\t\nc.\t\nElevation of infarction specific enzymes, \n\t\n\t\n\t\nTroponins or other specific biochemical \n\t\n\t\n\t\nmarkers.\n\t\nII.\t The following are excluded:\n\t\n\t\na.\t\nOther acute Coronary Syndromes\n\t\n\t\nb.\t\nAny type of angina pectoris\n\t\n\t\nc.\t\nA rise in cardiac biomarkers or Troponin T or \n\t\n\t\n\t\nI in absence of overt ischemic heart disease \n\t\n\t\n\t\nOR following an intra-arterial cardiac \n\t\n\t\n\t\nprocedure.\nDef. 5.\t\nOpen Heart Replac"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\n\t\nfor at least 96 hours;\n\t\n\t\nb.\t\nlife support measures are necessary to sustain \n\t\n\t\n\t\nlife; and\n\t\n\t\nc.\t\npermanent neurological deficit which must be \n\t\n\t\n\t\nassessed at least 30 days after the onset of \n\t\n\t\n\t\nthe coma.\n\t\nII.\t The condition has to be confirmed by a specialist \n\t\n\t\nmedical practitioner. \n\t\n\t\na.\t\nComa resulting directly from alcohol or drug \n\t\n\t\n\t\nabuse is excluded.\nDef. 12.\t End Stage Liver Failure\n\t\nI.\t\nPermanent and irreversible failure of liver f"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122."
+  },
+  {
+    "title": "INR 1,000,000. A 180-days waiting period will be",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "applicable for Angioplasty.\nDef. 20.\t End Stage Lung Failure\n\t\n\t\nEnd stage lung disease, causing chronic respiratory \n\t\n\t\nfailure, as confirmed and evidenced by all of the \n\t\n\t\nfollowing:\n\t\n\t\na.\t\nFEV1 test results consistently less than 1 liter \n\t\n\t\n\t\nmeasured on 3 occasions 3 months apart; and\n\t\n\t\nb.\t\nR e q u i r i n g  c o n t i n u o u s  p e r m a n e n t \n\t\n\t\n\t\nsupplementary oxygen therapy for hypoxemia; \n\t\n\t\n\t\nand\n\t\n\t\nc.\t\nArterial blood gas analysis with partial oxygen \n\t\n\t\n\t\npressure of 55mmHg or less (PaO2 < 5mmHg); \n\t\n\t\n\t\nand\n\t\n\t\nd.\t\nDyspnea at rest\nDef. 21.\t Major Head Trauma\n\t\na.\t A"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\n\t\nprogressive deterioration in kidney function; \n\t\n\t\n\t\nand\n\t\n\t\nc.\t\nthe Diagnosis of Medullary Cystic Disease is \n\t\n\t\n\t\nconfirmed by renal biopsy.\n\t\nII.\t Isolated or benign kidney cysts are specifically \n\t\n\t\nexcluded from this benefit.\nDef. 5.\t\nMuscular Dystrophy\n\t\n\t\nA group of hereditary degenerative diseases of \n\t\n\t\nmuscle characterized by weakness and atrophy \n\t\n\t\nof muscle. The diagnosis of muscular dystrophy \n\t\n\t\nmust be unequivocal and made by a Registered \n\t"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\nII.\t The diagnosis must be confirmed by a hematologist \n\t\n\t\nusing relevant laboratory investigations including \n\t\n\t\nBone Marrow Biopsy resulting in bone marrow \n\t\n\t\ncellularity of less than 25% which is evidenced by \n\t\n\t\nany two of the following:\n\t\n\t\na.\t\nAbsolute neutrophil count of less than 500/ \n\t\n\t\n\t\nmm\u00b3 or less\n\t\n\t\nb.\t\nPlatelets count less than 20,000/mm\u00b3 or less\n\t\n\t\nc.\t\nReticulocyte count of less than 20,000/mm\u00b3 or \n\t\n\t\n\t\nless\n\t\nIII.\t Temporary or reversible A"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\nreplacement therapy. The disorder must be \n\t\n\t\nconfirmed by a Registered Medical practitioner who \n\t\n\t\nis a specialist in endocrinology through one of the \n\t\n\t\nfollowing:\n\t\n\t\na."
+  },
+  {
+    "title": "ACTH simulation tests;",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "b.\t\ninsulin-induced hypoglycemia test;\n\t\n\t\nc.\t\nplasma ACTH level measurement;\n\t\n\t\nd.\t\nPlasma Renin Activity (PRA) level \n\t\n\t\n\t\nmeasurement.\n\t\nII.\t Only autoimmune cause of primary adrenal \n\t\n\t\ninsufficiency is included. All other causes of adrenal \n\t\n\t\ninsufficiency are excluded.\nDef. 19.\t Progressive Scleroderma\n\t\nI.\t\nA systemic collagen-vascular disease causing \n\t\n\t\nprogressive diffuse fibrosis in the skin, blood vessels \n\t\n\t\nand visceral organs. This diagnosis must be \n\t\n\t\nunequivocally supported by biopsy and serological \n\t\n\t\nevidence and the disorder must have reached \n\t\n\t\nsystemic propor"
+  },
+  {
+    "title": "CREST syndrome.",
+    "deductible": "catecholamines requiring the actual",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Def. 20.\t Progressive Supranuclear Palsy\n\t\n\t\nConfirmed by a Registered Medical practitioner \n\t\n\t\nwho is a specialist in neurology of a definite diagnosis \n\t\n\t\nof progressive Supranuclear palsy. There must \n\t\n\t\nbe permanent clinical impairment of motor function, \n\t\n\t\neye movement disorder and postural instability.\nDef. 21.\t Chronic Relapsing Pancreatitis\n\t\nI.\t\nAn unequivocal diagnosis of Chronic Relapsing \n\t\n\t\nPancreatitis, made by a Registered Medical \n\t\n\t\npractitioner who is a specialist in gastroenterology \n\t\n\t\nand confirmed as a continuing inflammatory disease \n\t\n\t\nof the pancreas character"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\nundergoing of surgery to remove the tumor.\n\t\nII.\t The Diagnosis of Pheochromocytoma must be \n\t\n\t\nconfirmed by a Registered Medical practitioner who \n\t\n\t\nis an endocrinologist.\nDef. 28.\t Crohn\u2019s Disease\n\t\nI.\t\nCrohn\u2019s Disease is a chronic, transmural inflammatory \n\t\n\t\ndisorder of the bowel. To be considered as severe, \n\t\n\t\nthere must be evidence of continued inflammation \n\t\n\t\nin spite of optimal therapy, with all of the following \n\t\n\t\nhaving occurred:\n\t\n\t\na.\t\nStrict"
+  },
+  {
+    "title": "SECTION VI \u2013 HEALTH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A. \t Personal Accident\nA1.\t Accidental Death\n\t\ni.\t\nCoverage\n\t\n\t\nWe will pay the Sum Insured, as specified in the \n\t\n\t\nSchedule of Coverage on Policy Schedule, if Insured \n\t\n\t\nPerson sustains Injury due to Accident during the \n\t\n\t\nPeriod of Insurance, which shall within twelve months \n\t\n\t\nof its occurrence be the sole and direct cause of \n\t\n\t\nDeath of Insured Person.\n\t\n\t\na)\t\nDisappearance \n\t\n\t\n\t\nWe will pay the Sum Insured in the event if \n\t\n\t\n\t\nInsured Person\u2019s body cannot be located within \n\t\n\t\n\t\n365 Days;\n\t\n\t\n\t\na.\t\nafter the forced landing, stranding, sinking \n\n31"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\n\t\n\t\nor wrecking of a conveyance in which \n\t\n\t\n\t\n\t\nInsured Person was known to be a \n\t\n\t\n\t\n\t\npassenger during Period of Insurance or;\n\t\n\t\n\t\nb.\t\nafter and as a result of any Catastrophic \n\t\n\t\n\t\n\t\nEvent during Period of Insurance it shall \n\t\n\t\n\t\n\t\nbe deemed, subject to all other terms \n\t\n\t\n\t\n\t\nand provisions of the Policy, that Insured \n\t\n\t\n\t\n\t\nPerson shall have suffered Death due to \n\t\n\t\n\t\n\t\nAccident under the Policy.\n\t\n\t\n\t\n\t\nIf at any time, after the payment of the"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n5\nPermanent Total Loss of Sight of \none eye and one Limb (physical \nseverance or the total and \npermanent loss of use of such \nLimb)\n100%\n6\nPermanent Total Loss of Speech\n100%\n7\nComplete removal of the lower \njaw\n100%\n8\nPermanent Total Loss of \nMastication\n100%\n9\nPermanent Total Loss of the \ncentral nervous system or the \nthorax and all abdominal organs \nresulting in the complete inability \nto engage in any job and the \ninability to carry out Daily \nActivities essenti"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\niv.\t\nBenefit Table D\nS. No\nThe Disablement\n% of Base \nSum \nInsured \nPayable\n1\nPermanent Total Disablement\n100%\n2\nPermanent and incurable \ninsanity\n100%\n3\nPermanent Total Loss of two \nLimbs (physical severance or \nthe total and permanent loss \nof use)\n100%\n4\nPermanent Total Loss of Sight in \nboth eyes\n100%\n5\nPermanent Total Loss of Sight of \none eye and one Limb\n100%\n6\nPermanent Total Loss of Speech\n100%\n7\nComplete removal of the lower \njaw\n100%\n8\nPermanent Total Loss "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n17\nA leg upto beneath the knee \n50%\n18\nA leg upto mid-calf \n45%\n19\nA foot at the ankle\n40%\n20\nA large toe \n5%\n21\nAny other toe \n2%\n22\nAny eye \n50%\n23\nHearing loss on one ear \n30%\n24\nHearing loss on both ears \n75%\n25\nSense of smell \n10%\n26\nSense of taste \n5%\n27\nPermanent disablement not \notherwise provided for under \nItems 2-26 inclusive up to a \nmaximum of\n75%\nii.\t\nTerms and Conditions applicable to Cover A2 \u2013 \n\t\nPermanent Disablement\n\t\ni.\t\nAnkylosis of the fingers (o"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": "as",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n4\nLoss of one hand and one foot\n5\nLoss of one eye one hand\n6\nLoss of one eye one foot\n7\nOther Permanent Total Disablement\nb)\t\nSpecial Conditions applicable to Credit Shield\n\t\ni.\t\nThe coverage under this section is applicable until \n\t\n\t\npolicy expiry or loan closure date, whichever is \n\t\n\t\nearlier.\nc)\t\nExclusions applicable to Credit Shield\n\t\nWe will not make any payment for any claim in respect of \n\t\nany Insured Person for, caused by, arising from or \n\t\nattributable t"
+  },
+  {
+    "title": "AYUSH treatment sustained due to an Injury are also",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "covered under \u2018Accidental Hospitalization Expenses\u2019 \ncover if undertaken in an AYUSH Hospital. However, \nany medical expense other than In-patient care AYUSH \ntreatment expenses are not covered under this cover.\nb.\t\nSpecial Conditions applicable to Accidental \n\t\nHospitalization Expenses\n\t\nThe Claims under this cover are subject to terms and \n\t\nconditions given below.\n\t\ni.\t\nRoom Rent & Proportionate deduction: Insured \n\t\n\t\nPerson is eligible for Room Rent category of up to \n\t\n\t\nSingle Standard AC Room.  In case of admission to \n\t\n\t\na room exceeding the aforesaid category, the \n\t\n\t\nreimbursement"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\ncessation programs and the treatment of nicotine \n\t\n\t\naddiction or alcohol addiction programs, any other \n\t\n\t\nsubstance abuse treatment or services, or supplies.\n\t\nii.\t\nWar or any act of war, invasion, act of foreign \n\t\n\t\nenemy(whether war be declared or not or caused \n\t\n\t\nduring service in the armed forces of any country), \n\t\n\t\ncivil war, public defence, rebellion, revolution, \n\t\n\t\ninsurrection, military or usurped acts, nuclear \n\t\n\t\nweapons/materials, chemical a"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\nCoverage under this Cover and subject to;\n\t\ni.\t\nSurvival Period\n\t\n\t\nClaim under this Section is payable only if Insured \t\n\t\n\t\nPerson survives 7 days from the diagnosis and \n\t\n\t\nfulfilment of the definition of the Major Medical Illness \n\t\n\t\ncovered and confirmatory diagnosis while the \n\t\n\t\nInsured Person is alive (A claim would not be \n\t\n\t\nadmitted if the diagnosis is made post mortem)\n\t\nii.\t\nNumber of Claims and Benefits payable\n\t\n\t\nOnly one Claim is payable during "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\nDissecting Aortic Aneurysm \nNA\nNA\nNA\nNA\nCovered\nCovered\nCovered\nSystemic Lupus Erythematous with \nLupus Nephritis\nNA\nNA\nNA\nNA\nCovered\nCovered\nCovered\nApallic Syndrome \nNA\nNA\nNA\nNA\nNA\nCovered\nCovered\nAplastic Anaemia\nNA\nNA\nNA\nNA\nNA\nCovered\nCovered\nBacterial Meningitis \nNA\nNA\nNA\nNA\nNA\nCovered\nCovered\nCardiomyopathy \nNA\nNA\nNA\nNA\nNA\nCovered\nCovered\nOther serious coronary artery \ndisease \nNA\nNA\nNA\nNA\nNA\nCovered\nCovered\nCreutzfeldt-Jakob Disease (CJD)\nNA\nNA\nNA\nNA\nNA\nCovered"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": "48 months",
+    "is_exclusion": true,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\nE.\t\nWaiting Period and Exclusions\ni.\t\nWaiting Period\n\t\nA waiting period of 48 months shall apply for all Pre- \n\t\nexisting Diseases Conditions declared and/or accepted \n\t\nat the time of first enrolment of Coverage under this \n\t\nSection.In case of enhancement of Sum Insured the \n\t\nexclusion shall apply afresh to the extent of Sum Insured \n\t\nincrease.\nii.\t\nGeneral Exclusions\n\t\nWe will not make payment for any claim in respect of \n\t\nany Insured Person caused by, arising f"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\nII.\t\nSpecific General Conditions\n1.\t\nLoadings\n\t\nI.\t\nWe may apply loading on the premium, based on the \n\t\n\t\ndeclarations made in the proposal form and the \n\t\n\t\nhealth status, habits and lifestyle, past medical \n\t\n\t\nrecords, and the results of the Pre-Policy medical \n\t\n\t\nexamination of the persons proposed for insurance.\n\t\nII.\t The maximum Medical Underwriting loading shall \n\t\n\t\nnot exceed 100% for each condition and a total of \n\t\n\t\n150% for each Insured Person\n\t\nIII.\t "
+  },
+  {
+    "title": "IPO (Mobile/Portal) app, e-mail, Call to",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "our call centre. \nParticulars to \nbe provided to \nUs for Claim \nnotification\n1.\t\nPolicy Number,\n2.\t\nName of the Insured Person(s) \n     named in the Policy schedule/ \n     Certificate availing treatment (if \n        applicable) \n3.\t\nNature of disease/illness/injury (if \n        applicable)\n4.\t\nName and address of the attending \n     Medical Practitioner/Hospital (if \n        applicable) \n5.\t\nDate of admission & probable date \n        of discharge (if applicable) \n6.\t\nFirst Information Report and Final \n    Police report, wherever is \n         necessary\n7.\t\nAny other supporting documents as \n  "
+  },
+  {
+    "title": "OT Notes in case of Surgery",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "7.\t\nMedical certificate from treating \n       Medical Practitioner specifying the \n         diagnosis and need for the surgery \n8.\t\nMLC/FIR copy/ certificate regarding \n         abuse of Alcohol/intoxicating agent \n        if applicable\n9.\t\nAll pathological/Histopathological \n     and radiological Investigation \n        Reports"
+  },
+  {
+    "title": "10.\t NEFT details & cancelled cheque of",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Claimant or Nominee (in case \n     claimant expired), Provide legal \n      heir certificate in case nominee is \n        minor.\n\n41"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122."
+  },
+  {
+    "title": "11.\t P r o v i d e  K Y C  ( K n o w  y o u r",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "customer)  form along with \n       photocopy of any one of following"
+  },
+  {
+    "title": "KYC documents for all claims",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "amounting to Rs 1 lakh and \n     above (Aadhaar Card, Passport, \n        Driving License Voter ID, etc)"
+  },
+  {
+    "title": "12.\t Other necessary document as",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "required by the Company\nWe may require the Insured Person to \nundergo medical examination by Medical \nPractitioner authorized by Us to obtain \nan independent medical opinion for \nthe processing of the claim. Any cost \ntowards such medical examination will \nbe borne by Us.\nClaims \ndocuments to \nbe submitted \nfor Accidental \nDeath\n1.\t\nMedical Practitioner\u2019s Report\n2.\t\nMedico Legal Certificate\n3.\t\nDeath certificate\n4.\t\nPost mortem if conducted/FSL \n     (Forensic science laboratory) \n    report \u2013 To check for drug \n         abuse/intoxication\n5.\t\nMLC/FIR copy/ certificate regarding \n     abuse of"
+  },
+  {
+    "title": "ERGO GIC or certificate from Hospital authorities",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "providing facilities available including number of \n\t\n\t\nbeds.\n\t\nv.\t\nDischarge Card / Day Care Summary / Transfer \n\t\n\t\nSummary \n\t\nvi.\t Final hospital bill with all deposit and final payment \n\t\n\t\nreceipt and refund receipt(s), if advance amount \n\t\n\t\nrefunded\n\t\nvii.\t Invoice with payment receipt and implant stickers for \n\t\n\t\nall implants used during surgeries e.g. lens sticker \n\t\n\t\nand invoice in cataract Surgery, stent invoice and \n\t\n\t\nsticker in Angioplasty Surgery. \n\t\nviii.\tAll previous consultation papers indicating history \n\t\n\t\nand treatment details for current Illness and advice \n\t\n\t\nfor cu"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\nxiii.\t Copy of Death Summary and copy of Death Certificate \n\t\n(in death claims only) \nxiv.\t Pre and Post-Operative Imaging reports\nxv.\t\nCopy of indoor case papers with nursing sheet detailing \n\t\nmedical history of the patient, treatment details, and \n\t\npatient\u2019s progress (to be submitted wherever required \n\t\nby the insurer).\nxvi.\t Invoice for Vaccination and payment receipt \nxvii.\t KYC documents (in all claims above Rs 1 lakh) - (Ration \n\t\nCard/ Driving License/ Aadha"
+  },
+  {
+    "title": "KYC form with 1 signed across passport size coloured",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "photograph of the Claimant ***\nxviii.\t Duly filled NEFT form with cancelled blank cheque (with"
+  },
+  {
+    "title": "IFSC code, A/C number, and name mentioned on cheque",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "leaf)\nxix.\t Settlement letter(s), copy (-ies) of payment receipts, \n\t\nand entire certified copy of paid claims in case of partial \n\t\nclaim settlement from other insurer.\n\t\n*** In case of death of Insured Person, the same \n\t\ndocument requirement would be for nominee/legal \n\t\nheir of Insured Person(NOC in favour of 1 or more than 1 \n\t\nundisputedly selected legal heir(s) by remaining legal \n\t\nheir(s).\n2.\t\nConditions for obtaining Cashless facility\t\n\t\ni.\t\nCashless facility can be availed only at Our Network \n\t\n\t\nProvider. The complete list of Network Providers and \n\t\n\t\nempanelled Service Providers"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Co.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Ltd. Stellar IT Park, Tower-1, 5th Floor,"
+  },
+  {
+    "title": "C - 25, Noida, Sector 62, 201301,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Uttar Pradesh."
+  },
+  {
+    "title": "PART \u2013 A",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A."
+  },
+  {
+    "title": "CHECKED BAGGAGE LOSS \u2013 INDEMNITY BASED",
+    "deductible": ", if applicable, shall be deducted from",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If, during the Period of Insurance, the Baggage, Personal \n\t\nDocuments and/or Personal Effects that have been \n\t\nchecked in on the same Common Carrier as a travelling \n\t\nInsured Person, are damaged or lost, then the Company \n\t\nwill reimburse the Insured Person cost of replacement of \n\t\nthe baggage and/or articles as per the terms mentioned in \n\t\nthe Policy Schedule / Certificate of Insurance. The \n\t\nDeductible, if applicable, shall be deducted from the \n\t\nCompensation payable.\n\t\nSpecific Conditions\n\t\n1)\t All claims will be subject to the Company assessing \n\t\n\t\nthe value of the claim based on t"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\nand baggage slips and submit them when a claim \n\t\n\t\nis made;\n\t\n5)\t submit original purchase receipts in the event of \n\t\n\t\nclaims regarding goods purchased during the \n\t\n\t\nInsured Journey; and\n\t\n6)\t for claims involving jewellery, submit original or \n\t\n\t\ncertified copies of valuation certificates issued prior \n\t\n\t\nto the commencement of the Period of Insurance, \n\t\n\t\nwhen a claim is made.\n\t\nFor purposes of any claim hereunder:\n\t\n1)\t a pair of skis, ski boots and acc"
+  },
+  {
+    "title": "BAGGAGE DELAY \u2013 INDEMNITY BASED",
+    "deductible": "stated in the Policy Schedule",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "If, during the Period of Insurance, the baggage and/or \n\t\npersonal effects owned by or in the custody of an Insured \n\t\nPerson is delayed or misdirected for more than the \n\t\nDeductible stated in the Policy Schedule/ Certificate \n\t\nof Insurance, then the Company will reimburse the \n\t\ninsured person the cost of necessary personal effects up \n\t\nto the Sum Insured stated in the Policy Schedule/ \n\t\nCertificate of Insurance.\n\t\nSpecific Conditions\n\t\n1)\t The baggage and/or personal effects must have \n\t\n\t\nbeen checked in as registered baggage by the \n\t\n\t\nairline operating under a licence issued by a \n\t\n"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n2)\t confiscation of baggage by customs or any \n\t\n\t\ngovernment authority.\n\t\n3)\t purchases made after arriving in the final destination \n\t\n\t\nmentioned on the airline ticket.\n\t\n4)\t baggage and/or personal effects sent under an \n\t\n\t\nairway-bill or bill of lading.\n\t\n5)\t delays due to a strike or industrial action existing or \n\t\n\t\nannounced before the start of the journey.\n\t\n6)\t delays due to withdrawal of aircraft from service by \n\t\n\t\nany civil aviation authority of whic"
+  },
+  {
+    "title": "LOSS OF BAGGAGE & PERSONAL DOCUMENTS \u2013",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "INDEMNITY BASED",
+    "deductible": ", if applicable, shall be deducted from",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If, during the Period of Insurance, the Baggage, Personal \n\t\nDocuments owned by or in the custody of an Insured \n\t\nPerson are damaged or lost, then the Company will \n\t\nreimburse the Insured Person the cost of replacement of \n\t\nthe baggage and/or articles as per the terms mentioned in \n\t\nthe Policy Schedule / Certificate of Insurance. The \n\t\nDeductible, if applicable, shall be deducted from the \n\t\nCompensation payable.\n\t\nSpecific Conditions\n\t\n1)\t All claims will be subject to the Company assessing \n\t\n\t\nthe value of the claim based on the age and \n\t\n\t\nestimated wear and tear of the article that "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n11)\t a claim involving animals.\n\t\n12)\tloss, including but not limited to loss by theft, or \n\t\n\t\ndamage to vehicles or other accessories.\n\t\n13)\tfor any loss that is not reported either to the \n\t\n\t\nappropriate police authority or transport carrier within \n\t\n\t\ntwenty four (24) hours of discovery or if the carrier \n\t\n\t\nis an airline if a property irregularity report is not \n\t\n\t\nobtained.\n\t\n14)\tbaggage and/or personal effects sent under an \n\t\n\t\nairway-bill or bill of lad"
+  },
+  {
+    "title": "MISSING OF CONNECTING FLIGHT DURING",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "TRANSIT \u2013 INDEMNITY BASED",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Company hereby agrees subject to the terms, \n\t\nconditions and exclusions herein contained or otherwise \n\t\nexpressed herein, to compensate the Insured Person(s) a \n\t\nsum not exceeding the Sum Insured / Limit of Liability, \n\t\nunless otherwise agreed by the Company, in the event \n\t\nthe Insuredfails to take a connecting flight of an Airline \n\t\ndue to the delay in arrival of another flight in which the \n\t\nInsured is travelling. The Company pays for the following \n\t\nexpenses\n\t\nAdditional Transportation costs to join the trip (must be \n\t\nsame class of original tickets purchased) upto the \n\t\nmaxim"
+  },
+  {
+    "title": "1.\t The Insured Person(s) has actually boarded the first",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "flight."
+  },
+  {
+    "title": "2.\t The Insured misses his/her connecting flight solely",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "due to the delay in arrival of another flight in which \n\t\n\t\nthe Insured is travelling."
+  },
+  {
+    "title": "3.\t Incase geographical scope is chosen as international",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(out of India) then there should be a minimum 6 hour \n\t\n\t\ndelay in arrival of flight in which the Insured is \n\t\n\t\ntravelling for this benefit to trigger."
+  },
+  {
+    "title": "4.\t Incase geographical scope is chosen as domestic",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(restricted to India) then there should be a minimum \n\t\n\t\n3 hour delay in arrival of flight in which the Insured \n\t\n\t\nis travelling for this benefit to trigger."
+  },
+  {
+    "title": "5.\t If the Insured Person(s) receives any form of",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "compensation from the common carrier, that will be \n\t\n\t\nadjusted against any compensation under this \n\t\n\t\nsection.\nE."
+  },
+  {
+    "title": "HIJACKING",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "If during the Period of Insurance an Insured Person \n\t\nis travelling on board a Common Carrier which is \n\t\nHijacked, then the Company agrees to pay to the Insured \n\t\nPerson the Compensation stated in the Policy Schedule/ \n\t\nCertificate of Insurance for every six (6) continuous hours \n\t\nupto the maximum number of hours as mentioned in the \n\t\nPolicy Schedule/ Certificate of Insurance.\n\t\nSpecific Definitions\n\t\n1)\t Hijacked means the unlawful seizure or wrongful \n\t\n\t\nexercise of control of a Common Carrier, or the crew \n\t\n\t\nthereof.\n\t\nSpecific Exclusions\n\t\nThe Company shall not be liable to pay an"
+  },
+  {
+    "title": "FLIGHT DELAY \u2013 INDEMNITY BASED",
+    "deductible": "of the",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "If during the Period of Insurance, the flight on which an \n\t\nInsured Person is due to travel is delayed in excess of the \n\t\nDeductible, then the Company agrees to reimburse \n\t\nup to the amount stated in the Policy Schedule/ Certificate \n\t\nof Insurance, for essential purchases, such as meals, \n\t\nrefreshments or other related expenses directly resulting \n\t\nfrom the:\n\t\n1)\t delay of the Insured Person\u2019s booked and confirmed \n\t\n\t\nflight.\n\t\n2)\t late arrival of the Insured Person\u2019s connecting \n\t\n\t\nflight causing the Insured Person to miss his or her \n\t\n\t\nonward connection.\n\t\nSpecific Conditions\n\t\n1)\t"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n1)\t arising or as the result of chartered flights, unless \n\t\n\t\nsuch flights are registered in the International Data \n\t\n\t\nSystem.\n\t\n2)\t if comparable alternative transport has been made \n\t\n\t\navailable within six (6) hours after scheduled \n\t\n\t\ndeparture time or within six (6) hours of an actual \n\t\n\t\nconnecting flight arrival time.\n\t\n3)\t if an Insured Person fails to check-in according to \n\t\n\t\nthe itinerary supplied, unless it is due to a strike.\n\t\n4)\t if the delay is"
+  },
+  {
+    "title": "EMERGENCY MEDICAL EXPENSES",
+    "deductible": "or Franchise, if applicable, shall be",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If, during the Period of Insurance, an Insured Person \n\t\nsustains Bodily Injury or sudden unexpected Sickness, \n\t\nthen the Company will reimburse the Insured Person the \n\t\nnecessary Reasonable and Customary Charges \n\t\nnecessary Reasonable and Customary Charges, \n\t\nincurred within twelve (12) months from the Date of \n\t\nLoss up to the Sum Insured stated in the Policy Schedule. \n\t\nThe Deductible or Franchise, if applicable, shall be \n\t\ndeducted from the Compensation payable.\n\t\nSpecific Conditions\n\t\n1)\t Medical Expenses shall include and be limited to the \n\t\n\t\nfollowing services:\n\t\n\t\na)\t\nRoom rent"
+  },
+  {
+    "title": "AYUSH treatment sustained due to an Injury are also",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "covered under \u2018Accidental Hospitalization Expenses\u2019 \ncover if undertaken in an AYUSH Hospital. However, \nany medical expense other than In-patient care AYUSH \ntreatment expenses are not covered under this cover.\n\t\nSpecific Definitions\n\t\n1)\t Ambulatory Medical Centre means a licensed facility \n\t\n\t\nproviding ambulatory surgical or medical treatment, \n\t\n\t\nother than a Hospital, clinic or Physician\u2019 s office.\n\t\n2)\t Reasonable and Customary Charges means the \n\t\n\t\ncharges for services or supplies, which are the \n\t\n\t\nstandard charges for a specific provider and \n\t\n\t\nconsistent with the prevailing cha"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\n\t\nprovisions of the Policy, that Insured Person \n\t\n\t\n\t\nshall have suffered Death due to Accident \n\t\n\t\n\t\nunder the Policy.\n\t\n\t\n\t\nIf at any time, after the payment of the \n\t\n\t\n\t\nAccidental death benefit, it is discovered that \n\t\n\t\n\t\nthe Insured Person is still alive, claims settled \n\t\n\t\n\t\nin respect of Disappearance benefit shall be \n\t\n\t\n\t\nreimbursed in full to the Company.\n\t\nb)\t Comatose\n\t\n\t\nIf Insured Person sustains Injury during Period of \n\t\n\t\nInsurance which re"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\nliability during the lifetime of the Policy will not exceed \n\t\n\t\nthe Base Sum Insured in respect of the Cover.\n\t\n\t\nIn respect to Comatose, Accidental Death \u2013 Road \n\t\n\t\nbenefit Sum Insured is restricted to 25%, unless \n\t\n\t\notherwise specified in the Policy Schedule / \n\t\n\t\nCertificate of Insurance.\nH4. \t ACCIDENTAL DEATH - RAIL\n\t\nWe will pay the Sum Insured, as specified in the Policy \n\t\nSchedule/ Certificate of Insurance., if the Insured Person \n\t\nriding as a fare "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\nsuch as drugs and alcohol, including smoking \n\t\n\t\ncessation programs and the treatment of nicotine \n\t\n\t\naddiction or alcohol addiction programs, any other \n\t\n\t\nsubstance abuse treatment or services, or supplies.\n\t\nii.\t\nWar or any act of war, invasion, act of foreign \n\t\n\t\nenemy(whether war be declared or not or caused \n\t\n\t\nduring service in the armed forces of any country), \n\t\n\t\ncivil war, public defence, rebellion, revolution, \n\t\n\t\ninsurrection, military or usurpe"
+  },
+  {
+    "title": "KEY REPLACEMENT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If during the Period of Insurance an Insured Person \n\t\nsustains Bodily Injury or Sickness resulting in the Insured \n\t\nPerson being hospitalised the minimum number of days \n\t\nmentioned in the Policy Schedule/ Certificate of \n\t\nInsurance or having to be repatriated, then the Company \n\t\nagrees to pay for a round trip economy class air ticket or a \n\t\nfirst class train ticket up to the Total Sum Insured \n\t\nstated in the Policy Schedule/ Certificate of Insurance for \n\t\na replacement of a Close Business Associate as \n\t\ndesignated by the Policyholder to continue the Insured \n\t\nPerson\u2019s mission, on the"
+  },
+  {
+    "title": "PGA / other International Golf Associations",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Claim Payment shall be subject to the full compliance \n\t\nwith the terms and conditions and the rules of the \n\t\ntournaments conducted / certified by PGA / United \n\t\nStates Golfers\u2019 Association (USGA) / Other International \n\t\nGolf Associations.\n\t\nSpecific Exclusions"
+  },
+  {
+    "title": "1.\t Claims where the player has not been listed as a",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Participant in the Tournament."
+  },
+  {
+    "title": "2.\t Claims originating on a non-Target Hole.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "3.\t Any claims where the Hole in One has not been",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "correctly adjudicated or failure of the Insured to follow \n\t\n\t\nthe claims procedure."
+  },
+  {
+    "title": "4.\t Consequential loss of whatever nature arising",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "from the tournaments conducted / certified by PGA \n\t\n\t\n/ Other International Golf Associations."
+  },
+  {
+    "title": "GENERAL EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "We will not make any payment for any claim in respect of any \nInsured Person for, caused by, arising from or attributable to \nany of the following unless expressly stated to the contrary in \nthe Policy Schedule / Certificate of Insurance:\nI.\t\nStandard General Exclusions\n\t\n1)\t Breach of Law: Code \u2013 Excl10: Expenses for \n\t\n\t\ntreatment directly arising from or consequent upon \n\t\n\t\nany Insured Person committing or attempting to \n\t\n\t\ncommit a breach of law with criminal intent.\n\t\n2)\t Hazardous or Adventure Sports: Code \u2013 Excl09: \n\t\n\t\nExpenses related to any treatment necessitated due \n\t\n\t\nto partic"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": "Claims falling within Deductible limit,",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\nii.\t\nThe surgery/Procedure conducted should be \n\t\n\t\n\t\nsupported by clinical protocols\n\t\n\t\niii.\t\nThe member has to be 18 years of age or older \n\t\n\t\n\t\nand\n\t\n\t\niv.\t\nBody Mass Index (BMI)\n\t\n\t\n\t\nA.\t\ngreater than or equal to 40 or\n\t\n\t\n\t\nB.\t\ngreater than or equal to 35 in conjunction \n\t\n\t\n\t\n\t\nwith any of the following severe co- \n\t\n\t\n\t\n\t\nmorbidities following failure of less \n\t\n\t\n\t\n\t\ninvasive methods of weight loss:\n\t\n\t\n\t\n\t\n1)\t Obesity-related cardiomyopathy\n\t\n\t\n\t\n\t\n2)\t "
+  },
+  {
+    "title": "GENERAL CONDITIONS, TERMS & CLAUSES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "I.\t\nStandard General Conditions\n\t\n1)\t Nomination\n\t\n\t\nThe Policyholder is required at the inception \n\t\n\t\nof the Policy to make a nomination for the purpose \n\t\n\t\nof payment of claims under the Policy in the event \n\t\n\t\nof death of the Policyholder. Any change of \n\t\n\t\nnomination shall be communicated to the Company \n\t\n\t\nin writing and such change shall be effective only \n\t\n\t\nwhen an endorsement on the Policy is made. In the \n\t\n\t\nevent of death of the Policyholder, the Company \n\t\n\t\nwill pay the nominee {as named in the Policy \n\t\n\t\nSchedule / Certificate of Insurance (if any)} and in \n\t\n\t\ncase there"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\ncondition precedent to the Company\u2019s liability \n\t\n\t\nhereunder.\n\t\n3)\t Where the Insured Person is required in Terms of this \n\t\n\t\nPolicy to perform any act or comply with any \n\t\n\t\nobligation timely performance or compliance shall be \n\t\n\t\na condition precedent to the Company\u2019s liability \n\t\n\t\nhereunder.\n\t\n4)\t Insurance in respect of an Insured Person will begin \n\t\n\t\nunder this Policy after the following are true:\n\t\n\t\na.\t\nthis Policy is in force;\n\t\n\t\nb.\t\nthe Insured Pe"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\nterminate at the expiry of the period for which \n\t\n\t\npremium has already been paid.\n\t\n13)\tEndorsements\n\t\n\t\nThe following endorsements are permissible during \n\t\n\t\nthe Coverage Period:\n\t\n\t\n\u2022\t\nNon-Financial Endorsements \u2013 which do not \n\t\n\t\n\t\naffect the premium\n\t\nviii.\tMinor rectification/correction in name of the Insured \n\t\n\t\nPerson (and not the complete name change)\n\t\nix.\t Rectification in gender of the Insured Person (if this \n\t\n\t\ndoes not impact the premium)\n\t\nx.\t"
+  },
+  {
+    "title": "GENERAL CLAIMS PROVISIONS:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1)\t\nAll certificates, information and evidence required \n\t\nby the Company shall be furnished at no expense to the \n\t\nCompany and shall be in such form and of such nature as \n\t\nthe Company may prescribe. When required by the \n\t\nCompany, at its own expense, the Insured Person shall \n\t\nsubmit to medical examination in respect of any alleged \n\t\nclaim that may give rise to a benefit being paid.\n2)\t\nComplete, written proof of loss must be given to the \n\t\nCompany within sixty (60) Days after the Date of Loss, \n\t\nor as soon as reasonably possible.  Such proof of loss \n\t\nmust contain:\n\t\ni)\t\nthe Policy "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n6)\t\nIn the event of a claim under this Policy, the \n\t\n\t\nPolicyholder and the Insured Person must fully \n\t\n\t\ncooperate with the Company in its handling of the \n\t\n\t\nclaim including, but not limited to, the timely \n\t\n\t\nsubmission of all medical and other reports, and full \n\t\n\t\nCupertino with all physical examinations and \n\t\n\t\nautopsies that the Company may require.\n7)\t\nThe Company shall not be bound or be affected by \n\t\n\t\nany notice of any trust, charge, lien, or other d"
+  },
+  {
+    "title": "SECTION VIII \u2013 CORPORATE BUFFER",
+    "deductible": "amount will apply to this extension.",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The cover provides a buffer amount for sections mentioned \nin the Schedule against this cover. Insured can avail benefit \nfrom this buffer whenever Per Members or Annual Aggregate \nlimit gets exhausted in a policy\nThis cover is not applicable to Section V - Cyber Liability\nCondition for Utilization of Corporate Buffer - \ni.\t\nFinal adjustment of corporate buffer shall be done only \n\t\nwhen Sum Insured Aggregate Limits OR Per Member \n\t\nLimits gets exhausted\nii.\t\nThe Section will be applicable only for those claims which \n\t\nare liable to be paid under this policy.\niii.\t\nNo Deductible amount will a"
+  },
+  {
+    "title": "SECTION IX \u2013 WELLNESS SERVICES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "All the below benefits are a bundled offering and must be \nchosen in its entirety. The below benefits would be serviced \nby our empanelled Service Provider on per Insured Person \nper Policy Year basis.\nNote for all Insured persons:\ni.\t\nConsultation must not be considered a substitute to \n\t\nmedical opinion or advise nor shall the same be pursued \n\t\nover a medical advice or opinion given by treating Medical \n\t\nPractitioner\nii.\t\nBy seeking Tele/Video/Physical consultation under this \n\t\nbenefit, the Insured Person is not prohibited or advised \n\t\nagainst visiting or consulting with any other indepe"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": "s as per the Policy",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\nto indemnify treatment costs, the Insured Person \n\t\n\t\nshall have the right to require a settlement of his/ \n\t\n\t\nher claim in terms of any of his/her policies. In all \n\t\n\t\nsuch cases the Insurer chosen by the Insured Person \n\t\n\t\nshall be obliged to settle the claim as long as the \n\t\n\t\nclaim is within the limits of and according to the terms \n\t\n\t\nof the chosen Policy.\n\t\nii.\t\nInsured Person having multiple policies shall also \n\t\n\t\nhave the right to prefer claims unde"
+  },
+  {
+    "title": "IRDAI guidelines on Migration. If such person is presently",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "covered and has been continuously covered without \n\t\nany lapses under any health insurance product/plan \n\t\noffered by the Company, the Insured Person will get the \n\t\naccrued continuity benefits in waiting periods as per"
+  },
+  {
+    "title": "IRDAI guidelines on Migration.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "For Detailed Guidelines on Migration, kindly refer the link\n\t\nhttps://www.irdai.gov.in/ADMINCMS/cms/frmGuidelines_ \n\t\nLayout.aspx?page=PageNo3987\n4.\t\nPortability\n\t\nThe Insured Person will have the option to port the Policy \n\t\nto other insurers by applying to such Insurer to port the \n\t\nentire Policy along with all the members of the family, \n\t\nif any, at least 45 days before, but not earlier than 60 \n\t\ndays from the Policy renewal date as per IRDAI \n\t\nguidelines related to Portability. If such person is \n\t\npresently covered and has been continuously covered \n\t\nwithout any lapses under any heal"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n\t\n\t\nOutstanding as defined under the Policy . In the \n\t\n\t\nevent of any monies payable under this Policy \n\t\n\t\nexceeding the Principal Outstanding, the Company \n\t\n\t\nshall pay such monies as exceeding the Principal \n\t\n\t\nOutstanding to the Insured/Nominee ;\n\t\niii.\t The receipt of such monies in the manner aforesaid \n\t\n\t\nby the Bank/Financial Institution as named in the \n\t\n\t\nSchedule of this Policy and the Insured shall \n\t\n\t\ncompletely discharge the Company from all liabil"
+  },
+  {
+    "title": "TO ALL SECTION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If you have a grievance that you wish us to redress, you may \ncontact us with the details of your grievance through:\nOur Grievance Redressal Officer\n\u2022\t\nCall Centre - 120 6234 6234 / 022-6234 6234\n\u2022\t\nEmails \u2013 grievance@hdfcergo.com \t\n\u2022\t\nContact Details for Senior Citizens: 022 6242 6226 | \nEmail ID: seniorcitizen@hdfcergo.com Designated \nGrievance Officer in each branch.\n\u2022\t\nCompany Website \u2013 www.hdfcergo.com \n\u2022\t\nCourier - Any of our Branch office or corporate office\nYou may also approach the Complaint & Grievance (C&G) \nRedressal Cell at any of our branches with the details of your \ngrievance d"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\nThe Complaint & Grievance Redressal Cell ,"
+  },
+  {
+    "title": "HDFC ERGO General Insurance The Company Ltd.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301,3rd Floor, Eastern Business District (Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West), Mumbai \u2013 400078, Maharashtra",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In case you are not satisfied with the response / resolution \ngiven / offered by the C&G cell, then you can write to the \nChief Grievance Officer of the Company at the following \naddress \nTo the Chief Grievance Officer"
+  },
+  {
+    "title": "HDFC ERGO General Insurance The Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District (Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West), Mumbai - 400078, Maharashtra",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "e-mail: cgo@hdfcergo.com\nGrievance may also be lodged at IRDAI Integrated Grievance \nManagement system- \u00a0https://bimabharosa.irdai.gov.in  \nYou may also approach the nearest Insurance Ombudsman \nfor resolution, if your grievance is not redressed by the \nCompany. The contact details of Ombudsman offices are \nbelow if your grievance pertains to: \n\u2022\t\nInsurance claim that has been rejected or dispute of a \nclaim on legal construction of the policy \n\u2022\t\nDelay in settlement of claim \n\u2022\t\nDispute with regard to premium \n\u2022\t\nNon-receipt of your insurance document\nYou may also refer Our website www.hdfcer"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\nNames of Ombudsman and Addresses of Ombudsmen Centres"
+  },
+  {
+    "title": "AHMEDABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Prakash Building, 6th floor, Tilak Marg, Relief Road, \nAhmedabad \u2013 380 001.\nTel.: 079 - 25501201/02\nEmail: bimalokpal.ahmedabad@cioins.co.in\nGujarat, Dadra & Nagar Haveli, Daman and Diu."
+  },
+  {
+    "title": "BENGALURU",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Soudha Building, PID No. 57-27-N-19,  \nGround Floor, 19/19, 24th Main Road,"
+  },
+  {
+    "title": "JP Nagar, Ist Phase,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Bengaluru \u2013 560 078.\nTel.: 080 - 26652048 / 26652049\nEmail: bimalokpal.bengaluru@cioins.co.in\nKarnataka."
+  },
+  {
+    "title": "BHOPAL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n1st floor,\u201dJeevan Shikha\u201d, 60-B,Hoshangabad Road, \nOpp. Gayatri Mandir, Bhopal \u2013 462 011. \nTel.: 0755 - 2769201 / 2769202 \nEmail: bimalokpal.bhopal@cioins.co.in\nMadhya Pradesh, Chattisgarh."
+  },
+  {
+    "title": "BHUBANESHWAR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n62, Forest park, Bhubneshwar \u2013 751 009.\nTel.: 0674 - 2596461 /2596455\nFax: 0674 - 2596429\nEmail: bimalokpal.bhubaneswar@cioins.co.in\nOrissa."
+  },
+  {
+    "title": "CHANDIGARH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,  \nJeevan Deep Building SCO 20-27, \nGround Floor Sector- 17 A, Chandigarh \u2013 160 017. \nTel.: 0172-2706468 \nEmail: bimalokpal.chandigarh@cioins.co.in\nState of Punjab, Haryana (excluding 4 districts vizGurugram, \nFaridabad, Sonepat and Bahadurgarh), Himachal Pradesh, Union \nTerritories of Jammu &Kashmir, Ladakh and Chandigarh."
+  },
+  {
+    "title": "CHENNAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nFatima Akhtar Court, 4th Floor, 453,\nAnna Salai, Teynampet,"
+  },
+  {
+    "title": "CHENNAI \u2013 600 018.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 044 - 24333668 / 24333678\nFax: 044 - 24333664\nEmail: bimalokpal.chennai@cioins.co.in\nTamil Nadu, Puducherry Town and Karaikal (which are part of \nPuducherry)."
+  },
+  {
+    "title": "DELHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2/2 A, Universal Insurance Building,\nAsaf Ali Road,\nNew Delhi \u2013 110 002.\nTel.: 011 - 23237539\nEmail: bimalokpal.delhi@cioins.co.in\nDelhi, 4 districts of Haryana vizGurugram, Faridabad, Sonepat and \nBahadurgarh)\n\n58"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122."
+  },
+  {
+    "title": "AHMEDABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Prakash Building, 6th floor, Tilak Marg, Relief Road, \nAhmedabad \u2013 380 001.\nTel.: 079 - 25501201/02\nEmail: bimalokpal.ahmedabad@cioins.co.in\nGujarat, Dadra & Nagar Haveli, Daman and Diu."
+  },
+  {
+    "title": "GUWAHATI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Nivesh, 5th Floor,\nNr. Panbazar over bridge, S.S. Road,\nGuwahati \u2013 781001 (ASSAM).\nTel.: 0361 - 2632204 / 2602205\nEmail: bimalokpal.guwahati@cioins.co.in\nAssam, Meghalaya, Manipur, Mizoram, Arunachal Pradesh, \nNagaland and Tripura."
+  },
+  {
+    "title": "HYDERABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6-2-46, 1st floor, \u201cMoin Court\u201d,\nLane Opp. Saleem Function Palace,\nA. C. Guards, Lakdi-Ka-Pool,\nHyderabad - 500 004.\nTel.: 040 - 23312122\nEmail: bimalokpal.hyderabad@cioins.co.in\nState of Andhra Pradesh, Telangana and Yanam \u2013 a part of Union \nTerritory of Puducherry"
+  },
+  {
+    "title": "JAIPUR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Nidhi \u2013 II Bldg., Gr. Floor,\nBhawani Singh Marg,\nJaipur - 302 005.\nTel.: 0141 - 2740363 /2740798\nEmail: bimalokpal.jaipur@cioins.co.in\nRajasthan."
+  },
+  {
+    "title": "KOCHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \n10th Floor, Jeevan Prakash,LIC Building, \nOpp to Maharaja\u2019s College Ground,M.G.Road, \nKochi - 682 011. \nTel.: 0484 - 2358759 \nEmail: bimalokpal.ernakulam@cioins.co.in\nKerala, Lakshadweep, Mahe-a part of Union Territory of Puducherry."
+  },
+  {
+    "title": "KOLKATA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nHindustan Bldg. Annexe, 4th Floor,\n4, C.R. Avenue,"
+  },
+  {
+    "title": "KOLKATA - 700 072.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 033 - 22124339 \nFax : 033 - 22124341\nEmail: bimalokpal.kolkata@cioins.co.in\nStates of West Bengal, Sikkim and Union Territories of Andaman & \nNicobar Islands"
+  },
+  {
+    "title": "LUCKNOW",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6th Floor, Jeevan Bhawan, Phase-II,\nNawal Kishore Road, Hazratganj,\nLucknow - 226 001.\nTel.: 0522 - 4002082 / 3500613\nEmail: bimalokpal.lucknow@cioins.co.in\nDistricts of Uttar Pradesh :\nLalitpur, Jhansi, Mahoba, Hamirpur, Banda, Chitrakoot, Allahabad, \nMirzapur, Sonbhabdra, Fatehpur, Pratapgarh, Jaunpur, Varanasi, \nGazipur, Jalaun, Kanpur, Lucknow, Unnao, Sitapur, Lakhimpur, \nBahraich, Barabanki, Raebareli, Sravasti, Gonda, Faizabad, \nAmethi, Kaushambi, Balrampur, Basti, Ambedkarnagar, Sultanpur, \nMaharajgang, Santkabirnagar, Azamgarh, Kushinagar, Gorkhpur, \n"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122."
+  },
+  {
+    "title": "AHMEDABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Prakash Building, 6th floor, Tilak Marg, Relief Road, \nAhmedabad \u2013 380 001.\nTel.: 079 - 25501201/02\nEmail: bimalokpal.ahmedabad@cioins.co.in\nGujarat, Dadra & Nagar Haveli, Daman and Diu."
+  },
+  {
+    "title": "MUMBAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n3rd Floor, Jeevan Seva Annexe,\nS. V. Road, Santacruz (W),\nMumbai - 400 054.\nTel.: 022 - 69038800/27/29/31/32/33\nEmail: bimalokpal.mumbai@cioins.co.in\nGoa, Mumbai Metropolitan Region excluding Navi Mumbai & Thane."
+  },
+  {
+    "title": "NOIDA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nBhagwan Sahai Palace\n4th Floor, Main Road,\nNaya Bans, Sector 15,\nDistt: Gautam Buddh Nagar,\nU.P - 201301.\nTel.: 0120-2514252 / 2514253\nEmail: bimalokpal.noida@cioins.co.in\nState of Uttaranchal and the following Districts of Uttar Pradesh:\nAgra, Aligarh, Bagpat, Bareilly, Bijnor, Budaun, Bulandshehar, \nEtah, Kanooj, Mainpuri, Mathura, Meerut, Moradabad, \nMuzaffarnagar, Oraiyya, Pilibhit, Etawah, Farrukhabad, Firozbad, \nGautambodhanagar, Ghaziabad, Hardoi, Shahjahanpur, \nHapur, Shamli, Rampur, Kashganj, Sambhal, Amroha, Hathras, \nKanshiramnagar, Saharanpur."
+  },
+  {
+    "title": "PATNA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2nd Floor, Lalit Bhawan, \nBailey Road, \nPatna 800 001. \nTel.: 0612-2547068 \nEmail: bimalokpal.patna@cioins.co.in\nBihar, Jharkhand."
+  },
+  {
+    "title": "PUNE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Darshan Bldg., \n3rd Floor,C.T.S. No.s. 195 to 198,\nN.C. Kelkar Road,  \nNarayan Peth,\nPune \u2013 411 030.\nTel.: 020-24471175\nEmail: bimalokpal.pune@cioins.co.in\nMaharashtra, Area of Navi Mumbai and Thane excluding Mumbai \nMetropolitan Region.\n\n60"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\nAnnexure (Applicable to Section VII \u201cGroup Travel Insurance\u201d)\nList I \u2013 Items for which coverage is not available in the policy\nS. No.\nItem\nS. No\nItem\n1"
+  },
+  {
+    "title": "BABY FOOD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "26"
+  },
+  {
+    "title": "BIRTH CERTIFICATE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2"
+  },
+  {
+    "title": "BABY UTILITIES CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "27"
+  },
+  {
+    "title": "CERTIFICATE CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "3"
+  },
+  {
+    "title": "BEAUTY SERVICES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28"
+  },
+  {
+    "title": "COURIER CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4"
+  },
+  {
+    "title": "BELTS/ BRACES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "29"
+  },
+  {
+    "title": "CONVEYANCE CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "5"
+  },
+  {
+    "title": "BUDS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "30"
+  },
+  {
+    "title": "MEDICAL CERTIFICATE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6"
+  },
+  {
+    "title": "COLD PACK/HOT PACK",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "31"
+  },
+  {
+    "title": "MEDICAL RECORDS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "7"
+  },
+  {
+    "title": "CARRY BAGS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "32"
+  },
+  {
+    "title": "PHOTOCOPIES CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "8"
+  },
+  {
+    "title": "EMAIL / INTERNET CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "33"
+  },
+  {
+    "title": "MORTUARY CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "9"
+  },
+  {
+    "title": "DIET PROVIDED BY HOSPITAL)",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "34"
+  },
+  {
+    "title": "WALKING AIDS CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "10"
+  },
+  {
+    "title": "LEGGINGS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "35"
+  },
+  {
+    "title": "HOSPITAL)",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "11"
+  },
+  {
+    "title": "LAUNDRY CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "36"
+  },
+  {
+    "title": "SPACER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "12"
+  },
+  {
+    "title": "MINERAL WATER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "37"
+  },
+  {
+    "title": "SPIROMETRE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "13"
+  },
+  {
+    "title": "SANITARY PAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "38"
+  },
+  {
+    "title": "NEBULIZER KIT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "14"
+  },
+  {
+    "title": "TELEPHONE CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "39"
+  },
+  {
+    "title": "STEAM INHALER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "15"
+  },
+  {
+    "title": "GUEST SERVICES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "40"
+  },
+  {
+    "title": "ARMSLING",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16"
+  },
+  {
+    "title": "CREPE BANDAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "41"
+  },
+  {
+    "title": "THERMOMETER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "17"
+  },
+  {
+    "title": "DIAPER OF ANY TYPE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "42"
+  },
+  {
+    "title": "CERVICAL COLLAR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "18"
+  },
+  {
+    "title": "EYELET COLLAR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "43"
+  },
+  {
+    "title": "SPLINT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "19"
+  },
+  {
+    "title": "SLINGS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "44"
+  },
+  {
+    "title": "DIABETIC FOOT WEAR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "20"
+  },
+  {
+    "title": "OF DONORS SAMPLES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "45"
+  },
+  {
+    "title": "KNEE BRACES (LONG/ SHORT/ HINGED)",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "21"
+  },
+  {
+    "title": "CHARGE ALSO CHARGED",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "46"
+  },
+  {
+    "title": "KNEE IMMOBILIZER/SHOULDER IMMOBILIZER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "22"
+  },
+  {
+    "title": "TELEVISION CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "47"
+  },
+  {
+    "title": "LUMBO SACRAL BELT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "23"
+  },
+  {
+    "title": "SURCHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "48"
+  },
+  {
+    "title": "NIMBUS BED OR WATER OR AIR BED CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "24"
+  },
+  {
+    "title": "ATTENDANT CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "49"
+  },
+  {
+    "title": "AMBULANCE COLLAR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "25"
+  },
+  {
+    "title": "CHARGE)",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "50"
+  },
+  {
+    "title": "AMBULANCE EQUIPMENT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "51"
+  },
+  {
+    "title": "ABDOMINAL BINDER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "60"
+  },
+  {
+    "title": "MASK",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "52"
+  },
+  {
+    "title": "NURSING CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "61"
+  },
+  {
+    "title": "OUNCE GLASS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "53"
+  },
+  {
+    "title": "SUGAR FREE TABLETS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "62"
+  },
+  {
+    "title": "OXYGEN MASK",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "54"
+  },
+  {
+    "title": "MEDICAL PHARMACEUTICALS PAYABLE)",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "63"
+  },
+  {
+    "title": "PELVIC TRACTION BELT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "55"
+  },
+  {
+    "title": "ECG ELECTRODES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "64"
+  },
+  {
+    "title": "PAN CAN",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "56"
+  },
+  {
+    "title": "GLOVES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "65"
+  },
+  {
+    "title": "TROLLY COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "61"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\n57"
+  },
+  {
+    "title": "NEBULISATION KIT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "66"
+  },
+  {
+    "title": "UROMETER, URINE JUG",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "58"
+  },
+  {
+    "title": "ANY KIT WITH NO DETAILS MENTIONED",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "[DELIVERY KIT, ORTHOKIT, RECOVERY \nKIT, ETC]\n67"
+  },
+  {
+    "title": "AMBULANCE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "59"
+  },
+  {
+    "title": "KIDNEY TRAY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "68"
+  },
+  {
+    "title": "VASOFIX SAFETY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "List II\u2013Items that are to be subsumed into Room Charges \nSl No\nItem\n1"
+  },
+  {
+    "title": "INDICATED)",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2"
+  },
+  {
+    "title": "HAND WASH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "3"
+  },
+  {
+    "title": "SHOE COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4"
+  },
+  {
+    "title": "CAPS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "5"
+  },
+  {
+    "title": "CRADLE CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6"
+  },
+  {
+    "title": "COMB",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "7"
+  },
+  {
+    "title": "EAU-DE-COLOGNE / ROOM FRESHNERS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "8"
+  },
+  {
+    "title": "FOOT COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "9"
+  },
+  {
+    "title": "GOWN",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "10"
+  },
+  {
+    "title": "SLIPPERS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "11"
+  },
+  {
+    "title": "TISSUE PAPER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "12"
+  },
+  {
+    "title": "TOOTH PASTE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "13"
+  },
+  {
+    "title": "TOOTH BRUSH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "14"
+  },
+  {
+    "title": "BED PAN",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "15"
+  },
+  {
+    "title": "FACE MASK",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16"
+  },
+  {
+    "title": "FLEXI MASK",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "17"
+  },
+  {
+    "title": "HAND HOLDER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "18"
+  },
+  {
+    "title": "SPUTUM CUP",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "19"
+  },
+  {
+    "title": "DISINFECTANT LOTIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "20"
+  },
+  {
+    "title": "LUXURY TAX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "21"
+  },
+  {
+    "title": "HVAC",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "22"
+  },
+  {
+    "title": "HOUSE KEEPING CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "23"
+  },
+  {
+    "title": "AIR CONDITIONER CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "24"
+  },
+  {
+    "title": "IM IV INJECTION CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "25"
+  },
+  {
+    "title": "CLEAN SHEET",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "26"
+  },
+  {
+    "title": "BLANKET/WARMER BLANKET",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "27"
+  },
+  {
+    "title": "ADMISSION KIT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28"
+  },
+  {
+    "title": "DIABETIC CHART CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "29"
+  },
+  {
+    "title": "TRATIVE EXPENSES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "30"
+  },
+  {
+    "title": "DISCHARGE PROCEDURE CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "31"
+  },
+  {
+    "title": "DAILY CHART CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "32"
+  },
+  {
+    "title": "CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "33"
+  },
+  {
+    "title": "ON DISCHARGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "34"
+  },
+  {
+    "title": "FILE OPENING CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "35"
+  },
+  {
+    "title": "INCIDENTAL EXPENSES / MISC. CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(NOT EXPLAINED)\n36"
+  },
+  {
+    "title": "PATIENT IDENTIFICATION BAND / NAME",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "TAG\n37"
+  },
+  {
+    "title": "PULSEOXYMETER CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "62"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Payment Protection Package \u2013 IRDAN125CP0008V01202122.\nList III \u2013 Items that are to be subsumed into Procedure \nCharges\nSl No\nItem\n1"
+  },
+  {
+    "title": "HAIR REMOVAL CREAM",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2"
+  },
+  {
+    "title": "DISPOSABLES RAZORS CHARGES (for site",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "preparations)\n3"
+  },
+  {
+    "title": "EYE PAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4"
+  },
+  {
+    "title": "EYE SHEILD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "5"
+  },
+  {
+    "title": "CAMERA COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6\nDVD, CD CHARGES\n7"
+  },
+  {
+    "title": "GAUSE SOFT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "8"
+  },
+  {
+    "title": "GAUZE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "9"
+  },
+  {
+    "title": "WARD AND THEATRE BOOKING CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "10"
+  },
+  {
+    "title": "STRUMENTS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "11"
+  },
+  {
+    "title": "MICROSCOPE COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "12"
+  },
+  {
+    "title": "SURGICAL BLADES, HARMONICSCAL-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "PEL,SHAVER\n13"
+  },
+  {
+    "title": "SURGICAL DRILL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "14"
+  },
+  {
+    "title": "EYE KIT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "15"
+  },
+  {
+    "title": "EYE DRAPE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16"
+  },
+  {
+    "title": "X-RAY FILM",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "17"
+  },
+  {
+    "title": "BOYLES APPARATUS CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "18"
+  },
+  {
+    "title": "COTTON",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "19"
+  },
+  {
+    "title": "COTTON BANDAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "20"
+  },
+  {
+    "title": "SURGICAL TAPE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "21"
+  },
+  {
+    "title": "APRON",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "22"
+  },
+  {
+    "title": "TORNIQUET",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "23"
+  },
+  {
+    "title": "ORTHOBUNDLE, GYNAEC BUNDLE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "List IV \u2013 Items that are to be subsumed into costs of \ntreatment\nSl No\nItem\n1"
+  },
+  {
+    "title": "ADMISSION/REGISTRATION CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2"
+  },
+  {
+    "title": "DIAGNOSTIC PURPOSE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "3"
+  },
+  {
+    "title": "URINE CONTAINER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4"
+  },
+  {
+    "title": "ANTE NATAL BOOKING CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "5"
+  },
+  {
+    "title": "BIPAP MACHINE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6"
+  },
+  {
+    "title": "CPAP/ CAPD EQUIPMENTS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "7"
+  },
+  {
+    "title": "INFUSION PUMP\u2013 COST",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "8"
+  },
+  {
+    "title": "TANTS ETC",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "9"
+  },
+  {
+    "title": "CIAN CHARGES- DIET CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "10"
+  },
+  {
+    "title": "HIV KIT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "11"
+  },
+  {
+    "title": "ANTISEPTIC MOUTHWASH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "12"
+  },
+  {
+    "title": "LOZENGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "13"
+  },
+  {
+    "title": "MOUTH PAINT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "14"
+  },
+  {
+    "title": "VACCINATION CHARGES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "15"
+  },
+  {
+    "title": "ALCOHOL SWABES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16"
+  },
+  {
+    "title": "SCRUB SOLUTION/STERILLIUM",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "17\nGlucometer & Strips \n18"
+  }
+]

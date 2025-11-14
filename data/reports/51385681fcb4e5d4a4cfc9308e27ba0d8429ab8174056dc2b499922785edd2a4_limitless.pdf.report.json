@@ -1,0 +1,37 @@
+[
+  {
+    "title": "10. All other general terms & conditions, exclusions, clauses, eligibility rules, and definitions",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "applicable to the Base Product shall apply to this add-on unless specifically stated otherwise \nin this document or on the Policy Schedule of the Base Policy."
+  },
+  {
+    "title": "SECTION 3. GENERAL TERMS AND CLAUSES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "A. \nWaiting Periods Applicable to Limitless \ni. \nAll the below listed Waiting Periods shall apply to this add-on and shall commence from the \nday this add-on is in force. \nii. In case any Insured person is newly added to the Base Policy/Add-on, the herein below \nwaiting periods prescribed shall apply afresh only to such Insured person(s) from the time \nhe/she is added to the Policy. \niii. In case of Sum Insured increase under Base Policy, all the below waiting periods shall apply \nafresh for only the increased Sum Insured portion. \na. Pre-Existing Diseases: Code \u2013 Excl01 \ni. \nExpenses related "
+  },
+  {
+    "title": "3. Working of Deductible, Co-payment and sub-limits in conjunction with Limitless",
+    "deductible": "is opted, wherein there is a Hospitaliza",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Illustration 1: Consider an Optima Secure Plan Base policy with Base SI of INR 10 Lacs \nand 1 Lac deductible is opted, wherein there is a Hospitalization claim of INR 50 Lacs \nincluding air ambulance expenses of INR 15 Lacs in the 2st policy year."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th",
+    "deductible": "1 L",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Limitless - HDFHLIA25045V012425 \n5 \nHeads \nParticulars \nA \nBase Sum Insured \n10 L \nB \nPlus Benefit \n5 L ( 50% of Base SI: 50% of 10 L ) (as 2nd \npolicy year) \nC \nSecure Benefit \n10 L \nD \nTotal Claim amount \n50L \nE \nDeductible \n1 L \nF \nAir-Ambulance maximum limit \n5 L \nG \nOutstanding liability of company \n39L [ 50L \u2013 1L (Deductible) \u2013 10L (Not covered \ndue to Air-Ambulance maximum limit)* ] \nH \nClaim paid from Optima Secure \n30L ( Base SI : 10L + Plus benefit : 5L + \nSecure benefit : 10L + Air Ambulance : 5L "
+  },
+  {
+    "title": "E - F",
+    "deductible": ", co",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "35.55 L \nH \nClaim paid from Optima Restore \n20 L ( Base SI + Multiplier benefit ) \nI \nClaim paid from Limitless \n15.55L (35.55 L \u2013 20 L) \nJ \nClaim pay-out logic \nFirst Deductible, co-payment, Base product \nSum insured utilized then Limitless triggers \n \nNote: \na. \nAll figures in table are in INR"
+  }
+]

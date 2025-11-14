@@ -1,0 +1,576 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1\nSchedule\nThis Schedule along with the Policy and any Endorsement attached to this Policy shall constitute the contract of insurance \nbetween the Company and the Insurer. All Items appearing in bold in this Schedule are defined terms of this Policy.\n1.\nDetails\n1.1\nPolicy Number\nXxxxxxxxxxxxxx\n1.2\nPolicyholder\nPolicyholder\nXxxxxxxxxxxxxx\nAddress:\nXxxxxxxxxxxxxx\nXxxxxxxxxxxxxx\nXxxxxxxxxxxxxx\nCountry:\nXxxxxxxxxxxxxx"
+  },
+  {
+    "title": "GST No#",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Xxxxxxxxxxxxxx\n1.3\nPolicy Period\nPeriod of Insurance:\nFrom: Xxxxxxxxxxxxxx\nTo: Xxxxxxxxxxxxxx\n(Both days inclusive at the local standard time (item 1.2)\n1.4\nInsurer\nInsurer:\nXxxxxxxxxxxxxx\nAddress:\nXxxxxxxxxxxxxx\nCountry:\nXxxxxxxxxxxxxx\n2.1\nCurrency:\n2.2\nLocal Publication Rate:\n2.3\nLimit of Liability"
+  },
+  {
+    "title": "INR XXXXXXXXXXXXX in the aggregate per Policy Period for all Financial Loss covered under this Policy.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "3.\nExtensions of cover\nSr. No.\nExtensions of Cover\nOperative\nSub-Limit of Liability\n2.1\nProfessional Investigations\nYes / No"
+  },
+  {
+    "title": "INR XXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2.2\nEmployee Dishonesty\nYes / No"
+  },
+  {
+    "title": "INR XXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2.3\nLoss Mitigation\nYes / No"
+  },
+  {
+    "title": "INR XXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2.4\nLoss of Documents\nYes / No"
+  },
+  {
+    "title": "INR XXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2.5\nDefamation\nYes / No"
+  },
+  {
+    "title": "INR XXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2.6\nEmergency Costs\nYes / No"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings\nFinancial Institution Professional Indemnity Policy"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n2\n2.7\nHeirs, Estates, Legal \nRepresentatives and Domestic \nPartners\nYes / No"
+  },
+  {
+    "title": "INR XXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2.8\nVicarious Liability\nYes / No"
+  },
+  {
+    "title": "INR XXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2.9\nCivil and Administrative Fines and \nPenalties\nYes / No"
+  },
+  {
+    "title": "INR XXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2.10\nExtended Reporting Period\nNo\nN / A\n4.\nRetentions"
+  },
+  {
+    "title": "INR XXXXXXXXXXXXX each and every Claim and/or Financial Loss",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "5.\nRetroactive Date:"
+  },
+  {
+    "title": "XXXXXXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6.\nApplicable Law and Jurisdiction\nApplicable Law:\nIndian Law\nExclusive Jurisdiction:"
+  },
+  {
+    "title": "XXXXXXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "7.\nTerritorial Scope of Cover:"
+  },
+  {
+    "title": "XXXXXXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "8.\nPremium: INR XXXXXXXXXXXXX per Period of Insurance, net of all applicable taxes, duties and levies\n9.\nNotifications to the Insurer\nNotifications of Claims, circumstances and other insured events to the Insurer under this Policy to be addressed to:\nName:"
+  },
+  {
+    "title": "XXXXXXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Address:"
+  },
+  {
+    "title": "XXXXXXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Country:"
+  },
+  {
+    "title": "XXXXXXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "10.\nEndorsements attached to this Policy\nEndorsement 1"
+  },
+  {
+    "title": "XXXXXXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Endorsement 2"
+  },
+  {
+    "title": "XXXXXXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Endorsement 3"
+  },
+  {
+    "title": "XXXXXXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Endorsement 4"
+  },
+  {
+    "title": "XXXXXXXXXXXX",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "11.\nAuthorisation\n<Location>, Date\nOn behalf of the Policyholder,\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nAuthorized Representative\t\nAuthorized Representative\n<Location>, Date\nOn behalf of the Insurer,\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nAuthorized Representative\t\nAuthorized Representative"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n3"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings\nFinancial Institution Professional Indemnity Policy\nTable of Contents\n1.\nInsurance Clause...............................................................................................................................................................................2"
+  },
+  {
+    "title": "6. Notification, Defence, Settlement and Indemnification........................................................................................................... 22",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "7.\nGeneral Conditions........................................................................................................................................................................ 24"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n4\nPolicy\nIn consideration of the payment of the premium, and in reliance \nupon the statements made in the Proposal, and subject to the \nterms and conditions of this Policy (including any endorsement \nhereto), coverage under this Policy is afforded solely for \nFinancial Loss resulting directly from Claims first made against \nthe Insured, or Professional Investigations, Loss Mitigation or \nother Extensions of"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n5\nExtended Reporting Period, if applicable, based \nupon libel, slander, offence or injurious falsehood \ncommitted unintentionally by an Insured on or after \nthe Retroactive Date and prior to the end of the Period \nof Insurance within the provision of Professional \nFinancial Services.\nThe cover provided under this Extension shall be \nsubject to both the applicable Retention and the Sub-\nLimit of Liability sp"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n6\n3.\t\nChanges in Risk\n3.1.\t\nChanges in Subsidiary\nIf an entity ceases to be a Subsidiary during the Period \nof Insurance, cover for any Claim made against the \nInsured for Wrongful Professional Acts as is provided \nunder this Policy with respect to such Subsidiary and \nits Employees shall continue until termination of this \nPolicy, provided always that:\n\t\n3.1.1\t\nsuch Claim results from Wrongful Professional"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n7\nforensics firm, payment card industry forensics \ninvestigator, public relations consultant, and other third \nparty to:\n4.2.1\t\nconduct computer forensic analysis to \ninvestigate the Company\u2019s Computer System\n4.2.2\t determine indemnification obligations under \nany written contract with respect to a Wrongful \nProfessional Act by an Outside Service \nProvider;\n4.2.3\t\ndetermine if the Insured is obligated to no"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n8\nbrought by, on behalf of or for the benefit of a third-\nparty client of any Insured seeking compensation for \na specified Wrongful Professional Act of an Insured.\nIn respect of Extension 2.2 Employee Dishonesty, Claim \nshall solely mean a civil proceeding commenced by \na third-party client of the Insured or a regulatory or \narbitration proceeding commenced on behalf of a third \nparty client of the Insured"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n9\n4.15\t\nEmergency Costs\nEmergency Costs means that part of Defence Costs, \nMitigation Costs, or Professional Investigation \nCosts, incurred by the Insured prior to receiving the \nInsurer\u2019s written consent when such prior written \nconsent cannot reasonably be obtained in a timely \nmanner in relation to a Claim, and for which the \nInsurer shall provide retroactive approval, provided \nthat notification is made"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": "of its insured",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n10\n(iii)\t\na settlement negotiated by the Insured \nwith the Insurer\u2019s prior written consent; \nor\n\t\n4.20.2\t Professional Investigation Costs resulting from \na Professional Investigation; or\n\t\n4.20.3\t Defence Costs; or\n4.20.4\t the fees, costs, expenses and amounts covered \nunder Extension 2.3 Loss Mitigation, 2.4 Loss \nof Documents and Data and 2.9 Civil and \nAdministrative Fines and Penalties, in Section \n2 o"
+  },
+  {
+    "title": "GDPR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "GDPR means the General Data Protection Regulation",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(Regulation (EU) 2016/679) and any amendment \nthereto. GDPR shall also include any state, provincial, \nterritorial, local, or federal regulations enacted in \nfurtherance of or pursuant to implementation of the \nGeneral Data Protection Regulation (Regulation (EU) \n2016/679) and any amendment thereto.\n4.23\t\nGeneral Data Protection Regulation Proceeding\nGeneral Data Protection Regulation Proceeding \nmeans a formal investigation of or an administrative \nadjudication proceeding against an Insured concerning \nthe GDPR by an administrative or regulatory agency, \nincluding an appeal thereof, commenced"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n11\n4.26\t\nInterrelated Wrongful Professional Acts\nInterrelated Wrongful Professional Acts means all \nWrongful Professional Acts that have as a common \nnexus any fact, act circumstance, transaction, cause or \nseries of causally connected facts, acts, circumstances, \nevents, transactions, or causes.\n4.27\t\nInvestment Entity\nInvestment Entity means\n4.27.1\t any not-for-profit entity; or\n4.27.2\t any entity in whic"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n12\nPersonal Information does not include information \nlawfully available to the general public for any reason, \nincluding information from foreign, national or local \ngovernment records.\n4.36\t\nPolicyholder\n\t\nPolicyholder means the entity specified in Item 1.2 of \nthe Schedule.\n4.37\t\nPollutants\n\t\nPollutants means any air emission, odour, waste water, \noil or oil products, infectious or medical waste, asbesto"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n13\nProfessional Investigation Costs shall not mean \nany fees, costs, charges or expenses incurred by \nthe Company in connection with a Professional \nInvestigation, remuneration of Employees, costs of \ntheir time or costs of overheads of the Company.\n4.43\t\nProfessional Financial Services\nProfessional Financial Services means any financial \nservices provided by or on behalf of the Insured to \na third party cl"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n14\nmisstatement, misleading statement, neglect, \nor breach of duty;\n4.54.2\t a Wrongful Security Act; or\n4.54.3\t a Wrongful Privacy Act.\nactually or allegedly committed or attempted by an \nInsured, in connection with the rendering or failure to \nrender Professional Financial Services to others.\n4.55\t\nWrongful Security Act\nWrongful Security Act means any act, error, omission, \nneglect, or breach of duty actua"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n15\n5.6\t\nInsolvency\narising from, based upon, in connection with, \nattributable to or as a consequence of the bankruptcy, \ninsolvency, financial default, liquidation, receivership \nor liquidation of an Insured or an Outside Service \nProvider.\n5.7\t\nInsured vs Insured\nbrought or instigated by or on behalf of, or for the \nbenefit of:\n5.7.1\t\nany Insured, or successors or assigns of any \nInsured;\n5.7.2\t\nany entit"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": "ive,",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n16\n5.11 \nPrior and Pending Claims or Notifications\nalleging, arising out of, based upon, in connection \nwith, attributable to or as a consequence of:\n5.11.1\t\nany act, fact, same or related Wrongful \nProfessional Act, Professional Investigation, \nEmployee Dishonest y, fac t , event , \nCircumstance, situation, or Claim which has \nbeen the subject of any written notice given \nunder any insurance policy or any "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n17\n5.14\t\nMerger and Acquisition\narising from, based upon, in connection with, \nattributable to or as a consequence of any actual or \nattempted:\n5.14.1\t\nmerger, consolidation, purchase or acquisition \nof another business by the Insured, or\n5.14.2\t divestment or sale of assets or business by the \nInsured; or\n5.14.3\t purchase or sale transactions in the shares of \nthe Policyholder, the Insured\u2019s parent company"
+  },
+  {
+    "title": "USA Specific Exclusions",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "alleging, arising out of, based upon, relating to or \nattributable to any actual or alleged:\n5.20.1\t violation, by the Insured or Outside Service \nProvider, of the Racketeer Influenced and \nCorrupt Organisations Act 18 USC Section1961 \nas amended, and regulations promulgated \nthere under;\n5.20.2\t violation, by the Insured or Outside Service \nProvider, of the Employee Retirement Income \nSecurity Act of 1974 (\u201cERISA\u201d), as amended, and \nany regulations promulgated there under where \nthe Insured is acting as a trustee, fiduciary or \nadministrator of any pension, profit sharing \nor employee benefit"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n18\nof Extension 2.3 Loss Mitigation, would likely be \ncommenced) in whole or in part within the jurisdiction of \nor pursuant to the laws of the United States of America \nor its territories or possessions.\n6. \nNotification, Defence, Settlement and Indemnification\n6.1 \nNotification of Claims or Circumstances\n6.1.1\t\nThe Insurer shall only be liable under this \nPolicy for Claims that have been reported to \nthe "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": "of the applicable Retention.",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n19\n(b)\nrender all reasonable assistance to\nand cooperate with the Insurer in the\ndefence of any Claim and the assertion \nor indemnification and contribution\nrights; and\n(c)\ngive all information and assistance to the \nInsurer as it may reasonably require to \nenable it to investigate any matter under \nwhich the Insured seeks coverage\nunder this Policy or to determine the\nInsurer\u2019s liability under this Policy."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": "of",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n20\n\t\nThe Limit of Liability for any Extended Reporting \nPeriod shall be part of, and not in addition to the Limit \nof Liability for the Period of Insurance.\n7.2\t\nApplication of Retention\n\t\nThe Insurer shall only pay that amount of Financial Loss \nin respect of each single Claim, fees, costs, expenses \nand amounts set out in Extensions 2.3 Loss Mitigation, \n2.4 Loss of Documents and Data and 2.9 Civil and \nA"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n21\nLiability Insurance, Security and Privacy or similar \ninsurance policy, as to any Claim or Financial Loss \nalso covered, wholly or partially, under such policy.\nIn the event such other Cyber Liability Insurance, \nSecurity and Privacy or similar insurance policy afforded \nan Insured is provided by the Insurer (or would be \nprovided but for the application of the retention amount, \nexhaustion of the limit "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n22\nthe Insurer in the same proportion as they have \nborn those costs;\n(ii)\nthen to the Insured for the amount, if any, of\nthe covered Financial Loss which exceeds the \nLimit of Liability;\n(iii)\nthen, to the Insurer up to the amount of\nFinancial Loss paid by the Insurer;\n(iv)\t\nthen, to the Insured in respect of any uninsured\nelement of the claim against the third party,\nincluding the Retention(s) applicable "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n23\nmay be responsible or liable for the loss \nor damage being claimed; and\n11.\nContact details of assured\u2019s person\nhandling the claim in assured\u2019s\ncompany.\n12.\nCopy of the Prospectus\n13.\nAny other document/ information in\nsupport of the claim\nThe insurer, on its sole discretion, shall take decision \non appointment of Surveyor/investigator, if required\nThe Insurer shall verify the claim notified in the area "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor Leela Business Park\nAndheri Kurla Road, Andheri East\nMumbai-400059\nIndia\nClaim can also be notified digitally by sending an email \nwith complete description of loss to: care@hdfcergo. \ncom or a Contact us- 022 6158 2020/ 022 6234 6234\nVI.\nContact Details for Grievance and Ombudsman\nIf you have a grievance that you wish us to redress, \nyou may contact us with the details of your grievance \nthrough:\n\u2022\nContact us- 022 6158 2020/ 022 6234 6234\n\u2022\nEmails \u2013 grievance@hdfcergo.com\n\u2022\nContact Details for Senior Citizens: 022 6242 \n6226 | Email ID: seniorcitizen@hdfcergo.com\n\u2022\nDesignated Grieva"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Ltd.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District (Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai \u2013 400078, Maharashtra\nIn case you are not satisfied with the response / \nresolution given / offered by the C&G cell, then you can \nwrite to the Chief Grievance Officer of the Company at \nthe following address\nTo the Chief Grievance Officer"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District (Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai - 400078, Maharashtra\ne-mail: cgo@hdfcergo.com\nGrievance may also be lodged at IRDAI Integrated \nGrievance Management System- https://bimabharosa.\nirdai.gov.in\nYou may also approach the nearest Insurance \nOmbudsman for resolution, if your grievance is not \nredressed by the Company. The contact details of \nOmbudsman offices are mentioned below if your \ngrievance pertains to:\nInsurance claim that has been rejected or dispute of a \nclaim on legal construction of the policy\n\u2022 \nDelay in settlement of claim\n\u2022 \nDispute with regard to premium\n\u2022 \nNon-receipt of your insurance document\nYou may al"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n24\nThe contact details of the Insurance Ombudsman offices are as below-"
+  },
+  {
+    "title": "NAMES OF OMBUDSMAN AND ADDRESSES OF OMBUDSMEN CENTERS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office Details\nJurisdiction of Office (Union Territory, District)"
+  },
+  {
+    "title": "AHMEDABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Prakash Building, 6th floor,\nTilak Marg, Relief Road,\nAhmedabad \u2013 380 001.\nTel.: 079 - 25501201/02\nEmail: bimalokpal.ahmedabad@cioins.co.in\nGujarat,\nDadra & Nagar Haveli,\nDaman and Diu"
+  },
+  {
+    "title": "BENGALURU",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Soudha Building, PID No. 57-27-N-19\nGround Floor, 19/19, 24th Main Road,"
+  },
+  {
+    "title": "JP Nagar, Ist Phase,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Bengaluru \u2013 560 078.\nTel.: 080 - 26652048 / 26652049\nEmail: bimalokpal.bengaluru@cioins.co.in\nKarnataka"
+  },
+  {
+    "title": "BHOPAL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n1st floor,\u201dJeevan Shikha\u201d,\n60-B,Hoshangabad Road, Opp. Gayatri Mandir,\nBhopal \u2013 462 011.\nTel.: 0755 - 2769201 / 2769202\nEmail: bimalokpal.bhopal@cioins.co.in\nMadhya Pradesh, Chattisgarh"
+  },
+  {
+    "title": "BHUBANESHWAR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n62, Forest park,\nBhubneshwar \u2013 751 009.\nTel.: 0674 - 2596461 /2596455\nFax: 0674 - 2596429\nEmail: bimalokpal.bhubaneswar@cioins.co.in\nOrissa"
+  },
+  {
+    "title": "CHANDIGARH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Deep Building SCO 20-27,\nGround Floor Sector- 17 A,\nChandigarh \u2013 160 017.\nTel.: 0172-2706468\nEmail: bimalokpal.chandigarh@cioins.co.in\nState of Punjab, Haryana (excluding 4 districts vizGurugram, \nFaridabad, Sonepat and Bahadurgarh), Himachal Pradesh, \nUnion Territories of Jammu &Kashmir, Ladakh and \nChandigarh."
+  },
+  {
+    "title": "CHENNAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nFatima Akhtar Court, 4th Floor, 453,\nAnna Salai, Teynampet,"
+  },
+  {
+    "title": "CHENNAI \u2013 600 018.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 044 - 24333668 / 24333678\nFax: 044 - 24333664\nEmail: bimalokpal.chennai@cioins.co.in\nTamil Nadu Puducherry Town and Karaikal (which are part of \nPuducherry)."
+  },
+  {
+    "title": "DELHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2/2 A, Universal Insurance Building,\nAsaf Ali Road,\nNew Delhi \u2013 110 002.\nTel.: 011 - 23237539\nEmail: bimalokpal.delhi@cioins.co.in\nDelhi, 4 districts of Haryana vizGurugram, Faridabad, \nSonepat and Bahadurgarh)"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n25"
+  },
+  {
+    "title": "NAMES OF OMBUDSMAN AND ADDRESSES OF OMBUDSMEN CENTERS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office Details\nJurisdiction of Office (Union Territory, District)"
+  },
+  {
+    "title": "GUWAHATI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevanNivesh, 5th Floor,\nNr. Panbazar over bridge, S.S. Road,\nGuwahati \u2013 781001(ASSAM).\nTel.: 0361 - 2632204 / 2602205\nEmail: bimalokpal.guwahati@cioins.co.in\nAssam,\nMeghalaya,\nManipur,\nMizoram,\nArunachal Pradesh,\nNagaland and Tripura"
+  },
+  {
+    "title": "HYDERABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6-2-46, 1st floor, \u201cMoin Court\u201d,\nLane Opp. Saleem Function Palace,\nA. C. Guards, Lakdi-Ka-Pool,\nHyderabad - 500 004.\nTel.: 040 - 23312122\nEmail: bimalokpal.hyderabad@cioins.co.in\nState of Andhra Pradesh, Telangana and Yanam \u2013 a part of \nUnion Territory of Puducherry"
+  },
+  {
+    "title": "JAIPUR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevanNidhi \u2013 II Bldg., Gr. Floor,\nBhawani Singh Marg,\nJaipur - 302 005.\nTel.: 0141 \u2013 2740363/2740798\nEmail: bimalokpal.jaipur@cioins.co.in\nRajasthan"
+  },
+  {
+    "title": "KOCHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nOffice of the Insurance Ombudsman,\n10th Floor, Jeevan Prakash,LIC Building,\nOpp to Maharaja\u2019s College Ground,M.G.Road,\nKochi - 682 011.\nTel.: 0484 - 2358759\nEmail: bimalokpal.ernakulam@cioins.co.in\nKerala Lakshadweep, Mahe - a part of Union territory of \nPuducherry"
+  },
+  {
+    "title": "KOLKATA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nHindustan Bldg. Annexe, 4th Floor,\n4, C.R. Avenue,"
+  },
+  {
+    "title": "KOLKATA - 700 072.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 033 - 22124339\nFax : 033 - 22124341\nEmail: bimalokpal.kolkata@cioins.co.in\nStates of West Bengal, Sikkim and Union Territories of \nAndaman & Nicobar Islands"
+  },
+  {
+    "title": "LUCKNOW",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6th Floor, JeevanBhawan, Phase-II,\nNawal Kishore Road, Hazratganj,\nLucknow - 226 001.\nTel.: 0522 - 4002082 / 3500613\nEmail: bimalokpal.lucknow@cioins.co.in\nDistricts of Uttar Pradesh :Laitpur, Jhansi, Mahoba, Hamirpur, \nBanda, Chitrakoot, Allahabad, Mirzapur, Sonbhabdra, \nFatehpur, Pratapgarh, Jaunpur,Varanasi, Gazipur, Jalaun, \nKanpur, Lucknow, Unnao, Sitapur, Lakhimpur, Bahraich, \nBarabanki, Raebareli, Sravasti, Gonda, Faizabad, Amethi, \nKaushambi, Balrampur, Basti, Ambedkarnagar, Sultanpur, \nMaharajgang, Santkabirnagar, Azamgarh, Kushinagar, \nGorkhpur, Deo"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223.\n\n26"
+  },
+  {
+    "title": "NAMES OF OMBUDSMAN AND ADDRESSES OF OMBUDSMEN CENTERS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office Details\nJurisdiction of Office (Union Territory, District)"
+  },
+  {
+    "title": "MUMBAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n3rd Floor, JeevanSevaAnnexe,\nS. V. Road, Santacruz (W),\nMumbai - 400 054.\nTel.: 022 - 69038800/27/29/31/32/33\nEmail: bimalokpal.mumbai@cioins.co.in\nGoa,\nMumbai Metropolitan Region excluding Areas of Navi \nMumbai & Thane"
+  },
+  {
+    "title": "NOIDA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nBhagwanSahai Palace\n4th Floor, Main Road,\nNaya Bans, Sector 15,\nDistt: GautamBuddh Nagar,\nU.P-201301.\nTel.: 0120- 2514252 / 2514253\nEmail: bimalokpal.noida@cioins.co.in\nState of Uttaranchal and the Districts of Uttar Pradesh: Agra, \nAligarh, Bagpat, Bareilly, Bijnor, Budaun, Bulandshehar, \nEtah, Kanooj, Mainpuri, Mathura, Meerut, Moradabad, \nMuzaffarnagar, Oraiyya, Pilibhit, Etawah, Farukkabad, \nFirozbad, Gautambodhanagar, Ghaziabad, Hardoi, \nShahjahanpur, Hapur, Shamli, Rampur, Kashganj, Sambhal, \nAmroha, Hathras, Kanshiramnagar, Saharanpur."
+  },
+  {
+    "title": "PATNA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2nd Floor, Lalit Bhawan,\nBailey Road,\nPatna 800 001.\nTel.: 0612-2547068\nEmail: bimalokpal.patna@cioins.co.in\nBihar,\nJharkhand"
+  },
+  {
+    "title": "PUNE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevanDarshan Bldg., 3rd Floor,\nC.T.S. No.s. 195 to 198,\nN.C. Kelkar Road, Narayan Peth,\nPune \u2013 411 030.\nTel.: 020- 24471175\nEmail: bimalokpal.pune@cioins.co.in\nMaharashtra,\nArea of Navi Mumbai and Thane excluding Mumbai \nMetropolitan Region."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Financial \nInstitution Professional Indemnity Policy - IRDAN125CP0002V01202223."
+  }
+]

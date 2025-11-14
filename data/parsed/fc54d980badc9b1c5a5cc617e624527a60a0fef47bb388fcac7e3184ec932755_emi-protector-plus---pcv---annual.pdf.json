@@ -1,0 +1,37 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: EMI Protector Plus \n\u2013 IRDAN125RP0012V01202122/A0005V01202324."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings\nPassenger Carrying Vehicle Package Policy - Annual"
+  },
+  {
+    "title": "EMI PROTECTOR PLUS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Definition:\nEMI: means Equated monthly instalment amount mentioned \nin amortization chart of original loan document pertaining to \ninsured vehicle.\nCoverage: In consideration of the payment of additional \npremium paid by the Insured and realized by the Company \nnot withstanding anything to the contrary contained in the \nPolicy, it is hereby understood & agreed that for the purpose \nof this policy Company will pay as per the option mentioned \nin the policy schedule.\n1. \t\n50% of one EMI\n\t\nIf the insured vehicle is kept in garage for accidental \nrepairs for more than 6 days, Company will pay an a"
+  },
+  {
+    "title": "2. \t Make your own plan",
+    "deductible": "of 1 day which means that calculation of",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "If the vehicle is kept in garage for accidental repairs, we \nwill pay up to 3 EMI\u2019s as per the following table:\nA. After *___Days \n1 EMI\nB. After 30 Days of \u201cA\u201d\n 2nd EMI\nC. After 60 Days of \u201cA\u201d\n3rd EMI.\n\t\n*number of days mentioned in the policy schedule.\n\t\nPayment under this cover would be a onetime payment at \nthe end of the continuous period of repair for which claim \nhas been made and is admissible under the policy.\nSpecial Conditions:\nThis cover is subject to :-\na)\t\nTime deductible of 1 day which means that calculation of \nnumber of days the vehicle remains in garage will start \nfrom the n"
+  }
+]

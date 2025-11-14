@@ -1,0 +1,786 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": "of the amount of the Deductible and",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Policy Wordings\nComprehensive General Liability (incl No Fault Liability)\nPreamble\nThe proposal and declaration provided by the Named Insured \nto Us, HDFC ERGO General Insurance Limited (hereinafter \ncalled Us/We/Our), forms the basis of this insurance and having \nreceived premium from the Named Insured, We agree to issue \nthis Policy and indemnify the Insured up to the Limit of Liability, \nsubject always to the following terms, conditions, exclusions, \nand limitations in excess of the amount of the Deductible and \nParticipation Percentage.\nDefinitions\n1.\t\nAdvertising injury \n\t\nAdvertising inj"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\n8.\t\nCoverage Territory\n\t\nmeans The country of location of Your Business mentioned \nin the Policy Schedule; provided, however, that with \nrespect only to Occurrences which take place in the \ncourse of business trips taken by You, within the Coverage \nTerritory as mentioned in Your Policy Schedule.\n9.\t\nCovered Incident\n\t\nmeans The recall, recovery of possession or control, or \ndisposal of Your Product(s) from within the C"
+  },
+  {
+    "title": "10.\t Deductible",
+    "deductible": "",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means The amount stated in the Policy Schedule payable \nby You in a manner and at such time as required by \nUs. If more than one Deductible (Except Participation \nPercentage) is payable under this Policy for any one \nClaim or series of Claims arising from one Occurrence, \nthe highest Deductible is the only Deductible payable by \nYou, except for Product Recall Expense and Product Recall \nExpense Liability Covers wherein a separate Deductible \nshall apply."
+  },
+  {
+    "title": "11.\t Employee",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means all the persons under a contract of service or \napprenticeship with the Insured including \u201cleased worker\u201d \nbut does not include a \u201ctemporary worker\u201d."
+  },
+  {
+    "title": "12.\t Extended Reporting Period",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means the period immediately after expiry of the Policy \nperiod, during which (subject to the provisions of Extended \nReporting Period ) You may notify Claims made, or Inquiries \ncommenced, for Occurrences which had taken place during \nthe Policy Period but Claims thereof could not be made \nduring the Policy period, provided, however, all Claims \nmade during the Extended Reporting Period shall be \nhandled as if they Were made on the last day of the expiring \nPolicy period and are subject to the limits of liability and the \nterms, conditions and exceptions of the Policy\n\t\nThe Extended Reporting"
+  },
+  {
+    "title": "13.\t Insured Premises means the Designated Premises stated",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "in the Policy Schedule."
+  },
+  {
+    "title": "14.\t Insured Products",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means the Designated Products stated in the Policy \nSchedule."
+  },
+  {
+    "title": "15.\t Legal Panel",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means the firms of Lawyer appointed from time to time by \nUs, in case of prior intimation and Our consent to provide \nrepresentation on behalf of You under this Policy."
+  },
+  {
+    "title": "16.\t Named Insured",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means a Natural Person or an entity and its Subsidiary \nspecified in the Policy Schedule."
+  },
+  {
+    "title": "17.\t Occurrence",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means a fortuitous event or an accident, including \ncontinuous, intermittent or repeated exposure to \nsubstantially the same general harmful conditions. For the \npurposes of this Policy, where a series of, and/or several \nbodily injuries, Property Damages, personal injuries, \nadvertising injuries or Product Recall Expense arise out \nof, are a result of or are attributable directly or indirectly to \nthe same actual or alleged defect, hazard, failure to warn, \nevent, condition, cause or Covered Incident, all such bodily \ninjuries, Property Damages, personal injuries, advertising \ninjuries or Pro"
+  },
+  {
+    "title": "18.\t Offshore",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means embarkation on to a vessel or aircraft for conveyance \nto an offshore rig or platform until disembarkation from the \nconveyance on to land upon return from such offshore rig \nor platform."
+  },
+  {
+    "title": "19.\t Participation Percentage",
+    "deductible": "to the extent",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means the specified Percentage of the admissible Claim \namount as stated in the Policy Schedule. You will pay \nthe Compensation arising out of bodily injuries, Property \nDamages, personal injuries, advertising injuries, Product \nRecall Expense or Product Recall Expense Liability or \nFinancial which exceeds the Deductible to the extent \nof the Participation Percentage stated in the Policy \nSchedule. No coverage will apply under this Policy if You \nobtain insurance for off-setting Your liability towards the \nParticipation Percentage."
+  },
+  {
+    "title": "20.\t Personal Injury",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means injury, other than Bodily Injury, arising out of one \nor more of the following Offenses:\n\t\nfalse arrest, detention, false imprisonment, wrongful \nimprisonment, malicious prosecution or humiliation;\n\t\nthe publication or utterance of a statement that is libellous \nor slanderous, or of other defamatory or \n\t\nderogatory material, or a publication or utterance in \nviolation of any individual\u2019s right of privacy except:\n\t\nwhen the first such publication or utterance is related \nto any publication or utterance made prior to the \ncommencement of this Policy; or\n\t\nwhen any such publication or utte"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\n\t\nassault and battery not committed by You or at Your \ndirection unless committed for the purpose of preventing \nor eliminating danger to persons or property;"
+  },
+  {
+    "title": "21.\t Policy period",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means the period of time commencing on the Inception \nDate or Retroactive Date (as applicable) and terminating \non the Expiration Date and Time shown in the Policy \nSchedule, at the address of the Insured, provided, \nhowever, that such Expiration Date may be modified in \naccordance with General Condition 3 - Cancellation of \nthe Policy."
+  },
+  {
+    "title": "22.\t Policy Schedule",
+    "deductible": "and",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means the document which includes but not limiting to \ndetails regarding the premium amount, insured details, \nCovered Contract details, Policy period, Deductible and \nParticipation Percentage, and Limit of liability etc."
+  },
+  {
+    "title": "23.\t Pollutant",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means any solid, liquid, gaseous, biological, radiological \nor thermal irritant, toxic, hazardous substance or \ncontaminant, including but not limited to lead, smoke, \nvapour, dust, fibres, mould, spores, fungi, mycota or by- \nproducts, germs, soot, fumes, acids, alkalis, chemicals, \nlead or products containing lead and waste materials. \nSuch waste materials includes, but is not limited to, \nmaterials to be recycled, reconditioned or reclaimed and \nnuclear materials.\n\t\nPollutants shall also mean a hazardous substance as \ndefined under the Indian Public Liability Insurance Act, \n1991 or any sta"
+  },
+  {
+    "title": "24.\t Pollution",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means the actual, alleged or threatened discharge, \ndispersal, seepage, migration, release or escape of any \nPollutant whether in a solid, liquid, gas, odour, noise, \nvibration, electromagnetic radiation, ionising radiation, \nthermal or other form at any time."
+  },
+  {
+    "title": "25.\t Policy",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means the Proposal, the provisions in this document, any \nendorsement to it (whether at or after the inception), terms \nand conditions and the Schedule."
+  },
+  {
+    "title": "26.\t Proposal",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means the proposal form submitted in any mode of \ncommunication by the Named Insured and/or any \nInsured in applying for this Policy and all information and \ndocumentation accompanying it, and incorporated by \nreference."
+  },
+  {
+    "title": "27.\t Product",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Means Any tangible goods or Products other than real \nProperty after they have ceased to be in Your possession, \ncustody or control which are or is deemed to have been \nmanufactured, constructed, erected, installed, repaired, \naltered, serviced, renovated, treated, grown, extracted, \nproduced, processed, assembled, imported, exported, \nsold, supplied, distributed or being traded under Your \nname or any person or organization whose Business \nor assets You have acquired , including any labelling, \npackaging, instructions and directions associated \ntherewith and any container thereof other than a"
+  },
+  {
+    "title": "28.\t Product Recall Expense",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means the reasonable and necessary costs incurred \nduring the twelve (12)-month period commencing on the \nfirst day such costs are incurred by reason of a Covered \nIncident, if such costs are incurred exclusively by You for \nthe recall, removal, recovery of possession or control, or \ndisposal of Your Product(s). These costs are limited to the \nfollowing:\n\t\n1.\t\nCommunications to notify others of a Covered Incident, \nincluding but not limited to, radio and television \nannouncements and printed advertisements;\n\t\n2.\t\nThe cost of shipping Your Product(s) from any \npurchaser, distributor or user to "
+  },
+  {
+    "title": "29.\t Property Damage",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means:\na.\t\nPhysical damage to, destruction of or Loss of tangible \nproperty including the Loss of use thereof at any time \nresulting therefrom; or\nb.\t\nLoss of use and/or Loss of value of tangible property \nwhich has not been physically damaged, physically lost \nor physically destroyed, provided such Loss of use and/or \nLoss of value is caused by physical damage to, physical \nLoss of or physical destruction of other tangible property; \nand includes denial of access to property, premises, \nservices or facilities, interference with or stoppage of \nvehicular or pedestrian traffic; and\nc.\t\ntrespass"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021."
+  },
+  {
+    "title": "30.\t Related Claim",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means any Claims alleging, arising out of, based upon \nor attributable to the same facts or alleged facts, or \ncircumstances."
+  },
+  {
+    "title": "31.\t Retroactive Date",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means the date(s) as shown in Policy Schedule.\n\t\nThis insurance does not apply to Bodily Injury, Property \nDamage, Personal Injury, Advertising injury, Covered \nIncident which occurs before the Retroactive Date, and \nis always subject to\n\t\na.\t\nNarrower of applicable Limits and\n\t\nb.\t\nLower of applicable coverage\n\t\nc.\t\nEvidence of Expiring cover through until Retroactive \nDate"
+  },
+  {
+    "title": "32.\t Settlement Value",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means in respect of any Claim covered under this Policy: \nthe full amount Claimed; or\n\t\nany settlement offer from the Claimant(s) which is capable \nof acceptance.\n\t\nWhere the Claimant(s)\u2019 costs, if applicable, are not \nquantified by the Claimant, We will also pay a reasonable \nsum to You to represent these costs."
+  },
+  {
+    "title": "33.\t Suit",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means a civil proceeding in which damages, to which this \ninsurance applies, are sought. Suit includes an arbitration \nor any other alternative dispute resolution proceeding in \nwhich such damages are sought and to which the Insured \nmust submit or does submit with Our consent."
+  },
+  {
+    "title": "34.\t Terrorism",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means an act, including but not limited to the use of force \nor violence and/or the threat thereof, of any person or \ngroup(s) of persons whether acting alone or on behalf of \nor in connection with any organisation(s) or government(s), \ncommitted for political, religious, ideological or similar \npurposes including the intention to influence any \ngovernment and/or to put the public or any section of the \npublic in fear."
+  },
+  {
+    "title": "35.\t Third Party",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means any entity or natural person except (i) any Insured; \nor (ii) any other entity or natural person having a Financial \nInterest or executive role in the operation of the Named \nInsured."
+  },
+  {
+    "title": "36.\t We, Us, Our, Insurer",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means HDFC ERGO General Insurance Limited"
+  },
+  {
+    "title": "37.\t You, Your, Insured",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "means a person or an entity or an organization qualifying as \nan Insured in the Who Is An Insured section of this Policy."
+  },
+  {
+    "title": "38.\t Your work means:",
+    "deductible": "and Participation Percentage of this Pol",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Work or operations performed by You or on Your behalf; \nand Materials, parts, or equipment furnished in connection \nwith such work or operations.\n\t\nYour work includes:\n\t\ni.\t\nWarranties or representations made at any time with \nrespect to the fitness, quality, durability, performance \nor use of Your work; and\n\t\nii.\t\nThe providing of or failure to provide warnings or \ninstructions.\nCoverages\nSection I - Premises and Operations\n1.\t\nInsuring Clause\n\t\nIf You have opted for this Section, We will indemnify You \nfor all amounts, which You become legally liable to pay \nas Compensation arising out of th"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": "and Participation Percentage of this Pol",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\n\t\nAct of God Perils\n\t\nWe will indemnify You for all amounts which You become \nlegally liable to pay as Compensation arising out of Act \nof God Perils like Storm, Typhoon, Flood, Inundation, \nEarthquake and similar natural causes, subject always \nto the Limit of Liability mentioned in the Policy Schedule \nagainst this cover, terms, conditions, exclusions and \nDeductible and Participation Percentage of this Policy\n\t\nAdver"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": "and",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\nbecome legally liable to pay as Compensation as a \nresult of an accident directly caused in connection \nto the normal operational use of the elevators and/or \nescalators at the Insured Premises, provided that regular \ninspection and maintenance of the elevators and/or \nescalators shall be carried out by qualified engineers.\n\t\n\t\nSubject always to the Limit of Liability mentioned \nin the Policy Schedule against this cover"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": "and",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\n\t\n6.\t\na written safety procedure is displayed at the \nentrance, changing rooms, poolside and exercise \narea. The notice should include (but not be limited \nto) the following information: -\n\t\n\u2022\t\nThe times when the pool / exercise area is open\n\t\n\u2022\t\nA clear warning if the pool does not have a lifeguard\n\t\n\u2022\t\nChildren (under 15 years of age) do not use the pool \nwithout adult supervision\n\t\n\u2022\t\nNon-swimmers should not bathe al"
+  },
+  {
+    "title": "3. \t Specific Exclusions Applicable to Section I",
+    "deductible": "and Participation Percentage of this Pol",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "We will not pay any Claim arising out of any Product and \nCompleted Operations Liability.\n\t\nWe will not pay for any Claim arising out of any Bodily \nInjury or Property Damage caused by any martial art or \ncontact sport.\n\t\nProfessional Liability\n\t\nany liability of whatsoever nature directly or indirectly \ncaused by, in connection with or contributed to by \nor arising from the rendering of or failure to render \nprofessional advice or service by You or any error or \nomission in connection therewith.\nHowever, this exclusion does not apply to:\ni)\t\nthe rendering of or failure to render medical advic"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\n2.\t\nInbuilt Covers\n\t\nThe inbuilt covers and the Limit of Liability for each cover \nunder Section II \u2013 Products and Completed Operations is \nmentioned in Your Policy Schedule, wherever applicable. \nThese limits are within the Limit of Liability opted under \nSection II \u2013 Products and Completed Operations. The \nterms and conditions for each of the inbuilt cover is as \nmentioned below.\n\t\nTechnical Collaborator Liability\n\t\nT"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": "and Participation Percentage of this Pol",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\nor service by Medical Persons employed by You to \nprovide first aid and other medical services on Your \npremises to Employees or to persons other than \nEmployees in the event of an emergency; or\n\t\nii)\t\nBodily Injury or Property Damage arising from advice \nor service given gratuitously.\n\t\niii)\t\nBodily Injury or Property Damage arising from advice \ngiven in respect of the use or storage of Your Products.\nSection III - Pro"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": "and Participation Percentage of this Pol",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\nthe Policy period, and the Covered Incident takes place \nin the Coverage Territory; and\nb.\t\nYour responsibility to pay Compensation and Claims \nExpenses under the Product Recall Expense Liability \nCover is determined in a Suit on the merits in the Coverage \nTerritory or in a settlement We agree to.\n\t\nSubject always to the Limit of Liability mentioned in the \nPolicy Schedule, terms, conditions, exclusions, Deductible \nan"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\npartnership; joint venture partners and their spouses in the \ncase of a joint venture; principal office bearers and their \nspouses in the case of an unincorporated organisation are \nthe Insured; but they are the Insured only with respect to \nthe conduct of Your Business.\n3)\t\nOther Organisations\n\t\nIf You are an organisation other than a partnership, joint \nventure or unincorporated organisation, then You are an \nInsured."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": "of Deductible and Participation Percenta",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\narise out of a Covered Incident or Occurrence. We may, \nat Our discretion, investigate any Occurrence, Event, \nCovered Incident and settle any Claim or Suit that may \nresult, but:\n1.\t\nThe amount We will pay as Compensation for Bodily Injury \nor Property Damage or Personal Injury or Advertising injury \nor Product Recall Expenses or Product Recall Expense \nLiability is limited to the amount mentioned in Your Policy \nSched"
+  },
+  {
+    "title": "6. \t Advance Payment of Claims Expenses",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "We shall pay Claims Expenses covered by this policy \nwithin thirty (30) days after sufficiently detailed invoices \nfor those costs are received by Us. The Named Insured \nshall reimburse Us for any payments which are ultimately \ndetermined not to be covered by this Policy.\nGeneral Exclusions Applicable to All Sections\nWe will not be liable under this Policy in respect of:\n1.\t\nPersonal Injury or Advertising injury\n\t\nPersonal Injury or Advertising injury directly or indirectly \ncaused by, in connection with or contributed to by or \narising from:\n\t\ni)\t\nfailure of performance of any contract, but t"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\n3.\t\nAircraft, Auto or Watercraft\n\t\nBodily Injury or Property Damage arising out of the \nownership, maintenance, use or entrustment to others of \nany aircraft, \u201cauto\u201d or watercraft owned or operated by or \nrented or loaned to any Insured. Use includes operation \nand \u201cloading or unloading.\u201d\n4.\t\nAsbestos\n\t\nany liability of whatsoever nature directly or indirectly \ncaused by, in connection with or contributed to by or \naris"
+  },
+  {
+    "title": "10.\t Expected or Intended Injury",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Bodily Injury or Property Damage expected or intended \nfrom the standpoint of the Insured. This exclusion does not \napply to Bodily Injury resulting from the use of reasonable \nforce to protect persons or property."
+  },
+  {
+    "title": "11.\t Fines and Penalties",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Fines or financial penalties, punitive, exemplary, liquidated, \naggravated or multiple damages whether imposed \nthrough a court of law, legislation or under a contractual \narrangement or otherwise."
+  },
+  {
+    "title": "12.\t Loss of Use",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Loss of use of tangible property which has not been \nphysically damaged or destroyed resulting from:\ni)\t\na delay in or lack of performance by You or on Your behalf \nof any contract; or\nii)\t\nthe failure of a Product or any work performed by You or \non Your behalf, to meet the level of performance, quality, \nfitness or durability warranted or represented by You. \nBut this exclusion does not apply to Loss of use of other \ntangible property resulting from the sudden and accidental \nphysical damage to or destruction of the Product or work \nperformed by You or on Your behalf after the Product or"
+  },
+  {
+    "title": "13.\t Radioactivity",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "any liability of whatsoever nature directly or indirectly \ncaused by, in connection with or contributed to by or \narising from\n\t\nI.\t\nIonizing radiation or contamination by radioactivity \nfrom any nuclear fuel, weapon or waste whether \noccurring naturally or otherwise;\n\n14"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\n\t\nII.\t\nthe radioactive, toxic, explosive or other hazardous \nproperties of any explosive nuclear assembly or \nnuclear component thereof; or the storage, transport, \nassembly, disassembly, maintenance or operation of \nany nuclear Weapon or nuclear component thereof.\n\t\nHowever, this exclusion does not apply to liability arising \nfrom radio-isotopes, radium or radium compounds \nwhen used away from the place where such are "
+  },
+  {
+    "title": "14.\t War and Terrorism",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "any liability of whatsoever nature directly or indirectly \ncaused by, in connection with or contributed to by or \narising from any consequence of war, invasion, act of \nforeign enemy, hostilities (whether war be declared or not), \ncivil war, insurrection, rebellion, revolution, mutiny , military \nor usurped power, riot, strike, lockout, military or popular \nuprising, civil commotion, martial law, Terrorism or loot, \nsack or pillage in connection therewith, or confiscation or \nnationalization or requisition or destruction of or damage \nto property by or under the order of any government or \npub"
+  },
+  {
+    "title": "15.\t Prior Acts",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "any liability arising from or attributable to any Bodily Injury, \nProperty Damage, Personal Injury, Advertising injury, or \nCovered Incident first occurring prior to the Retroactive \nDate, if any, specified in Your Policy Schedule."
+  },
+  {
+    "title": "16.\t Prior Claims/ Circumstances",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Insurance does not apply to any Claims, circumstances \nmade prior to the inception of this Policy including any \nRelated Claims thereto, or arising out of, based upon or \nattributable to a circumstance which has been properly \nnotified under any other policy or certificate of insurance \nattaching prior to the inception of this Policy including any \nRelated Claims thereto."
+  },
+  {
+    "title": "17.\t Employee\u2019s Compensation and Similar Laws",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This insurance does not apply to any obligation of the \nInsured under any Employee\u2019s Compensation, disability \nbenefits or unemployment Compensation law or any \nsimilar law."
+  },
+  {
+    "title": "18.\t Employer\u2019s Liability",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.\t\nThis insurance does not apply to Bodily Injury to an \nEmployee of the Insured arising out of and in the course of:\n\t\nI.\t\nemployment by the Insured; or\n\t\nII.\t\nperforming duties related to the conduct of the \nInsured\u2019s Business.\n2.\t\nThis insurance does not apply to Bodily Injury to the \nbrother, child, parent, sister or spouse of such\n\t\nEmployee as a consequence of any injury described \nin paragraph 1. above. Clause 1. and 2. above shall be \napplicable :\n\t\nI.\t\nwhether the Insured may be liable as an employer or \nin any other capacity; and\n\t\nII.\t\nto any obligation to share damages with or rep"
+  },
+  {
+    "title": "19. \t Pollution",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.\t\nThis insurance does not apply to any damages, Loss, cost \nor expense arising out of the actual, alleged or threatened \ndischarge, dispersal, seepage, migration, release or \nescape of Pollutants.\n2.\t\nThis insurance does not apply to any damages, Loss, cost \nor expense arising out of any:\n\t\nI.\t\ndemand, order, request or regulatory or statutory \nrequirement that any Insured or others test for, \nmonitor, clean up, remove, contain, treat, detoxify or \nneutralize, or in any way respond to, or assess the \neffects of Pollutants; or\n\t\nII.\t\nClaim or proceeding by or on behalf of a governmental \nauth"
+  },
+  {
+    "title": "20.\t Sanctions and Limitations",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "We shall not be liable to pay any Claim or provide any \nbenefit hereunder to the extent that the provision of \nsuch cover, payment of such Claim or provision or such \nbenefit would expose US to any sanction, prohibition or \nrestriction under United Nations resolutions or trade or \neconomic sanctions, laws or regulations of the European \nUnion, United Kingdom or United States of America."
+  },
+  {
+    "title": "21.\t Iran Risk Clause",
+    "deductible": "and Participation",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy does not provide any cover, and does not \ninclude any liability to pay any Claim or provide any benefit \nhereunder, in respect of any risk related to Iran, unless \nsuch risk is specifically disclosed and agreed in writing \nby the insurer.\n \t\nGeneral Conditions (Applicable to All Sections)\t\n1.\t\nAdmission of Liability\n\t\nUnless You have obtained Our prior written consent, \nneither You nor any of Your Employees, agents or others \nacting on Your behalf may:\n\t\na.\t\nadmit liability, fault or guilt in connection with any \nOccurrence or\n\t\nb.\t\ndo anything that might be seen as an admission of"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": "and",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\nagent or any other person with respect to any alteration or \naddition shall not effect a change in any part of this Policy \nor prevent Us from asserting any right under the terms of \nthis Policy, nor shall the terms of this Policy be changed, \nexcept by endorsement issued by Us and made a part of \nthis Policy.\n3.\t\nCancellation\n\t\na. \t Cancellation by Insured \u2013 \n\t\n\t\nThe Insured can cancel the policy at any time during \n\t\n"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": "and",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\nplant, appliances or things in any way causing or \nconnected with any event which might give rise to \na Claim under this Policy for such time as We may \nreasonably require.\niii)\t\nUpon Our request You must\n\t\n(a)\t authorize Us to obtain records and other information,\n\t\n(b)\t cooperate with Us in the investigation, settlement or \ndefence of the Claim or Suit; and\n\t\n(c)\t assist Us in the enforcement of any right against any "
+  },
+  {
+    "title": "10.\t Examination of Your Books and Records",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "We may examine and audit Your books and records as \nthey relate to this Policy at any time during the Policy \nperiod and until the later of three years after termination \nof this Policy or one year after final disposition of all Claims \narising out of any Occurrence, provided notice of which \nhas been given under this Policy."
+  },
+  {
+    "title": "11.\t Related Claims",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If during the Policy period, a Claim is made, or a circumstance \nis notified in accordance with the requirements of this Policy \nany Related Claim made after expiry of the Policy period \nwill be accepted by Us as having been:\n\t\n(i)\t\nmade at the same time as the notified Claim was \nmade or the relevant circumstance was notified; and\n\t\n(ii)\t\nnotified at the same time as the notified Claim or \ncircumstance.\n\t\nAll Related Claims shall be deemed to be one single Claim \nand deemed to be made at the date of the first Claim of \nthe series or at the first circumstance notified, whichever \nis first."
+  },
+  {
+    "title": "12.\t Governing Law & Jurisdiction",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Where legally permissible and subject to all terms and \nconditions of this Policy, this Policy shall apply to any Claim \nmade against You within Coverage Jurisdiction stated \nin the Policy Schedule. Any interpretation of this Policy \nrelating to its construction, validity or operation shall be \nmade exclusively in accordance with the Indian laws."
+  },
+  {
+    "title": "13.\t Inspections and Surveys",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "We have the right, but We are not obligated to:\n\t\ni)\t\nmake inspections and/or surveys at any time\n\t\nii)\t\ngive You the reports on the conditions that We find; and\n\t\niii)\t\nrecommend changes\n\t\nAny inspections, surveys, reports or recommendations \nrelate only to insurability and the premiums to be charged. \nWe do not make safety or compliance inspections. We \ndo not undertake to perform the duty of any person or \norganization to provide for the health or safety of workers \nor the public, nor do We warrant that conditions are safe \nor healthful or comply with laws, regulations, codes and \nstandards"
+  },
+  {
+    "title": "14.\t Legal Action against Us",
+    "deductible": "of the applicable Limits",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "No person or organization has a right under this insurance \nto:\n\t\n\u2022\t\njoin Us as a party or otherwise bring Us into a Suit \nseeking damages from an Insured; or\n\t\n\u2022\t\na person or organization may sue Us to recover on \nan Agreed Settlement or on a final judgment against \nan Insured obtained after an actual\n\t\n\u2022\t\ntrial in a civil proceeding; or\n\t\n\u2022\t\nother alternative dispute resolution proceeding; but \nWe will not be liable for any damages, Loss, cost or \nexpense not payable under the terms and conditions \nof this insurance or in excess of the applicable Limits \nof Insurance.\n\t\nThe terms and conditi"
+  },
+  {
+    "title": "15.\t Notice",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Any notice required to be given under this Policy:\n\t\ni)\t\nBy You will be given to Us only by mailing or \ndelivering such notice at the address shown in the \nPolicy Schedule. Notice to Our or Your agent will not \nconstitute notice to Us.\n\t\nii)\t\nBy Us will be given by mailing or delivering such \nnotice to the Named Insured first shown in the\n\t\nPolicy Schedule\n\t\nat the address shown therein.\n\t\nIf notice is mailed, proof of mailing will be sufficient proof \nof notice."
+  },
+  {
+    "title": "16.\t Other Insurance",
+    "deductible": "of the Insurance afforded by this",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If other valid and collectible insurance is available to the \nInsured for Bodily Injury, Property Damage, Personal Injury, \nAdvertising injury or any other Expenses covered under \nthis Policy, other than insurance that is issued specifically \nas insurance in excess of the Insurance afforded by this \nPolicy, and irrespective of-\n\t\ni)\t\nwhen such other insurance incepts or terminates;\n\n17"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": "of and shall not contribute with",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\n\t\nii)\t\nwhich insurer provides such other insurance; and\n\t\niii)\t\nthe basis on which such other insurance applies or \nis triggered;\n\t\nthis Policy shall be excess of and shall not contribute with \nsuch other insurance\n\t\nNothing in this Policy shall be construed to make this Policy \nsubject to any of the terms of other insurance.\n\t\nMultiple policies involving Bank or other lending or \nfinancing entity - \n\t\nIn case there is "
+  },
+  {
+    "title": "17.\t Fraudulent Claims",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If any Insured shall give any notice or Claim cover for any \nLoss under this Policy knowing such notice or Claim to be \nfalse or fraudulent as regards amounts or otherwise, such \nLoss shall be excluded from cover under the Policy, and \nthe Insurer shall have the right, in its sole and absolute \ndiscretion, to avoid its obligations under or void this Policy \nin its entirety, and in such case, all cover for Loss under \nthe Policy shall be forfeited, all premium shall be deemed \nfully earned and non- refundable and the Named insured \nshall reimburse the Insurer for any payments made under \nthis P"
+  },
+  {
+    "title": "18.\t Plurals, Headings and Titles",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The descriptions in the headings and titles of this Policy \nare solely for reference and convenience and do not lend \nany meaning to this contract. Words and expressions in \nthe singular shall include the plural and vice versa. In this \nPolicy, words in Bold typeface have special meaning and \nare defined. Words that are not specifically defined in this \nPolicy have the meaning normally attributed to them."
+  },
+  {
+    "title": "19.\t Policy Modifications",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy contains all the agreements between You and \nUs concerning the insurance afforded. This Policy\u2019s terms \ncan be amended or waived only by endorsement issued \nby Us and made a part of this Policy."
+  },
+  {
+    "title": "20.\t Reasonable Care",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Without exception, You and Your Employees must take all \nreasonable steps to prevent incurring any Loss, damage \nor liability."
+  },
+  {
+    "title": "21.\t Renewal",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "We are not bound to accept any renewal premium or give \nnotice that renewal is due."
+  },
+  {
+    "title": "22.\t Sole Agent",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The first Named Insured shown in the Policy Schedule \nshall be the sole agent of all Insured under this Policy for \nthe purposes of:\n\t\ni)\t\nascertaining all information requested in the Proposal \nfor this Policy;\n\t\nii)\t\nsubmitting the Proposal and any other underwriting \ninformation for this Policy or any renewal hereof;\n\t\niii)\t\ngiving and receiving any required notice under this \nPolicy;\n\t\niv)\t\neffecting or accepting any amendment to, or \ncancellation of this Policy;\n\t\nv)\t\npaying all premiums and receiving any return \npremiums that may become due under this Policy;\n\t\nvi)\t\nkeeping records of th"
+  },
+  {
+    "title": "23.\t Submission means:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "i.\t\neach and every signed proposal form, the statements, \nwarranties, and representations therein, its attachments \neither in physical or in electronic format;\nii.\t\nthe financial statements of any Named Insured; and\niii.\t\nother Documents of any Named Insured filed with a \nregulator and all other material information; submitted to \nUs in connection with this Policy."
+  },
+  {
+    "title": "24.\t Terms",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "All statements made in the Proposal   for   this Policy \nand any material submitted therewith , as a supplement \nthereto, or required thereby, either in physical or in \nelectronic format are the basis of this Policy and, together \nwith the Policy Schedule and any Endorsements to this \nPolicy, are hereby deemed material and are incorporated \ninto and made a part of this Policy and this Policy is \nissued in reliance upon such Proposal and other material \nsubmitted to Us."
+  },
+  {
+    "title": "25.\t Transfer of Rights of Recovery against Others",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(Subrogation)\n\t\nYou shall take all steps necessary or such steps as are \nrequired by Us before or after any payment by Us under \nthis Policy to preserve the rights and remedies which You \nmay have to recover the Loss. If any payment is to be \nmade under this Policy in respect of a Claim, We shall be \nsubrogated to all Your rights of recovery whether or not \npayment has in fact been made and whether or not You \nhave been fully compensated for its actual Loss. We shall \nbe entitled to pursue and enforce such rights in the name \nof an Insured, who, both before and after payment under \nthis Policy"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": "and",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\n\t\n(ii)\t\nto Us up to the amount of the Loss paid by Us; and\n\t\n(iii)\t to You in respect of any uninsured element of the \nClaim (including the Deductible and\nParticipation Percentage under this Policy)."
+  },
+  {
+    "title": "26.\t Transfer of Rights and Duties (Assignment)",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Your rights and duties under this Policy may not be \ntransferred without Our written consent except in the \ncase of the death of a sole propertier/individual who was \nan Insured."
+  },
+  {
+    "title": "27.\t Condonation of delay in case of claim:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If the claim is not notified/ or submitted to Us within the \nspecified time limits, then we shall be provided the reasons \nfor the delay in writing. We will condone such delay on \nmerits where the delay has been proved to be for reasons \nbeyond the claimant\u2019s control."
+  },
+  {
+    "title": "28.\t Fraud Warning:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This policy shall be voidable at the option of the HDFC"
+  },
+  {
+    "title": "ERGO in the event of mis-representation, mis- description",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "or non-disclosure of any material particulars by the \nApplicant. Any person who, knowingly and with intent to \ndefraud the insurance company or any other person, files \na proposal for insurance containing any false information, \nor conceals for the purpose of misleading, Information \nconcerning any fact material thereto, commits a fraudulent \ninsurance act, which will render the policy voidable at the \nsole discretion of the insurance company and result in a \ndenial of insurance benefits.\nRedressal of Grievance\nIf you have a grievance that you wish us to redress, you may \ncontact us with the d"
+  },
+  {
+    "title": "HDFC ERGO General Insurance The Company Ltd.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301,3rd Floor, Eastern Business District (Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West), Mumbai \u2013 400078, Maharashtra",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In case you are not satisfied with the response / resolution \ngiven / offered by the C&G cell, then you can write to the \nChief Grievance Officer of the Company at the following \naddress \nTo the Chief Grievance Officer"
+  },
+  {
+    "title": "HDFC ERGO General Insurance The Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District (Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West), Mumbai - 400078, Maharashtra",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "e-mail: cgo@hdfcergo.com\nGrievance may also be lodged at IRDAI Integrated Grievance \nManagement system- \u00a0https://bimabharosa.irdai.gov.in  \nYou may also approach the nearest Insurance Ombudsman \nfor resolution, if your grievance is not redressed by the \nCompany. The contact details of Ombudsman offices are \nbelow if your grievance pertains to: \n\u2022\t\nInsurance claim that has been rejected or dispute of a \nclaim on legal construction of the policy \n\u2022\t\nDelay in settlement of claim \n\u2022\t\nDispute with regard to premium \n\u2022\t\nNon-receipt of your insurance document\nYou may also refer Our website www.hdfcer"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021.\nNames of Ombudsman and Addresses of Ombudsmen Centres"
+  },
+  {
+    "title": "AHMEDABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Prakash Building, 6th floor, Tilak Marg, Relief Road, \nAhmedabad \u2013 380 001.\nTel.: 079 - 25501201/02\nEmail: bimalokpal.ahmedabad@cioins.co.in\nGujarat, Dadra & Nagar Haveli, Daman and Diu."
+  },
+  {
+    "title": "BENGALURU",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Soudha Building, PID No. 57-27-N-19,  \nGround Floor, 19/19, 24th Main Road,"
+  },
+  {
+    "title": "JP Nagar, Ist Phase,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Bengaluru \u2013 560 078.\nTel.: 080 - 26652048 / 26652049\nEmail: bimalokpal.bengaluru@cioins.co.in\nKarnataka."
+  },
+  {
+    "title": "BHOPAL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n1st floor,\u201dJeevan Shikha\u201d, 60-B,Hoshangabad Road, \nOpp. Gayatri Mandir, Bhopal \u2013 462 011. \nTel.: 0755 - 2769201 / 2769202 \nEmail: bimalokpal.bhopal@cioins.co.in\nMadhya Pradesh, Chattisgarh."
+  },
+  {
+    "title": "BHUBANESHWAR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n62, Forest park, Bhubneshwar \u2013 751 009.\nTel.: 0674 - 2596461 /2596455\nFax: 0674 - 2596429\nEmail: bimalokpal.bhubaneswar@cioins.co.in\nOrissa."
+  },
+  {
+    "title": "CHANDIGARH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,  \nJeevan Deep Building SCO 20-27, \nGround Floor Sector- 17 A, Chandigarh \u2013 160 017. \nTel.: 0172-2706468 \nEmail: bimalokpal.chandigarh@cioins.co.in\nState of Punjab, Haryana (excluding 4 districts vizGurugram, \nFaridabad, Sonepat and Bahadurgarh), Himachal Pradesh, Union \nTerritories of Jammu &Kashmir, Ladakh and Chandigarh."
+  },
+  {
+    "title": "CHENNAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nFatima Akhtar Court, 4th Floor, 453,\nAnna Salai, Teynampet,"
+  },
+  {
+    "title": "CHENNAI \u2013 600 018.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 044 - 24333668 / 24333678\nFax: 044 - 24333664\nEmail: bimalokpal.chennai@cioins.co.in\nTamil Nadu, Puducherry Town and Karaikal (which are part of \nPuducherry)."
+  },
+  {
+    "title": "DELHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2/2 A, Universal Insurance Building,\nAsaf Ali Road,\nNew Delhi \u2013 110 002.\nTel.: 011 - 23237539\nEmail: bimalokpal.delhi@cioins.co.in\nDelhi, 4 districts of Haryana vizGurugram, Faridabad, Sonepat and \nBahadurgarh)\n\n20"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021."
+  },
+  {
+    "title": "AHMEDABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Prakash Building, 6th floor, Tilak Marg, Relief Road, \nAhmedabad \u2013 380 001.\nTel.: 079 - 25501201/02\nEmail: bimalokpal.ahmedabad@cioins.co.in\nGujarat, Dadra & Nagar Haveli, Daman and Diu."
+  },
+  {
+    "title": "GUWAHATI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Nivesh, 5th Floor,\nNr. Panbazar over bridge, S.S. Road,\nGuwahati \u2013 781001 (ASSAM).\nTel.: 0361 - 2632204 / 2602205\nEmail: bimalokpal.guwahati@cioins.co.in\nAssam, Meghalaya, Manipur, Mizoram, Arunachal Pradesh, \nNagaland and Tripura."
+  },
+  {
+    "title": "HYDERABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6-2-46, 1st floor, \u201cMoin Court\u201d,\nLane Opp. Saleem Function Palace,\nA. C. Guards, Lakdi-Ka-Pool,\nHyderabad - 500 004.\nTel.: 040 - 23312122\nEmail: bimalokpal.hyderabad@cioins.co.in\nState of Andhra Pradesh, Telangana and Yanam \u2013 a part of Union \nTerritory of Puducherry"
+  },
+  {
+    "title": "JAIPUR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Nidhi \u2013 II Bldg., Gr. Floor,\nBhawani Singh Marg,\nJaipur - 302 005.\nTel.: 0141 - 2740363 /2740798\nEmail: bimalokpal.jaipur@cioins.co.in\nRajasthan."
+  },
+  {
+    "title": "KOCHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \n10th Floor, Jeevan Prakash,LIC Building, \nOpp to Maharaja\u2019s College Ground,M.G.Road, \nKochi - 682 011. \nTel.: 0484 - 2358759 \nEmail: bimalokpal.ernakulam@cioins.co.in\nKerala, Lakshadweep, Mahe-a part of Union Territory of Puducherry."
+  },
+  {
+    "title": "KOLKATA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nHindustan Bldg. Annexe, 4th Floor,\n4, C.R. Avenue,"
+  },
+  {
+    "title": "KOLKATA - 700 072.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 033 - 22124339 \nFax : 033 - 22124341\nEmail: bimalokpal.kolkata@cioins.co.in\nStates of West Bengal, Sikkim and Union Territories of Andaman & \nNicobar Islands"
+  },
+  {
+    "title": "LUCKNOW",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6th Floor, Jeevan Bhawan, Phase-II,\nNawal Kishore Road, Hazratganj,\nLucknow - 226 001.\nTel.: 0522 - 4002082 / 3500613\nEmail: bimalokpal.lucknow@cioins.co.in\nDistricts of Uttar Pradesh :\nLalitpur, Jhansi, Mahoba, Hamirpur, Banda, Chitrakoot, Allahabad, \nMirzapur, Sonbhabdra, Fatehpur, Pratapgarh, Jaunpur, Varanasi, \nGazipur, Jalaun, Kanpur, Lucknow, Unnao, Sitapur, Lakhimpur, \nBahraich, Barabanki, Raebareli, Sravasti, Gonda, Faizabad, \nAmethi, Kaushambi, Balrampur, Basti, Ambedkarnagar, Sultanpur, \nMaharajgang, Santkabirnagar, Azamgarh, Kushinagar, Gorkhpur, \n"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Comprehensive General \nLiability (incl No Fault Liability) - IRDAN125CP0001V01202021."
+  },
+  {
+    "title": "AHMEDABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Prakash Building, 6th floor, Tilak Marg, Relief Road, \nAhmedabad \u2013 380 001.\nTel.: 079 - 25501201/02\nEmail: bimalokpal.ahmedabad@cioins.co.in\nGujarat, Dadra & Nagar Haveli, Daman and Diu."
+  },
+  {
+    "title": "MUMBAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n3rd Floor, Jeevan Seva Annexe,\nS. V. Road, Santacruz (W),\nMumbai - 400 054.\nTel.: 022 - 69038800/27/29/31/32/33\nEmail: bimalokpal.mumbai@cioins.co.in\nGoa, Mumbai Metropolitan Region excluding Navi Mumbai & Thane."
+  },
+  {
+    "title": "NOIDA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nBhagwan Sahai Palace\n4th Floor, Main Road,\nNaya Bans, Sector 15,\nDistt: Gautam Buddh Nagar,\nU.P - 201301.\nTel.: 0120-2514252 / 2514253\nEmail: bimalokpal.noida@cioins.co.in\nState of Uttaranchal and the following Districts of Uttar Pradesh:\nAgra, Aligarh, Bagpat, Bareilly, Bijnor, Budaun, Bulandshehar, \nEtah, Kanooj, Mainpuri, Mathura, Meerut, Moradabad, \nMuzaffarnagar, Oraiyya, Pilibhit, Etawah, Farrukhabad, Firozbad, \nGautambodhanagar, Ghaziabad, Hardoi, Shahjahanpur, \nHapur, Shamli, Rampur, Kashganj, Sambhal, Amroha, Hathras, \nKanshiramnagar, Saharanpur."
+  },
+  {
+    "title": "PATNA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2nd Floor, Lalit Bhawan, \nBailey Road, \nPatna 800 001. \nTel.: 0612-2547068 \nEmail: bimalokpal.patna@cioins.co.in\nBihar, Jharkhand."
+  },
+  {
+    "title": "PUNE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Darshan Bldg., \n3rd Floor,C.T.S. No.s. 195 to 198,\nN.C. Kelkar Road,  \nNarayan Peth,\nPune \u2013 411 030.\nTel.: 020-24471175\nEmail: bimalokpal.pune@cioins.co.in\nMaharashtra, Area of Navi Mumbai and Thane excluding Mumbai \nMetropolitan Region."
+  }
+]

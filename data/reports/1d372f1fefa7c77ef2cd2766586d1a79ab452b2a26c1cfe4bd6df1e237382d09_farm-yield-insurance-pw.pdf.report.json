@@ -1,0 +1,51 @@
+[
+  {
+    "title": "1. DEFINITIONS",
+    "deductible": "Rainfall",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "\u201cActual Cumulative Rainfall (ACR)\u201d means monthly rainfall \nin mm starting from policy inception date as recorded by \nReference Weather Station for the 1st month (30 days). \n\u201cActual Excess Rainfall (AER)\u201d means maximum rainfall of \nthree consecutive days as recorded by the Reference Weather \nStation. \n\u201cActual Satellite Based Crop Yield Index\u201d (ASCYI)means \nactual crop yield index range observed over period of time \nfrom reference satellite as mentioned in the Policy Schedule. \n\u201cBank\u201d means an entity licensed as a Bank under Banking \nRegulation Act, 1949 and permitted by the Reserve Bank of \nInd"
+  },
+  {
+    "title": "IRDAN125CP0009V01202122.",
+    "deductible": "rainfall events.",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2\n\u201cSatellite based crop yield indices\u201d (SCYI) means graphical \nindicator values arrived post analyzing remote sensing \nmeasurements taken from satellite mentioned in the Schedule \nto this Policy.\t\n\u201cPolicy Schedule\u201d means the part of this Policy which outlines \nthe policy coverages. \n\u201cSowing failure\u201d means conditions when more than 70% of \ncrop seeds sown in the fields are failed to germinate due to \ndeficit or excess rainfall events.\n\u201cSum Insured\u201d means the amount as stated in the Policy \nSchedule which would be total cost of cultivation or the \ncontract value.\n\u201cTerrorism\u201d means an act, includ"
+  },
+  {
+    "title": "2. SCOPE OF COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "It is an all risk cover for crops right from its sowing stage to \nharvesting subject to the exclusions mentioned in the Policy \nWordings."
+  },
+  {
+    "title": "3. EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "3.1 \t The Company shall not be liable to make any payment \nunder this Policy in connection with or in respect of any \nexpenses whatsoever incurred arising out of damage or \nloss to insured Crop arising from:\n\u2022\nThe burning of the property by order of any public\nauthority or subterranean fire.\n\u2022\t\nFire during harvest including but not limited to spark \noriginating from engine exhaust and/or other hot \nmachinery parts on harvesters and/or tractors.\n\u2022\nMalicious, willful act or gross negligence of the\nInsured or any of his representative(s) or employee(s).\n\u2022\nConsequential loss whether or not caused "
+  },
+  {
+    "title": "RISKS",
+    "deductible": "Rainfall",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In the event that, for the defined area and during the time \nperiod specified in the Policy Schedule to loss or damage to \nthe insured Crop from the insured perils, the benefit payable \nto the Insured shall be calculated as per the following formula\nIf the ACR (Actual Cumulative Rainfall) is less than BCR \n(Benchmark Cumulative Rainfall)\nOr \nIf the AER (Actual Excess Rainfall) is higher than BER \n(Benchmark Excess Rainfall) \nTotal Claims payable = Total cost of sowing as specified in \nPolicy Schedule where \n\u2022\nBenchmark Cumulative rainfall will be the benchmark \nvalue below which claims will be"
+  },
+  {
+    "title": "IRDAN125CP0009V01202122.",
+    "deductible": "rainfall will be the excess rainfall val",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "3\n\u2022\t\nBenchmark Excess rainfall will be the excess rainfall value \nabove which claims will be payable under sowing failure. \n\u2022\t\n\u201cActual Cumulative Rainfall(ACR)\u201d means monthly rainfall \nin mm starting from policy inception  date as recorded by \nReference Weather Station for the 1st month. \n\u2022\t\n\u201cActual Excess Rainfall (AER)\u201d means maximum rainfall of \nthree consecutive days as recorded by the Reference \nWeather Station."
+  },
+  {
+    "title": "16.\t Cancellation/termination:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Insured can cancel the policy at any time during the \npolicy term, by informing the Company.  The Company can \ncancel the policy only on the grounds of established \nfraud, by giving minimum notice of 7 days to the Insured. \nThe Company shall refund proportion premium for \nunexpired policy period subject to no claim(s) made during \nthe policy period..\n17.\nPolicy Disputes:\nAny dispute concerning the interpretation of the terms, \nconditions, limitations and/or exclusions contained herein \nis understood and agreed to by both the Insured and the \nCompany to be subject to Indian Law. Each party "
+  }
+]

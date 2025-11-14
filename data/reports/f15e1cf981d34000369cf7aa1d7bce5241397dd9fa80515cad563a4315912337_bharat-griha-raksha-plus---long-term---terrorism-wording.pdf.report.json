@@ -1,0 +1,23 @@
+[
+  {
+    "title": "INSURING CLAUSE",
+    "deductible": "described",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Subject otherwise to the terms, exclusions, provisions and conditions contained in \nthe Policy and in consideration of the payment by the Insured to the Company of \nadditional premium as stated in the Schedule, it is hereby agreed and declared that \nnotwithstanding anything stated in the 'Terrorism Risk Exclusion\" of this Policy to the \ncontrary, this Policy is extended to cover physical loss or physical damage occurring \nduring the period of this Policy caused by an act of terrorism to the location /s \nmentioned in the schedule subject to the exclusions, limits and excess described \nhereinaft"
+  },
+  {
+    "title": "LOSSES EXCLUDED",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "This cover shall not indemnify loss of or damage to property caused by any or all of \nthe following:-\n1. \nloss by seizure or legal or illegal occupation;\n2. \nloss or damage caused by: \n(i)\nvoluntary abandonment or vacation,\n(ii)\nconfiscation, commandeering, nationalisation, requisition, detention,\nembargo, quarantine, or any result of any order of public or government\nauthority, which deprives the Insured of the use or value of its property;\n3. \nloss or damage arising from acts of contraband or illegal transportation or\nillegal trade;\n4. \nloss or damage directly or indirectly arising from or i"
+  },
+  {
+    "title": "SANCTION, LIMITATION AND EXCLUSION CLAUSE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "No (re)insurer shall be deemed to provide cover and no (re)insurer shall be liable to \npay any claim or provide any benefit hereunder to the extent that the provision of \nsuch cover, payment of such claim or provision of such benefit would expose that \n(re)insurer to any sanction, prohibition or restriction under United Nations \nresolutions or the trade or economic sanctions, laws or regulations of the European \nUnion, United Kingdom or United States of America."
+  }
+]

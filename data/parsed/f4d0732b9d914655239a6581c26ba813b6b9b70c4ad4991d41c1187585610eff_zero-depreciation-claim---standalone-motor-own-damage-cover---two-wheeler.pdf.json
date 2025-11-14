@@ -1,0 +1,30 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No. 146. CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Zero Depreciation Claim - \nStandalone Motor Own Damage Cover - Two Wheeler: IRDAN125RP0002V01201920/A0015V01201920."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wording Add On Covers\nStandalone Motor Own Damage Cover - Two Wheeler"
+  },
+  {
+    "title": "ZERO DEPRECIATION CLAIM",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "In consideration of the payment of additional premium by the Insured and realized by the Company, notwithstanding anything \nto the contrary, it is hereby understood & agreed that for the purpose of this policy, in the event of partial loss, the depreciation \napplicable under section 1 of this policy would stand deleted.\nExclusion:\nThis cover excludes tyres.\nSubject otherwise to the terms, conditions, limitations and exceptions of this Policy"
+  }
+]

@@ -1,0 +1,1857 @@
+[
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: IRDAN125CP0007V01202122 \nBusiness Suraksha Plus"
+  },
+  {
+    "title": "BUSINESS SURAKSHA PLUS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(ESSENTIAL)"
+  },
+  {
+    "title": "POLICY WORDING",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Table of Contents"
+  },
+  {
+    "title": "ALL RISK COVERAGE ....................................................................................................................... 1",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A."
+  },
+  {
+    "title": "PROPERTY INSURED ................................................................................................................... 1",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "B."
+  },
+  {
+    "title": "PROPERTY EXCLUDED ............................................................................................................... 1",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "C."
+  },
+  {
+    "title": "EXCLUSIONS ................................................................................................................................. 2",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "D."
+  },
+  {
+    "title": "ADDITIONAL COVERAGES ........................................................................................................ 5",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1. \nAccounts Receivable .................................................................................................................... 5 \n2. \nArchitects, Surveyors and Other Fees .......................................................................................... 6 \n3. \nBrand Protection .......................................................................................................................... 6 \n4. \nData Restoration ........................................................................................................................... 7 \n5. \nDebris Removal ......."
+  },
+  {
+    "title": "BUSINESS INTERRUPTION ............................................................................................................ 14",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A."
+  },
+  {
+    "title": "LOSS INSURED ............................................................................................................................ 14",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "B."
+  },
+  {
+    "title": "BUSINESS INTERRUPTION COVERAGE................................................................................. 14",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1. \nGross Profits .............................................................................................................................. 14 \n2. \nRental Income ............................................................................................................................ 15 \n3. \nExtra Expense ............................................................................................................................ 16 \nC."
+  },
+  {
+    "title": "PERIOD OF LIABILITY ............................................................................................................... 16",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D."
+  },
+  {
+    "title": "BUSINESS INTERRUPTION EXCLUSIONS ............................................................................. 18",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "E."
+  },
+  {
+    "title": "BUSINESS INTERRUPTION COVERAGE EXTENSIONS ....................................................... 18",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1. \nCivil or Military Authority ......................................................................................................... 18 \n2. \nIngress/Egress ............................................................................................................................ 18"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: IRDAN125CP0007V01202122 \nBusiness Suraksha Plus \n \n3. \nOff-Premises Service Interruption - Business Interruption ......................................................... 19 \n4. \nProtection and Preservation of Property - Business Interruption................................................ 19 \n5. \nSupply Chain ............................................................................................................................. 19"
+  },
+  {
+    "title": "LOSS ADJUSTMENT AND SETTLEMENT ................................................................................... 20",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A."
+  },
+  {
+    "title": "ABANDONMENT ......................................................................................................................... 20",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "B."
+  },
+  {
+    "title": "APPRAISAL .................................................................................................................................. 20",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "C."
+  },
+  {
+    "title": "AVERAGE ..................................................................................................................................... 20",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D."
+  },
+  {
+    "title": "COLLECTION FROM OTHERS .................................................................................................. 21",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "E."
+  },
+  {
+    "title": "COMPANY OPTION .................................................................................................................... 21",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "F."
+  },
+  {
+    "title": "LEGAL ACTION AGAINST THIS COMPANY .......................................................................... 21",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "G."
+  },
+  {
+    "title": "LOSS ADJUSTMENT AND PAYABLE ...................................................................................... 21",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H."
+  },
+  {
+    "title": "OTHER INSURANCE ................................................................................................................... 22",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "I."
+  },
+  {
+    "title": "REQUIREMENTS IN CASE OF LOSS ........................................................................................ 22",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "J."
+  },
+  {
+    "title": "SETTLEMENT OF CLAIMS ........................................................................................................ 23",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "K."
+  },
+  {
+    "title": "SUBROGATION ........................................................................................................................... 23",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "L."
+  },
+  {
+    "title": "GENERAL CONDITIONS ................................................................................................................. 26",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A."
+  },
+  {
+    "title": "APPLICATION OF POLICY TO DATE OR TIME RECOGNITION ......................................... 26",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "B."
+  },
+  {
+    "title": "CANCELLATION/NON-RENEWAL ........................................................................................... 26",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "C."
+  },
+  {
+    "title": "CONFORMITY TO STATUTE .................................................................................................... 27",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D."
+  },
+  {
+    "title": "FIRST NAMED INSURED ........................................................................................................... 27",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "E."
+  },
+  {
+    "title": "INCREASE IN HAZARD ............................................................................................................. 27",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "F."
+  },
+  {
+    "title": "INSPECTIONS .............................................................................................................................. 27",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "G."
+  },
+  {
+    "title": "LIBERALIZATION CLAUSE ...................................................................................................... 27",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H."
+  },
+  {
+    "title": "MISREPRESENTATION AND FRAUD ...................................................................................... 27",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "I."
+  },
+  {
+    "title": "MORTGAGEE/LENDERS LOSS PAYABLE .............................................................................. 28",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "J."
+  },
+  {
+    "title": "POLICY MODIFICATION ........................................................................................................... 29",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "K."
+  },
+  {
+    "title": "REINSTATEMENT OF LIMITS AFTER A LOSS ....................................................................... 29",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "L."
+  },
+  {
+    "title": "REPRESENTATION OF RISK ..................................................................................................... 29",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "M."
+  },
+  {
+    "title": "SANCTIONS ................................................................................................................................. 29",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "N."
+  },
+  {
+    "title": "SUSPENSION ................................................................................................................................ 30",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "O."
+  },
+  {
+    "title": "DEFINITIONS ..................................................................................................................................... 31",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 3 of 33"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "ALL RISK COVERAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers property, as described in this Policy, against ALL RISKS OF PHYSICAL LOSS OR"
+  },
+  {
+    "title": "DAMAGE, except as hereinafter excluded, while located as described in this Policy.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A. PROPERTY INSURED \nThis Policy insures the following property, unless otherwise excluded elsewhere in this Policy, at or within \n1,000 feet of a described location, to the extent of the interest of the Insured in such property."
+  },
+  {
+    "title": "2. Personal Property:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) Owned by the Insured. \nb) Consisting of improvements and betterments in which the Insured has an insurable interest. \nc) Of directors, officers and employees of the Insured. \nd) Of others in the Insured\u2019s custody to the extent the Insured is under obligation to keep insured \nfor physical loss or damage insured by this Policy. \ne) Of others in the Insured\u2019s custody to the extent of the Insured\u2019s legal liability for insured \nphysical loss or damage to such Personal Property. \nThis Company may defend that portion of any suit against the Insured that alleges such liability \nand seeks damages fo"
+  },
+  {
+    "title": "9. Property sold by the Insured under conditional sale, trust agreement, installment payment or other",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "deferred payment plan after delivery to the customer."
+  },
+  {
+    "title": "12. Electronic data, programs or software, except when incorporated into physical goods intended to be",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "sold as: \n\nPage 4 of 33"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) Finished goods manufactured by the Insured; or \nb) Other merchandise not manufactured by the Insured; \nor as provided by the Data Restoration coverage in this Policy."
+  },
+  {
+    "title": "14. Property in the course of construction, erection, renovation, demolition, or dismantling;",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) Machinery or equipment undergoing commissioning or operational testing not including normal \nmaintenance; and \nb) materials, equipment and supplies for such property, except as provided in the Minor Works \ncoverage in this Policy."
+  },
+  {
+    "title": "19. Monies and securities",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "C. EXCLUSIONS \nIn addition to the exclusions elsewhere in this Policy, the following exclusions apply unless otherwise \nstated:"
+  },
+  {
+    "title": "GROUP I: This Policy excludes loss or damage directly or indirectly caused by or resulting from any of",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "the following regardless of any other cause or event, whether or not insured under this Policy, contributing \nconcurrently or in any other sequence to the loss or damage:"
+  },
+  {
+    "title": "1. Nuclear reaction or nuclear radiation or radioactive contamination. However:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "a) If physical damage by fire or sprinkler leakage results, then , then only that resulting damage is \ninsured; but not including any loss or damage due to nuclear reaction, radiation or radioactive \ncontamination. \nb) This Policy does insure physical damage directly caused by sudden and accidental radioactive \ncontamination, including resultant radiation damage, from material used or stored or from \nprocesses conducted on the location, provided that on the date of loss, there is neither a nuclear \nreactor nor any new or used nuclear fuel on the location. This coverage does not apply to any ac"
+  },
+  {
+    "title": "2. a) Hostile or warlike action in time of peace or war, including action in hindering, combating or",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "defending against an actual, impending or expected attack by any: \ni) Government or sovereign power (de jure or de facto); \nii) Military, naval or air forces; or \niii) Agent or authority of any party specified in i) or ii) above. \n \n\nPage 5 of 33"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "b) Hostile or warlike cyberattack in time of peace or war, including action in hindering, combating \nor defending against an actual, impending or expected cyberattack by any: \ni) Government or sovereign power (de jure or de facto); \nii) Military, naval or air force; or \niii) Agent or authority of any party specified in i) or ii) above. \nc) Discharge, explosion or use of any nuclear device, weapon or material employing or involving \nnuclear fission, fusion or radioactive force, whether in time of peace or war and regardless of who \ncommits the act. \nd) Insurrection, rebellion, revolution, civil"
+  },
+  {
+    "title": "3. Any dishonest act, including but not limited to theft, committed alone or in collusion with others, at",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "any time by: \na) An Insured or any proprietor, partner, director, trustee, officer or employee of an Insured; or \nb) Any proprietor, partner, director, trustee, or officer of any business or entity (other than a common \ncarrier) engaged by an Insured to do anything in connection with property insured under this \nPolicy. \nThis Policy does insure acts of direct insured physical damage intentionally caused by an employee of \nan Insured or any individual specified in b above, and done without the knowledge of the Insured. This \ncoverage does not apply to any act excluded in Group I Item 2g of this"
+  },
+  {
+    "title": "4. Lack of incoming electricity, fuel, water, gas, steam or refrigerant; outgoing sewerage; or incoming or",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 6 of 33"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "outgoing voice, data or video; all when caused by an event off the location, except as provided by the \nOff-Premises Service Interruption coverages in this Policy. If the lack of such a service directly causes \ninsured physical damage at the location, then only that resulting damage is insured."
+  },
+  {
+    "title": "GROUP II: This Policy excludes the following, however, if physical damage not excluded by this Policy",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "results, then only that resulting damage is insured:"
+  },
+  {
+    "title": "3. Loss or damage to stock or material attributable to manufacturing or processing operations while such",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "stock or material is being processed, manufactured, tested or otherwise worked on."
+  },
+  {
+    "title": "4. Loss or damage caused by or resulting from:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) Changes of temperature, except damage to machinery or equipment including fire protective \nequipment; \nb) Changes in relative humidity, \nAll whether atmospheric or not, except as provided by Off-Premises Service Interruption coverages in \nthis Policy."
+  },
+  {
+    "title": "5. Settling, cracking, shrinking, bulging or expansion of:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) Foundations (including any pedestal, pad, platform or other property supporting machinery). \nb) Walls. \nc) Floors. \nd) Pavements or roadways. \ne) Roofs. \nf) Ceilings."
+  },
+  {
+    "title": "7. Theft of precious metal or stones, except when such property is used by the Insured for industrial",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "purposes."
+  },
+  {
+    "title": "9. Loss or damage to the interior portion of buildings from rain, sleet or snow, whether or not driven by",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "wind, when the installation of the roof, walls or windows of such buildings has not been completed."
+  },
+  {
+    "title": "3. Loss of market or loss of use.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 7 of 33"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "6. Loss from enforcement of any law or ordinance:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) Regulating the construction, repair, replacement, use or removal, including debris removal, of any \nproperty; or \nb) Requiring the demolition of any property, including the cost in removing its debris; \nExcept as provided by the Decontamination Costs and Demolition and Increased Cost of Construction \ncoverages in this Policy."
+  },
+  {
+    "title": "7. Loss or damage resulting from the voluntary parting with title or possession of property if induced by",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "any fraudulent act or by false pretense."
+  },
+  {
+    "title": "8. Contamination, and any cost due to contamination including the inability to use or occupy property",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "or any cost of making property safe or suitable for use or occupancy. If contamination due only to the \nactual not suspected presence of contaminant(s) directly results from other physical damage not \nexcluded by this Policy, then only physical damage caused by such contamination may be insured. \nThis exclusion does not apply to radioactive contamination which is excluded elsewhere in this Policy."
+  },
+  {
+    "title": "9. Shrinkage, evaporation or loss of weight, unless directly resulting from other physical damage not",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "excluded by this Policy."
+  },
+  {
+    "title": "10. Changes in color, flavor, texture or finish, unless directly resulting from other physical damage not",
+    "deductible": "s and exclusions shown in the Declaratio",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "excluded by this Policy. \nD. ADDITIONAL COVERAGES \nThe Additional Coverages below are subject to all the terms and conditions of this Policy including, but \nnot limited to, the limits of liability, deductibles and exclusions shown in the Declarations section."
+  },
+  {
+    "title": "1. Accounts Receivable",
+    "deductible": "of normal collection costs.",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "This Policy covers amounts which the Insured is unable to collect as a direct result of insured physical \nloss or damage to accounts receivable records at a location. \nCoverage includes: \na) Interest charges on any loan to offset impaired collections pending repayment of sums that cannot \nbe collected. Unearned interest charges and service charges on deferred payment accounts and \nnormal credit losses on bad debts will be deducted. \nb) Collection expenses in excess of normal collection costs. \nc) Other reasonable expenses incurred by the Insured in recreating records of accounts receivable. \nA"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) Bookkeeping, accounting, or billing error or omission. \nb) Alteration, falsification, manipulation, concealment, destruction or disposal of records of accounts \nreceivable committed to conceal the wrongful giving, taking, obtaining or withholding of money, \nsecurities or other property."
+  },
+  {
+    "title": "2. Architects, Surveyors and Other Fees",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers the reasonable and necessary expenses incurred by the Insured of: \na) Architects; \nb) Engineers; \nc) Surveyors; or \nd) Other professional fees, \nin connection with the repair, replacement, or reworking of specifications of damaged insured property \nfor which this Company has accepted liability. \nThis coverage does not include fees and expenses for any improvement or extension to the property."
+  },
+  {
+    "title": "3. Brand Protection",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy gives control of physically damaged property consisting of finished goods or merchandise \nmanufactured by or for the Insured as follows: \na) The Insured will have full rights to the possession and control of damaged property in the event \nof insured physical loss or damage to such property provided proper testing is done to show which \nproperty is physically damaged. \nb) The Insured using reasonable judgment will decide if the physically damaged property can be \nreprocessed or sold. \nPhysically damaged property judged by the Insured to be: \ni) Unfit for reprocessing or selling will"
+  },
+  {
+    "title": "4. Data Restoration",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers insured physical loss or damage to electronic data, programs or software \n\nPage 9 of 33"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": "that would have",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "while anywhere within this Policy\u2019s Territory. \nThis coverage includes: \na) The cost of the following reasonable and necessary actions taken by the Insured due to actual \ninsured physical loss or damage to electronic data, programs or software: \ni) To temporarily protect and preserve insured electronic data, programs or software. \nii) For the temporary repair of insured physical loss or damage to electronic data, programs \nor software. \niii) To expedite the permanent repair or replacement of such damaged property. \nb) The reasonable and necessary costs incurred by the Insured to temporarily pr"
+  },
+  {
+    "title": "5. Debris Removal",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers the reasonable and necessary costs incurred to remove debris from a location \nthat remains as the direct result of insured physical loss or damage. This coverage does not cover the \ncosts of removing: \na) Contaminated uninsured property; or \nb) The contaminant in or on uninsured property; \nWhether or not the contamination results from insured physical loss or damage. \nThis coverage includes the costs of removal of contaminated insured property or the contaminant in \nor on insured property only if the contamination, due to the actual not suspected presence of \n\nPage 10 of 33"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "contaminant(s), of the debris resulted directly from other physical damage not excluded by the Policy."
+  },
+  {
+    "title": "6. Decontamination Costs",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If insured property is contaminated as a direct result of insured physical damage and there is in force \nat the time of the loss any law or ordinance regulating contamination due to the actual not suspected \npresence of contaminant(s), then this Policy covers, as a direct result of enforcement of such law or \nordinance, the increased cost of decontamination and/or removal of such contaminated insured \nproperty in a manner to satisfy such law or ordinance. This coverage applies only to that part of insured \nproperty so contaminated due to such presence of contaminant(s) as a direct result of in"
+  },
+  {
+    "title": "7. Demolition and Increased Cost of Construction",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers the costs as described herein resulting from the Insured\u2019s obligation to comply \nwith a law or ordinance, provided that: \na) Such law or ordinance is enforced as a direct result of insured physical loss or damage at a \nlocation; \nb) Such law or ordinance is in force at the time of such loss or damage; and \nc) Such location was not required to be in compliance with such law or ordinance prior to the \nhappening of the insured physical loss or damage. \nCoverage A: \nThe reasonable and necessary costs incurred by the Insured to comply with the enforcement of the \nminimum requirem"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "operating capacity, because of the enforcement of any law or ordinance that regulates the construction, \nrepair, replacement or use of buildings, structures, machinery or equipment. \nDemolition and Increased Cost of Construction Coverage B Valuation: On property covered under this \nCoverage B that cannot legally be repaired or replaced, the loss amount will be the difference between: \na) The actual cash value; and \nb) The cost that would have been incurred to repair, replace or rebuild such lost or damaged property \nhad such law or ordinance not been enforced at the time of loss. \nDemolition a"
+  },
+  {
+    "title": "8. Earth Movement",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers physical loss or damage caused by or resulting from earth movement only at a \ndescribed location."
+  },
+  {
+    "title": "9. Errors and Omissions",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If physical loss or damage is not payable under this Policy solely due to an error or unintentional \nomission: \na) In the address of a property insured by this Policy which existed at the inception date of this Policy \nor in any subsequent amendments to this Policy; \nb) That fails to include any location: \ni) Owned; or \nii) Occupied by the Insured; or \nc) That results in cancellation of insured property under this Policy; \nThen coverage applies to the extent this Policy would have provided coverage had the error or \nunintentional omission not been made. \nIt is a condition of this Additional Co"
+  },
+  {
+    "title": "10. Expediting Expenses",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers the reasonable and necessary costs incurred to: \na) Temporarily repair or replace; and \nb) Expedite the permanent repair or replacement of; \nInsured property that has sustained insured physical loss or damage. \nThis coverage does not include expenses payable elsewhere in this Policy including the cost of \npermanent repair or replacement of damaged property. \n\nPage 12 of 33"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "11. Flood",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers physical loss or damage caused by or resulting from flood only at a described \nlocation."
+  },
+  {
+    "title": "12. Land and Water Clean Up Expense",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers the reasonable and necessary costs to remove, dispose of or clean up the actual but \nnot the suspected presence of contaminant(s) from uninsured land or water or any substance in or on \nland, at a described location, when such property is contaminated as a direct result of insured physical \nloss or damage to insured property. \nThis Policy does not cover the cost to clean up, remove and dispose of contamination from such \nproperty: \na) At any location insured for Personal Property only. \nb) When the Insured fails to give written notice of loss to this Company within 180 days "
+  },
+  {
+    "title": "13. Locks and Keys",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers the reasonable and necessary cost incurred by the Insured to replace undamaged \nkeys and to replace, adjust or reprogram undamaged locks to accept new keys or entry codes as a result \nof insured physical loss or damage."
+  },
+  {
+    "title": "14. Minor Works",
+    "deductible": "of more",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers insured physical loss or damage to insured: \na) Property in the course of construction, erection, renovation, demolition, dismantling \nb) Machinery or equipment undergoing commissioning or operational testing; or \nc) Materials, equipment and supplies for such property, at a described location. \nThis Additional Coverage also insures the interest of contractors and subcontractors in such property \nto the extent that the Insured has agreed, prior to loss, to keep such interest insured for insured physical \nloss or damage to such property. Such interest of contractors and subcon"
+  },
+  {
+    "title": "15. Newly Acquired Property",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers property of the type insured that is newly acquired while located anywhere \nwithin this Policy\u2019s Territory. \nThis coverage terminates: \na) When the newly acquired property is bound by this Company; or \nb) When agreement is reached that the property will not be insured under this Policy; or \nc) The period of time shown in the Declarations section has been reached. The period of time begins \non the date of acquisition of the property; or \n\nPage 13 of 33"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "d) At the termination or expiration of this Policy; Whichever occurs first."
+  },
+  {
+    "title": "16. Off-Premises Service Interruption - Property Damage",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers insured physical loss or damage at a described location caused by or resulting from \nthe interruption, in whole or part, of incoming electric, gas, fuel, steam, water, refrigeration, or \noutgoing sewerage. \nThe interruption of such services must be by reason of physical loss or damage of the type insured to \nproperty of the type insured, not otherwise excluded by this Policy, at the facilities of the service \nprovider(s) while anywhere within this Policy\u2019s Territory. \nThis coverage is subject to the Qualifying Period in the Declarations section of this Policy. Additional \nCo"
+  },
+  {
+    "title": "17. Property Removed from a Location",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "When insured property is removed from a described location for the purpose of being repaired or \nserviced or in order to avoid threatened physical loss or damage of the type insured by this Policy, this \nPolicy covers such property: \na) While at the premises to which such property has been moved; and \nb) For physical loss or damage as provided at the described location from which such property was \nremoved. \nThis Additional Coverage does not apply to property: \na) Insured, in whole or in part, elsewhere in this Policy. \nb) Insured, in whole or in part, by any other insurance policy. \nc) Remove"
+  },
+  {
+    "title": "18. Protection and Preservation of Property - Property Damage",
+    "deductible": "provisions that would have applied had t",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers the reasonable and necessary costs incurred for: \na) Actions to temporarily protect or preserve insured property; provided such actions are necessary \ndue to actual, or to prevent immediately impending, insured physical loss or damage to such \ninsured property. \nb) Fire department firefighting charges imposed as a result of responding to a fire in, on or exposing \nthe insured property. \nc) Restoring and recharging fire protection systems following an insured loss. \nd) The water used for fighting a fire in, on or exposing the insured property. \ne) Temporary security for a per"
+  },
+  {
+    "title": "19. Tax Treatment",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 14 of 33"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers the increased tax liability as a direct result of insured physical loss or damage to \ninsured property. When such tax liability is greater than the tax liability that would have been \nincurred had there been no such loss or damage, then this Policy will cover only the increased tax \nliability for the profit portion of a loss payment under this Policy involving finished stock \nmanufactured by the Insured and/or the profit portion of the Business Interruption loss payment."
+  },
+  {
+    "title": "20. Unnamed Property",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers insured property anywhere within this Policy\u2019s Territory."
+  },
+  {
+    "title": "21. Valuable Papers and Records",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "This Policy covers valuable papers and records while anywhere within this Policy\u2019s Territory. \nValuable Papers and Records Exclusion: As respects Valuable Papers and Records, the following \nadditional exclusion applies: \nThis Policy excludes errors or omissions in the processing or copying of valuable papers and records. \nValuable Papers and Records Valuation: On property insured under this coverage, the loss amount will \nnot exceed the lesser of the following: \na) The cost to repair or restore the article to the condition that existed immediately prior to the loss; \nb) The cost to replace the"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "BUSINESS INTERRUPTION",
+    "deductible": "s and exclusions shown in the Declaratio",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Business Interruption loss, as provided in the Business Interruption Coverage and Business Interruption \nCoverage Extensions of this section, is subject to all the terms and conditions of this Policy including, but not \nlimited to, the limits of liability, deductibles and exclusions shown in the Declarations section. \nA. LOSS INSURED \nThis Policy insures Business Interruption loss, as provided in the Business Interruption Coverage, as a \ndirect result of physical loss or damage of the type insured:"
+  },
+  {
+    "title": "4. During the Period of Liability as described elsewhere in this Policy.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy insures Business Interruption loss only to the extent it cannot be reduced through:"
+  },
+  {
+    "title": "4. The use of inventory;",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "All whether at a location or at any other premises. This Company reserves the right to take into \nconsideration the combined operating results. of all associated, affiliated or subsidiary companies of the \nInsured in determining the amount of loss. \nIn determining the amount of loss payable, this Company will consider:"
+  },
+  {
+    "title": "1.  Any amount recovered elsewhere under this Policy for loss or damage to finished goods or",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "merchandise at selling price as having been sold to the Insured\u2019s regular customers and credited against \nnet sales."
+  },
+  {
+    "title": "2.  The experience of the business before and after and the probable experience during the Period of",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Liability. The probable experience will also consider any increase or decrease in demand for the \nInsured\u2019s goods or services during the Period of Liability, even if such increase or decrease is from \nthe same event that caused physical loss or damage starting the Period of Liability."
+  },
+  {
+    "title": "3.  The continuation of only those normal charges and expenses that would have been earned had there",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "been no interruption of production or business operations or services. \nThis Policy also covers expenses reasonably and necessarily incurred by the Insured to reduce the loss \notherwise payable under this Policy. The amount of such recoverable expenses will not exceed the amount \nby which the loss is reduced. \n \n \n \n \n \n\nPage 16 of 33"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "B. BUSINESS INTERRUPTION COVERAGE"
+  },
+  {
+    "title": "1. Gross Profits",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The recoverable Gross Profits loss is the actual loss sustained by the Insured of the: \na) Reduction in sales; and the \nb) Increased cost of doing business, \nResulting from the necessary interruption of business during the Period of Liability. \nAs respects Gross Profits, Business Interruption Exclusion Items 2a and 2c do not apply. For purposes \nof measuring the loss: \ngross profits means the sum produced by adding the net profit to the insured fixed charges. If there \nis no net profit the amount of all insured fixed charges less that proportion of any loss from business \noperations as the amo"
+  },
+  {
+    "title": "2. Rental Income",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The recoverable Rental Income loss is the actual loss sustained by the Insured of the following during \nthe Period of Liability: \na) The fair rental value of any portion of the property occupied by the Insured; \n\nPage 17 of 33"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "b) Income reasonably expected from the rentals of unoccupied or unrented portions of such property; \nc) The rental income from the rented portions of such property, according to bona fide leases, \ncontracts or agreements, in force at the time of loss; \nAll less charges and expenses that do not continue. \nRental Income Exclusion: As respects Rental Income, the following additional exclusion applies: This \nPolicy does not insure: \na) Any loss of rental income during any period in which the insured property would not have been \nrented for any reason other than an insured loss."
+  },
+  {
+    "title": "3. Extra Expense",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The recoverable Extra Expense loss is the reasonable and necessary extra expense incurred by the \nInsured of the following during the Period of Liability to: \na) Temporarily continue as close to normal the conduct of the Insured\u2019s business; and \nb) Temporarily use the property or facilities of the Insured or others; \nAll less any value remaining at the end of the Period of Liability for property obtained in connection \nwith the above. \nExtra Expense Exclusions: As respects Extra Expense, the following additional exclusions apply: This \nPolicy does not insure: \na) Any loss of income. \nb) Expens"
+  },
+  {
+    "title": "1. For building and equipment, the period starting from the time of physical loss or damage of the type",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "insured; and \na) Ending when with due diligence and dispatch the lost or damaged property could be: \ni) repaired or replaced; and \nii) made ready for production or business operations or services, \nunder the same or equivalent physical operating conditions that existed prior to the loss or damage."
+  },
+  {
+    "title": "2. For raw materials or supplies, the period of time:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) Resulting from the inability to procure suitable raw materials or supplies to replace those \nphysically lost or damaged, but \n\nPage 18 of 33"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "b) For no more than the period of time for which such physically lost or damaged raw materials or \nsupplies would have supplied production or business operating or servicing needs."
+  },
+  {
+    "title": "3. If water:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) Used for any manufacturing purpose, including but not limited to as a raw material or for power; \nb) Stored behind dams or in reservoirs; and \nc) On any insured location, \nis released as the result of physical damage of the type insured to such dam, reservoir or connected \nequipment, the Company\u2019s liability for the actual interruption of production or suspension of \noperations or services due to inadequate water supply will not extend beyond 30 consecutive days after \nthe damaged dam, reservoir or connected equipment has been repaired or replaced."
+  },
+  {
+    "title": "4. For physically damaged exposed films, records, manuscripts and drawings, the time required to copy",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "from backups or from originals of a previous generation. This time does not include research, \nengineering or any other time necessary to restore or recreate lost information."
+  },
+  {
+    "title": "5. For property covered under Data Restoration:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) The period of time starting from the time of insured physical loss or damage to electronic data, \nprograms or software; and \nb) Ending when with due diligence and dispatch the electronic data, programs or software could have \nbeen recreated or restored and made ready for production or business operations or services under \nthe same or equivalent physical operating conditions that existed prior to the physical loss or \ndamage. \nThe Gross Profit Period of Liability is: \nThe period starting from the time of physical loss or damage of the type insured and ending no later than \nthe period of tim"
+  },
+  {
+    "title": "1. Due to the Insured\u2019s inability to resume production or business operations or services for any reason,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "including but not limited to: \na) Making change(s) to the buildings, structures, machinery or equipment, except as provided by the \nDemolition and Increased Cost of Construction coverage in this Policy; or \nb) Restaffing or retraining employees. However, this item does not apply to additional time needed \nto train staff to use new machinery or equipment which replaces machinery or equipment that \nsuffered insured physical loss or damage, provided that such training is completed within 90 days \nafter the new machinery or equipment has been installed. \nIf there is a loss at a location that invol"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "In addition to the exclusions elsewhere in this Policy, the following exclusions apply to Business \nInterruption loss: \nThis Policy does not insure:"
+  },
+  {
+    "title": "1. Any loss during any idle period, including but not limited to when production, operations or services",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "or delivery or receipt of goods would cease, or would not have taken place or would have been \nprevented due to: \na) Physical loss or damage not insured by this Policy. \nb) Planned or rescheduled shutdown. \nc) Strike or other work stoppage. \nd) Any other reason other than physical loss or damage insured under this Policy."
+  },
+  {
+    "title": "2. Any increase in loss due to:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) The suspension, cancellation, or lapse of any lease, contract, license or order. \nb) Damages for breach of contract, or for late or non-completion of orders. \nc) Fines or penalties of any nature. \nd) Any other consequential or remote loss."
+  },
+  {
+    "title": "3. Any increase in loss due to the purchase of electrical power or additional costs associated with",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "generating electrical power from alternative sources."
+  },
+  {
+    "title": "5. Any loss resulting from physical loss or damage to Minor Works.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "E. BUSINESS INTERRUPTION COVERAGE EXTENSIONS"
+  },
+  {
+    "title": "1. Civil or Military Authority",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers the Business Interruption Coverage loss incurred by the Insured during the Period \nof Liability if an order of civil or military authority prohibits access to a described location provided \nsuch order is the direct result of physical damage of the type insured at a described location or within \nfive (5) statute miles of it. \nItem B. 3. of Property Excluded does not apply to this Business Interruption Coverage Extension. The \nPeriod of Liability for this Business Interruption Coverage Extension will be: \na) The period of time starting at the time of such order of civil or mil"
+  },
+  {
+    "title": "2. Ingress/Egress",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers the Business Interruption Coverage loss incurred by the Insured due to the \nnecessary interruption of the Insured\u2019s business when ingress to or egress from a described \nlocation(s) is physically prevented, either partially or totally, as a direct result of physical loss or \ndamage of the type insured to property of the type insured whether or not at a described location. \nItem B. 3. of Property Excluded does not apply to this Business Interruption Coverage Extension. \n\nPage 20 of 33"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 1st",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. UIN: IRDAN125CP0007V01202122\nBusiness Suraksha Plus- Essential"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "3. Off-Premises Service Interruption - Business Interruption",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers Business Interruption Coverage loss incurred by the Insured during the Period of \nLiability caused by the interruption, in whole or part, of incoming electric, gas, fuel, steam, water, \nrefrigeration, and outgoing sewerage services at a described location. \nThe interruption of such services must be by physical loss or damage of the type insured to property \nof the type insured, not otherwise excluded by this Policy, at the facilities of the service provider(s) \nwhile anywhere within this Policy\u2019s Territory. \nThis coverage is subject to the Qualifying Period in the Declaratio"
+  },
+  {
+    "title": "4. Protection and Preservation of Property - Business Interruption",
+    "deductible": "provisions that would have",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers the Business Interruption Coverage loss incurred by the Insured for a period of time \nnot to exceed 48 hours prior to and 48 hours after the Insured first taking reasonable action for the \ntemporary protection and preservation of property insured by this Policy provided such action is \nnecessary to prevent immediately impending insured physical loss or damage to such insured property. \nThis Business Interruption Coverage Extension is subject to the deductible provisions that would have \napplied had the physical loss or damage happened."
+  },
+  {
+    "title": "5. Supply Chain",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy covers the Business Interruption Coverage loss incurred by the Insured during the Period \nof Liability directly resulting from physical loss or damage of the type insured to property of the type \ninsured at the premises of any of the following within the Policy\u2019s Territory: \na) Direct suppliers, direct customers or direct contract service providers to the Insured; or \nb) Any company under any royalty, licensing fee or commission agreement with the Insured \nBut not at the premises of entities supplying to or receiving from a location electricity, fuel, water, \nsteam, refrigeration, "
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 21 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential"
+  },
+  {
+    "title": "LOSS ADJUSTMENT AND SETTLEMENT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A. ABANDONMENT \nThere shall be no abandonment to this Company of any property. \nB. APPRAISAL \nIf the Insured and this Company fail to agree on the amount of loss, each will, on the written demand \nof either, select a competent and disinterested appraiser after:"
+  },
+  {
+    "title": "2. This Company has received a signed and sworn Proof of Loss from the Insured.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Each will notify the other of the appraiser selected within 20 days of such demand. \nThe appraisers will first select a competent and disinterested umpire. If the appraisers fail to agree \nupon an umpire within 30 days then, on the request of the Insured or this Company, the umpire will \nbe selected by a judge of a court of record in the jurisdiction in which the appraisal is pending. The \nappraisers will then appraise the amount of loss, stating separately the actual cash value and \nreplacement cost value as of the date of loss and the amount of loss, for each item of physical loss or \ndamage"
+  },
+  {
+    "title": "2. Bear equally the other expenses of the appraisal and umpire.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A demand for Appraisal shall not relieve the Insured of its continuing obligation to comply with the \nterms and conditions of this Policy, including as provided under Requirements in Case of Loss. \nThis Company will not be held to have waived any of its rights by any act relating to appraisal. \nC. AVERAGE \nAs respects Property Damage, the Company will not pay the full amount of any loss if the value of insured \nproperty at the location at the time of loss multiplied by 80% is greater than the reported property values. \nThe amount of the Company\u2019s payment will be determined as follows:"
+  },
+  {
+    "title": "3. Multiply the total amount of loss, before application of any deductible, by the amount determined",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "in step 2; and"
+  },
+  {
+    "title": "4. Subtract the deductible from the amount determined in step 3.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The most the Company will pay is:"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 22 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential"
+  },
+  {
+    "title": "2. The limit of liability applicable to the property (if any), as shown in the Declarations section;",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Whichever is less. \nAs respects Business Interruption, the Company will not pay for the full amount of any loss if the business \ninterruption location value at the time of loss multiplied by 80% is greater than the reported business \ninterruption values. The amount of the Company\u2019s payment will be determined as follows:"
+  },
+  {
+    "title": "3. Multiply the total amount of loss, before application of any deductible, by the amount determined in",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "step 2; and"
+  },
+  {
+    "title": "4. Subtract the deductible from the amount determined in step 3.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The most the Company will pay is:"
+  },
+  {
+    "title": "2. The business interruption limit of liability (if any), as shown in the Declarations section; Whichever is",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "less. \nD. COLLECTION FROM OTHERS \nThis Company will not be liable for any loss to the extent that the Insured has collected for such loss from \nothers. \nE. COMPANY OPTION \nThis Company has the option to take all or any part of damaged property at the agreed or appraised value. \nThis Company must give notice to the Insured of its intention to do so within 30 days after receipt of Proof \nof Loss. \nF. LEGAL ACTION AGAINST THIS COMPANY \nNo suit, action or proceeding for the recovery of any claim will be sustained in any court of law or equity \nunless:"
+  },
+  {
+    "title": "2. Legal action is started within 12 months after inception of the loss.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If under the insurance laws of the jurisdiction in which the property is located, such 12-month limitation \nis invalid, then any such legal action must be started within the shortest limit of time permitted by such \nlaws. \nG. LOSS ADJUSTMENT AND PAYABLE \nLoss or damage will be adjusted with the First Named Insured and payable to or as the First Named Insured \ndirects subject to the Mortgagee/Lenders Loss Payable clause in the General Conditions section of this \nPolicy. \nAdditional insured interests will also be included in loss payment as their interests may appear when named"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 23 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \nas additional named insured, lender, mortgagee and/or loss payee on a Certificate of Insurance issued by \nthis Company prior to the loss. \n \nWhen named on a Certificate of Insurance issued by the Insured\u2019s broker with this Company\u2019s permission, \nsuch additional interests are added to this Policy as their interests may appear when such Certificate of \nInsurance is issued prior to the loss and on file with this Company. The effective date of any suc"
+  },
+  {
+    "title": "1. If there is any other insurance that would apply in the absence of this Policy, this Policy will apply",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "only after such insurance whether collectible or not."
+  },
+  {
+    "title": "3. The Insured is permitted to have other insurance over any limits or sublimits of liability specified",
+    "deductible": ".",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "elsewhere in this Policy without prejudice to this Policy. The existence of any such insurance will \nnot reduce any limit or sublimit of liability in this Policy. Any other insurance that would have \nprovided primary coverage in the absence of this Policy will not be considered excess."
+  },
+  {
+    "title": "4. The Insured is permitted to have other insurance for all, or any part, of any deductible in this",
+    "deductible": ", this",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy. The existence of such other insurance will not prejudice recovery under this Policy. If the \nlimits of liability of such other insurance are greater than this Policy\u2019s applicable deductible, this \nPolicy\u2019s insurance will apply only after such other insurance has been exhausted."
+  },
+  {
+    "title": "5. If this Policy is deemed to contribute with other insurance, the limit of liability applicable at each",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "location, for the purposes of such contribution with other insurers, will be the latest amount \ndescribed in this Policy or the latest location value on file with this Company. \nI. REQUIREMENTS IN CASE OF LOSS \nThe Insured will:"
+  },
+  {
+    "title": "3. Promptly separate the damaged and undamaged property; put it in the best possible order; and",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "furnish a complete inventory of the lost, destroyed, damaged and undamaged property showing in \ndetail the quantities, costs, actual cash value, replacement value and amount of loss claimed."
+  },
+  {
+    "title": "4. Give a signed and sworn proof of loss to the Company within 90 days after the loss, unless that",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "time is extended in writing by this Company. The proof of loss must state the knowledge and belief \nof the Insured as to: \na) The time and origin of the loss. \nb) The Insured\u2019s interest and that of all others in the property. \nc) The actual cash value and replacement value of each item and the amount of loss to each item; \nall encumbrances; and all other contracts of insurance, whether valid or not, covering any of the \nproperty."
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 24 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \nd) Any changes in the title, use, occupation, location, possession or exposures of the property since \nthe effective date of this Policy. \ne) By whom and for what purpose any location insured by this Policy was occupied on the date of \nloss, and whether or not it then stood on leased ground."
+  },
+  {
+    "title": "5. Include a copy of all the descriptions and schedules in all policies and, if required, provide verified",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "plans and specifications of any buildings, fixtures, machinery or equipment destroyed or damaged."
+  },
+  {
+    "title": "6. Further, the Insured, will as often as may be reasonably required:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) Exhibit to any person designated by the Company all that remains of any property; \nb) Submit to examination under oath by any person designated by the Company and sign the written \nrecords of examinations; and \nc) Produce for examination at the request of the Company: \ni) All books of accounts, business records, bills, invoices and other vouchers; or \nii) Certified copies if originals are lost, \nAt such reasonable times and places that may be designated by the Company or its representative and \npermit extracts and machine copies to be made. \nJ. SETTLEMENT OF CLAIMS \nThe amount of loss for w"
+  },
+  {
+    "title": "2. When a resolution of the amount of loss is made either by:",
+    "deductible": "of the applicable policy deductible, thi",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) Written agreement between the Insured and this Company; or \nb) The filing with this Company of an award as provided in the Appraisal clause of this section. \nIn the event of insured physical loss or damage determined by this Company\u2019s representatives to be in \nexcess of the applicable policy deductible, this Company will advance mutually agreed-upon partial \npayment(s), subject to the Policy\u2019s provisions. To obtain such partial payments, the Insured will submit a \nsigned and sworn proof of loss as described in this Policy, with adequate supporting documentation. \nK. SUBROGATION \nThe Insured"
+  },
+  {
+    "title": "2. Any provable uninsured loss,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Bears to the entire provable loss amount."
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 25 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \nL. VALUATION \nAdjustment of the physical loss amount(s) under this Policy will be as of the date of loss at the place of \nloss, and for no more than the interest of the Insured."
+  },
+  {
+    "title": "1. Adjustment of physical loss to property will be determined based on the lesser of the following",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "unless stated otherwise below or elsewhere in this Policy: \na) The cost to repair. \nb) The cost to rebuild or replace on the same site with new materials of like size, kind and quality. \nc) The cost to rebuild, repair or replace on the same or another site, but not to exceed the size and \noperating capacity that existed on the date of loss. \nd) On real property or machinery and equipment, other than stock, offered for sale on the date of the \nloss, the selling price."
+  },
+  {
+    "title": "2. On raw materials, supplies and merchandise not manufactured by the Insured, the replacement",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "cost."
+  },
+  {
+    "title": "3. On stock in process, the value of raw materials and labor expended plus the proper proportion of",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "overhead charges."
+  },
+  {
+    "title": "4. On finished goods manufactured by the Insured, the regular cash selling price, less all discounts",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "and charges to which such finished goods would have been subject had no loss happened."
+  },
+  {
+    "title": "5. On exposed films, records, manuscripts and drawings, the value blank plus the cost of copying",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "information from backup or from originals of a previous generation. These costs will not include \nresearch, engineering or any costs of restoring or recreating lost information."
+  },
+  {
+    "title": "6. On personal property that is part of a pair or set, and the physically damaged personal property",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "cannot be replaced or repaired, the reduction in value of the undamaged portion of insured personal \nproperty. If settlement is based on a constructive total loss, the Insured will surrender the \nundamaged parts of such property to this Company."
+  },
+  {
+    "title": "7. On unrepairable electrical or mechanical equipment, including computer equipment, the cost to",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "replace such equipment with equipment that is the most functionally equivalent to that damaged or \ndestroyed, even if such equipment has technological advantages and/or represents an improvement \nin function and/or forms part of a program of system enhancement."
+  },
+  {
+    "title": "8. On property scheduled for demolition, the increased cost of demolition, if any, directly resulting",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "from insured loss."
+  },
+  {
+    "title": "9. On improvements and betterments, the unamortized value of improvements and betterments, if",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "such property is not repaired or replaced at the Insured\u2019s expense."
+  },
+  {
+    "title": "11. On property if not repaired, replaced or rebuilt on the same or another site within two years from",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "the date of loss, unless such time is extended by the Company, the actual cash value. \n \nThe Insured may elect not to repair or replace the insured real or personal property under Item 1 above \nthat is lost, damaged or destroyed. Loss settlement may be elected on the lesser of repair or replacement \ncost basis if the proceeds of such loss settlement are expended on other capital expenditures related to the"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 26 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \nInsured\u2019s operations within two years from the date of loss. As a condition of collecting under this item, \nsuch expenditure must be unplanned as of the date of loss and be made at a described location under this \nPolicy. This item does not extend to Demolition and Increased Cost of Construction."
+  },
+  {
+    "title": "GENERAL CONDITIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A. APPLICATION OF POLICY TO DATE OR TIME RECOGNITION \nWith respect to situations caused by any date or time recognition problem by electronic data processing \nequipment or media (such as the so-called Year 2000 problem), this Policy applies as follows:"
+  },
+  {
+    "title": "1. This Policy does not pay for remediation, change, correction, repair or assessment of any date or time",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "recognition problem, including the Year 2000 problem, in any electronic data processing equipment \nor media, whether preventative or remedial, and whether before or after a loss, including temporary \nprotection and preservation of property. This Policy does not pay for any business interruption loss \nresulting from the foregoing remediation, change, correction, repair or assessment."
+  },
+  {
+    "title": "2. Failure of electronic data processing equipment or media to correctly recognize, interpret, calculate,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "compare, differentiate, sequence, access or process data involving one or more dates or times, including \nthe Year 2000, is not insured physical loss or damage. This Policy does not pay for any such incident \nor for any business interruption loss resulting from any such incident. \nSubject to all of its terms and conditions, this Policy does pay for physical loss or damage not excluded by \nthis Policy that results from a failure of electronic data processing equipment or media to correctly \nrecognize, interpret, calculate, compare, differentiate, sequence, access or process data involving one o"
+  },
+  {
+    "title": "1. Cancelled at any time at the request of the First Named Insured by surrendering this Policy to this",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Company or by giving written notice to this Company stating when such cancellation will take effect; \nor"
+  },
+  {
+    "title": "2. Cancelled by this Company by giving the First Named Insured not less than:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) 60 days written notice of cancellation; or \nb) 10 days written notice of cancellation if the First Named Insured fails to remit, when due, payment \nof premium for this Policy; or"
+  },
+  {
+    "title": "3. Non-renewed by this Company by giving the First Named Insured not less than 60 days written notice",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "of non-renewal. \nReturn of any unearned premium will be calculated on the customary short rate basis if the First Named \nInsured cancels and on a pro-rata basis if the Company cancels this Policy. Return of any unearned premium \nwill be made by the Company as soon as practicable."
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 27 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \nC. CONFORMITY TO STATUTE \nTerms of this Policy that conflict with the statutes of the jurisdiction where the insured property is located, \nare amended to conform to such statutes. \nD. FIRST NAMED INSURED \nThe First Named Insured shown in the Declarations section:"
+  },
+  {
+    "title": "3. May authorize changes in the terms and conditions of this Policy with the consent of this Company.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "E. INCREASE IN HAZARD \nThis Policy will not apply to any location where there is an increase in hazard over which the Insured has \ncontrol and knowledge. Any increase in hazard at one or more locations will not affect coverage at other \nlocations where, at the time of loss or damage, the increase in hazard does not exist. \nF. INSPECTIONS \nThis Company, at all reasonable times, will be permitted, but will not have the duty, to inspect insured \nproperty. This Company does not address life, safety or health issues. \nThis Company\u2019s:"
+  },
+  {
+    "title": "3. Providing recommendations or other information in connection with any inspections, Will not",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "constitute an undertaking, on behalf of or for the benefit of the Insured or others. \nThis Company will have no liability to the Insured or any other person because of any inspection or failure \nto inspect. \nWhen this Company is not providing jurisdictional inspections, the Owner/Operator has the responsibility \nto assure that jurisdictional inspections are performed as required, and to assure that required jurisdictional \nOperating Certificates are current for their pressure equipment. \nG. LIBERALIZATION CLAUSE \nIf during the period that insurance is in force under this Policy, any filed rule"
+  },
+  {
+    "title": "1. Willfully concealed or misrepresented any material fact or circumstance concerning this insurance, the",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 28 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \nsubject thereof, any insurance claim, or the interest of an Insured."
+  },
+  {
+    "title": "3. Made any false swearing.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "I. MORTGAGEE/LENDERS LOSS PAYABLE \nLoss or damage, if any, to specified property insured under this Policy shall be payable to each specified \nLenders Loss Payable (hereinafter referred to as Lender) and specified Mortgagee as its interest may \nappear. \nThis insurance as to the interest of the Lender or Mortgagee shall not be invalidated by:"
+  },
+  {
+    "title": "4. Change to a more hazardous occupancy.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Lender or Mortgagee will notify this Company of any known change in ownership, occupancy or \nhazard and, within 10 days of written request by this Company, may pay the increased premium associated \nwith such known change. If the Lender or Mortgagee fails to pay the increased premium, all coverage \nunder this Policy will cease. \nIf the Insured fails to render proof of loss within the time provided in this Policy, the Lender or Mortgagee \nshall render proof of loss within sixty days after having knowledge of the Insured\u2019s failure in the form and \nmanner provided by this Policy, and, further,"
+  },
+  {
+    "title": "1. Sooner terminated by authorization, consent, approval, acceptance or ratification of the Insured\u2019s",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "action by the Lender or Mortgagee, or its agent."
+  },
+  {
+    "title": "2. This Policy is replaced by the Insured, with a policy providing coverage for the interest of the Lender",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "or Mortgagee, in which event coverage under this Policy with respect to such interest will terminate as \nof the effective date of the replacement policy, notwithstanding any other provision of this Policy. \nThis Company may cancel this Policy and/or the interest of the Lender or Mortgagee under this Policy, by \ngiving the Lender or Mortgagee written notice 60 days prior to the effective date of cancellation, if \ncancellation is for any reason other than non-payment. If the debtor, mortgagor or owner has failed to pay \nany premium due under this Policy, this Company may cancel this Policy for s"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 29 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \nplus any accrued interest. In this event, all rights and securities will be assigned and transferred from the \nLender or Mortgagee to this Company, and the remaining debt or mortgage will be paid to this Company. \nThis Company may invoke this Policy\u2019s Suspension clause. The suspension of insurance will apply to the \ninterest of the Lender or Mortgagee in any machine, vessel, or part of any machine or vessel subject to the \nsuspension. This Company"
+  },
+  {
+    "title": "2. Prevent the Company from asserting any rights under the provisions of this Policy.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "K. REINSTATEMENT OF LIMITS AFTER A LOSS \nExcept for an annual aggregate limit of liability, any loss or payment of any claim will not reduce \nthe amount payable under this Policy. \nL. REPRESENTATION OF RISK \nThis Policy has been issued based on the statement of values declared by the Insured prior to inception of \nthis Policy. The Insured will provide the Company 100% values by location annually no later than sixty \n(60) days prior to the Policy anniversary or renewal, unless otherwise agreed to. The Insured will also \npromptly report 100% of values for any location(s) purchased, leased or ren"
+  },
+  {
+    "title": "1. Property values in accordance with the Valuation clause of the Loss Adjustment and Settlement section",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "of this Policy."
+  },
+  {
+    "title": "3. Business Interruption values projected for the 12 months following the inception date of this Policy",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "and for every renewal thereof, and the actual Business Interruption values for the previous 12-month \nperiod. \nIf the Company determines that any of the above values reported by the Insured are not accurate, the Insured \nwill cooperate with the Company to conduct an appraisal or analysis of such values. \nM. SANCTIONS \nThis Policy shall not provide coverage for any claim, under any provision, if coverage and payment of \nsuch claim would expose this Company to any sanctions, prohibitions or restrictions under United Nations"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 30 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \nresolutions or the trade or economic sanctions, laws or regulations of the European Union, United Kingdom \nor United States of America. \nN. SUSPENSION \nUpon discovery of a dangerous condition, this Company may immediately suspend the boiler and \nmachinery insurance with respect to any machine, vessel or part thereof by giving written notice to \nthe Insured. The insurance that is suspended may be reinstated by this Company. The Insured will be \nall"
+  },
+  {
+    "title": "DEFINITIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 31 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \nactual cash value means the cost to repair or replace the property, on the date of the loss or damage, with \nmaterial of like kind and quality, less proper deduction for obsolescence and physical depreciation. \nannual aggregate means the Company\u2019s maximum amount payable during any policy year. \nboiler and machinery means: \n1. \nDirect physical loss or damage originating within: \na) Boilers, fired or unfired pressure vessels, vacuum vessels and pres"
+  },
+  {
+    "title": "2. And caused by, resulting from or consisting of:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a) Mechanical breakdown; or \nb) Electrical or electronic breakdown; or \nc) Extremes or changes of temperature; or \nd) Rupture, bursting, bulging, implosion or steam explosion. \n3. \nboiler and machinery as used in this Policy does not mean: \nPhysical loss or damage caused by or resulting from any of the following regardless of any other cause or \nevent contributing concurrently or in any other sequence to the loss: \na) Combustion explosions, except from within combustion gas turbines; or \nb) Explosions from liquids coming in contact with molten materials; or \nc) Accidental discharge, escape, le"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 32 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \nany other sequence of loss. \ndate or time recognition means the recognition, interpretation, calculation, comparison, differentiation, \nsequencing, accessing or processing of data involving one or more dates or times, including the Year 2000. \ndescribed location(s) means the locations described in the Insurance Provided clause of the Declarations \nsection of this Policy. \nearth movement means any natural or man-made earth movement, including but n"
+  },
+  {
+    "title": "1. terrorism: occurrence will mean the sum total of all loss or damage of the type insured, including any",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "insured Business Interruption loss, arising out of or caused by all acts of terrorism during a continuous \nperiod of seventy-two (72) hours."
+  },
+  {
+    "title": "2. earth movement: occurrence will mean the sum total of all loss or damage of the type insured, including",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "any insured Business Interruption loss, arising out of or caused by all earth movement(s) during a \ncontinuous period of seventy-two (72) hours. \noffshore means away from the shore but not connected to the shore by docks, piers or any other physical \nconnection other than pipelines. \nordinary payroll means:"
+  },
+  {
+    "title": "1. Wages of all employees except officers, executives, department managers, and employees under contract",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "or similar key employees; and"
+  },
+  {
+    "title": "2. Includes taxes and charges dependent on the payment of those wages.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "physical loss or damage to electronic data, programs or software means the destruction, distortion or \ncorruption of electronic data, programs or software."
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 33 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \nproduction machinery and equipment means any production or process machine(s) or apparatus that \nprocesses, forms, cuts, shapes, grinds or conveys raw materials, materials in process or finished goods and \nany associated equipment utilized in production including but not limited to electrical cabling, transformers,"
+  },
+  {
+    "title": "HVAC and any equipment or apparatus that is mounted upon or used exclusively with any one or more",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "production or process machine(s) or apparatus. \nraw materials mean materials and supplies in the state in which the Insured receives them for conversion by \nthe Insured into finished goods. \nstock in process means raw materials or stock, which has undergone any aging, seasoning, mechanical or \nother process or manufacture, but which is not finished goods. \nterrorism means:"
+  },
+  {
+    "title": "1. Any act, involving the use or threat of: force, violence, dangerous conduct, interference with the operations",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "of any business, government or other organization or institution, or any similar act,"
+  },
+  {
+    "title": "2. When the effect or apparent purpose is:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "To influence or instill fear in any government (de jure or de facto) or the public, or any segment of either; or to \nfurther, or to express support for, or opposition to, any political, religious, social, ideological or similar type \nof objective or position. \ntransmission and distribution systems means transmission and distribution systems including but not limited \nto electricity, gas, fuel, steam, water, refrigeration, sewerage, voice, data and video. Such systems shall include \npoles, towers and fixtures, overhead conductors and devices, underground and underwater conduit, \nunderground and"
+  },
+  {
+    "title": "GRIEVANCE REDRESSAL PROCEDURE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If You have a grievance about any matter relating to the Policy, or Our decision on any matter, or the claim, \nYou can address Your grievance as follows: \nOur Grievance Redressal Officer \n \nIf you have a grievance that you wish us to redress, you may contact us with the details of your grievance \nthrough: \n \n\u2022 \nContact us: 022 6158 2020/ 022 6234 6234 \n\u2022 \nEmails \u2013 grievance@hdfcergo.com"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 34 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \n\u2022 \nContact Details for Senior Citizens: 022 6242 6226 | Email ID: seniorcitizen@hdfcergo.com \nDesignated Grievance Officer in each branch. \n\u2022 \nCompany Website \u2013 www.hdfcergo.com \n\u2022 \nCourier - Any of our Branch office or corporate office \n \nYou may also approach the Complaint & Grievance (C&G) Redressal Cell at any of our branches with the \ndetails of your grievance during our working hours from Monday to Friday. \n \nIf you are not satisfied with ou"
+  },
+  {
+    "title": "HDFC ERGO General Insurance The Company Ltd.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301,3rd Floor, Eastern Business District (Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai \u2013 400078, Maharashtra \n \nIn case you are not satisfied with the response / resolution given / offered by the C&G cell, then you can \nwrite to the Chief Grievance Officer of the Company at the following address  \n \nTo the Chief Grievance Officer"
+  },
+  {
+    "title": "HDFC ERGO General Insurance The Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District (Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai - 400078, Maharashtra \ne-mail: cgo@hdfcergo.com \n \nGrievance \nmay \nalso \nbe \nlodged \nat"
+  },
+  {
+    "title": "IRDAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Integrated \nGrievance \nManagement \nSystem- https://bimabharosa.irdai.gov.in   \nYou may also approach the nearest Insurance Ombudsman for resolution, if your grievance is not redressed \nby the Company. The contact details of Ombudsman offices are below if your grievance pertains to:  \n\u2022 \nInsurance claim that has been rejected or dispute of a claim on legal construction of the policy  \n\u2022 \nDelay in settlement of claim  \n\u2022 \nDispute with regard to premium  \n\u2022 \nNon-receipt of your insurance document \n \nYou \nmay \nalso \nrefer \nOur \nwebsite \nwww.hdfcergo.com\u201dhttps://www.hdfcergo.com/customer-\nvoice/gri"
+  },
+  {
+    "title": "AHMEDABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Gujarat, Dadra & Nagar Haveli,"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 35 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \nOffice Details \nJurisdiction \nof \nOffice \nUnion Territory, District) \nOffice of the Insurance Ombudsman, \nJeevan Prakash Building, 6th floor, \nTilak Marg, Relief Road, \nAhmedabad \u2013 380 001. \nTel.: 079 - 25501201/02 \nEmail: bimalokpal.ahmedabad@cioins.co.in \nDaman and Diu"
+  },
+  {
+    "title": "BENGALURU -",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \nJeevan Soudha Building, PID No. 57-27-N-19 \nGround Floor, 19/19, 24th Main Road,"
+  },
+  {
+    "title": "JP Nagar, Ist Phase,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Bengaluru \u2013 560 078. \nTel.: 080 - 26652048 / 26652049 \nEmail: bimalokpal.bengaluru@cioins.co.in \nKarnataka"
+  },
+  {
+    "title": "BHOPAL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \n1st floor,\"Jeevan Shikha\", \n60-B,Hoshangabad Road, Opp. Gayatri Mandir, \nBhopal \u2013 462 011. \nTel.: 0755 - 2769201 / 2769202 \nEmail: bimalokpal.bhopal@cioins.co.in \nMadhya Pradesh  \nChattisgarh"
+  },
+  {
+    "title": "BHUBANESHWAR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \n62, Forest park, \nBhubneshwar \u2013 751 009. \nTel.: 0674 - 2596461 /2596455 \nFax: 0674 - 2596429 \nEmail: bimalokpal.bhubaneswar@cioins.co.in \nOrissa"
+  },
+  {
+    "title": "CHANDIGARH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \nJeevan Deep Building SCO 20-27, \nGround Floor Sector- 17 A, \nChandigarh \u2013 160 017. \nTel.: 0172-2706468 \nEmail: bimalokpal.chandigarh@cioins.co.in  \nState of Punjab, Haryana (excluding 4 \ndistricts vizGurugram, Faridabad, Sonepat \nand Bahadurgarh), Himachal Pradesh, Union \nTerritories of Jammu &Kashmir, Ladakh and \nChandigarh."
+  },
+  {
+    "title": "CHENNAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \nFatima Akhtar Court, 4th Floor, 453, \nAnna Salai, Teynampet,"
+  },
+  {
+    "title": "CHENNAI \u2013 600 018.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 044 - 24333668 / 24333678 \nFax: 044 - 24333664 \nEmail: bimalokpal.chennai@cioins.co.in \nTamil Nadu Puducherry Town and Karaikal \n(which are part of Puducherry)."
+  },
+  {
+    "title": "DELHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \n2/2 A, Universal Insurance Building, \nDelhi, 4 districts of Haryana vizGurugram, \nFaridabad, Sonepat and Bahadurgarh)"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 36 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \nOffice Details \nJurisdiction \nof \nOffice \nUnion Territory, District) \nAsaf Ali Road, \nNew Delhi \u2013 110 002. \nTel.:  011 - 23237539  \nEmail: bimalokpal.delhi@cioins.co.in"
+  },
+  {
+    "title": "GUWAHATI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \nJeevanNivesh, 5th Floor, \nNr. Panbazar over bridge, S.S. Road, \nGuwahati \u2013 781001(ASSAM). \nTel.: 0361 - 2632204 / 2602205 \nEmail: bimalokpal.guwahati@cioins.co.in \nAssam,  \nMeghalaya,  \nManipur,  \nMizoram,  \nArunachal Pradesh,  \nNagaland and Tripura"
+  },
+  {
+    "title": "HYDERABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \n6-2-46, 1st floor, \"Moin Court\", \nLane Opp. Saleem Function Palace, \nA. C. Guards, Lakdi-Ka-Pool, \nHyderabad - 500 004. \nTel.: 040 - 23312122 \nEmail: bimalokpal.hyderabad@cioins.co.in \nState of Andhra Pradesh, Telangana and \nYanam \u2013 a part of Union Territory of \nPuducherry"
+  },
+  {
+    "title": "JAIPUR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \nJeevanNidhi \u2013 II Bldg., Gr. Floor, \nBhawani Singh Marg, \nJaipur - 302 005. \nTel.: 0141 \u2013 2740363/2740798 \nEmail: bimalokpal.jaipur@cioins.co.in \nRajasthan"
+  },
+  {
+    "title": "KOCHI -",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \nOffice of the Insurance Ombudsman, \n10th Floor, Jeevan Prakash,LIC Building, \nOpp to Maharaja's College Ground,M.G.Road, \nKochi - 682 011. \nTel.: 0484 - 2358759 \nEmail: bimalokpal.ernakulam@cioins.co.in  \nKerala Lakshadweep, Mahe - a part of Union \nterritory of Puducherry"
+  },
+  {
+    "title": "KOLKATA -",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \nHindustan Bldg. Annexe, 4th Floor, \n4, C.R. Avenue,"
+  },
+  {
+    "title": "KOLKATA - 700 072.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 033 - 22124339 \nFax : 033 - 22124341 \nEmail: bimalokpal.kolkata@cioins.co.in \nStates of West Bengal, Sikkim and Union \nTerritories of Andaman & Nicobar Islands"
+  },
+  {
+    "title": "LUCKNOW -",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \n6th Floor, JeevanBhawan, Phase-II, \nNawal Kishore Road, Hazratganj, \nDistricts of Uttar Pradesh :Laitpur, Jhansi, \nMahoba, Hamirpur, Banda, Chitrakoot, \nAllahabad, Mirzapur, Sonbhabdra, Fatehpur, \nPratapgarh, Jaunpur,Varanasi, Gazipur,"
+  },
+  {
+    "title": "HDFC ERGO General Insurance",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Page 37 of 37"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation, H. T. Parekh Marg, Churchgate, Mumbai \u2013 400 020. | Business Suraksha \nPlus -Essential \n \nOffice Details \nJurisdiction \nof \nOffice \nUnion Territory, District) \nLucknow - 226 001. \nTel.: 0522 - 4002082 / 3500613 \nEmail: bimalokpal.lucknow@cioins.co.in \nJalaun, Kanpur, Lucknow, Unnao, Sitapur, \nLakhimpur, Bahraich, Barabanki, Raebareli, \nSravasti, Gonda, Faizabad, Amethi, \nKaushambi, Balrampur, Basti, \nAmbedkarnagar, Sultanpur, Maharajgang, \nSantkabirnagar, Azamgarh, Kushinagar, \nGorkhpur, Deoria, Mau, Ghazipur, \nChandauli, Ballia, Sidha"
+  },
+  {
+    "title": "MUMBAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \n3rd Floor, JeevanSevaAnnexe, \nS. V. Road, Santacruz (W), \nMumbai - 400 054. \nTel.: 022 - 69038800/27/29/31/32/33  \nEmail: bimalokpal.mumbai@cioins.co.in \nGoa  \nMumbai Metropolitan Region excluding \nAreas of Navi Mumbai & Thane"
+  },
+  {
+    "title": "NOIDA -",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \nBhagwanSahai Palace \n4th Floor, Main Road, \nNaya Bans, Sector 15, \nDistt: GautamBuddh Nagar, \nU.P-201301. \nTel.: 0120- 2514252 / 2514253 \nEmail: bimalokpal.noida@cioins.co.in \nState of Uttaranchal and the Districts of Uttar \nPradesh: Agra, Aligarh, Bagpat, Bareilly, \nBijnor, Budaun, Bulandshehar, Etah, Kanooj, \nMainpuri, Mathura, Meerut, Moradabad, \nMuzaffarnagar, Oraiyya, Pilibhit, Etawah, \nFarukkabad, Firozbad, Gautambodhanagar, \nGhaziabad, Hardoi, Shahjahanpur, Hapur, \nShamli, Rampur, Kashganj, Sambhal, \nAmroha, Hathras, Kanshiramnagar, \nSaharanpur."
+  },
+  {
+    "title": "PATNA -",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \n2nd Floor, Lalit Bhawan, \nBailey Road, \nPatna 800 001. \nTel.: 0612-2547068 \nEmail: bimalokpal.patna@cioins.co.in  \nBihar  \nJharkhand"
+  },
+  {
+    "title": "PUNE -",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \nJeevanDarshan Bldg., 3rd Floor, \nC.T.S. No.s. 195 to 198, \nN.C. Kelkar Road, Narayan Peth, \nPune \u2013 411 030. \nTel.: 020- 24471175  \nEmail: bimalokpal.pune@cioins.co.in \nMaharashtra,  \nArea of Navi Mumbai and Thane excluding \nMumbai Metropolitan Region."
+  }
+]

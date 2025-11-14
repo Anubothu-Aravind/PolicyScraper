@@ -1,0 +1,30 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela Business",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Miscellaneous & Special Type of Vehicles Package Policy \n- Annual EMI Protector - IRDAN125RP0013V01202122/A0006V01202223"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings"
+  },
+  {
+    "title": "EMI PROTECTOR -",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Miscellaneous & Special Type of Vehicles Package Policy - Annual\nIn consideration of the payment of additional premium paid by the Insured and realized by the Insurer not withstanding anything \nto the contrary, it is hereby understood & agreed that for the purpose of this policy, in the event of the vehicle insured is kept \nin garage for accidental repairs for more than ____* days, Insurer will pay __________ Equated Monthly Installment Amount \n(EMI) to insured as mentioned in the policy schedule. \nSpecial conditions:\na) \t Hypothecation/Lease clause is endorsed in the policy schedule.\nb) \t Ben"
+  }
+]

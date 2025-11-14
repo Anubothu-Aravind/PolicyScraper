@@ -1,0 +1,30 @@
+[
+  {
+    "title": "1. Details",
+    "deductible": "s. This Policy does not provide for any",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Notice: This is a claims made and reported Policy. Subject to its terms, this Policy applies only to a Claim first \nmade during the Period of Insurance or the Extended Reporting Period (if applicable). Amounts incurred as \nDefence Costs and Investigation Costs shall reduce and may exhaust the Limit of Liability and are subject to \nthe applicable deductibles. This Policy does not provide for any duty by insurers to defend any of the Insureds.\nThis Policy is part of an international program. This program arrangement is a compilation of different locally \nissued policies called International Prog"
+  },
+  {
+    "title": "3. Exclusions",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The following exclusions are hereby added to the Policy as follows:\nNamed Parent and Subsidiary Company of the Named Parent made or commenced against: (1) the Named \nParent; (2) any Insured in the country where the Named Parent is domiciled (3) any Subsidiary Company of \nthe Named Parent domiciled in any territory other than that of the Policyholder, or (4) any director, officer or \nemployee of the Named Parent.\nClaims Brought by Named Parent or Subsidiary Companies of the Named Parent brought by or commenced by:\n(1) the Named Parent;\n(2) any Subsidiary Company of the Named Parent;\n(3) any dir"
+  },
+  {
+    "title": "US CLAIM EXCLUSION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Insurer shall not be liable under this Policy to make any payment for Financial Loss in connection with\nany Claim made against any Insured brought or commenced, in whole or in part: (a) within the jurisdiction of; \nor (b) pursuant to the laws of, the United States of America or its territories and/or possessions.\nAll Other Terms, Conditions And Limitations Remain Unchanged."
+  },
+  {
+    "title": "US SECURITIES CLAIMS EXCLUSION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "In consideration of the premium charged, it is hereby understood and agreed that this Policy is amended as \nfollows:\n(i) Securities Claims exclusion is hereby added to Section 4. Exclusions of the Policy as follows:\nSecurities Claims\nrelating to or arising out of, based upon, in connection with, attributable to or as a consequence of any US \nSecurities Claim made against any Insured.\n(ii) US Securities Claims definition is hereby added to Section 2. Definitions of the Policy:"
+  }
+]

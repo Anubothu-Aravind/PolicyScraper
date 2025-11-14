@@ -1,0 +1,1213 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "List of Withdrawn Non-Health Products as on 30th September 2024 \nSr \nNo \nProduct \nName as \napproved \nDate of \nApprov\nal \nDisplay UINs (System \nGenerated UIN) \nDate of \nWithdrawal \nLink to Policy Wording \n  \n1 \nMarine \nCargo Open \nPolicy \n23-Aug-\n03"
+  },
+  {
+    "title": "IRDAN125P0004V01200304",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n2 \nHome \nSuraksha \nPlus Policy \n08-Dec-\n09"
+  },
+  {
+    "title": "HDFPAIP09002V010809",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-20 \n  \n  \n  \n3 \nMicro \nInsurance - \nKisan Sarva \nSuraksha \nKawach \n30-\nMay-16"
+  },
+  {
+    "title": "HDE-OM-P17-12-V01-16-17",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Apr-16 \n  \n  \n  \n4 \nStandard \nFire and \nSpecial \nPerils \nInsurance \n03-Sep-\n10"
+  },
+  {
+    "title": "IRDAN146P0006V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n5 \nContractors \nPlant and \nMachinery \nInsurance \n01-Sep-\n10"
+  },
+  {
+    "title": "IRDAN146P0001V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n6 \nContractor's \nAll Risks \nInsurance \n01-Sep-\n10"
+  },
+  {
+    "title": "IRDAN146P0002V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n7 \nErection All \nRisks \nInsurance \n01-Sep-\n10"
+  },
+  {
+    "title": "IRDAN146P0003V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n8 \nElectronic \nEquipment \nInsurance \n01-Sep-\n10"
+  },
+  {
+    "title": "IRDAN146P0004V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n9 \nMachinery \nBreakdown \nInsurance \n01-Sep-\n10"
+  },
+  {
+    "title": "IRDAN146P0005V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n\n10 \nConsequent\nial Loss \n(Fire) \nInsurance \n04-Jan-\n11"
+  },
+  {
+    "title": "IRDAN146P0016V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n11 \nMachinery \nLoss of \nProfits \nInsurance \nPolicy \n11-Feb-\n11"
+  },
+  {
+    "title": "IRDAN146P0024V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n12 \nAdvance \nloss of \nProfits \nInsurance \nPolicy \n11-Feb-\n11"
+  },
+  {
+    "title": "IRDAN146P0025V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n13 \nIndustrial \nAll Risk \nInsurance \npolicy \n05-Jan-\n11"
+  },
+  {
+    "title": "IRDAN146P0017V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n14 \nAdd-ons for \nEngineering \nInsurance \nPolicies \n09-Nov-\n12"
+  },
+  {
+    "title": "IRDAN146A0004V01201213",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n15 \nBoiler and \nPressure \nPlant \nInsurance \nPolicy \n04-Feb-\n13"
+  },
+  {
+    "title": "IRDAN146P0008V01201213",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n16 \nBurglary & \nHousebreak\ning \ninsurance \n29-Sep-\n10"
+  },
+  {
+    "title": "IRDAN146P0012V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "30-Mar-19 \n  \n  \n  \n17 \nMoney \nInsurance \n11-Jan-\n10"
+  },
+  {
+    "title": "IRDAN146P0021V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "30-Mar-19 \n  \n  \n  \n18 \nWorkmen's \nCompensati\non \nInsurance \n09-Nov-\n10"
+  },
+  {
+    "title": "IRDAN146P0013V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "30-Mar-19 \n  \n  \n  \n\n19 \nCombined \nPublic & \nProduct \nliability \nInsurance \n28-Feb-\n11"
+  },
+  {
+    "title": "IRDAN146P0027V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n20 \nCommercial \nGeneral \nLiability \nInsurance \n24-Feb-\n11"
+  },
+  {
+    "title": "IRDAN146P0026V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n21 \nFidelity \nInsurance \n06-Jan-\n11"
+  },
+  {
+    "title": "IRDAN146P0018V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "30-Mar-19 \n  \n  \n  \n22 \nBaggage \nInsurance \n06-Jan-\n11"
+  },
+  {
+    "title": "IRDAN146P0019V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "30-Mar-19 \n  \n  \n  \n23 \nNeon Sign \nInsurance \n06-Jan-\n11"
+  },
+  {
+    "title": "IRDAN146P0020V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "30-Mar-19 \n  \n  \n  \n24 \nPlate Glass \nInsurance \nPolicy \n11-Jan-\n11"
+  },
+  {
+    "title": "IRDAN146P0023V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "30-Mar-19 \n  \n  \n  \n25 \nDirectors \nand Officers \nLiability \nInsurance \n14-Dec-\n12"
+  },
+  {
+    "title": "IRDAN146P0006V01201213",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n26 \nPublic \nLiability \n(ACT) \nInsurance \nPolicy \n09-Nov-\n10"
+  },
+  {
+    "title": "IRDAN146P0014V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n27 \nmy:jeevika \nCommercial \nand \nMiscellaneo\nus  Package \nPolicy  \n12-Feb-\n16"
+  },
+  {
+    "title": "LNT-MO-P16-64-V02-15-16",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n28 \nmy:Jeevika \nWeather \nInsurance \nPolicy  \n07-Mar-\n12"
+  },
+  {
+    "title": "IRDAN146P0001V01201112",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "30-Mar-19 \n  \n  \n  \n\n29 \nAdditional \nPersonal \nAccident \n22-Aug-\n19"
+  },
+  {
+    "title": "IRDAN125RP0002V01201920/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0019V01201920 \n22-Aug-19 \n  \n  \n  \n30 \nAdditional \nPersonal \nAccident \n22-Aug-\n19"
+  },
+  {
+    "title": "IRDAN125RP0001V01201920/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0011V01201920 \n22-Aug-19 \n  \n  \n  \n31 \nAdditional \nPersonal \nAccident \n28-Mar-\n14"
+  },
+  {
+    "title": "IRDAN125A0018V01201314",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "20-Sep-18 \n  \n  \n  \n32 \nPrivate Car \nPackage \nPolicy - 3 \nyears \n31-Aug-\n18"
+  },
+  {
+    "title": "IRDAN125RP0006V01201819",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Aug-20 \n  \n  \n  \n33 \nMotor \nInsurance - \nTwo \nWheeler \nPackage \nPolicy - 5 \nyears \n31-Aug-\n18"
+  },
+  {
+    "title": "IRDAN125RP0007V01201819",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Aug-20 \n  \n  \n  \n34 \nMotor \nLiability \nonly Policy  \n03-Sep-\n10"
+  },
+  {
+    "title": "IRDAN146P0011V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n35 \nAdd ons for \nmy:asset \nPrivate Car \nPackage \nPolicy \n27-Jun-\n12"
+  },
+  {
+    "title": "IRDAN146A0001V01201213",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n36 \nmy:asset \nPrivate Car \nPackage \nPolicy  \n27-Nov-\n14"
+  },
+  {
+    "title": "LNT-MO-P15-41-V02-14-15",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n37 \nmy:asset \nTwo \nWheeler  \nPackage \nPolicy  \n31-Mar-\n16"
+  },
+  {
+    "title": "LNT-MO-P16-74-V02-15-16",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n\n38 \nPOS \nmy:asset \nPrivate Car \nPackage \nPolicy  \n14-\nMar-16"
+  },
+  {
+    "title": "IRDA/NL/F&U/L&T/P/Motor",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "-Pvt.Car/14-15 \n28-Dec-18 \n  \n  \n  \n39"
+  },
+  {
+    "title": "POS Motor",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Liability \nonly Policy  \n14-\nMar-16"
+  },
+  {
+    "title": "IRDA/NL/F&U/Motor/LTGI/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1 \n28-Dec-18 \n  \n  \n  \n40 \nPOS \nmy:asset \nTwo \nWheeler \nPackage \nPolicy \n31-\nMay-\n16"
+  },
+  {
+    "title": "LNT-MO-P16-74-V02-15-16",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n41"
+  },
+  {
+    "title": "POS My:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Jeevika \nCommerci\nal and \nMiscellane\nous \nPackage \nPolicy \n31-\nMay-\n16"
+  },
+  {
+    "title": "LNT-MO-P16-64-V02-15-16",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "28-Dec-18 \n  \n  \n  \n42"
+  },
+  {
+    "title": "CSC -",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Private Car \nPackage \nPolicy - 3 \nyears  \n16-Jul-\n19"
+  },
+  {
+    "title": "HDE-MO-P20-05-V01-19-20",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Aug-20 \n  \n  \n  \n43"
+  },
+  {
+    "title": "CSC-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Motor \nInsurance - \nTwo \nWheeler \nPackage \nPolicy - 5 \nyears  \n16-Jul-\n19"
+  },
+  {
+    "title": "HDE-MO-P20-04-V01-19-20",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Aug-20 \n  \n  \n  \n\n44 \nStandard \nFire & \nSpecial \nPerils \nInsurance \n24-Dec-\n02"
+  },
+  {
+    "title": "IRDAN125RP0015V01200203",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-motor/sfsp---\npolicy-wordings.pdf \n  \n45 \nStandard \nFire & \nSpecial \nPerils \nInsurance - \nAdd on Ver. \n1- Cost of \nclearing \nDrains \nClause         \n21-Jul-\n10"
+  },
+  {
+    "title": "IRDAN125RP0015V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0010V01200910 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/standard-fire-special-perils-\ninsurance-add-on.pdf \n  \n46 \nStandard \nFire & \nSpecial \nPerils \nInsurance - \nAdd on \nCovers \n(Version 1)- \nBroad \nWater \nDamage \nClause    \n21-Jul-\n10"
+  },
+  {
+    "title": "IRDAN125RP0015V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0009V01200910 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/standard-fire-special-perils-\ninsurance-add-on.pdf \n  \n47 \nStandard \nFire & \nSpecial \nPerils \nInsurance- \nAddons-II- \nAccounts \nReceivable \nClause \n13-May-\n13"
+  },
+  {
+    "title": "IRDAN125RP0015V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0010V01201314 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/standard-fire-special-perils-\ninsurance-add-on.pdf \n  \n48 \nStandard \nFire & \nSpecial \nPerils \nInsurance- \nAddons-"
+  },
+  {
+    "title": "II-  Addition",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "al Insured \n13-May-\n13"
+  },
+  {
+    "title": "IRDAN125RP0015V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0002V01201314 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/standard-fire-special-perils-\ninsurance-add-on.pdf \n  \n\n49 \nStandard \nFire & \nSpecial \nPerils \nInsurance- \nAddons-"
+  },
+  {
+    "title": "II-  Contracti",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "ng \nPurchaser's \nInterest \n13-May-\n13"
+  },
+  {
+    "title": "IRDAN125RP0015V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0003V01201314 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/standard-fire-special-perils-\ninsurance-add-on.pdf \n  \n50 \nStandard \nFire & \nSpecial \nPerils \nInsurance- \nAddons-"
+  },
+  {
+    "title": "II-  Cost of",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Re-writing \nRecords \nClause \n13-May-\n13"
+  },
+  {
+    "title": "IRDAN125RP0015V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0004V01201314 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/standard-fire-special-perils-\ninsurance-add-on.pdf \n  \n51 \nStandard \nFire & \nSpecial \nPerils \nInsurance- \nAddons-"
+  },
+  {
+    "title": "II-  De",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Contaminati\non and Cost \nof Clean \nUp: \n13-May-\n13"
+  },
+  {
+    "title": "IRDAN125RP0015V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0005V01201314 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/standard-fire-special-perils-\ninsurance-add-on.pdf \n  \n52 \nStandard \nFire & \nSpecial \nPerils \nInsurance- \nAddons-"
+  },
+  {
+    "title": "II-  Employe",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "e Personal \nProperty \nCover \n13-May-\n13"
+  },
+  {
+    "title": "IRDAN125RP0015V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0006V01201314 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/standard-fire-special-perils-\ninsurance-add-on.pdf \n  \n53 \nStandard \nFire & \nSpecial \nPerils \n13-May-\n13"
+  },
+  {
+    "title": "IRDAN125RP0015V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0007V01201314 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\n  \n\nInsurance- \nAddons-"
+  },
+  {
+    "title": "II-  Expense",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "for Loss \nMinimizatio\nn: \nmotor/standard-fire-special-perils-\ninsurance-add-on.pdf \n54 \nStandard \nFire & \nSpecial \nPerils \nInsurance- \nAddons-"
+  },
+  {
+    "title": "II-  Modificat",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "ion \nCost/Incom\npatibility \nExpenses \n13-May-\n13"
+  },
+  {
+    "title": "IRDAN125RP0015V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0008V01201314 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/standard-fire-special-perils-\ninsurance-add-on.pdf \n  \n55 \nStandard \nFire & \nSpecial \nPerils \nInsurance- \nAddons-"
+  },
+  {
+    "title": "II-  Non-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "vitiation \nClause:  \n13-May-\n13"
+  },
+  {
+    "title": "IRDAN125RP0015V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0009V01201314 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/standard-fire-special-perils-\ninsurance-add-on.pdf \n  \n56 \nStandard \nFire & \nSpecial \nPerils \nInsurance- \nAddons-"
+  },
+  {
+    "title": "II-   Shut",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Down-Start \nUp Clause \n13-May-\n13"
+  },
+  {
+    "title": "IRDAN125RP0015V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0001V01201314 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/standard-fire-special-perils-\ninsurance-add-on.pdf \n  \n57"
+  },
+  {
+    "title": "SFSP Filing",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "of Add on \nclauses  Par\nt"
+  },
+  {
+    "title": "III-  Acciden",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "tal Damage \nCover \nClause \n09-Nov-\n12"
+  },
+  {
+    "title": "IRDAN125RP0015V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0010V01201213 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/standard-fire-special-perils-\ninsurance-add-on.pdf \n  \n\n58 \nJewellers \nPackage \nInsurance \n23-Apr-\n12"
+  },
+  {
+    "title": "IRDAN125RP0001V01201213",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/jewellers-package-insurance-\npolicy.pdf \n  \n59 \nLivestock \n(Sheep & \nGoat) \nInsurance \n14-Mar-\n07"
+  },
+  {
+    "title": "IRDAN125RP0007V01200607",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/livestock-(sheep-_-goat)-\ninsurance.pdf \n  \n60 \nmy:asset \nHome \nInsurance \nPolicy  \n27-Nov-\n12"
+  },
+  {
+    "title": "IRDAN146RP0005V01201213",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-\nmotor/myasset-home-insurance-\nprimary-pw.pdf \n  \n61 \nMy:Business \nInsurance \nPackage \nPolicy (SME) \n01-Feb-\n13"
+  },
+  {
+    "title": "LNT-OT-P13-35-V02-12-13",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-motor/my---\nbusiness-insurance-package-policy---\npw.pdf \n  \n62 \nmy:Jeevika \nstandard \nfire and \nspecial \nperils- micro \ninsurance \n03-Sep-\n10"
+  },
+  {
+    "title": "IRDAN146RP0007V01201011",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-motor/my-\njeevika---sfsp-policy-wordings.pdf  \n  \n63 \nIndustrial All \nRisks \nInsurance \n24-Dec-\n02"
+  },
+  {
+    "title": "IRDAN125RP0014V01200203",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-motor/(29)-\nindustrial-all-risk---pww.pdf \n  \n64 \nIndustrial All \nRisks \nInsurance - \nAdd On \nClauses -i) \nNon vitiation \nclause \n22-May-\n13"
+  },
+  {
+    "title": "IRDAN125RP0014V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0012V01201314 \n16-May-24 \n  \n  \n65 \nIndustrial All \nRisks \nInsurance \n(Variant) \n27-Aug-\n12"
+  },
+  {
+    "title": "IRDAN125RP0014V01200203/",
+    "deductible": "s",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0009V01201213 \n16-May-24 \n  \n  \n\nwith High \nDeductibles \n& Discount \n66 \nIndustrial All \nRisks \nInsurance - \nAdd On \nClauses - ii) \nAdditional \ninsured got \napproved \n22-May-\n13"
+  },
+  {
+    "title": "IRDAN125RP0014V01200203/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A0011V01201314 \n16-May-24 \n  \n  \n67 \nMicro \nInsurance-\nCrop \ninsurance \n30-May-\n16"
+  },
+  {
+    "title": "HDE-OM-P17-14-V01-16-17",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-motor/micro-\ninsurance-crop-insurance.pdf \n  \n68 \nMicro \nInsurance-\nLivestock \n(Cattle) \nInsurance \n10-Jul-\n17"
+  },
+  {
+    "title": "HDE-OM-P18-30-V01-17-18",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-motor/micro-\ninsurance-livestock-(cattle)-\ninsurance.pdf \n  \n69 \nMotor \nInsurance \n08-Aug-\n02"
+  },
+  {
+    "title": "IRDAN125RP0005V01200203",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-May-24 \n  \n  \n70 \nMotor - Add \non - Zero \nDepreciation \nClaim \n08-Oct-\n09"
+  },
+  {
+    "title": "IRDAN125RP0005V01200203/A",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "0005V01200910 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/motor/wordings-\nmotor-add-on-clause.pdf \n  \n71 \nMotor - Add \non Covers- \nMulti \nVehicle \nDiscount \n08-Oct-\n09"
+  },
+  {
+    "title": "IRDAN125RP0005V01200203/A",
+    "deductible": "08",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "0007V01200910 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/motor/wordings-\nmotor-add-on-clause.pdf \n  \n72 \nMotor - Add \non Covers- \nVoluntary \nDeductible \n08-Oct-\n09"
+  },
+  {
+    "title": "IRDAN125RP0005V01200203/A",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "0008V01200910 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/motor/wordings-\nmotor-add-on-clause.pdf \n  \n73 \nMotor Add-\nons - Engine \nand Gear \nbox \nProtector \n22-Jun-\n12"
+  },
+  {
+    "title": "IRDAN125RP0005V01200203/A",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "0004V01201213 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/motor/2-add-on-\nwordings-7thjune2011.pdf \n  \n\n74 \nMotor Add-\nons - Cost \nof \nConsumable \nItems \n22-Sep-\n12"
+  },
+  {
+    "title": "IRDAN125RP0005V01200203/A",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "0003V01201213 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/motor/2-add-on-\nwordings-7thjune2011.pdf \n  \n75 \nMotor Add-\nons -Higher \nProtection \nand \nRemoval \nCosts   \n22-Jun-\n12"
+  },
+  {
+    "title": "IRDAN125RP0005V01200203/A",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "0006V01201213 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/motor/2-add-on-\nwordings-7thjune2011.pdf \n  \n76 \nMotor \nInsurance- \nAdd-on \ncover - Loss \nof \nUse  Downti\nme \nProtection \n22-Feb-\n13"
+  },
+  {
+    "title": "IRDAN125RP0005V01200203/A",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "0012V01201213 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/motor/wordings-\nmotor-add-on-clause.pdf \n  \n77 \nMotor \nInsurance- \nAdd-on \ncover - \nReturn to \nInvoice \n22-Feb-\n13"
+  },
+  {
+    "title": "IRDAN125RP0005V01200203/A",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "0013V01201213 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/motor/wordings-\nmotor-add-on-clause.pdf \n  \n78 \nMotor Add-\nons viz EMI \nProtector \n14-Mar-\n14"
+  },
+  {
+    "title": "IRDAN125RP0005V01200203/A",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "0015V01201314 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/motor/wordings-\nmotor-add-on-clause.pdf \n  \n79 \nMotor Add-\nons \nViz.  Emerg\nency \nAssistance  \n(applicable \nfor All class \nof vehicles) \n14-Mar-\n14"
+  },
+  {
+    "title": "IRDAN125RP0005V01200203/A",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "0016V01201314 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/motor/1-add-on-\nclauses-emergency-assistance---\nmotor.pdf \n  \n80 \nNo Claim \nBonus \nProtection \n(for all \n25-Nov-\n09"
+  },
+  {
+    "title": "IRDA/F&U/HDFC/MotorAdd-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "ons/09-10/2 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/motor/add-on-\ncovers-for-motor-package-\n  \n\nmotor \npolicies) \npolicies_irda-approval-dated-nov-25-\n09.pdf \n81 \nAdd ons for \nmy:asset \nTwo \nwheeler \nPackage \nPolicy \n24-Jun-\n15"
+  },
+  {
+    "title": "LNT-MO-A00-00-08-V01-15-16",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/motor/my-asset-\ntwo-wheeler.pdf \n  \n82 \nReturn to \nInvoice \n22-Aug-\n19"
+  },
+  {
+    "title": "IRDAN125RP0001V01201920/A",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "0010V01201920 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/motor/standalone-\nmotor-own-damage-cover-private-\ncars-add-ons.pdf \n  \n83 \nReturn to \nInvoice \n30-Dec-\n21"
+  },
+  {
+    "title": "IRDAN125RP0012V01202122/A",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "0047V01202122 \n16-May-24 \n  \n  \n84 \nReturn to \nInvoice \n11-Feb-\n22"
+  },
+  {
+    "title": "IRDAN125RP0001V02201415/A",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "0061V01202122 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/non-motor/private-\ncar-package-policy---annual---add-\nons---policy-wordings-(1).pdf \n  \n85 \nReturn to \nInvoice - \nAdd-on \ncover for \nPrivate Car \nPolicy - \nBundled \n31-Aug-\n18"
+  },
+  {
+    "title": "IRDAN125RP0008V01201819/A",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "0027V01201819 \n16-May-24 \nhttps://www.hdfcergo.com/docs/def\nault-source/downloads/policy-\nwordings/others/motor/private-car-\npolicy-bundled---add-ons---pw.pdf \n  \nList of Withdrawn Accident & Health Products as on 30th September 2024 \nSr \nNo \nProduct \nName as \napproved \nApprov\nal Date \n(Latest \nVersio\nn)"
+  },
+  {
+    "title": "UIN as per Approval letter",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "System \nGenerated UIN \n(if Applicable) \nDate of \nWithdr\nawal \nLink to Policy wordings \nLink to Prospectus \n\n1 \nGramin \nSuraksha \nBima \u2013 \nRetail \n18-Jun-\n15 \n55/IRDAI/HDFC-ERGOGI/NL-"
+  },
+  {
+    "title": "PACKAGE/2015-16",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/policy-\nwordings-gramin-\nsuraksha-bima-retail.pdf \n  \n2 \nGramin \nSuraksha \nBima \nPolicy  \n6-Aug-\n13"
+  },
+  {
+    "title": "HDFHLGP05003V010405",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttp://hdfcergo.com/docs/\ndefault-\nsource/downloads/policy-\nwordings/others/gramin-\nsuraksha-bima_-policy-\nwording.pdf \n  \n3 \nGroup \nHospital \nCash \nInsurance \n6-Aug-\n13"
+  },
+  {
+    "title": "ERGOGI/P-H/V.I/125/13-14",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/group-\nhospital-cash--policy-\nwording.pdf \n  \n4 \nGroup \nMediclaim \nInsurance \nPolicy \n6-Aug-\n13"
+  },
+  {
+    "title": "ERGOGI/P-H/V.I/116/13-14",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/group-\nmediclaim---policy-\nwording.pdf \n  \n5 \nGroup \nPersonal \nAccident \nInsurance \n6-Aug-\n13"
+  },
+  {
+    "title": "ERGOGI/P-H/V.I/122/13-14",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/group-\npersonal-accident-policy-\nwording.pdf \n  \n6 \nHome \nSuraksha \nPlus Policy \n08-\nDec-09"
+  },
+  {
+    "title": "ERGOGI/P-H/V.I/258/13-14",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \n https://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/home-\nsuraksha-plus-policy-\nwording.pdf \n  \n\n7 \nNew \nHealthwise \nPolicy \n6-Aug-\n13"
+  },
+  {
+    "title": "ERGOGI/P-H/V.I/118/13-14",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/new-\nhealthwise-policy-\nwording.pdf \n  \n8 \nParivar \nSuraksha \nBima \n6-Aug-\n13"
+  },
+  {
+    "title": "ERGOGI/P-H/V.I/117/13-14",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/parivar-\nsuraksha-bima--policy-\nwording.pdf \n  \n9 \nParivar \nSuraksha \nBima - \nRetail \n18-Jun-\n15 \n57/IRDAI/HDFC-ERGOGI/NL-"
+  },
+  {
+    "title": "PACKAGE/2015-16",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/policy-\nwordings-parivar-\nsuraksha-bima-retail.pdf \n  \n10 \nPersonal \nAccident \nInsurance \n30-\nSep-13"
+  },
+  {
+    "title": "HDFPAIP03002",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "V010203 \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/personal-\naccident-insurance.pdf \n  \n11 \nGramin \nArogya \nNidhi \n18-Jun-\n15 \n56/IRDAI/HDFC-ERGOGI/NL-"
+  },
+  {
+    "title": "PACKAGE/2015-16",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/gramin-\narogya-nidhi-pw.pdf \n  \n12 \nSarv \nSuraksha \nPolicy \n30-\nSep-13"
+  },
+  {
+    "title": "HDFPAIP10004",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "V010910 \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/sarv-\nsuraksha-policy.pdf \n  \n13 \nMicro \nInsurance-\nPersonal \nAccident \nInsurance \n30-\nSep-13"
+  },
+  {
+    "title": "ERGOGI/P-H/V.I/257/13-14",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "23-Feb-\n17 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/micro-\n  \n\npersonal-accident-policy-\nwording.pdf \n14 \nMicro \nInsurance- \nCritical \nIllness \nInsurance \n6-Aug-\n13"
+  },
+  {
+    "title": "ERGOGI/P-H(C)/V.I/120/13-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "14 \n  \n23-Feb-\n17 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/micro-\ngci_policy-wordings-\nunf.pdf  \n  \n15 \nMicro \nInsurance- \nHealth \nSuraksha \n30-\nSep-16"
+  },
+  {
+    "title": "IRDAI/HLT/HDFC-ERGOGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.1/21/16-17 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/micro-\nhealth-suraksha-policy-\nwordings.pdf \n  \n16 \nMicro \nInsurance- \nGroup \nMediclaim \nInsurance \nPolicy \n30-\nSep-16"
+  },
+  {
+    "title": "IRDAI/HLT/HDFC-ERGOGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.1/23/16-17 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/micro-\ngroup-mediclaim---policy-\nwording.pdf \n  \n17 \nMicro \nInsurance-\nGroup \nHospital \nCash \nInsurance \n30-\nSep-16"
+  },
+  {
+    "title": "IRDAI/HLT/HDFC-ERGOGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.1/24/16-17 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/micro-\ngroup-hospital-cash--\npolicy-wording.pdf \n  \n18 \nMicro \nInsurance-\nGroup \nPersonal \nAccident \nInsurance \n30-\nSep-16"
+  },
+  {
+    "title": "IRDAI/HLT/HDFC-ERGOGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.1/25/16-17 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/micro-\ngroup-personal-accident-\npolicy-wording.pdf \n  \n19 \nMicro \nInsurance - \nGramin \n30-\nSep-16"
+  },
+  {
+    "title": "IRDAI/HLT/HDFC-ERGOGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.1/26/16-17 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\n  \n\nSuraksha \nBima \nPolicy \nwordings/others/micro-\ngramin-suraksha-bima_-\npolicy-wording.pdf \n20 \nMicro \nInsurance \nGramin \nArogya \nNidhi \n30-\nSep-16"
+  },
+  {
+    "title": "IRDAI/HLT/HDFC-ERGOGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.1/27/16-17 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/gramin-\narogya-nidhi---policy-\nwordings.pdf \n  \n21 \nMircro \nInsurance - \nGramin \nSuraksha \nBima \n30-\nSep-16"
+  },
+  {
+    "title": "IRDAI/HLT/HDFC-ERGOGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.1/29/16-17 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/policy-\nwordings-micro-gramin-\nsuraksha-bima-retail.pdf \n  \n22 \nGroup \nCritical \nIllness \nInsurance \n21-\nMar-17"
+  },
+  {
+    "title": "IRDAI/HLT/HDFC-ERGOGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H (G)/V.I/69/2016-17 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/gci_polic\ny-wordings.pdf \n  \n23 \nmy:health \nMedisure \nClassic \nInsurance \n23-\nAug-12"
+  },
+  {
+    "title": "IRDA/NL-HLT/L&TGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.I/249/13-14 \n  \n01-Feb-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/policy-\nwording-classic-hrc.pdf \n  \n24 \nMy Health: \nGroup \nPersonal \nAccident \n30-\nSep-13"
+  },
+  {
+    "title": "IRDA/NL-HLT/L&TGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.I/307/13-14 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/policy-\nwording-gpa-hrc.pdf \n  \n25 \nMy: health \nGroup \nMedisure \nInsurance \n30-\nSep-13"
+  },
+  {
+    "title": "IRDA/NL-HLT/L&TGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.1/329/13-14 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/policy-\nwordings-ghi-hrc.pdf \n  \n\n26 \nmy:jeevika \nPersonal \nAccident \nMicro \nInsurance \n30-\nSep-13"
+  },
+  {
+    "title": "IRDA/NL-HLT/L&TGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "P/V.I/308/13-14 \n  \n01-Oct-\n20 \nttps://www.hdfcergo.com/\ndocs/default-\nsource/downloads/policy-\nwordings/others/myjeevik\na-personal-accident-micro-\ninsurance.pdf \n  \n27 \nmy: Health \nPersonal \nAccident \nInsurance \n30-\nSep-13"
+  },
+  {
+    "title": "IRDA/NL-HLT/L&TGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "P/V.I/306/13-14 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/policy-\nwordings-pa-hrc.pdf \n  \n28 \nmy:jeevika \nMedisure \nMicro \nInsurance \n30-\nSep-13"
+  },
+  {
+    "title": "IRDA/NL-HLT/L&TGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.I/247/13-14 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/myjeevik\na-medisure-micro-\ninsurance.pdf \n  \n29 \nmy:jeevika \nCash@hos\npital Micro \nInsurance \n30-\nSep-13"
+  },
+  {
+    "title": "IRDA/NL-HLT/L&TGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.I/248/13-14 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/myjeevik\na-cash@hospital-micro-\ninsurance.pdf \n  \n30 \nmy:health \nMedisure \nPrime \nInsurance \n30-\nSep-13"
+  },
+  {
+    "title": "IRDA/NL-HLT/L&TGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.I/250/13-14 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/policy-\nwordings---prime---hrc.pdf \n  \n31 \nmy:asset \nLoan \nProtect \nTotal Relief \nPolicy \n28-\nMar-14"
+  },
+  {
+    "title": "IRDA/NL-HLT/L&TGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.I/242/13-14 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/policy-\nwordings---loan-\nprotect.pdf \n  \n32 \nmy:health \nMedisure \nPlus \nInsurance \n08-\nAug-14"
+  },
+  {
+    "title": "IRDA/NL-HLT/L&TGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.II/34/14-15"
+  },
+  {
+    "title": "LTGHLIP15002",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "V021415 \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\n  \n\nwordings/others/my-\nhealth-medisure-plus.pdf \n33 \nSampoorn\na Suraksha \n25/02/\n2019 \nWithdr\nawal -"
+  },
+  {
+    "title": "HDFHLIP19129V011819",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-Oct-\n19 \nNot Applicable \n  \n34 \nSampoorn\na Suraksha \n15-Oct-\n19"
+  },
+  {
+    "title": "HDFHLIP20070V011920",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/sampoor\nna-suraksha_policy-\nwording.pdf \n  \n35 \nApne, \nSapne \nSurakshit \n17-\nMay-\n18"
+  },
+  {
+    "title": "APOPAGP18032V011718",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/apne-\nsapne-\nsurakshit_policywording.p\ndf \n  \n36 \nArogya \nSanjeevani\n, HDFC \nErgo \nHealth \nPolicy \n31-\nMar-20 HDHHLIP20176V011920 \n  \n01-Apr-\n21 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/policy-\nwording---arogya-\nsanjeevani_hehi.pdf \n  \n37 \nCorona \nKavach \nPolicy,"
+  },
+  {
+    "title": "ERGO",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Health \n(Group) \n14-\nAug-20"
+  },
+  {
+    "title": "HDHHLGP21148V012021",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Apr-\n21 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/policy-\nwordings---corona-kavach-\npolicy-hdfc-ergo-health-\n(group).pdf \n  \n38 \nCorona \nKavach,"
+  },
+  {
+    "title": "HDFC Ergo",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "10-Jul-\n20"
+  },
+  {
+    "title": "HDHHLIP21099V012021",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Jul-\n21 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\n  \n\nHealth \nPolicy \nwordings/others/corona-\nkavach-policy-pw.pdf \n39 \nCorona \nRakshak,"
+  },
+  {
+    "title": "HDFC Ergo",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Health \nPolicy \n10-Jul-\n20"
+  },
+  {
+    "title": "HDHHLIP21109V012021",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Jul-\n21 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/policy-\nwordings-corona-rakshak-\npolicy-hehi.pdf \n  \n40 \nEasy \nDomestic \nTravel \nInsurance \n2-Jul-\n13"
+  },
+  {
+    "title": "IRDA/NL-HLT/AMHI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "T/V.I/108/13-14 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/easy-\ndomestic-travel-insurance-\n--policy-wording.pdf \n  \n41 \nEasy \nHealth \nGroup \nInsurance \n2-Jul-\n13"
+  },
+  {
+    "title": "IRDA/NL-HLT/AMHI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.I/107/13-14 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/easy-\nhealth-group-\ninsurance.pdf \n  \n42 \nGroup Easy \nCash \n23-Jan-\n17"
+  },
+  {
+    "title": "IRDAI/HLT/AMHI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H(G)/V.I/54/2016-17 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/group-\neasy-cash---policy-\nwordings.pdf \n  \n43 \nGroup \nEmergency \nAccident \nInsurance \nPlan \n7-Jun-\n18"
+  },
+  {
+    "title": "APOPAGP18085V011718",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/group-\nemergency-accident-\ninsurance-plan_policy-\nwording.pdf \n  \n44 \nGroup Out-\npatient \nInsurance \n13-\nNov-18"
+  },
+  {
+    "title": "APOHLGP19064V011819",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \n https://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/group-\n  \n\nout-patient-\ninsurance_policy-\nwordings.pdf \n45 \nGroup \nPersonal \nAccident \nInsurance \n2-Jul-\n13"
+  },
+  {
+    "title": "IRDA/NL-HLT/AMHI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "P/V.I/109/13-14 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/group-\npa---policy-wordings.pdf \n  \n46 \nHealth On \n21-\nSep-20"
+  },
+  {
+    "title": "HDHHLIP21320V022021",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "10-Jan-\n23 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/health-\non.pdf \n  \n47 \nHealth Plus 12-\nFeb-19"
+  },
+  {
+    "title": "APOHLGP19123V011819",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/healthplu\ns_policy-wordings.pdf \n  \n48 \nInsure \nHealth \nInsurance \n17-\nFeb-09"
+  },
+  {
+    "title": "IRDA/NL-HLT/AMHI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/W.1/13-14 \n  \n01-Oct-\n13 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/insure-\nhealth---policy-\nwordings.pdf \n  \n49 \nOptima \nEnhance \n30-\nAug-17"
+  },
+  {
+    "title": "APOHLGP18007V011718",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/optima-\nenhance-policy-\nwording.pdf \n  \n50 \nOptima \nShield \n12-Jul-\n19"
+  },
+  {
+    "title": "APOHLGP20038V011920",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/optima-\nshield-policy-wordings.pdf \n  \n51 \nTotal \nHealth \nPlan \n21-\nSep-20"
+  },
+  {
+    "title": "HDHHLIP21317V032021",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "10-Jan-\n23 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\n  \n\nwordings/others/total-\nhealth-plan.pdf \n52 \nUltra Loan \nShield \n7-Mar-\n19 \n101Y096V02 \n  \n01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/ultra-\nloan-shield.pdf \n  \n53 \nHealth \nProtector \n08-\nMay-\n17 \n49/lRDAI/HLT/HDFCEROGI/P\n-TA/V.l/1 5-1 6 \n  \n08-\nMay-17 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/hp_polic\ny-wordings.pdf \n  \n54 \nNjoy \n29-\nSep-17"
+  },
+  {
+    "title": "APOTGDP18043V011718",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "01-Oct-\n20 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/njoy_poli\ncy-wording.pdf \n  \n55 \nmy : health \nSuraksha \n10-\nAug-23"
+  },
+  {
+    "title": "HDFHLIP24079V072324",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "08-\nMay-24 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/myhealth\n-suraksha---pww.pdf \n  \n56 \nEducare \n17-Jun-\n21"
+  },
+  {
+    "title": "HDFTIOP22055V022122",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-\nMay-24 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/educare-\npw.pdf \nhttps://www.hdfcergo.com/docs/default-\nsource/downloads/prospectus/other/educa\nre-prospectus.pdf \n57 \nGroup \nAssurance \nHealth \nPlan \n21-\nSep-20"
+  },
+  {
+    "title": "HDHHLGP21343V022021",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-\nMay-24 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/group-\nassurance-health-plan---\npw.pd \nhttps://www.hdfcergo.com/docs/default-\nsource/downloads/prospectus/other/group-\nassurance-health-plan--prospectus.pdf \n58 \nmy: Health \nBenefit \nPackage \n27-\nSep-20"
+  },
+  {
+    "title": "HDFHLGP21476V022021",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-\nMay-24 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/my-\nhttps://www.hdfcergo.com/docs/default-\nsource/downloads/prospectus/other/myhe\nalth-benefit-package-policy-group-\nprospectus.pdf \n\nPolicy-\nGroup \nhealth-benefit-package---\npw.pdf \n59 \nmy: Health \nComprehe\nnsive \nSuraksha \u2013 \nGroup \n06-\nAug-21"
+  },
+  {
+    "title": "HDFHLGP22144V032122",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-\nMay-24 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/myhealth\n-comprehensive-suraksha-\ngroup-pw.pdf \nhttps://www.hdfcergo.com/docs/default-\nsource/downloads/prospectus/other/prosp\nectus-my-health-compsuraksha-group.pdf? \n60 \nMicro \nInsurance-"
+  },
+  {
+    "title": "ERGO",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Hospital \nCash \nInsurance \n30-\nSep-16"
+  },
+  {
+    "title": "IRDAI/HLT/HDFC-ERGOGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.1/22/16-17 \n  \n16-\nMay-24 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/hospital-\ncash-pw.pdf \nhttps://www.hdfcergo.com/docs/default-\nsource/downloads/prospectus/other/hdfc-\nergo-hospital-cash-insurance-\nprospectus.pdf \n61 \nMicro \nInsurance -"
+  },
+  {
+    "title": "ERGO",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Janata \nPersonal \nAccident \nInsurance \nPolicy \n30-\nSep-16"
+  },
+  {
+    "title": "IRDAI/HLT/HDFC-ERGOGI/P-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "H/V.1/28/16-17 \n  \n16-\nMay-24 https://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/janata-\npersonal-accident-pw.pdf \nhttps://www.hdfcergo.com/docs/default-\nsource/downloads/prospectus/other/janata\n-personal-accident-prospectus.pdf \n62 \nRashtriya \nSwasth \nBima \nYojana \n(RSBY) \n28-\nFeb-13 \n8/IRDA/L&T/RSBY-\nGov.Scheme/V.I/13-14 \n  \n16-\nMay-24 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/rashtriya-\nswasthya-bima-yojana---\npw-5.pdf \nhttps://www.hdfcergo.com/docs/default-\nsource/downloads/policy-\nwordings/others/rashtriya-swasthya-bima"
+  },
+  {
+    "title": "RSBY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "02-Apr-\n13 \n5(1)/IRDA/AMH/RSBY-\nGov.Scheme/V.I/11-12 \n  \n16-\nMay-24 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/rashtriya-\nhttps://www.hdfcergo.com/docs/default-\nsource/downloads/policy-\nwordings/others/rashtriya-swasthya-bima-\nyojana---pw-5.pdf \n\nswasthya-bima-yojana---\npw-5.pdf \n64 \nRashtriya \nSwasthya \nBoma \nYojana \n(RSBY) (for \ncluster 8 \nand cluster \n10 \ncovering \n16 districts \nof State of \nUttar \nPradesh. \n#N/A \n#N/A \n  \n16-\nMay-24 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/rashtriya-\nswasthya-bima-yojana---\npw-"
+  },
+  {
+    "title": "ERGO/RSBY-",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Gov.Scheme/V.1/11-12 \n  \n16-\nMay-24 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/rashtriya-\nswasthya-bima-yojana---\npw-5.pdf \nhttps://www.hdfcergo.com/docs/default-\nsource/downloads/policy-\nwordings/others/rashtriya-swasthya-bima-\nyojana---pw-5.pdf \n66 \nEasy Travel 17-Jun-\n21"
+  },
+  {
+    "title": "HDFTIOP22051V022122",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-\nMay-24 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/easy-\ntravel.pdf \nhttps://www.hdfcergo.com/docs/default-\nsource/downloads/prospectus/other/easy-\ntravel-prospectus.pdf \n67 \nAyushman \nBharat - \nNational \nHealth \nProtection \nMission \n(AB-"
+  },
+  {
+    "title": "NHPM)",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "06-\nAug-18"
+  },
+  {
+    "title": "APOHLGP19043V011819",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-\nMay-24 \nAs per Govt. Scheme \nAs per Govt. Scheme \n\n68 \nGroup Easy \nTravel \nSenior - \n17-Jun-\n21"
+  },
+  {
+    "title": "HDFTGOP22053V022122",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-\nMay-24 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/group-\neasy-travel-senior-cis-\npw.pdf \nhttps://www.hdfcergo.com/docs/default-\nsource/downloads/prospectus/other/group-\neasy-travel-senior---prospectus.pdf \n69 \nEasy Travel \nGroup \nTravel \nHealth \n17-Jun-\n21"
+  },
+  {
+    "title": "HDFTGOP22050V022122",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "16-\nMay-24 \nhttps://www.hdfcergo.co\nm/docs/default-\nsource/downloads/policy-\nwordings/others/easy-\ntravel-group-travel-health-\n--pw.pdf \nhttps://www.hdfcergo.com/docs/default-\nsource/downloads/prospectus/other/easy-\ntravel-group-travel-health---prospectus.pdf \n70 \nmy:Sampo\norna \nSuraksha \n07-Apr-\n21 HDFHLIP21005V022122 \n  \n26-Sep-\n24   \n  \n In case you had opted for add-ons or rider along with your base product, kindly refer to the Prospectus & Policy wording \ndocuments of the respective active add-ons/riders available under downloads section on our website"
+  }
+]

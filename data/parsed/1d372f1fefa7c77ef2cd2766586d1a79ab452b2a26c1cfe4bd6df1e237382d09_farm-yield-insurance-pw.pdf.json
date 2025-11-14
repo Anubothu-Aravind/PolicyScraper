@@ -1,0 +1,520 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings"
+  },
+  {
+    "title": "HDFC ERGO FARM YIELD INSURANCE POLICY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Preamble"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited (\u201cthe",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Company\u201d), having received a Proposal and the premium from \nthe Proposer named in the Policy Schedule referred to herein \nbelow, and the said Proposal and Declaration together with any \nstatement, report or other document leading to the issue of \nthis Policy and referred to therein having been accepted and \nagreed to by the Company and the Proposer as the basis of this \ncontract do, by this Policy agree, in consideration of and subject \nto the due receipt of the subsequent premiums, as set out in \nthe PolicySchedule with all its Parts, and further, subject to the \nterms and conditions containe"
+  },
+  {
+    "title": "1. DEFINITIONS",
+    "deductible": "Rainfall",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "\u201cActual Cumulative Rainfall (ACR)\u201d means monthly rainfall \nin mm starting from policy inception date as recorded by \nReference Weather Station for the 1st month (30 days). \n\u201cActual Excess Rainfall (AER)\u201d means maximum rainfall of \nthree consecutive days as recorded by the Reference Weather \nStation. \n\u201cActual Satellite Based Crop Yield Index\u201d (ASCYI)means \nactual crop yield index range observed over period of time \nfrom reference satellite as mentioned in the Policy Schedule. \n\u201cBank\u201d means an entity licensed as a Bank under Banking \nRegulation Act, 1949 and permitted by the Reserve Bank of \nInd"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO Farm Yield Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0009V01202122.",
+    "deductible": "rainfall events.",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2\n\u201cSatellite based crop yield indices\u201d (SCYI) means graphical \nindicator values arrived post analyzing remote sensing \nmeasurements taken from satellite mentioned in the Schedule \nto this Policy.\t\n\u201cPolicy Schedule\u201d means the part of this Policy which outlines \nthe policy coverages. \n\u201cSowing failure\u201d means conditions when more than 70% of \ncrop seeds sown in the fields are failed to germinate due to \ndeficit or excess rainfall events.\n\u201cSum Insured\u201d means the amount as stated in the Policy \nSchedule which would be total cost of cultivation or the \ncontract value.\n\u201cTerrorism\u201d means an act, includ"
+  },
+  {
+    "title": "2. SCOPE OF COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "It is an all risk cover for crops right from its sowing stage to \nharvesting subject to the exclusions mentioned in the Policy \nWordings."
+  },
+  {
+    "title": "3. EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "3.1 \t The Company shall not be liable to make any payment \nunder this Policy in connection with or in respect of any \nexpenses whatsoever incurred arising out of damage or \nloss to insured Crop arising from:\n\u2022\nThe burning of the property by order of any public\nauthority or subterranean fire.\n\u2022\t\nFire during harvest including but not limited to spark \noriginating from engine exhaust and/or other hot \nmachinery parts on harvesters and/or tractors.\n\u2022\nMalicious, willful act or gross negligence of the\nInsured or any of his representative(s) or employee(s).\n\u2022\nConsequential loss whether or not caused "
+  },
+  {
+    "title": "4. BASIS OF SUM INSURED",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The basis of sum insured shall be the total cumulative cost \nof production or contract value (Total Sum Insured would be \ntotal contract value/cost of cultivation as declared in the Policy \nSchedule). Maximum sum insured should not be more than \n150% of scale of finance for the particular district as declared \nby State Government for the insured season."
+  },
+  {
+    "title": "5. TYPE OF ASSESSMENT OF CLAIMS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1. \nWidespread calamity \n2. \nLocalized loss\nThe basis upon which the Company shall assess the claim \nshall be as follows:"
+  },
+  {
+    "title": "RISKS",
+    "deductible": "Rainfall",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In the event that, for the defined area and during the time \nperiod specified in the Policy Schedule to loss or damage to \nthe insured Crop from the insured perils, the benefit payable \nto the Insured shall be calculated as per the following formula\nIf the ACR (Actual Cumulative Rainfall) is less than BCR \n(Benchmark Cumulative Rainfall)\nOr \nIf the AER (Actual Excess Rainfall) is higher than BER \n(Benchmark Excess Rainfall) \nTotal Claims payable = Total cost of sowing as specified in \nPolicy Schedule where \n\u2022\nBenchmark Cumulative rainfall will be the benchmark \nvalue below which claims will be"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO Farm Yield Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0009V01202122.",
+    "deductible": "rainfall will be the excess rainfall val",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "3\n\u2022\t\nBenchmark Excess rainfall will be the excess rainfall value \nabove which claims will be payable under sowing failure. \n\u2022\t\n\u201cActual Cumulative Rainfall(ACR)\u201d means monthly rainfall \nin mm starting from policy inception  date as recorded by \nReference Weather Station for the 1st month. \n\u2022\t\n\u201cActual Excess Rainfall (AER)\u201d means maximum rainfall of \nthree consecutive days as recorded by the Reference \nWeather Station."
+  },
+  {
+    "title": "CALAMITIES FOR STANDING CROPS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In the event that, for the defined area and during the time \nperiod specified in Policy Schedule to this Policy, Loss or \ndamage to the insured Crop from the insured perils, the \nbenefit payable to the Insured shall be the shortfall in yield \nand calculated as per the following formula"
+  },
+  {
+    "title": "BSCYI-ASCYI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Claim amount payable =   ________________   X Sum Insured"
+  },
+  {
+    "title": "BSCYI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Where,\n\u2022 \nSum Insured is defined in Policy Schedule to this Policy."
+  },
+  {
+    "title": "BSCYI (Benchmark Satellite Based Crop Yield Index) will",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "be calculated on the basis of historical satellite based yield \nindices for available years, multiplied by the level of \nindemnity as defined in the Policy Schedule."
+  },
+  {
+    "title": "ASCYI (Actual Satellite Based Crop Yield Index) will be",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "calculated on the basis of satellite based crop yield indices \n(SCYI) taken by as defined in the Policy Schedule"
+  },
+  {
+    "title": "CALAMITIES FOR STANDING CROPS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The losses would be assessed on individual basis in case of \nloss / damage resulting from occurrence of identified localized \nrisks of hailstorm, landslide and cloud burst. The cost of inputs \nincurred until the time of occurrence of peril, and the expected \nloss in final yield due to the peril, would form the basis for loss \nassessment."
+  },
+  {
+    "title": "6. CLAIM PROCEDURE:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Section B. Benefits\nUpon the happening of any event giving rise to a claim \nunder this Policy the insurance company must be informed \nimmediately but not later than 48 Hrs by the Insured and shall:\n6.1\t\nIn the event of sowing failure the basis of settlement would \nbe as per the data obtained from reference weather \nstation as specified in Policy Schedule. The loss \ncalculation would be on the basis of the payment formula \nas stated in the Policy on the basis of parameter, the \ninsured shall not be required to submit the claim form. The \npayment shall directly be made to the insured upon \nthe e"
+  },
+  {
+    "title": "BSCYI (BenchmarkSatellite Based Crop Yield Index) as",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "specified in the Policy Schedule, the insured shall not be \nrequired to submit the claim form. The payment shall \ndirectly be made to the insured upon the expiry of the \nPeriod of Insurance specified in Policy Schedule.\n6.3 \t Insured farmers who experience crop losses due to \noccurrence of identified localized calamities risks, will \ngive immediate written notice (in standard format) to \ninsurance company through concerned financial \ninstitution /channel partner or directly, within 48 hours \nalong with particulars of crop insured and extent and \ncause of damage. On receipt of loss intimation, "
+  },
+  {
+    "title": "STANDARD TERMS AND CONDITIONS:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.\t\nIncontestability and Duty of Disclosure:\nThe Policy shall be null and void and no benefit shall \nbe payable in the event of untrue or incorrect statements, \nmisrepresentation, mis-description or on non-disclosure \nin any material particular in the proposal form, personal \nstatement, declaration and connected documents, or any \nmaterial information having been withheld, or a claim \nbeing fraudulent or any fraudulent means or devices being \nused by the Insured or any one acting on his behalf to \nobtain any benefit under this Policy.\n2.\nReasonable Care:\nThe Insured shall take all reasonable s"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO Farm Yield Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0009V01202122.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4\noperation of the Insured items or trade or business \npractices thereby containing the circumstances that may \ngive rise to the claim, and the Company may adjust the \nscope of cover and / or premium if necessary, accordingly. \n5.\nRecords to be maintained:\nThe Insured shall keep an accurate record containing all \nrelevant particulars and shall allow the Company to \ninspect such record. The Insured shall within one month \nafter the expiry of the Insurance Policy furnish such \ninformation as the Company may require.\n6.\nNo constructive Notice:\nAny knowledge or information of any circumstances or "
+  },
+  {
+    "title": "13.\t Position after a claim:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insured shall not be entitled to abandon any Insured \nitem/property whether the Company has taken possession \nof the same or not. As from the day of receipt of the \nclaim amount by the Insured as determined by the \nCompany to be fit and proper, the Sum Insured for the"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO Farm Yield Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0009V01202122.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "5\nremainder of the Period of Insurance shall stand reduced \nby the amount of the compensation. \n14.\nContribution:\nIf at the time of the happening of any loss or damage \ncovered by this Policy, there shall be existing any other \ninsurance of any nature whatsoever covering the same \nsubject matter of this insurance, whether effected by the \nInsured or not, then the Company shall not be liable to \npay or contribute more than its rate able proportion of \nany loss or damage.\nMultiple policies involving Bank or other lending or \nfinancing entity - \nIn case there is more than one insurance policy iss"
+  },
+  {
+    "title": "16.\t Cancellation/termination:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Insured can cancel the policy at any time during the \npolicy term, by informing the Company.  The Company can \ncancel the policy only on the grounds of established \nfraud, by giving minimum notice of 7 days to the Insured. \nThe Company shall refund proportion premium for \nunexpired policy period subject to no claim(s) made during \nthe policy period..\n17.\nPolicy Disputes:\nAny dispute concerning the interpretation of the terms, \nconditions, limitations and/or exclusions contained herein \nis understood and agreed to by both the Insured and the \nCompany to be subject to Indian Law. Each party "
+  },
+  {
+    "title": "19. Agreed Bank Clause:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "It is hereby declared and agreed: \n(a) \nThat upon any monies becoming payable under this \nPolicy the same shall be paid by the Company to the \nBank and such part of any monies so paid as may \nrelate to the interests of other parties Insured \nhereunder shall be received by the Bank as Agents \nfor such other parties. \n(b)\nThat the receipts of the Bank shall be complete \ndischarge of the Company therefore and shall be \nbinding on all the parties insured hereunder\n(c) \nThat if and whenever any notice shall be required to \nbe given or other communication shall be required \nto be made by the Company"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO Farm Yield Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0009V01202122.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6\nMortgagor or owner no liability therefore existed, the \nCompany shall become legally subrogated to all the \nrights of the Bank to the extent of such payments \nbut not so as to impair the right of the Bank to recover \nthe full amount of any claim it may have on such \nMortgagor or Owner or any other party or parties \nInsured hereunder or from any securities or funds \navailable. \nN.B: The Bank shall mean the first named Financial Institution/ \nBank named in the policy."
+  },
+  {
+    "title": "19.\t Renewal notice:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Company shall not be bound to accept any renewal \npremium nor give notice that such is due. Every renewal \npremium (which shall be paid and accepted in respect \nof this Policy) shall be so paid and accepted upon the \ndistinct understanding that no alteration has taken place \nin the facts contained in the proposal or declaration herein \nbefore mentioned and that nothing is known to the Insured \nthat may result to enhance the risk of the Company under \nthe guarantee hereby given. No renewal receipt shall \nbe valid unless it is on the printed form of the Company \nand signed by an authorized o"
+  },
+  {
+    "title": "20. Notices:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Any notice, direction or instruction given under this Policy \nshall be in writing and delivered by hand, post, or facsimile \nto\nIn case of the Insured, at the address specified in the \nPolicySchedule.\nIn case of the Company:"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6th Floor, Leela Business Park, Andheri Kurla Road, \nAndheri, Mumbai \u2013 400059.\nNotice and instructions will be deemed served 7 days \nafter posting or immediately upon receipt in the case of \nhand delivery, facsimile or e-mail.\n21.\nCustomer Service:\nIf at any time the Insured requires any clarification or \nassistance, the Insured may contact the offices of the \nCompany at the address specified, during normal business \nhours."
+  },
+  {
+    "title": "22. Grievances:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In case the Insured is aggrieved in any way, the Insured \nmay contact the Company at the specified address, during \nnormal business hours.\nThe complaint should be made in writing duly signed by \nthe complainant or by his legal heirs with full details of \nthe complaint and the contact information of complainant.\nAs per provision 13(3) of the Redressal of Public \nGrievances Rules 1998, the complaint to the Ombudsman \ncan be made only if the grievance has been rejected by \nthe Grievance Redressal Machinery of the Insurer within \na period of one year from the date of rejection by the \ninsurer if i"
+  },
+  {
+    "title": "23. Claim Intimation",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In the event of loss of an insured event the insurance \ncompany must be informed through anyone of below \nmeans immediately-\n1.\nRelationship officer / channel partner\n2.\nCall Centre - 022-6234 6234\n3.\t\nE-mail at care@hdfcergo.com\n4.\nOur contact details are as follows:"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Co. Ltd.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Claims Department\n6th Floor, Leela Business Park,\nAndheri Kurla Road, Andheri (E), Mumbai \u2013 400059\nDuring Intimation of claim, Insured has to provide relevant \ninformation which includes Policy details and Loss details \nin the agreed format."
+  },
+  {
+    "title": "GRIEVANCE REDRESSAL PROCEDURE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If You have a grievance that You wish Us to redress, \nYoumay contact Us with the details of Your grievance \n\t\nthrough:\n\u2022\t\nCall Centre - 0120-6234 6234 / 022-6234 6234\n\u2022\t\nEmails \u2013 grievance@hdfcergo.com\t\n\u2022\t\nContact Details for Senior Citizens: 022 6242 6226 \n| Email ID : seniorcitizen@hdfcergo.com\n\u2022\t\nDesignated Grievance Officer in each branch\n\u2022\t\nCompany Website \u2013 www.hdfcergo.com\n\u2022\t\nCourier-  Any of Our Branch office or corporate office\nYou may also approach the Complaint & Grievance (C&G) \nRedressal Cell at any of Our branches with the details \nof Your grievance during Our working hours from "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District (Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West) Mumbai-400078,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In case You are not satisfied with the response / resolution \ngiven / offered by the C&G cell, then You can write to \nthe Chief Grievance Officer of the Company at the \nfollowing address: \nTo the Chief Grievance Officer"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District (Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West) Mumbai-400078,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "e-mail: cgo@hdfcergo.com \nGrievance may also be lodged at IRDAI Integrated \nGrievance Management system- https://bimabharosa. \n\t\nirdai.gov.in\nYou may also approach the nearest Insurance Ombudsman \nfor resolution of Your grievance. The contact details of \nOmbudsman offices are mentioned below if Your grievance \npertains to: \n\u2022\t\nInsurance claim that has been rejected or dispute of a"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO Farm Yield Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0009V01202122.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "7\nclaim on legal construction of the policy \n\u2022\t\nDelay in settlement of claim \n\u2022\t\nDispute with regard to premium \n\u2022\t\nNon-receipt of Your insurance document \nYou may also refer Our website www.hdfcergo.com https://\nwww.hdfcergo.com/customer-voice/grievances for detailed \ngrievance redressal procedure\nNames of Ombudsman and Addresses of Ombudsmen Centers"
+  },
+  {
+    "title": "AHMEDABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Prakash Building, 6th floor, Tilak Marg, Relief Road, \nAhmedabad \u2013 380 001.\nTel.: 079 - 25501201/02\nEmail: bimalokpal.ahmedabad@cioins.co.in\nGujarat, Dadra & Nagar Haveli, Daman and Diu."
+  },
+  {
+    "title": "BENGALURU",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Soudha Building, PID No. 57-27-N-19,  \nGround Floor, 19/19, 24th Main Road,"
+  },
+  {
+    "title": "JP Nagar, Ist Phase,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Bengaluru \u2013 560 078.\nTel.: 080 - 26652048 / 26652049\nEmail: bimalokpal.bengaluru@cioins.co.in\nKarnataka."
+  },
+  {
+    "title": "BHOPAL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n1st floor,\u201dJeevan Shikha\u201d, 60-B,Hoshangabad Road, \nOpp. Gayatri Mandir, Bhopal \u2013 462 011. \nTel.: 0755 - 2769201 / 2769202 \nEmail: bimalokpal.bhopal@cioins.co.in\nMadhya Pradesh, Chattisgarh."
+  },
+  {
+    "title": "BHUBANESHWAR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n62, Forest park, Bhubneshwar \u2013 751 009.\nTel.: 0674 - 2596461 /2596455\nFax: 0674 - 2596429\nEmail: bimalokpal.bhubaneswar@cioins.co.in\nOrissa."
+  },
+  {
+    "title": "CHANDIGARH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,  \nJeevan Deep Building SCO 20-27, \nGround Floor Sector- 17 A, Chandigarh \u2013 160 017. \nTel.: 0172-2706468 \nEmail: bimalokpal.chandigarh@cioins.co.in\nState of Punjab, Haryana (excluding 4 districts vizGurugram, \nFaridabad, Sonepat and Bahadurgarh), Himachal Pradesh, Union \nTerritories of Jammu &Kashmir, Ladakh and Chandigarh."
+  },
+  {
+    "title": "CHENNAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nFatima Akhtar Court, 4th Floor, 453,\nAnna Salai, Teynampet,"
+  },
+  {
+    "title": "CHENNAI \u2013 600 018.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 044 - 24333668 / 24333678\nFax: 044 - 24333664\nEmail: bimalokpal.chennai@cioins.co.in\nTamil Nadu, Puducherry Town and Karaikal (which are part of \nPuducherry)."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO Farm Yield Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0009V01202122.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "8"
+  },
+  {
+    "title": "DELHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2/2 A, Universal Insurance Building,\nAsaf Ali Road,\nNew Delhi \u2013 110 002.\nTel.: 011 - 23237539\nEmail: bimalokpal.delhi@cioins.co.in\nDelhi, 4 districts of Haryana vizGurugram, Faridabad, Sonepat and \nBahadurgarh)"
+  },
+  {
+    "title": "GUWAHATI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Nivesh, 5th Floor,\nNr. Panbazar over bridge, S.S. Road,\nGuwahati \u2013 781001 (ASSAM).\nTel.: 0361 - 2632204 / 2602205\nEmail: bimalokpal.guwahati@cioins.co.in\nAssam, Meghalaya, Manipur, Mizoram, Arunachal Pradesh, Nagaland \nand Tripura."
+  },
+  {
+    "title": "HYDERABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6-2-46, 1st floor, \u201cMoin Court\u201d,\nLane Opp. Saleem Function Palace,\nA. C. Guards, Lakdi-Ka-Pool,\nHyderabad - 500 004.\nTel.: 040 - 23312122\nEmail: bimalokpal.hyderabad@cioins.co.in\nState of Andhra Pradesh, Telangana and Yanam \u2013 a part of Union \nTerritory of Puducherry"
+  },
+  {
+    "title": "JAIPUR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Nidhi \u2013 II Bldg., Gr. Floor,\nBhawani Singh Marg,\nJaipur - 302 005.\nTel.: 0141 - 2740363 /2740798\nEmail: bimalokpal.jaipur@cioins.co.in\nRajasthan."
+  },
+  {
+    "title": "KOCHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \n10th Floor, Jeevan Prakash,LIC Building, \nOpp to Maharaja\u2019s College Ground,M.G.Road, \nKochi - 682 011. \nTel.: 0484 - 2358759 \nEmail: bimalokpal.ernakulam@cioins.co.in\nKerala, Lakshadweep, Mahe-a part of Union Territory of Puducherry."
+  },
+  {
+    "title": "KOLKATA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nHindustan Bldg. Annexe, 4th Floor,\n4, C.R. Avenue,"
+  },
+  {
+    "title": "KOLKATA - 700 072.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 033 - 22124339 \nFax : 033 - 22124341\nEmail: bimalokpal.kolkata@cioins.co.in\nStates of West Bengal, Sikkim and Union Territories of Andaman & \nNicobar Islands"
+  },
+  {
+    "title": "LUCKNOW",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6th Floor, Jeevan Bhawan, Phase-II,\nNawal Kishore Road, Hazratganj,\nLucknow - 226 001.\nTel.: 0522 - 4002082 / 3500613\nEmail: bimalokpal.lucknow@cioins.co.in\nDistricts of Uttar Pradesh :\nLalitpur, Jhansi, Mahoba, Hamirpur, Banda, Chitrakoot, Allahabad, \nMirzapur, Sonbhabdra, Fatehpur, Pratapgarh, Jaunpur, Varanasi, \nGazipur, Jalaun, Kanpur, Lucknow, Unnao, Sitapur, Lakhimpur, \nBahraich, Barabanki, Raebareli, Sravasti, Gonda, Faizabad, \nAmethi, Kaushambi, Balrampur, Basti, Ambedkarnagar, Sultanpur, \nMaharajgang, Santkabirnagar, Azamgarh, Kushinagar, Gorkhpur, \n"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO Farm Yield Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0009V01202122.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "9\nClaim Settlement\nThe company will settle the claim under this policy within 30 days from the date of receipt of necessary documents required \nfor assessing the claim. In the event that the company decides to reject a claim made under this policy, the Company shall do \nso within a period of thirty days of the survey report or the additional survey report, as the case may be, in accordance with the \nprovisions of Protection of Policyholders\u2019 Interest Regulations 2002."
+  },
+  {
+    "title": "INSURANCE IS THE SUBJECT MATTER OF THE SOLICITATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Benchmark value\u2013 100 index value years over a period of time \nIndemnity level \u2013 80"
+  },
+  {
+    "title": "BSBYI -",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Ac index"
+  },
+  {
+    "title": "MUMBAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n3rd Floor, Jeevan Seva Annexe,\nS. V. Road, Santacruz (W),\nMumbai - 400 054.\nTel.: 022 - 69038800/27/29/31/32/33\nEmail: bimalokpal.mumbai@cioins.co.in\nGoa, Mumbai Metropolitan Region excluding Navi Mumbai & Thane."
+  },
+  {
+    "title": "NOIDA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nBhagwan Sahai Palace\n4th Floor, Main Road,\nNaya Bans, Sector 15,\nDistt: Gautam Buddh Nagar,\nU.P - 201301.\nTel.: 0120-2514252 / 2514253\nEmail: bimalokpal.noida@cioins.co.in\nState of Uttaranchal and the following Districts of Uttar Pradesh:\nAgra, Aligarh, Bagpat, Bareilly, Bijnor, Budaun, Bulandshehar, Etah, \nKanooj, Mainpuri, Mathura, Meerut, Moradabad, Muzaffarnagar, \nOraiyya, Pilibhit, Etawah, Farrukhabad, Firozbad, Gautambodhanagar, \nGhaziabad, Hardoi, Shahjahanpur, Hapur, Shamli, Rampur, Kashganj, \nSambhal, Amroha, Hathras, Kanshiramnagar, Saharanpur."
+  },
+  {
+    "title": "PATNA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2nd Floor, Lalit Bhawan, \nBailey Road, \nPatna 800 001. \nTel.: 0612-2547068 \nEmail: bimalokpal.patna@cioins.co.in\nBihar, Jharkhand."
+  },
+  {
+    "title": "PUNE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Darshan Bldg., \n3rd Floor,C.T.S. No.s. 195 to 198,\nN.C. Kelkar Road, \nNarayan Peth,\nPune \u2013 411 030.\nTel.: 020-24471175\nEmail: bimalokpal.pune@cioins.co.in\nMaharashtra, Area of Navi Mumbai and Thane excluding Mumbai \nMetropolitan Region."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO Farm Yield Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0009V01202122.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "10"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO Farm Yield Insurance Policy -"
+  }
+]

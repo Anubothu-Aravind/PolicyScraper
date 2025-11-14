@@ -1,0 +1,72 @@
+[
+  {
+    "title": "EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "13"
+  },
+  {
+    "title": "DEFENSE",
+    "deductible": "amount, defense costs, charges and",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A.\t\nDefense\nThe Company has the right and the duty to defend \nthe insured against a claim to which this insurance \napplies. The Company does not have the duty to\ndefend the insured against any claim to which this \ninsurance does not apply. The Company will not be \nobligated to defend the insured once the applicable \nLimit of Indemnity has been exhausted as provided in \nSection 3 of this policy. \nUpon the insured\u2019s satisfaction of any applicable\nDeductible amount, defense costs, charges and \nexpenses will be paid by the Company and such \npayments will be included as loss and reduce the\navailabl"
+  },
+  {
+    "title": "LIMIT OF INDEMNITY AND DEDUCTIBLE",
+    "deductible": "Subject to the policy aggregate limit an",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Regardless of the number of insureds, claims, claimants, \npollution conditions, or emergency response costs, the \nfollowing Limit of Indemnity apply:\nA.\nPolicy Aggregate Limit\nThe policy aggregate limit as stated in the policy \nschedule is the most the Company will pay for all loss \nunder Insuring Agreements A through B covered under \nthis policy.\nB.\t\nCoverage Limit\nSubject to the policy aggregate limit\n1. \nthe Company\u2019s total liability for all loss under each \nCoverage in Insuring Agreements A through G, will not \nexceed the Coverage Section Aggregate Limit \napplicable to that particular cove"
+  },
+  {
+    "title": "IRDAN125CP0005V01202021.",
+    "deductible": "of the Deductible amount stated in the",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4\nsection aggregate limit, the Company will pay all \nloss in excess of the Deductible amount stated in the \npolicy schedule for the applicable coverage, up to but \nnot exceeding the applicable Each Incident limit of \ncoverage. In the event that more than one Deductible \namount can apply to the same pollution condition(s) and \nresults in coverage under more than one coverage \nection, only the highest Deductible amount will be \napplied.\nThe Company may advance payment of part or all of \nthe Deductible and, upon the Company\u2019s request, the \nnamed insured will promptly reimburse the Company. \nSubje"
+  },
+  {
+    "title": "IRDAN125CP0005V01202021.",
+    "deductible": "of those naturally occurring.",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6\nelectromagnetic fields, medical waste including infectious and \npathological waste and waste materials, at levels in excess \nof those naturally occurring.\nPollution condition\nmeans the discharge, dispersal, release or escape, emission, \nseepage, or illicit abandonment by a third party without the \ninsured\u2019s consent, of any pollutant into or upon land, or any \nstructure on land, the atmosphere or any watercourse or body \nof water, including groundwater.\nPollution condition also means the presence of microbial \nmatter.\nPossible claim\nmeans a pollution condition that commenced during the \nperio"
+  },
+  {
+    "title": "EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "This policy does not apply to:\nAsbestos and lead-based paint\nLoss or business interruption expense arising from asbestos \nor any asbestos-containing materials or lead-based paint \ninstalled or applied in, on or to any building or other structure. \nHowever, this Exclusion does not apply to:\n1.\nClaims for bodily injury or property damage, or"
+  },
+  {
+    "title": "IRDAN125CP0005V01202021.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "7\n2.\nClean-up costs for the remediation of soil, surface \nwater, or groundwater.\nContractual liability\nLoss or business interruption expense arising from the \ninsured\u2019s assumption of liability in any contract, or agreement. \nThis Exclusion does not apply to liability that the insured would \nhave had in the absence of the contract or agreement, or the \ncontract or agreement is an insured contract.\nFines, penalties, or assessments\nLoss arising from any criminal fines, criminal penalties or \ncriminal assessments.           \nEmployer liability\nLoss arising from any bodily injury to:\na. \nAn employe"
+  },
+  {
+    "title": "CONDITIONS",
+    "deductible": "of this policy, the insured will promptl",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Action against company\nNo person or organization has a right under this policy to join \nthe Company as a party or otherwise bring the Company into \na suit asking for damages from an insured.        \nArbitration\nThe parties to the contract may mutually agree and enter into \na separate Arbitration Agreement to settle any and all disputes \nin relation to this policy.  \nArbitration shall be conducted under and in accordance with \nthe provisions of the Arbitration and Conciliation Act, 1996.      \nAssignment\nThis policy and any rights contained within it may not be \nassigned without the Company\u2019s p"
+  },
+  {
+    "title": "IRDAN125CP0005V01202021.",
+    "deductible": "of the limit of coverage",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "9\nshare is based on the ratio of its applicable limits of \nindemnity to the total applicable limits of indemnity of \nall insurers.\nMultiple policies involving Bank or other lending or \nfinancing entity - \nIn case there is more than one insurance policy issued \nto the customer/ policyholder covering the same \nrisk, the Company will not apply contribution clause. \nUnderinsurance will be applied on an overall basis \ntaking into consideration the sum insured under all \npolicies and comparing it with value at risk.\nRepresentations\nBy accepting this policy, the named insured agrees that \nthe stateme"
+  },
+  {
+    "title": "RIGHTS AND DUTIES",
+    "deductible": ".",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Company will have the right but not the duty to clean-up \nor mitigate a pollution condition, and to participate in decisions \nregarding clean-up costs and to assume direct control over \nall aspects of the clean-up, upon receiving notice as stated \nin this policy. In the event the Company exercises this right, \nthe insured will reimburse the Company for any portion of loss \nfalling within the Deductible.\nThe named insured will have the duty to mitigate a pollution \ncondition to the extent required by environmental law, by \nretaining competent professionals or contractors mutually \nacceptabl"
+  }
+]

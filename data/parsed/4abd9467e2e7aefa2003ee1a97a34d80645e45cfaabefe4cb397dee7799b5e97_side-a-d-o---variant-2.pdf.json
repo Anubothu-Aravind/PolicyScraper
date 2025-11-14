@@ -1,0 +1,842 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings"
+  },
+  {
+    "title": "HDFC ERGO Side A D&O Policy - Variant 2",
+    "deductible": "Limit of Liability Coverage",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Contents\nSection 1. \nInsuring Agreements\n2\nDirectors and Officers Coverage\n2\nNon-Executive Director Additional Excess Limit of Liability Coverage\n2\nInsured Person Additional Protection Coverage\n2\nPersonal Crisis Event Coverage\n2\nSection 2. \nCoverage Extensions\n2\nEmergency Defense Costs and Expenses\n2\nCyber Event Affirmative Cover\n2\nE-Discovery Consultant Services\n2\nClass Certification Event Study Expenses\n2\nEnvironmental Mismanagement Event\n2\nEmployed Lawyer Extension\n2\nDiscovery Period\n2\n(A) Change of Control\n2\n(B) Insured Person Discovery Period Election\n2\n(C) Automatic Discovery Period for "
+  },
+  {
+    "title": "USA Company vs. Insured",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "12\nOffering of Securities\n12\nPricing\n12\nSection 5. \nNotification of Claims, Events and Circumstances\n12\nSection 6. Defense,Settlement and Allocation\n13\nSection 7. \nLimit of Liability and Retentions\n14\nSection 8. \nOther Insurance and Outside Executive Coverage\n15\nSection 9. \nSeverability and Non-Rescindable/Avoidance\n15\nSection 10. General Terms and Conditions\n16\n\n2"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\n1."
+  },
+  {
+    "title": "INSURING AGREEMENTS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In consideration of payment of the Premium and subject \nto all terms, conditions and limitations of this Policy, the \nInsurer, the Policy holder and the Insured Persons agree \nas follows:\n\t\nThe coverage under this Policy is afforded solely with \nrespect to Claims first made against an Insured Person \nduring the Policy Period, or the Discovery Period, if \napplicable, and Events first received, commenced or \noccurring, during the Policy Period, or the Discovery \nPeriod, if applicable, and reported to the Insurer as \nrequired by Section 5. Notification of- Claims, Events and \nCircumstances of thi"
+  },
+  {
+    "title": "DIRECTORS AND OFFICERS COVERAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurer shall pay Non-Indemnified Loss of \nan Insured Person (including an Outside Entity \nExecutive) that arises from: (1) a Claim made \nagainst such Insured Person; or (2) a Pre-Claim \nInquiry received by and with respect to such \nInsured Person.\n\t\n1.2"
+  },
+  {
+    "title": "LIMIT OF LIABILITY COVERAGE",
+    "deductible": "Limit",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurer shall pay Non-Indemnified Loss \nof a Non-Executive Director that arises from: \n(1) a Claim made against such Non-Executive \nDirector; or (2) a Pre-Claim Inquiry received by \nand with respect to such Non-Executive Director; \nsubject to the Non-Executive Director Excess Limit \nof Liability as stated in Item 3(b) of the Schedule. \nThis coverage shall apply only after exhaustion \nof: (a) the Aggregate Limit of Liability; (b) all other \nvalid and collectible Directors and Officers or \nmanagement liability insurance, whether written \nas excess of the Limit of Liability or otherwise, \napp"
+  },
+  {
+    "title": "COVERAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurer shall pay Non-Indemnified Loss in the \nform of: (1) Asset and Liberty Protection Costs, \nsubject to the Asset and Liberty Protection Costs \nSub-Limit of Liability as stated in Item 4(b) of the \nSchedule; (2) Extradition Costs; and (3) Restatement \nClawback Costs of an Insured Person.\n\t\n1.4"
+  },
+  {
+    "title": "PERSONAL CRISIS EVENT COVERAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurer shall pay Non-Indemnified Loss in \nthe form of Crisis Communication Expenses of an \nExecutive that arise from a Personal Crisis Event, \nsubject to the Sub-Limit of Liability as stated in Item \n4(c) of the Schedule.\n2."
+  },
+  {
+    "title": "COVERAGE EXTENSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2.1"
+  },
+  {
+    "title": "EMERGENCY DEFENSE COSTS AND EXPENSES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If the Insurer\u2019s required prior written consent \ncannot reasonably be obtained in a timely manner \nby the Insured Persons before Defense Costs or \nExpenses are incurred with respect to a covered \nClaim or covered Event, the Insured Person \nshall have the right to incur such Defense Costs \nor Expenses without such prior written consent, \nafter which the Insurer will provide retroactive \napproval for such costs, subject to the applicable \nSub-Limit of Liability as stated in Item 4(a) of the \nSchedule for all such amounts combined. The \nInsured Persons shall take all reasonable steps to \nobtain t"
+  },
+  {
+    "title": "CYBER EVENT AFFIRMATIVE COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Subject to the terms and conditions of this Policy and \nany extensions or endorsements attached hereto, \nall covers provided hereunder shall also apply to \nany actual, alleged or suspected act, conduct or \nmatter arising out of, based upon or attributable \nto the Cyber Event.\n\t\n2.3"
+  },
+  {
+    "title": "E-DISCOVERY CONSULTANT SERVICES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurer shall pay the sub limit as mentioned in \nthe schedule of Non-Indemnified Loss of an Insured \nPerson incurred as Defense Costs for E-Discovery \nConsultant Services solely as a result of a covered \nSecurities Claim made against an Insured Person \nand no prior written consent of the Insurer shall \nbe required.\n\t\n2.4"
+  },
+  {
+    "title": "CLASS CERTIFICATION EVENT STUDY EXPENSES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurer shall pay up to sub limit as mentioned \nin the schedule(being part of and not in addition \nto the Limit of Liability)for the Non-Indemnified \nLoss of an Insured Person incurred as Class \nCertification Event Study Expenses in response \nto a covered Securities Claim made against an \nInsured Person, and no prior written consent of \nthe Insurer shall be required.\n\t\n2.5"
+  },
+  {
+    "title": "ENVIRONMENTAL MISMANAGEMENT EVENT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurer shall pay Non-Indemnified Loss of \nan Insured Person (including an Outside Entity \nExecutive) for a Claim or Event, provided that \nsuch Non-Indemnified Loss arises from an \nEnvironmental Mismanagement Event.\n\t\n2.6"
+  },
+  {
+    "title": "EMPLOYED LAWYER EXTENSION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurer shall pay Non-Indemnified Loss of \nan Employed Lawyer arising from a Claim made \nagainst such Employed Lawyer arising out of the \nEmployed Lawyer\u2019s provision of legal services for \nthe Company.\n\t\n2.7"
+  },
+  {
+    "title": "DISCOVERY PERIOD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In the event that this Policy is:\n\t\n\t\n1)\t\ncancelled by the Policyholder; or\n\t\n\t\n2)\t\nthe Policyholder or the Insurer does not \nrenew or replace this Policy with another \n\n3"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\ndirectors and officers or management liability \ninsurance policy, then the Policy holder \nshall have the right to a Discovery Period \nof either:\n\t\n\t\n\t\na.\t\nsixty (60) days automatically and at \nno additional premium; or\n\t\n\t\n\t\nb.\t\nfor a time period stated in Item 9 of the \nSchedule, but only if the Policyholder \nmakes a written request for such \nDiscovery Period no later than \nthirty (30) days after the expiration \nof the Policy Period and pays \nthe a"
+  },
+  {
+    "title": "CHANGE OF CONTROL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In the event of a Change of Control the Policy holder \nmay purchase a Discovery Period up to seventy-\ntwo (72) months commencing immediately after \nthe effective date of the Change of Control, \nsubject to the Policy holder making a written \nrequest for such Discovery Period no later than \nthirty (30) days after such Change of Control and \npaying the applicable required premium within \nthirty (30) days of the Insurer indicating the \nrequired additional premium, less any unearned \nPremium for this Policy. In considering a request \nfor a seventy-two (72) month Discovery Period, \nthe Insurer shall"
+  },
+  {
+    "title": "INSURED PERSON DISCOVERY PERIOD ELECTION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If the Policyholder is entitled to but does not \nexercise a Discovery Period as described in \nSection 2.7 Discovery Period, then the Insured \nPerson(s) shall have the right to jointly purchase \na Discovery Period for the respective time period \nstated in Item 9 of the Schedule, but such Discovery \nPeriod shall only apply to the Non-Indemnified Loss \nof those Insured Person(s) who have affirmatively \nelected, in writing to the Insurer, such Discovery \nPeriod. Such Discovery Period shall not apply to \nany coverage for any other Insured Person who \ndid not affirmatively elect the Discovery Period"
+  },
+  {
+    "title": "EXECUTIVES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If this policy is neither renewed nor replaced with \na Directors or Officers liability insurance policy \nfrom the Insurer or any other insurance company, \nand a Discovery Period is not elected upon the \nexpiration of this Policy, then those Executives \nwho retired from the Company during the Policy \nPeriod (or during the policy period of any Directors \nand Officers insurance policy issued by the Insurer \nof which this Policy is a continuous renewal)\u2013 other \nthan disqualified Executives-shall automatically \nbeen titled to an individual Discovery Period \nunder this Policy of seventy-two (72) mon"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\n2.7 will apply only to Non-Indemnified Loss. Further, \nthe Limit of Liability for any Discovery Period \nunder this Section 2.7 shall be part of, and not in \naddition to the existing Aggregate Limit of Liability \nfor the Policy Period as stated in Item 3(a) of the \nSchedules."
+  },
+  {
+    "title": "NEW AND PAST SUBSIDIARY COVERAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "2.11"
+  },
+  {
+    "title": "NEW SUBSIDIARY COVERAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If, during the Policy Period, the Policyholder obtains \nManagement Control of an entity then such entity \nshall be deemed a Subsidiary whose Insured \nPersons shall automatically be covered under this \nPolicy as such for covered Non-Indemnified Loss \nwith effect from the date on which the Policyholder \nfirst obtained Management Control, unless such \nentity has:\n\t\n\t\n1)\t\ntotal assets that exceed thirty-five percent \n(35%) of the total assets of the Policy holder \nas reflected in their respective most recent \naudited consolidated financial statements \n( the \u201cThreshold\u201d );or\n\t\n\t\n2)\t\nany of its Secu"
+  },
+  {
+    "title": "PAST SUBSIDIARY COVERAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In the event the Policy holder no longer has \nManagement Control of a Subsidiary during or \nprior to the Policy Period, coverage shall continue \nhereunder for Insured Persons of such former \nSubsidiary, but only for Wrongful Acts, Events or \nmatters that took place while the Policyholder had \nManagement Control of such entity.\n3."
+  },
+  {
+    "title": "DEFINITIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Aggregate Limit of Liability means the amount stated in \nItem 3(a) of the Schedule.\n\t\nApplication means:\n\t\n1.\t\nThe written statements and representations and \nany portion of an application given to the Insurer \nfor this Policy, including any written information \nand materials attached there to or incorporated \ntherein, submitted by or on behalf of the \nCompany or any Insured Person for the purposes \nof the Insurer\u2019s underwriting of this Policy or any \npolicy issued by the Insurer of which this Policy \nis a direct or indirect renewal or replacement;\n\t\n2.\t\nall warranties executed by or on behalf"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\nexpenses incurred with the prior written consent of \nthe Insurer, such consent not to be unreasonably \nwithheld or delayed, by an Insured Person to \ndefend or oppose Asset and Liberty Proceedings \nagainst such Insured Person. Asset and Liberty \nCosts shall be subject to the respective Sub-Limit \nof Liability stated in Item 4(b) of the Schedules, \nwhich shall be the maximum limit of Insurer\u2019s liability \nunder this Policy for all such Asset and Libert"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\nexpenses incurred with the Insurer\u2019s prior written \nconsent, such consent not to be unreasonably \nwithheld or delayed, by a Crisis Communication \nConsultant to specifically mitigate damage to \nthe Executive\u2019s reputation as a direct result \nof potential adverse publicity of such Personal \nCrisis Event. Crisis Communication Expenses are \nsubject to the sub limit stated in Items 4(c) of the \nSchedule.\n\t\n\t\nCyber Event means in the broadest sense to any "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\nrelease, escape, seepage, migration or disposal \nof Pollutants or Greenhouse Gases into or on real \nor personal property, water or the atmosphere.\n\t\n\t\nEvent means any Pre-Claim Inquiry, Asset and \nLiberty Proceedings, Extradition Proceedings, \nPersonal Crisis Event and Cyber Event.\n\t\n\t\nExecutive means any natural person who was, is \nor during the Policy Period becomes (solely while \nacting within the scope and capacity set forth \nbelow):\n\t\n\t\ni.\t\na d"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": "of any",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\nPeriod by the Insurer in respect of all Loss under \nthe Policy, including all sub-limits of liability. \nThe Limit of Liability is payable in excess of any \napplicable Retention.\n\t\nLoss means:\n\t\ni.\t\nThe amounts which the Insured Person is legally \nliable to pay, including settlements, damages, \njudgments, pre and post-judgment interest on a \ncovered judgment or award, and plaintiff\u2019s costs or \nfees;\n\t\nii.\t\nDefense Costs;\n\t\niii.\t\nExpenses;\n\t\niv.\t\npuni"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\ncodified law or common law; or\n\t\n\t\nii.\t\nis permitted or required to indemnify the \nInsured Person but fails or refuses to \nindemnify such Insured Person for any \nreason, including Financial Insolvency, \nwithin sixty (60) days after the Insured \nPerson\u2019s written request to the Company \nfor such indemnification, and that has been \nneither indemnified nor advanced from any \nother source.\n\t\n\t\nNon-Indemnified Loss shall not include \nsocial security benef"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\nspecifically. The Personal Crisis Event must first be \nreceived or commenced, or must first occur, during \nthe Policy Period. A Personal Crisis Event shall be \ndeemed to be first made, received, commenced or \noccurring when such event first occurs. A Personal \nCrisis Event shall conclude the earlier of:\n\t\n\t\na.\t\nonce the Crisis Communication Consultant \nadvises the Executive and Insurer that such \nPersonal Crisis Event no longer exists,\n\t\n\t\nb.\t\nwhen "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\nact applicable in any other jurisdiction, requiring \nthe repayment of compensation as a result of a \nfinancial restatement, provided that the foregoing \narises and is the result of a covered Claim against \nsuch Insured Person.\n\t\n\t\nRetention means the amount stated in Item 5 of the \nSchedule. It shall apply to all Loss including but not \nlimited to Defence Costs and Legal Representation \nCosts.\n\t\n\t\nLegal Representation Costs means the reasonable \nleg"
+  },
+  {
+    "title": "EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Insurer shall not be liable for that portion of Non-\nIndemnified Loss on account of any Claim or Event:\n\t\n4.1"
+  },
+  {
+    "title": "CONDUCT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "1.\t\narising out of, based upon, attributable to \nor as a consequence of the committing \nof a deliberately fraudulent, deliberately \ndishonest or deliberately criminal act or \nomission, or a willful violation of law by the \nInsured Person; or\n\t\n\t\n2.\t\nfor the gaining of any financial profit, \nremuneration or financial advantage by \nthe Insured Person to which they were \nnot legally entitled;\n\t\n\t\n\t\nprovided, that this exclusion 4.1 shall \nonly apply to an Insured Person if such \nbehavior is established by a final, non-\nappealable adjudication in any action or \nproceeding, or a written admission b"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\nInsured Person.\n\t\n\t\nFurther,\n\t\n\t\ni.\t\nexclusion 4.1(A) shall not apply to \nthat portion of any Non-Indemnified \nLoss resulting from a Securities Claim \nattributable to violations of Sections 11, 12 or \n15 of the United States Securities Act of 1933 \n(as amended) ,or any similar provisions of any \nforeign laws or any other act applicable in any \nother jurisdiction;\n\t\n\t\nii.\t\nexclusion 4.1(B) shall not apply to Restatement \nClawback Costs. or any other "
+  },
+  {
+    "title": "PENDING AND PRIOR CLAIM; PRIOR NOTICE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.\t\nmade, initiated, occurring or commencing \nprior to or pending as of the inception date \nof the Policy Period under this Policy; or \nalleging or deriving from the same or \nessentially the same facts as alleged in \nsuch Claims or Events or any Related Claim \nor Related Event thereto; or\n\t\n\t\n\t\nalleging, arising out of, based upon, \nattributable to or as a consequence of:\n\t\n\t\n\t\ni.\t\nany civil, criminal, administrative, \nregulatory, arbitration, mediation \nproceeding initiated or commencing \nprior to or pending as of the \nPending and Prior Date; or \nalleging or deriving from the same \nor essenti"
+  },
+  {
+    "title": "DAMAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "for bodily injury, sickness, mental anguish or \nemotional distress or disturbance, libel, slander, \ndefamation or disparaging material, disease or \ndeath of any person howsoever caused, or damage \nto or loss of or destruction of any tangible property \nincluding loss of use thereof.\n\t\n\t\nThis exclusion shall not apply to:\n\t\n\t\n1.\t\nDefense Costs;\n\t\n\t\n2.\t\nany allegations of libel, slander, defamation, \nmental anguish or emotional distress if and \nonly to the extent that such allegations are \nmade as part of a Claim for an Employment \nPractices Violation; or\n\t\n\t\n3.\t\nSecurities Claim.\n\t\n4.4"
+  },
+  {
+    "title": "USA COMPANY VS.INSURED",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Occurred, brought, or maintained in the United \nStates of America by, on behalf of, or at the \ninstigation of a Company against an Insured \nPerson, or an Outside Entity against its Outside Entity \nExecutive.\n\t\n\t\nThis exclusion shall not apply to:\n\t\n\t\nI.\t\nAny Claim against an Insured Person in the"
+  },
+  {
+    "title": "USA :",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "i.\t\nBrought or maintained by an \ninsolvency practitioner or the \nequivalent in any other jurisdiction \ndirectly or derivatively without the \nsolicitation, voluntary assistance, \nparticipation or co-operation of any \nInsured Person, Company or any \nOutside Entity\u2019s directors or officers \nunless legally compelled to do so \nor unless protected under Whistle \nblowing Legislation;\n\t\n\t\n\t\nii.\t\nfor contribution or indemnity if the \nClaim directly results from another \nClaim covered under this Policy; or\n\t\n\t\n\t\niii.\t\nbrought or maintained by way of \na shareholder derivative action on \nbehalf of a Compan"
+  },
+  {
+    "title": "NOTIFICATION OF CLAIMS, EVENTS AND CIRCUMSTANCES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "5.1"
+  },
+  {
+    "title": "NOTIFICATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Policyholder or any Insured shall, as a condition \nprecedent to any obligation of the Insurer under this \n\n13"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\nPolicy, give written notice to the Insurer of:\n\t\n5.1.1\t\nAny Claim made against an Insured Person or any \nEvent (other than a Pre-Claim Inquiry): or\n\t\n5.1.2\t Any Pre-Claim Inquiry, if an Insured Person elects \nto seek coverage for Pre-Claim Inquiry Costs in \nconnection with any Pre-Claim Inquiry;\n\t\n\t\nas soon as is reasonably practicable after the the \nInsured, first becomes aware of such Claim, Event \nor Pre-Claim Inquiry, but in all instances no lat"
+  },
+  {
+    "title": "NOTICE OF CIRCUMSTANCES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If during the Policy Period or the Discovery Period \nan Insured Person shall become aware of any \ncircumstances which may reasonably be expected \nto give rise to a Claim being made against an \nInsured Person and shall give written notice to the \nInsurer, of those circumstances, such notice to \ncomprise the Wrongful Act allegations or matters \nanticipated and the reasons for anticipating such \na Claim, with full particulars as to the dates, \npersons, and entities involved, then a Claim which \nis subsequently made against such Insured Person \nand reported to the Insurer alleging, arising out of,"
+  },
+  {
+    "title": "RELATED CLAIMS AND RELATED EVENTS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If during the Policy Period, or any applicable \nDiscovery Period, a Claim or an Event is noticed to \nthe Insurer in accordance with the requirements of \nthis Policy, then any: (1) Related Claim to such Claim \nmade; or (2) Related Event, received, commenced \nor occurring, after expiration of the Policy Period, \nor the applicable Discovery Period, shall be \naccepted by the Insurer as having been:\n\t\n5.3.1\t Made and notified at the same time as such prior \nnotified Claim with respect to a Related Claim; or\n\t\n5.3.2\t Having been received, commenced or occurred \nand notified at the same time as such "
+  },
+  {
+    "title": "FAILURE TO REPORT PRE-CLAIM INQUIRY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Failure to report a Pre-Claim Inquiry under this \nPolicy pursuant to this Section 5. Notification of \nClaims, Events and Circumstances, or any prior \npolicy of which this Policy is a replacement, renewal \nor succeeds in time, shall not constitute a breach \nof Section 5.1 Notification for the purposes of any \nsubsequent Claim (other than such Pre-Claim \nInquiry) made against an Insured Person during the \nPolicy Period or the Discovery Period, if applicable, \nalleging, arising out of, based upon, attributable to \nor as a consequence of such Pre-Claim Inquiry.\n\t\n\t\nNotice under this Policy shall b"
+  },
+  {
+    "title": "DEFENSE, SETTLEMENT AND ALLOCATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6.1"
+  },
+  {
+    "title": "NO DUTY TO DEFEND",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "It shall be the duty of each Insured Person to defend \nany Claim or Event made against him or her. The \nInsured shall assert all appropriate defences \nand cross claims for contribution, indemnity or \ndamages. The Insurer does not assume any duty \nto defend or investigate.\n\t\n6.2"
+  },
+  {
+    "title": "CLAIMS PARTICIPATION AND COOPERATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurer shall have the right, but not the \nobligation, to fully and effectively associate with \neach and every Company and Insured Person \nin the defense, investigation, settlement and \nprosecution of any Claim or Event that involves or \nappears reasonably likely to involve the Insurer. \nEach and every Company and Insured Person shall \nat its own cost and in a timely fashion give the \nInsurer full cooperation, and such information as \nit may reasonably require. Neither the Company \nnor the Insured Persons shall do anything (or fail \nto do anything) that would in anyway increase the \nInsure"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\n\t\n\t\nThe Insurer shall accept as reasonable and necessary \nthe retention of separate legal representation \nto the extent required by a material conflict of \ninterest between Insured Persons. Other than as \nprovided in Section 2.1 Emergency Defense Costs \nand Expenses, of this Policy, no Defense Costs or \nExpenses shall be incurred without the prior written \nconsent of the Insurer, such consent shall not be \nunreasonably withheld or delayed.\n\t\n\t\nAs a "
+  },
+  {
+    "title": "FULL SETTLEMENT NOT IMPACTING COVERAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Company or the Insured Persons may, however, \nsettle any covered Claim or covered Event where \nthere is no Non-Indemnified Loss of an Insured \nPerson, provided the entire Claim or Event is \nresolved against all Insured Persons claimed \nagainst, inclusive of Defense Costs and Expenses, \nand the Insured Persons obtains a full release on \nbehalf of all the Insureds Persons from all claimants, \nor court approval of the settlement and notice of \nsuch settlement is provided to the Insurer. This \nexception shall not apply where any dispute \nexists between the Insurer and the Company or \nan Insure"
+  },
+  {
+    "title": "ADVANCEMENT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurer shall advance covered Defense Costs \nand Expenses on behalf of the Insured Persons \nas and when such Defense Costs and Expenses \nare incurred pursuant to the provisions of Sections \n6.4. Advancement and 6.5. Allocation. Such \npayments shall be made within a reasonable time \nafter receipt and review of full details and after \nacceptance by the Insurer of such Defense Costs \nand Expenses as covered Non-Indemnified Loss \nunder this Policy. In the event that a determination \nas to the amount, if any, of Defense Costs and \nExpenses to be advanced under this Policy cannot \nbe agreed to b"
+  },
+  {
+    "title": "ALLOCATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If both Non-Indemnified Loss covered by this \nPolicy and loss not covered by this Policy are \nincurred, either because a Claim, or Event made \nagainst the Insured Person contains both covered \nand uncovered matters, or because a Claim or \nEvent is made against both the Insured Person \nand others, including the Company, not insured \nunder this Policy, the Company, the Insured \nPersons and the Insurer will use their best efforts \nto determine a fair and appropriate allocation of \nloss between that portion of Non-Indemnified Loss \nthat is covered under this Policy and that portion \nof loss that i"
+  },
+  {
+    "title": "LIMIT OF LIABILITY AND RETENTIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "7.1"
+  },
+  {
+    "title": "AGGREGATE LIMIT OF LIABILITY",
+    "deductible": "of the",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Except as hereinafter stated, the Aggregate Limit \nof Liability stated in Item 3(a) of the Schedule \nshall be the Insurer\u2019s maximum liability, in the \naggregate, payable under this Policy for all amounts \nand all Non-Indemnified Loss of all Insured Persons, \ncombined during one Policy Period. The Aggregate \nLimit of Liability shall apply only in excess of the \n\n15"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": "Limit of Liability",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\napplicable Retention. The Limit of Liability for any \nand all Discovery Period shall be part of, and not in \naddition to the Aggregate Limit of Liability for the \nPolicy Period.\n\t\n\t\nThe amounts stated in Item 3(b) of the Schedule for \nNon-Executive Director Excess Limit of Liability \nshall be in addition to the Aggregate Limit of \nLiability.\n\t\n\t\nIn all events, other than with regard to the \nadditional Limit of Liability stated in Item 3(b) of \nthe S"
+  },
+  {
+    "title": "SUB-LIMITS OF LIABILITY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Sub-Limits of Liability stated in Item 4(a), (b) and \n(c) of the Schedule shall be part of and not in addition \nto the Aggregate Limit of Liability of this Policy \nstated in Item 3(a) of the Schedule. The Sub-Limit \nof Liability stated in Item 4(a) shall be the maximum \nlimit of the Insurer\u2019s liability under this Policy for \nall Defense Costs and Expenses under Section \n2.1 Emergency Defense Costs and Expenses. The \nSub-Limit of Liability stated in Item 4(b) shall be \nthe maximum limit of the Insurer\u2019s liability under \nthis Policy for all Asset and Liberty Protection \nCosts combined. The S"
+  },
+  {
+    "title": "DEFENSE COSTS AND EXPENSES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Defense Costs and Expenses are not payable by \nthe Insurer in addition to the Aggregate Limit of \nLiability. Such Defense Costs and Expenses are part \nof Non-Indemnified Loss and as such are subject to the \nAggregate Limit of Liability for Non-Indemnified \nLoss.\n\t\n7.4"
+  },
+  {
+    "title": "RELATED CLAIMS AND RELATED EVENTS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Further, a Claim or Event which is made subsequent \nto the Policy Period or any Discovery Period, if \napplicable, which, pursuant to Section 5.3 Related \nClaims and Related Events is considered made \nduring the Policy Period or any Discovery Period \n(if applicable) shall also be part of the same one \nAggregate Limit of Liability stated in the Schedule.\n\t\n7.5"
+  },
+  {
+    "title": "ADDITIONAL LIMITS OF LIABILITY",
+    "deductible": "Limit of Liability for Non",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Excess Limit of Liability for Non-Executive Directors\n\t\n\t\nThe per Non-Executive Director Limit of Liability \nas stated in Item 3(b)(i) of the Schedule shall be \nthe Insurer\u2019s maximum Limit of Liability payable \nunder this Policy for all Non-Indemnified Loss of \nany one Non-Executive Director, subject to the \naggregate Non-Executive Director Excess Limit \nof Liability as stated in Item 3 (b) (ii) of the Schedule \nfor all Non-Indemnified Loss of all Non-Executive \nDirectors.\n\t\n7.6"
+  },
+  {
+    "title": "APPLICATION OF RETENTION",
+    "deductible": "of the applicable Retention set",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurer will only pay that amount of Non-\nIndemnified Loss in respect of each Claim or Event \nthat is in excess of the applicable Retention set \nforth in Item 5 of the Schedule.\n8"
+  },
+  {
+    "title": "COVERAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "8.1"
+  },
+  {
+    "title": "OTHER INSURANCE",
+    "deductible": "over, and",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This insurance shall be specifically excess over, and \nnot contribute with, any other valid and collectible \ninsurance, except such insurance that is specifically \nwritten as excess over this Policy.\n\t\n8.2"
+  },
+  {
+    "title": "OUTSIDE EXECUTIVE COVERAGE",
+    "deductible": "of any indemnification provided by an Ou",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "With regard to any covered Claim made against \nan Outside Entity Executive, the Insurer will only \npay Non-Indemnified Loss under this Policy excess \nof any indemnification provided by an Outside \nEntity and excess of any valid and collectible \nDirectors and Officers liability insurance coverage \nafforded to an Outside Entity or its director or \nofficers, or equivalent executive or management \npositions in any other country.\n\t\n\t\nSuch other insurance shall be regarded as \nvalid and collectible if there is an entitlement \nto indemnity there under in respect to Non-\nIndemnified Loss covered under"
+  },
+  {
+    "title": "SEVERABILITY AND NON -RESCINDABLE/AVOIDANCE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "9.1"
+  },
+  {
+    "title": "SEVERABILITY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "In granting coverage to the Insured Persons \nunder this Policy, the Insurer has relied upon the \nApplication for this Policy and any declarations and \nstatements made in connection therewith. The \nApplication, and such declarations, statements \nand any financial information of the Company, are \nthe basis of the coverage under this Policy and shall \nbe considered as incorporated in and constituting \npart of this Policy. The Application for coverage \nshall be construed as a separate Application for \ncoverage by each Insured Person.\n\t\n\t\nFor the purposes of determining the availability \nof coverag"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\nInsured Person who knew of such untruth.\n\t\n9.2"
+  },
+  {
+    "title": "NON-RESCINDABLE/AVOIDANCE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurer shall not void or rescind, in whole or \nin part, the coverage provided under this Policy. \nHowever, in the event that any of the particulars or \nstatements in the Application are untrue, this Policy \nwill be void with respect to any Insured Person \nwho knew of such untruth.\n\t\n9.3"
+  },
+  {
+    "title": "RENEWAL APPLICATION PROCEDURE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If this Policy is a renewal of, a replacement of, or \nsucceeds in time any Directors and Officers liability \npolicy issued by the Insurer, or any of its affiliates, \nthen in granting coverage under this Policy it is \nagreed that the Insurer has relied all underwriting \ninformation obtained or received by the Insurer in \nconnection with the underwriting of the renewal \n(including the Application together with all \nsuch prior applications) as being accurate and \ncomplete in underwriting this Policy. All such prior \ninformation and application together with the \nApplication constitute the complet"
+  },
+  {
+    "title": "GENERAL TERMS AND CONDITIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "10.1"
+  },
+  {
+    "title": "INSURED PERSONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If the Company is permitted or required to \nindemnify the Insured Persons for Loss pursuant \nto the broadest applicability of law, but fails to \nindemnify such Insured Persons for any reason \nwithin sixty (60) days of a written demand from the \nInsured Person to so indemnify, then the Insurer will \npay such otherwise covered Loss to or on behalf of \nthe Insured Persons as a Non-Indemnified Loss. In \nsuch event, however, the Insurer shall be entitled \nto obtain immediate reimbursement from the \nCompany, and the Company will be liable to \npromptly reimburse the Insurer, for all payments \nmade by"
+  },
+  {
+    "title": "PRIORITY OF PAYMENTS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurer shall make payments of Non-\nIndemnified Loss as they fall due in the order \nin which they are presented to the Insurer. If \nthe Insurer, in its absolute and sole discretion, \ndetermines that it is likely the Aggregate Limit \nof Liability will not be sufficient to cover all such \nNon-Indemnified Loss, then the Insurer shall pay \nNon-Indemnified Loss in the order which such \nNon-Indemnified Loss was consented to as covered \nunder this Policy, unless the Insured Persons, the \nCompany and the Insurer agrees otherwise.\n\t\n10.3"
+  },
+  {
+    "title": "CONFORMANCE WITH APPLICABLE LAW",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In- the event of any inconsistency between: (1) any \nperiod of limitation in this Policy relating to the \ngiving of notice of Claims, cancellation or Discovery \nPeriod; and (2) the minimum period required by \napplicable law, where such law allows, the Insurer \nwill resolve the inconsistency by applying the notice \nperiod that is more favorable to the Insured Persons \nto the extent that it conforms with applicable law.\n\t\n10.4"
+  },
+  {
+    "title": "CANCELLATION AND CHANGE OF CONTROL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": ""
+  },
+  {
+    "title": "CANCELLATION:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This policy shall be cancelled at the earliest of the \nfollowing times:\n\t\n\t\n(a) \t\nupon expiration of the Policy Period as set \nforth in Item 2 of the Schedule of this policy; \nor\n\t\n\t\n(b) \t\nat such other time as may be agreed upon \nin writing by the Insurer and the Principal \nOrganization.\n\t\n\t\n(c) \t\nthirty (30) days after receipt by the Principal \nOrganization of written notice or, if a later \ntime is specified in such notice, at such later \ntime, due to non-payment of premium;\n\t\n\t\nIn the event of cancellation after written notice, the \nInsurer shall retain premium for the period that this \npol"
+  },
+  {
+    "title": "CHANGE OF CONTROL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurer shall not be liable for any Loss \narising out of, based upon, attributable to or a \nconsequence of a Wrongful Act committed or \nEvent received, commencing or occurring after \nthe effective date of a Change of Control. The \nfull annual Premium shall be deemed fully earned \n\n17"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\nimmediately upon the occurrence of a Change of \nControl and this Policy may not be cancelled \nthereafter.\n\t\n10.5"
+  },
+  {
+    "title": "DISPUTES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The construction and enforcement of the \nprovisions of this policy shall be determined in \naccordance with and governed by the laws of \nIndia. Any disputes relating to the construction \nand enforcement of this policy shall be submitted \nto the exclusive jurisdiction of the courts of India\n\t\n10.6"
+  },
+  {
+    "title": "FINANCIAL INSOLVENCY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Financial Insolvency of the Company or any Insured \nPerson or the estate of any Insured Person shall not \nrelieve the Insurer of its obligations nor deprive the \nInsured Persons of any rights under this Policy.\n\t\n\t\nIn the event of Financial Insolvency of the Company, \nthen with respect to any covered Claim or Event \nhereunder, the Company and all Insured Persons \nagree to cooperate and not to oppose or object \nto any efforts by the Insurer, the Company \nor any Insured Person to obtain relief from \nany stay or injunction applicable to the distribution \nof proceeds under this Policy to any Insur"
+  },
+  {
+    "title": "SUBROGATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In the event of a payment under this Policy, the \nInsurer shall be subrogated to all applicable rights \nof recovery of any Insured Person in respect of \nsuch payment, including rights of an Insured \nPerson against a Company for corporate or \nother indemnification. In addition, the Insured \nPersons shall execute all and any documentation \nand undertake any action necessary to enable the \nInsurer to bring a recovery action or suit, at the \nInsurer\u2019s option, in the name of the Insured Person, \nCompany or Insurer, as applicable. Any recovery \nreceived shall first be applied against any payment \nma"
+  },
+  {
+    "title": "SANCTIONS CLAUSE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The (re)insurer(s) shall not be deemed to provide cover \nand shall not be liable to pay any claim or provide any \nbenefit hereunder to the extent that the provision \nof such cover, payment of such claim or provision \nof such benefit would expose the Company to any \nsanction, prohibition or restriction under United Nations \nresolutions or the trade or economic sanctions, laws \nor regulations of the European Union, United States \nof America, India and/or any other applicable national \neconomic or trade sanction law or regulations; Subject \notherwise to the terms, conditions and exclusions of \nth"
+  },
+  {
+    "title": "CURRENCY",
+    "deductible": "s, retentions,",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "All premiums, limits, Deductibles, retentions, \nFinancial Loss and other amounts under this \nPolicy are expressed and payable in the Indian \ncurrency indicated and shown on the Schedule \nfor the Limit of Liability. If judgement is rendered, \nsettlement is denominated or another element \nof Financial Loss under this Policy is stated in \na currency other than this currency, payment of \ncovered Financial Loss due under this Policy \n(subject to the terms, conditions, exclusions and \nlimitations of this Policy) will be made in Indian \nRupees at the mid rate of exchange published \nin the currency co"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\nthe Insurer in the event of mis-representation, \nmisdescription or non-disclosure of any material \nparticulars by the Proposer. Any person who, \nknowingly and with intent to defraud the insurance \ncompany or any other person, files a proposal \nfor insurance containing any false information, or \nconceals for the purpose of misleading, Information \nconcerning any fact material thereto, commits a \nfraudulent insurance act, which will render the policy "
+  },
+  {
+    "title": "PROCEDURE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In the event of loss of an insured event the Insurer \nmust be informed immediately\n\t\n\t\nOur contact details are as follows:\n\t\n\t\n1.\t\nRelationship officer / channel partner\n\t\n\t\n2.\t\nContact us- 022 6158 2020/ 022 6234 6234\n\t\n\t\n3.\t\nE-mail at care@hdfcergo.com\nOur contact details are as follows:"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Co. Ltd.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Claims Department 6th Floor,\nLeela Business Park,\nAndheri Kurla Road, Andheri(E),  \nMumbai \u2013 400059\nContact us- 022 6158 2020/ 022 6234 6234\n\t\n\t\n\u2022\t\nDuring Intimation of claim, Insured has to \nprovide relevant information which includes \nPolicy details, policy period and Loss details \n(viz. Loss Location, Contact Details, Details of \nLoss, Details of claimants, Rough estimates \nof Loss along with copy of Project carried for \nwhich the policy is obtained).\n\t\n\t\n\u2022\t\nIn general, primarily, the following basic \ndocumentations are required for taking the \nclaim forward:\n\t\n\t\n\u2022\t\nThe Claimant i"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\n\t\n\t\n\u2022\t\nAn acknowledgement with respect to the \nclaim intimation is given to the insured, once \nwe are in receipt of any claim intimation from \nthe insured, a list of preliminary documents \nis requested from the Insured.\n\t\n\t\n\u2022\t\nIn case of surveyor appointment, the same will \nbe appointed within 72 hrs from the date of \nintimation and the details of the appointment \nis conveyed to the Insured\n\t\n\t\n\u2022\t\nWithin 48 hrs of appointment, the surveyor \nwill sta"
+  },
+  {
+    "title": "KYC documents are compulsory",
+    "deductible": "of the applicable retention",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Apart from above Standard documents some other \ndocuments may be called for based on the nature \nof claim.\n\t\n10.20\t BANKRUPTCY\n\t\n\t\nThe bankruptcy, winding-up, receivership or \ninsolvency of an Insured or of the estate of \nan Insured shall not relieve the Insurer of its \nobligations nor deprive the Insurer of its rights \nunder this policy.\n\t\n10.21\t CONFORMITY\n\t\n\t\nThe provisions of this policy shall be read subject to \nthe laws governing construction of this policy and \nif any provision of this policy are inconsistent with \nsuch laws then:\n\t\n\t\na.\t\nwhere such provision can be read so as to \ngive "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\n6226 | Email ID: seniorcitizen@hdfcergo.\ncom Designated Grievance Officer in each \nbranch.\n\t\n\t\n\u2022\t\nCompany Website \u2013 www.hdfcergo.com\n\t\n\t\n\u2022\t\nCourier - Any of our Branch office or corporate \noffice\n\t\n\t\nYou may also approach the Complaint & Grievance \n(C&G) Redressal Cell at any of our branches with the \ndetails of your grievance during our working hours \nfrom Monday to Friday.\n\t\n\t\nIf you are not satisfied with our redressal of your \ngrievance through "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District \n(Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai \u2013 400078, Maharashtra.\n\t\n\t\nIn case you are not satisfied with the response / \nresolution given / offered by the C&G cell, then \nyou can write to the Chief Grievance Officer of the \nInsurance Company at the following address\nTo the Chief Grievance Officer"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District \n(Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai - 400078, Maharashtra\ne-mail: cgo@hdfcergo.com\n\t\n\t\nGrievance may also be lodged at IRDAI Integrated \nGrievance Management System- https://\nbimabharosa.irdai.gov.in\n\t\n\t\nYou may also approach the nearest Insurance \nOmbudsman for resolution, if your grievance is not \nredressed by the Insurer. The contact details of \nOmbudsman offices are mentioned below if your \ngrievance pertains to:\n\t\n\t\n\u2022\t\nInsurance claim that has been rejected or \ndispute of a claim on legal construction of \nthe policy\n\t\n\t\n\u2022\t\nDelay in settlement of claim\n\t\n\t\n\u2022\t\nDispute with regard to premium\n\t\n\t\n\u2022\t\nNon-receipt of your i"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425.\nThe contact details of the Insurance Ombudsman offices are as below-"
+  },
+  {
+    "title": "NAMES OF OMBUDSMAN AND ADDRESSES OF OMBUDSMEN CENTERS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office Details\nJurisdiction of Office (Union Territory, District)"
+  },
+  {
+    "title": "AHMEDABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Prakash Building, 6th floor,\nTilak Marg, Relief Road,\nAhmedabad \u2013 380 001.\nTel.: 079 - 25501201/02\nEmail: bimalokpal.ahmedabad@cioins.co.in\nGujarat,\nDadra & Nagar Haveli,\nDaman and Diu"
+  },
+  {
+    "title": "BENGALURU",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Soudha Building, PID No. 57-27-N-19\nGround Floor, 19/19, 24th Main Road,"
+  },
+  {
+    "title": "JP Nagar, Ist Phase,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Bengaluru \u2013 560 078.\nTel.: 080 - 26652048 / 26652049\nEmail: bimalokpal.bengaluru@cioins.co.in\nKarnataka"
+  },
+  {
+    "title": "BHOPAL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n1st floor, \u201cJeevan Shikha\u201d,\n60-B,Hoshangabad Road, Opp. Gayatri Mandir,\nBhopal \u2013 462 011.\nTel.: 0755 - 2769201 / 2769202\nEmail: bimalokpal.bhopal@cioins.co.in\nMadhya Pradesh, Chattisgarh"
+  },
+  {
+    "title": "BHUBANESHWAR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n62, Forest park,\nBhubneshwar \u2013 751 009.\nTel.: 0674 - 2596461 /2596455\nFax: 0674 - 2596429\nEmail: bimalokpal.bhubaneswar@cioins.co.in\nOrissa"
+  },
+  {
+    "title": "CHANDIGARH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Deep Building SCO 20-27,\nGround Floor Sector- 17 A,\nChandigarh \u2013 160 017.\nTel.: 0172-2706468\nEmail: bimalokpal.chandigarh@cioins.co.in\nState of Punjab, Haryana (excluding 4 districts vizGurugram, \nFaridabad, Sonepat and Bahadurgarh), Himachal Pradesh, \nUnion Territories of Jammu &Kashmir, Ladakh and \nChandigarh."
+  },
+  {
+    "title": "CHENNAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nFatima Akhtar Court, 4th Floor, 453,\nAnna Salai, Teynampet,"
+  },
+  {
+    "title": "CHENNAI \u2013 600 018.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 044 - 24333668 / 24333678\nFax: 044 - 24333664\nEmail: bimalokpal.chennai@cioins.co.in\nTamil Nadu Puducherry Town and Karaikal (which are part of \nPuducherry).\n\n22"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425."
+  },
+  {
+    "title": "NAMES OF OMBUDSMAN AND ADDRESSES OF OMBUDSMEN CENTERS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office Details\nJurisdiction of Office (Union Territory, District)"
+  },
+  {
+    "title": "DELHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2/2 A, Universal Insurance Building,\nAsaf Ali Road,\nNew Delhi \u2013 110 002.\nTel.: 011 - 23237539\nEmail: bimalokpal.delhi@cioins.co.in\nDelhi, 4 districts of Haryana vizGurugram, Faridabad, \nSonepat and Bahadurgarh)"
+  },
+  {
+    "title": "GUWAHATI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Nivesh, 5th Floor,\nNr. Panbazar over bridge, S.S. Road,\nGuwahati \u2013 781001(ASSAM).\nTel.: 0361 - 2632204 / 2602205\nEmail: bimalokpal.guwahati@cioins.co.in\nAssam,\nMeghalaya,\nManipur,\nMizoram,\nArunachal Pradesh,\nNagaland and Tripura"
+  },
+  {
+    "title": "HYDERABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6-2-46, 1st floor, \u201cMoin Court\u201d,\nLane Opp. Saleem Function Palace,\nA. C. Guards, Lakdi-Ka-Pool,\nHyderabad - 500 004.\nTel.: 040 - 23312122\nEmail: bimalokpal.hyderabad@cioins.co.in\nState of Andhra Pradesh, Telangana and Yanam \u2013 a part of \nUnion Territory of Puducherry"
+  },
+  {
+    "title": "JAIPUR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Nidhi \u2013 II Bldg., Gr. Floor,\nBhawani Singh Marg,\nJaipur - 302 005.\nTel.: 0141 \u2013 2740363/2740798\nEmail: bimalokpal.jaipur@cioins.co.in\nRajasthan"
+  },
+  {
+    "title": "KOCHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n10th Floor, Jeevan Prakash,LIC Building,\nOpp to Maharaja\u2019s College Ground,M.G.Road,\nKochi - 682 011.\nTel.: 0484 - 2358759\nEmail: bimalokpal.ernakulam@cioins.co.in\nKerala Lakshadweep, Mahe - a part of Union territory of \nPuducherry"
+  },
+  {
+    "title": "KOLKATA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nHindustan Bldg. Annexe, 4th Floor,\n4, C.R. Avenue,"
+  },
+  {
+    "title": "KOLKATA - 700 072.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 033 - 22124339\nFax : 033 - 22124341\nEmail: bimalokpal.kolkata@cioins.co.in\nStates of West Bengal, Sikkim and Union Territories of \nAndaman & Nicobar Islands\n\n23"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Side A D&O Policy \n- IRDAN146CPLB0002V01202425."
+  },
+  {
+    "title": "NAMES OF OMBUDSMAN AND ADDRESSES OF OMBUDSMEN CENTERS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office Details\nJurisdiction of Office (Union Territory, District)"
+  },
+  {
+    "title": "LUCKNOW",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6th Floor, JeevanBhawan, Phase-II,\nNawal Kishore Road, Hazratganj,\nLucknow - 226 001.\nTel.: 0522 - 4002082 / 3500613\nEmail: bimalokpal.lucknow@cioins.co.in\nDistricts of Uttar Pradesh :Laitpur, Jhansi, Mahoba, Hamirpur, \nBanda, Chitrakoot, Allahabad, Mirzapur, Sonbhabdra, \nFatehpur, Pratapgarh, Jaunpur,Varanasi, Gazipur, Jalaun, \nKanpur, Lucknow, Unnao, Sitapur, Lakhimpur, Bahraich, \nBarabanki, Raebareli, Sravasti, Gonda, Faizabad, Amethi, \nKaushambi, Balrampur, Basti, Ambedkarnagar, Sultanpur, \nMaharajgang, Santkabirnagar, Azamgarh, Kushinagar, \nGorkhpur, Deo"
+  },
+  {
+    "title": "MUMBAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n3rd Floor, JeevanSevaAnnexe,\nS. V. Road, Santacruz (W),\nMumbai - 400 054.\nTel.: 022 - 69038800/27/29/31/32/33\nEmail: bimalokpal.mumbai@cioins.co.in\nGoa,\nMumbai Metropolitan Region excluding Areas of Navi \nMumbai & Thane"
+  },
+  {
+    "title": "NOIDA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nBhagwan Sahai Palace\n4th Floor, Main Road,\nNaya Bans, Sector 15,\nDistt: GautamBuddh Nagar,\nU.P-201301.\nTel.: 0120- 2514252 / 2514253\nEmail: bimalokpal.noida@cioins.co.in\nState of Uttaranchal and the Districts of Uttar Pradesh: Agra, \nAligarh, Bagpat, Bareilly, Bijnor, Budaun, Bulandshehar, \nEtah, Kanooj, Mainpuri, Mathura, Meerut, Moradabad, \nMuzaffarnagar, Oraiyya, Pilibhit, Etawah, Farukkabad, \nFirozbad, Gautambodhanagar, Ghaziabad, Hardoi, \nShahjahanpur, Hapur, Shamli, Rampur, Kashganj, Sambhal, \nAmroha, Hathras, Kanshiramnagar, Saharanpur."
+  },
+  {
+    "title": "PATNA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2nd Floor, Lalit Bhawan,\nBailey Road,\nPatna 800 001.\nTel.: 0612-2547068\nEmail: bimalokpal.patna@cioins.co.in\nBihar,\nJharkhand"
+  },
+  {
+    "title": "PUNE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Darshan Bldg., 3rd Floor,\nC.T.S. No.s. 195 to 198,\nN.C. Kelkar Road, Narayan Peth,\nPune \u2013 411 030.\nTel.: 020- 24471175\nEmail: bimalokpal.pune@cioins.co.in\nMaharashtra,\nArea of Navi Mumbai and Thane excluding Mumbai \nMetropolitan Region."
+  }
+]

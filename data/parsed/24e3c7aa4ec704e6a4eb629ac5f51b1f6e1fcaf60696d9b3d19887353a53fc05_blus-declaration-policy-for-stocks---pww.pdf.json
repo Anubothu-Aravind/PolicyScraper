@@ -1,0 +1,65 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No. 146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela Business",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO Bharat Laghu Udyam Suraksha - Add-ons:"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings"
+  },
+  {
+    "title": "BHARAT LAGHU UDYAM SURAKSHA POLICY ADD ON COVERS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Declaration Policy for Stocks\nThis is an additional cover that extends the insurance cover \nthat We give under the Bharat Laghu Udyam Suraksha. \nWe give these additional covers if You have applied to and \npaid premium for the covers and We have accepted to give \ncovers to You.\nDeclaration Policy for Stocks\n1.\nWe agree to cover Your Stock on receipt of provisional\npremium based on Your declaration of the value of Stock, \nthe premium being liable to be adjusted at expiry of the\nPolicy Period, as follows:\n2.\nYou will declare to Us in writing signed by You or an\nauthorised person, the value of You"
+  },
+  {
+    "title": "10. If You cancel the policy (whether any stock exists or",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "not), We will retain short period premium calculated on\nthe average  amount insured  until the  cancellation, or\n50% of  the provisional premium, whichever is higher. If\nYou cancel the policy after loss has occurred, We will\nretain the premium of the higher of the two amounts::\ni.\t\nThe pro-rata proportion of the premium calculated on \nthe average amount insured until cancellation plus\nthe pro-rata proportion of the premium from the date \nof loss to the end of the Policy Period, and\nii.\n50% of the provisional premium."
+  },
+  {
+    "title": "11. You cannot reduce the Sum Insured during the Policy",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Period."
+  },
+  {
+    "title": "12.\t We will not pay more than the Sum Insured, and You need",
+    "deductible": "of the Sum Insured.",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "not pay premium on value in excess of the Sum Insured. \nYou and Us can increase the Sum Insured by agreement, \nand its effective date will be added by Endorsement on the \nPolicy. You are liable to pay an additional provisional\npremium on the increased Sum Insured proportionate\nto the unexpired Policy Period. If the rate for the class of \nthe relevant risk is revised during the Policy Period, You \nmust pay an additional provisional premium on the revised \nrate for the unexpired period. In both these cases, the\npremium will be adjusted at the end of the Policy Period \nas stated in Clause 6above."
+  },
+  {
+    "title": "13.\t If the Insured Stocks are collectively of greater value than",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "their Sum Insured at the time of loss, You will be Your own \ninsurer for the difference, and must bear a rateable\nproportion of the loss. Every item of Stock shall be\nseparately subject to this condition."
+  },
+  {
+    "title": "14. All other terms and conditions of the Policy shall apply to",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "the Declaration Policy."
+  }
+]

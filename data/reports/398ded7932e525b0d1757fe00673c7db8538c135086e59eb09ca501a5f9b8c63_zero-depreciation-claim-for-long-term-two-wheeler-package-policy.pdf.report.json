@@ -1,0 +1,37 @@
+[
+  {
+    "title": "DEDUCTIBLE",
+    "deductible": "stated in the schedule.",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Company shall not be liable for each and every claim under Section -1 (loss of or damage to the vehicle \ninsured) of this Policy in respect of the deductible stated in the schedule."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": "",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Policy Wordings\nLong Term Two Wheeler Package Policy\nPage 13\nIMT. 21. SPECIAL EXCLUSIONS AND COMPULSORY DEDUCTIBLE (Applicable to all Commercial \nVehicles excluding taxis and motorized two wheelers carrying passengers for hire or reward.) \nNotwithstanding anything to the contrary contained herein it is hereby understood and agreed that \n1) Special Exclusions except in the case of Total Loss of the vehicle insured, the insurer shall not be liable\nunder Section I of the policy for loss of or damage to lamps tyres tubes mudguards bonnet side parts\nbumpers and paint work.\n2) Compulsory Deductible."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": "amount opted by the Insured under tariff",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings\nLong Term Two Wheeler Package Policy\nPage 14\nIf the expenditure incurred by the Company shall include any amount for which the Insured is responsible \nhereunder such amount shall be repaid by the Insured to the Company forthwith. \nFor the purpose of this Endorsement the expression \u201cevent\u201d shall mean an event or series of events arising out of \none cause in connection with the vehicle insured in respect of which indemnity is provided under this Policy.  \nSubject otherwise to the terms conditions limitations and exceptions of this Policy. \n* to insert voluntary deductible amount "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": "under Section I of this Policy for the p",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings\nLong Term Two Wheeler Package Policy\nPage 16\nbear the first Rs \u2026\u2026\u2026\u2026\u2026@ (or any less amount for which the claim may be assessed) of each and every \nclaim under Section I of this Policy. \nProvided that if the Company shall make any payment in exercise of its discretion under condition No. 3 of the \nPolicy in settlement of any claim and such payment includes the amount for which the Insured is responsible by \nreason of this Endorsement the insured shall repay to the Company forthwith the amount for which the Insured is \nso responsible. \nFor the purpose of this Endorsement the expre"
+  },
+  {
+    "title": "ADD-ON COVER ENDORSEMENT WORDINGS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Zero Depreciation Claim \nIn consideration of the payment of additional premium of Rs. ____ paid by the Insured and realized by the Insurer \nnot withstanding anything to the contrary, it is hereby understood & agreed that for the purpose of this policy, in \nthe event of partial loss, the depreciation applicable under Section I of this policy would stand deleted. \nExclusion: This cover excludes the following parts, \na) Tyres\nb) Batteries\nSpecific Condition: The benefits under this cover may be availed for partial loss own damage claim, up to two \ntimes during every 12 month period of the policy."
+  }
+]

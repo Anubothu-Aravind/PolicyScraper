@@ -1,0 +1,51 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered &",
+    "deductible": "",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Goods \nCarrying \nVehicle \nPackage \nPolicy \n- \nAnnual \nVoluntary \nDeductible \n-"
+  },
+  {
+    "title": "IRDAN125RP0010V01202122/A0031V01202122",
+    "deductible": "of Rs.",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "It is declared and agreed that the insured having opted for a deductible of Rs.\t\n* a reduction in Rs. _____* under section 1 \nof the policy.\nGoods carrying vehicle (Three Wheeler)"
+  },
+  {
+    "title": "DISCOUNT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Rs. 1000\n10% on the OD premium of the vehicle\nRs. 4000\n20% on the OD premium of the vehicle\nRs. 7000\n30% on the OD premium of the vehicle\nRs. 10000\n40% on the OD premium of the vehicle\nGoods carrying vehicle (Others)"
+  },
+  {
+    "title": "DISCOUNT",
+    "deductible": "would be applicable over and above the c",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Rs. 5000\n10% on the OD premium of the vehicle\nRs. 40000\n25% on the OD premium of the vehicle\nRs. 70000\n35% on the OD premium of the vehicle\nRs. 100000\n50% on the OD premium of the vehicle\nThe voluntary deductible would be applicable over and above the compulsory deductible applicable under the main motor \ninsurance policy. \nSubject otherwise to the terms conditions limitations and exceptions of this Policy."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings"
+  },
+  {
+    "title": "VOLUNTARY DEDUCTIBLE \u2013",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Goods Carrying Vehicle Package Policy - Annual"
+  }
+]

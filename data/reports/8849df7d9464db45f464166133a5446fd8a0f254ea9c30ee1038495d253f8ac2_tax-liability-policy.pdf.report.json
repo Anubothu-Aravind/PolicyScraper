@@ -1,0 +1,37 @@
+[
+  {
+    "title": "INSURING AGREEMENT",
+    "deductible": "of the Retention, pay to the Named Insur",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(i)\t\nIn consideration of the payment of the Premium and subject to the terms and conditions of this Policy, \nthe Insurer shall, in excess of the Retention, pay to the Named Insured or the Additional Insured (as \napplicable), any Insured Loss up to amount stated in Item 3 of the Declarations, provided that the \nNamed Insured or the Additional Insured (as applicable) files a Claim under this Policy in accordance \nwith Clause 7.\n\t\n(ii)\t\nThe Insured Loss shall be after giving effect to Clause 12.8 the aggregate of:\n\t\n\t\na)\t\nany Advance Tax Payment (if applicable); plus\n\t\n\t\nb)\t\na Tax Loss (excluding"
+  },
+  {
+    "title": "LIMIT OF LIABILITY",
+    "deductible": "of the Insured Loss above the Retention.",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(i)\t\nThe Insurer\u2019s maximum aggregate liability under this Policy for Insured Loss exceeding the Retention \nshall be limited to the amount stated in Item 3 of the Declarations.\n\t\n(ii)\t\nIf the Insurer pays the full amount of its maximum aggregate liability under this Policy as limited by \nClause 4(i), the Insurer shall have no further obligation to make any payments under this Policy in \nrespect of the Insured Loss.\n\t\n(iii)\t The Retention is an aggregate amount which shall be uninsured.\n\t\n(iv)\t The Insurer shall not be liable for any Insured Loss until the aggregate of all Insured Loss exceeds t"
+  },
+  {
+    "title": "EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "(i)\t\nWithout prejudice to the Insurer\u2019s rights and remedies under the Insurance Act 1938 and as amended \nfrom time to time, the Insurer shall not be liable to make any payments for any Insured Loss to the extent \nthat the Insured Loss results from, arises out of, is attributable to, or to the extent it is increased by any \nmaterial inaccuracy in or material omission from any statement or representation made by the Named \nInsured in the Representation Letter or in the documents referred to in the Representation Letter, or \nany non-disclosure of information by the Named Insured that renders any "
+  },
+  {
+    "title": "IRDAN125CP0007V01201920.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "11) of violating any law, rule, regulation or statute. For the avoidance of doubt, the payment of \nconsideration by the Additional Insured to the Named Insured in relation to the transfer of Shares \nunder the Acquisition Agreement without withholding Capital Gains Tax or the failure to request a \nnil withholding tax certificate from the Taxation Authority under provision of the Indian Income Tax \nAct 1961 and as amended from time to time will not constitute violation of any law, rule, regulation \nor statute by an Insured;\n\t\n\t\nc)\t\nany failure by such Insured to follow proper and full procedures"
+  },
+  {
+    "title": "SUBROGATION; OFFSETS AND REIMBURSEMENTS",
+    "deductible": ". Any payments made by the Insureds to t",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "8.1.\t Subrogation\n\t\n\t\nIf the Insurer makes any payment under this Policy, the Insurer shall be subrogated to all of the rights \nof recovery of the relevant Insured and the relevant Insured Group against any Person (other than \nanother Insured) based upon, arising out of or relating to such payment. The relevant Insured Groups \nshall take all steps reasonable or necessary to secure such subrogation rights (and the Insurer shall \nbear related out-of-pocket costs) including the execution of any documents to enable the Insurer \nto bring suit in the name of the relevant Insured. The relevant Insure"
+  }
+]

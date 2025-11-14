@@ -1,0 +1,226 @@
+[
+  {
+    "title": "INSURING CLAUSE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "In consideration of the payment of the Premium as specified \nin the Risk Details attaching to and forming part hereof \n(hereinafter referred to as the \u201cRisk Details\u201d) and subject to \nthe Definitions, Exclusions, Extensions, Limits and Conditions \nhereinafter contained, this Contract insures the property \ndescribed in the Risk Details, against direct physical loss \nor physical damage occurring during the Contract Period \nstated in the Risk Details caused by an Insured Event(s), as \nherein defined."
+  },
+  {
+    "title": "EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "1."
+  },
+  {
+    "title": "LOSSES EXCLUDED",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "This Contract DOES NOT cover:\n1.\t\nloss or damage arising directly or indirectly from nuclear \ndetonation, nuclear reaction, nuclear radiation or radioactive \ncontamination, however such nuclear detonation, nuclear \nreaction, nuclear radiation or radioactive contamination may \nhave been caused.\n2.\t\nloss arising from war (whether before or after the \noutbreak of hostilities) between any two of the following: China, \nFrance, the Russian Federation, the United Kingdom and the \nUnited States of America.\n3.\t\nloss or damage caused by seizure or legal or illegal \noccupation unless physical loss or dam"
+  },
+  {
+    "title": "10.\t loss or increased cost as a result of threat or hoax.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "11.\t\nloss or damage caused by or arising out of burglary, \nhouse-breaking, looting, theft or larceny or caused by any \nperson taking part therein. However, this exclusion shall not \napply to physical loss or damage to insured property caused \nby looting which results directly from an Insured Event,\n2."
+  },
+  {
+    "title": "DIRECT DAMAGE",
+    "deductible": "in said Property Damage Coverage Part wh",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "No claim shall be payable unless and until a claim has been \npaid, or liability admitted, in respect of direct physical loss or \nphysical damage by an Insured Event to Property Insured \nunder the Property Damage Coverage Part to which this Time \nElement Coverage Part is attached and which gave rise to \ninterruption of business.\nThis Condition shall not apply if no such payment shall have \nbeen made, or liability admitted, solely owing to the operation \nof an excess in said Property Damage Coverage Part which \nexcludes liability for losses below a specified amount.\nB."
+  },
+  {
+    "title": "EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "This Coverage Part DOES NOT cover:\n1.\t\nincrease in loss resulting from interference at the \ninsured premises, by strikers or other persons, with rebuilding, \nrepairing or replacing the property or with the resumption \nor continuation of operation, unless there has been direct \nphysical loss or physical damage to an Insured Location by \nan Insured Strike, Riot or Civil Commotion Event as defined \nwithin this Contract .\n2.\t\nincrease in loss caused by the suspension, lapse, or \ncancellation of any lease, licence, contract, or order, unless \nsuch results directly from the insured interruption of b"
+  },
+  {
+    "title": "LEASEHOLD INTEREST EXCLUSIONS:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "As respects Leasehold Interest, Time Element Exclusion 2, \ndoes not apply and the following applies instead:\nThis Contract does not insure any increase in loss resulting \nfrom the suspension, lapse or cancellation of any license, or \nfrom the Insured exercising an option to cancel the lease; \nor from any act or omission of the Insured that constitutes a \ndefault under the lease.\nIn addition, there is no coverage for the Insured\u2019s loss of \nLeasehold Interest directly resulting from physical loss or \ndamage to Personal Property.\n3."
+  },
+  {
+    "title": "DEFINITIONS",
+    "deductible": "rent paid for the same or similar replac",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The following term(s) means:\na)\t\nLease Interest:\nThe excess rent paid for the same or similar replacement \nproperty over actual rent payable plus cash bonuses or \nadvance rent paid (including maintenance or operating \ncharges) for each month during the unexpired term of the \nInsured\u2019s lease.\nb)\t\nNet Lease Interest:\nThat sum which placed at 6% interest rate compounded \nannually would equal the Lease Interest (less any amounts \notherwise payable hereunder).\n4."
+  },
+  {
+    "title": "EXCLUSIONS:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "As respects Commissions, Profits And Royalties, Time \nElement Exclusions 3 does not apply.\n3"
+  },
+  {
+    "title": "DEFINITIONS:",
+    "deductible": "of",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The following term(s) means:\na)\t\nCommissions:\nThe income that would have been received by the Insured \nfrom the sale of goods not owned by the Insured.\nb)\t\nProfits:\nThe amount that would have been received by the Insured \nfrom the sale of goods belonging to the Insured, in excess of \nthe cost to the Insured of such goods.\nc)\t\nRoyalties:\nThe income the Insured is not able to collect under royalty or \nlicensing agreements.\n4."
+  },
+  {
+    "title": "EXTRA EXPENSE EXCLUSIONS:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "As respects Extra Expense, the following are also excluded:\na)\t\nAny loss of Earnings, Income, Revenue or any other \nconsequential loss.\n\n12"
+  },
+  {
+    "title": "CURRENCY FOR LOSS PAYMENT",
+    "deductible": "s and limits of liability,",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "All amounts, including deductibles and limits of liability, \nindicated in this Contract are in the currency as stated \nwithin the Risk Details. Losses will be adjusted and paid in \nthe currency as Stated in the Risk Details, unless directed \notherwise by the Insured.\nIn the event of a loss adjustment involving currency \nconversion, the exchange selling rate will be calculated as \nfollows:\nA.\t\nAs respects the calculation of excess(es) and limits of \nliability, the rate of exchange published in The Wall Street \nJournal on the date of loss.\nB.\t\nAs respects loss or damage to Real and Personal \nPro"
+  },
+  {
+    "title": "SUBROGATION",
+    "deductible": "or self insured retention, suffering a l",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Any release from liability entered into in writing by the Insured \nprior to loss hereunder shall not affect this Contract or the right \nof the Insured to recover hereunder. The right of subrogation \nagainst any of the Insured\u2019s subsidiary or affiliated companies \nor any other companies associated with the Insured through \nownership or management is waived.\nIn the event of any payment under this Contract, the Insurers \nshall be subrogated to the extent of such payment to all the \nInsured\u2019s right of recovery therefore. The Insured shall execute \nall papers required, shall cooperate with Insurers"
+  },
+  {
+    "title": "PARTIAL PAYMENT OF LOSS SETTLEMENT",
+    "deductible": "of the applicable",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In the event of a loss occurring which has been ascertained to \nbe insured loss or damage under this Contract and determined \nby Insurers\u2019 representatives to be in excess of the applicable \ninsurance excess, Insurers will advance mutually agreed \nupon partial payment(s) on  the insured loss or damage, \nsubject to the insurance\u2019s provisions. To obtain said partial \npayments, the Insured will submit a signed and sworn Proof of \nLoss as described in this Contract, with adequate supporting \ndocumentation.\n9."
+  },
+  {
+    "title": "EXCESS",
+    "deductible": "stated in",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurers hereon shall not be liable for the Excess stated in \nthe Risk Details and will be liable only if the Insured sustains \na loss in a single Occurrence greater than the applicable \nExcess specified in the Risk Details, and only for its share of \nthat greater amount.\nUnless otherwise stated below:\nA.\t\nWhen this Contract insures more than one location, the \nExcess will apply against the total loss covered by this Contract \nin any one Occurrence.\nB.\t\nIf two or more deductibles provided in this Contract apply \nto a single Occurrence, the total to be deducted will not exceed \nthe largest "
+  },
+  {
+    "title": "16.\t OTHER INSURANCE",
+    "deductible": "to any",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(a)\t\nThis Contract shall be primary and not excess to any \nother insurance available to the Insured covering any loss \ninsured hereunder.\n(b)\t\nNotwithstanding the above paragraph (a), cover shall be \nDifference in Conditions / Difference in Limits in respect of the \nterrorism pools and/or government schemes of the countries \nshown in the Risk Details.\nSubject to all other terms and conditions of this Contract, \ncoverage under this Contract is to apply only when the perils \nand/or limits and/or definitions and/or conditions set forth in \n\n18"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered",
+    "deductible": "over the maximum",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "& Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: \nTerrorism Suraksha Classic-Revision - IRDAN125CP0001V01201920.\nthis Contract are broader or greater in meaning or scope than \nthose of the terrorism pools and/or government schemes of \nthe countries shown in the Risk Details. Coverage under \nthis Contract shall  apply as  primary insurance when a peril \nand/or limit and/or definition and/or condition covered herein \nis not insured under the terrorism pools and/or government \nschemes of the countries shown in the Risk Details. Any \nco"
+  },
+  {
+    "title": "21.\t SANCTION LIMITATION AND EXCLUSION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "No Insurer shall be deemed to provide cover and no Insurer \nshall be liable to pay any claim or provide any benefit \nhereunder to the extent that the provision of such cover, \npayment of such claim or provision of such benefit would \nexpose that Insurer to any sanction, prohibition or restriction \nunder United Nations resolutions or the trade or economic \nsanctions, laws or regulations of the European Union, United \nKingdom or United States of America."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered",
+    "deductible": "of these limits whether insured losses a",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "& Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: \nTerrorism Suraksha Classic-Revision - IRDAN125CP0001V01201920.\nthe maximum amount payable for any loss or damage arising \nfrom physical loss or damage at such Location or involving \nsuch other specified property or such coverage.\n2.\t\nThe sub-limits of liability specified in the Risk Details \napply in the aggregate on a per Occurrence basis, unless \notherwise specified, for all Locations and coverages combined.\n3.\t\nThe Insurers\u2019 maximum liability (or sub-limit of liability) in \na sing"
+  },
+  {
+    "title": "LOSS CONTROL",
+    "deductible": "of any payment due from such plan or sch",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Notwithstanding any provision to the contrary within this Policy, \nit is understood and agreed that this Policy includes cover \nagainst physical loss or physical damage to insured property\ndirectly caused by the actions of the government of the state \n(or its Military Authority) where the insured property is located, \nin suppressing, controlling or minimizing the consequences of\nan Insured Event, as insured by this Policy. Underwriters \nwill only provide this cover if such damage is directly caused \nby the actions of the government of the state (or its Military\nAuthority) where the insured pro"
+  },
+  {
+    "title": "EXISTING PROPERTY",
+    "deductible": "for this Memorandum as defined",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurers shall indemnify the Insured for physical loss or \ndamage to:\ni) Principal\u2019s existing property\nii) Any other property deemed to be in the care, custody or \ncontrol of the Insured (i) or (ii) including property whilst being \nworked upon: on or adjacent to the Project Site provided that:\na) the physical loss or damage to such property arises as a \ndirect result of the execution of the Project at the Project Site,\nb) the Insurers shall not be liable under this Memorandum for:\ni) the cost of rectifying physical loss or damage which existed \nprior to the commencement date of the Project"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "& Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: \nTerrorism Suraksha Classic-Revision - IRDAN125CP0001V01201920.\noffset impaired collections pending repayment of such sum \nuncollectible as the result of such loss or damage. Unearned \ninterest and service charges on deferred payment accounts \nand normal credit losses on bad debts will be deducted in \ndetermining the recovery. \n1) In the event of loss to accounts receivable records, the \nInsured will use all reasonable efforts, including legal action, \nif necessary, to effect collecti"
+  },
+  {
+    "title": "FINE ARTS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "This Contract covers insured physical loss or damage to Fine \nArts articles while anywhere within this Contract\u2019s Situation \nof Property Insured, including while in transit, whilst within a \nCountry with covered Property herein. \n1) This Additional Coverage excludes loss or damage if the \nFine Arts cannot be replaced with other of like kind and quality, \nunless it is specifically declared to the Insurers. \n2) Fine Arts Exclusion: \nIn addition to the exclusions in the Exclusions clause of this \nsection, as respects Fine Arts, this Contract does not insure \nagainst loss or damage from any repair"
+  },
+  {
+    "title": "CONTRACT.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Notwithstanding Losses Excluded 1.5 and 1.6 herein, this \nContract is amended as set forth below. All other terms and \nconditions of this Contract remain unchanged and continue \nto apply with full force and effect. Nothing contained in this \nExtension shall override any radioactive contamination \nexclusion, or except as set forth herein, the Seepage and/or \nPollution and/or Contamination Exclusion Clause contained in \nthis Contract. The inclusion of this Extension shall in no event \nincrease the limit of liability of Insurers under this Contract. If, \nA. an Insured Event is the sole, immediate"
+  },
+  {
+    "title": "PROVIDED ALWAYS THAT this Contract only insures the",
+    "deductible": "or underlying amount, would",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Resulting Loss where: \n(a) Insurers have agreed to pay for the Original Damage or, \nbut for the operation of an excess or underlying amount, would \nhave agreed to pay for the Original Damage; and \n(b) within one year of the commencement of the Insured Event \nwhich caused the Original Damage, the Insured became \naware and advised Insurers of the amount of: \n(i) the Resulting Loss; and \n(ii) any other interest to be claimed under this Contract as \na result of the Resulting Damage, whether loss, damage or \ndestruction, as insured by this Contract, business interruption, \nextra expense or otherwis"
+  },
+  {
+    "title": "AUTHORITY",
+    "deductible": ", the insurers",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a)  Loss resulting from necessary Interruption of the insured\u2019s \nbusiness in consequence of damage caused by an act of \nterrorism or sabotage to property within a one (1) mile radius \nof the boundary of the insured location where such damage \nprevents access to or egress from such property insured \nwhether the property insured shall be damaged or not.\nb)  Loss resulting from necessary  interruption of the insured\u2019s \nbusiness in consequence of closure, requisition or sealing \noff of an insured location or any right of way to such location \nby order or action of civil or military authority as a "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered",
+    "deductible": ", the insurers",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "& Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: \nTerrorism Suraksha Classic-Revision - IRDAN125CP0001V01201920.\nLoss resulting from necessary  interruption of the insured\u2019s \nbusiness caused by damage by an act of terrorism or \nsabotage, to installations and/or equipment, pipes, lines, \nwires and the like used for the supply of gas, electricity, water, \neffluent, telecommunications or internet provision services \nwhich results in failure of supply or services at the terminal \nends of the service feeders or receivers or meters at the"
+  },
+  {
+    "title": "EXCLUSIONS, CONDITIONS AND LIMITATIONS of the",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Policy to which this Extension is attached, and also to the \nfollowing ADDITIONAL CONDITIONS AND EXCLUSIONS, \nthis Insurance is extended to cover the necessary Extra \nExpense incurred by the Insured in order to continue as nearly \nas practicable the normal conduct of the Insured\u2019s business \nfollowing Direct Physical Loss or Damage as covered by the \nPolicy to which this Extension is attached, to the Property \nInsured"
+  },
+  {
+    "title": "CONDITIONS",
+    "deductible": "in said Policy which excludes liability",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.Direct Loss or Damage\nNo claim shall be payable under this Extension unless and \nuntil a claim has been paid, or liability admitted, in respect of \nDirect Physical Loss or Damage to property insured under \nthe Policy to which this Extension is attached and which gave \nrise to Extra Expense.\nThis Condition shall not apply if no such payment shall have \nbeen made, or liability admitted, solely owing to the operation \nof a Deductible in said Policy which excludes liability for losses \nbelow a specified amount.\n2.Resumption of Operations\nIt is a condition of this Policy that, as soon as practica"
+  },
+  {
+    "title": "EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "This Extension does not insure against :"
+  },
+  {
+    "title": "SERVICE INTERRUPTION",
+    "deductible": "of as stated in the Risk Details",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurers will be liable for loss or damage, as described \nbelow, when the specified services are for a period in excess \nof as stated in the Risk Details: \nA. The physical loss or damage to property insured by this \nContract; and \nB. The actual loss sustained by the Insured during the Period \nof Service Interruption, Should this Contract cover Time \nElement coverage; \nAt an Insured location directly resulting from the lack of incoming \nelectricity, fuel, water, gas, steam, telecommunications \n(excluding satellites) or refrigerant service or from lack of \nsewerage service by reason of accid"
+  },
+  {
+    "title": "BRAND REHABILITATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Following an Insured Event\u201d, should Brand Rehabilitation not \nbe covered elsewhere within the Contract, the Insurers will pay \nadvertising costs and/or cost of public relations consultancy \ncompany by the Insurers, necessarily and reasonably incurred \nby the Insured for up to a maximum of amount of consecutive \ndays stated in the Risk Details, for the sole purpose of \navoiding or diminishing a reduction in turnover or resuming \nor maintaining normal business. \nSublimited to the amount as stated within the Risk Details.\nTerrorism Liability\nThe underwriters will pay on behalf of the insured, up "
+  }
+]

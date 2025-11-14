@@ -1,0 +1,16 @@
+[
+  {
+    "title": "EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Following shall be excluded under the policy, unless\nspecifically covered and mentioned in the Policy Schedule.\n4.1.\t The Surety Insurer shall have a right to claim release \nfrom its obligations, and shall not be liable under this \nSurety Bond for or in relation to any of the following:\n4.1.1.\tAny specific events agreed by the Creditor and \nPrincipal Debtor under the Contract, including any \nevent of force majeure (which shall have the same \nmeaning as ascribed to the term under the Contract \nand / or in law) and including principles of frustration \nand/or impossibility as recognised under law"
+  },
+  {
+    "title": "GENERAL CONDITIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Creditor shall have the absolute right to arrange his \naffairs with the Principal Debtor in any manner which the \nCreditor may deem fit and the Surety Insurer shall not \nhave the right to claim his release from this Surety Bond \non account of any conduct alleged to be prejudicial to the \nSurety Insurer, except for the limited extent specified in \nthe Exclusions section. \n\t\n6.1.\t Fraud/Misrepresentation: This Surety Bond \nshall be void and all premiums paid hereon shall \nbe forfeited to the Surety Insurer in the event of \nmisrepresentation, misdescription or non-disclosure \nof any material "
+  }
+]

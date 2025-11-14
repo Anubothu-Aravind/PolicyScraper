@@ -1,0 +1,492 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings"
+  },
+  {
+    "title": "INSURING CLAUSE....................................................................................................................................................................................................... 2",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A."
+  },
+  {
+    "title": "INSURED EVENTS................................................................................................................................................................................................ 2",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Section 1: Theft of Funds:.................................................................................................................................................................................... 2\nSection 2: Identity Theft.......................................................................................................................................................................................3\nSection 3: Data Restoration / Malware Decontamination...........................................................................................................................3\nSec"
+  },
+  {
+    "title": "POLICY DEFINITIONS.......................................................................................................................................................................................... 5",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "C."
+  },
+  {
+    "title": "GENERAL EXCLUSIONS (APPLICABLE TO ALL SECTIONS)..................................................................................................................... 8",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "D."
+  },
+  {
+    "title": "ENDORSEMENT.................................................................................................................................................................................................... 8",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "E."
+  },
+  {
+    "title": "GENERAL CONDITIONS (APPLICABLE TO ALL SECTIONS)..................................................................................................................... 8",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.\nRepresentation and Warranty................................................................................................................................................. 8\n2.\nChanges in Your circumstances............................................................................................................................................. 9\n3.\nTaking Reasonable Precautions............................................................................................................................................. 9\n4.\t\nFraud............................................................."
+  },
+  {
+    "title": "10. Premium Payment................................................................................................................................................................... 11",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "11.\nClerical Error............................................................................................................................................................................ 11"
+  },
+  {
+    "title": "16.\t Jurisdiction............................................................................................................................................................................... 11",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "17.\nThe Proposal Form.................................................................................................................................................................. 11"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO \nCyber Sachet Insurance - IRDAN125RP0026V02202122.\n\n2\nThis Policy is effective when the accompanying Policy \nSchedule/Certificate is signed by an authorized representative \nof HDFC ERGO General Insurance Company Limited.\nPolicy wording, Policy Schedule/Certificate and any \nEndorsements thereto shall be considered one document and \nany word or expression to which a specific meaning has been \nattached in any of them shall bear such meaning throughout \nunless specified otherwise. \nWords an"
+  },
+  {
+    "title": "INSURING CLAUSE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "In consideration of payment of the premium and receipt thereof \nby Us and in reliance upon the information provided in the \nproposal form and including any statements made by the \nPolicyholder on behalf of You to Us, We  hereby agree, subject \nto the terms, conditions and exclusions herein contained or \nendorsed or otherwise expressed hereon, to indemnify You to \nthe extent and in the manner specified herein, against any loss/\ndamage due to operation of any of the Insured Event as opted \nby You and listed in the Policy Schedule/Certificate.  Provided \nthat Our liability in respect of any Insur"
+  },
+  {
+    "title": "INSURED EVENTS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Section 1: Theft of Funds:\nUnauthorized Digital Transactions\nWe will indemnify You for direct and pure financial loss\nsustained by You:\na.\nas a result of theft of funds due to an unauthorized \ndigital access to your financial instrument  by a third \nparty wholly or partially through your personal device \nor smart home device by digital or electronic means \nand / or\nb.\nas a consequence of You being a victim of phishing \nor email spoofing\nc.\nas a result lost wages due to time taken off from\nwork, solely for the purpose of meeting with relevant \norganizations and/or authorities, post occurrence o"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO \nCyber Sachet Insurance - IRDAN125RP0026V02202122.\n\n3\nProvided that: \ni.\nOur liability is limited to the financial loss arising\nfrom financial instrument issued by the financial\nentity mentioned in your policy schedule/certificate \nof insurance.\nii.\nYou report to the financial entity immediately on\ndiscovery of event but not later than 72 hours and\nlodge a complaint to Police detailing theft of such\nfunds\niii.\nYou provide a confirmation from Your employer that \nthe lost wages are not to"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": "of 3 days",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO \nCyber Sachet Insurance - IRDAN125RP0026V02202122.\n\n4\ni.\t\nthe fraud event is reported by You to Us, Your card \nissuer or bank or other relevant entity within 48 hours \nof discovery by You; and \nii.\nYour card, wallet issuing entity or bank or online\ne-commerce sites refuses in writing to reimburse You \nfor transactions made by You as a result of the fraud. \nSection 8: Online Sales\n\t\nWe will reimburse You for Your direct and pure financial \nloss resulting from You selling goods non-commer"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": "of 3 days",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO \nCyber Sachet Insurance - IRDAN125RP0026V02202122.\n\n5\nProvided that:\n1)\t\nDuration of Inaccessibility of Social Media Account/s \nshould be in excess of 3 days \n2)\nYou report to Us immediately on discovery of event \nbut not later than 48 hours \n3)\t\nSocial Media Platforms confirmation on inaccessibility \nof Yours Social Media account  ;\nWhat We will not cover:\n1.\nSuspension or deactivation of Yours Social media\naccount or Social Media Platform by Social Media \nPlatform or through order or "
+  },
+  {
+    "title": "POLICY DEFINITIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Any word or expression found in the Policy and Policy\nSchedule/certificate have these meanings, unless\notherwise defined.\nSL \nNo."
+  },
+  {
+    "title": "MEANING",
+    "deductible": "each deductible as stated in the Policy",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.\nCredit/Debit Card\nYour physical Credit/Debit Card, Credit/Debit Card details or Credit/Debit Card \nnumbers that are issued by banks operating in India.\n2.\nConfidential Information\nany form of sensitive information not publicly available, whether or not marked as \n\u2018confidential\u2019.\n3.\nCyber Bullying \nany acts of: \na. harassment (including foster personal interaction repeatedly despite a clear\nindication of disinterest) \nb. intimidation\nc. illegitimate invasion of privacy (including monitoring the use of the internet, email \nor any other form of electronic communication) or \nd. threats of viole"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO \nCyber Sachet Insurance - IRDAN125RP0026V02202122.\n\n6\nSL \nNo."
+  },
+  {
+    "title": "MEANING",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "13.\nEmail Spoofing\nany forgery or wrongful manipulation of an email so that the receiver of such a \nmessage is misled to believe that the email is real and therefore trusts the faked \norigin of the massage. \n14.\nExpert\nany person or legal entity appointed by or in consultation with Us and/or the incident \nresponse provider (such as an IT, lawyer or public relations consultant).\n15.\nFamily\nYou, Your spouse, Your children, siblings, parents or parents-in-law, residing in the \nsame household, maximum up to 4 in number.\n16.\nFamily floater\ncoverage available as per the Policy schedule/Certificate i"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO \nCyber Sachet Insurance - IRDAN125RP0026V02202122.\n\n7\nSL \nNo."
+  },
+  {
+    "title": "MEANING",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "32.\nOnline media activities\nany text, images, videos or sound distributed via Your website, social media presence \nor e-mail.\n33.\nPeriod of Insurance\nThe period of cover as stated in the Policy Schedule/Certificate.\n34.\nPersonal Data/ \nInformation\nany information relating to a data subject who can be identified, directly or indirectly, in \nrelation to other information (such as a name, an identification number, location data, \nan online identifier or to one or more factors specific to the physical, physiological, \ngenetic, mental, economic, cultural or social identity of that natural person) a"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "46.\nYou/Your/Yourself/Insured\nan Individual/ Entity who is named in the Policy Schedule/Certificate.\n47.\nYour personal devices\nAll devices owned, leased or licensed by You.\n48.\nWAR\narmed conflict involving physical force (i) by a sovereign state against another \nsovereign state, or (ii) as part of a civil war, rebellion, revolution, insurrection, military \naction or usurpation of power.\n49.\nCyber Operation\nthe use of a computer system by, at the direction of, or under the control of a \nsovereign state to (i) disrupt, deny access to or, degrade functionality of a computer \nsystem, and/or (ii) c"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO \nCyber Sachet Insurance - IRDAN125RP0026V02202122.\n\n8\nC."
+  },
+  {
+    "title": "SECTIONS)",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "We will not cover any claim by You under this policy arising \ndirectly or indirectly from the following:\n1.\nAny Event or circumstances which were known to You\nprior to inception of this policy that could reasonably \nlead to an Insured Event under this Policy.\n2.\nYour business activities unless specifically covered\nand mentioned in your policy schedule/certificate of \ninsurance.\n3.\nAny action or omission of You or any misbehavior\nof You which is intentional, malicious, dishonest,\ndeliberate or reckless.\n4.\nAny action or omission in Your capacity as an\nemployee. \n5.\nLoss of or damage to tangible"
+  },
+  {
+    "title": "10.\t Any Contractual liability.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "11.\nAny costs of betterment of Your personal devices \nbeyond the state existing prior to the Insured Event, \nunless unavoidable.\n12.\nLoss, misplacement, destruction, modification,\nunavailability, inaccessibility of and/or delay in trading \nwith cryptocurrencies, consisting of coins (e.g. Bitcoin, \nEthereum, Ripple, IOTA), tokens (e.g. EOS, Nem,\nTether) or public and/or private keys being used in\nconjunction with the aforementioned."
+  },
+  {
+    "title": "14.\t Any Director and Officer Liability or any professional",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "liability."
+  },
+  {
+    "title": "15.\t Any loss sustained by You by accessing any restricted",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "or websites banned by the relevant authority over\ninternet.\n16.\nAny loss sustained due to incident of data \ncompromise or data breach at platform provider /\nfinancial entity."
+  },
+  {
+    "title": "17.\t Losses sustained by You resulting directly or indirectly",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "from any fraudulent or dishonest acts committed by \nYour employee or family, acting alone or in collusion \nwith others. \n18.\nLosses due to the failure, outage/disturbance of\ninfrastructure (e.g. electricity, gas, water, internet\nservice, satellite, cable, telecommunications, or other \nutility services).\n19.\nfailure, interruption, degradation or outage of\ninfrastructure (e.g. any communication equipment, air \nconditioning, power supply installations, standalone \ngenerators, frequency inverter units, transformers\nand any other facilities that are used to maintain\nthe functioning of electronic fa"
+  },
+  {
+    "title": "20.\t War, Cyber War and Cyber Operation Exclusion",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "war or cyber operation (whether war be declared or \nnot). Discharge of a nuclear weapon will be deemed \nto arise from war even if accidental. \nNotwithstanding our burden of proof, which shall\nremain unchanged by this exclusion clause, for\ndetermining attribution of a cyber operation to \na sovereign state, you and we will consider any\navailable, objectively reasonable evidence. This\nmay include formal or official attribution by the\ngovernment of the sovereign state in which the\ncomputer systems affected by the cyber operation\nare physically located to another sovereign state or \nthose acting at"
+  },
+  {
+    "title": "ENDORSEMENT (applicable if Unauthorized Physical",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Transactions cover is not opted)\n1.\nDeletion of Unauthorized Physical Transactions\nCoverage - It is understood and agreed that as per\nrequest of the Insured, coverage under Section 1\nrelated to Unauthorized Physical Transactions stands \ndeleted and hence not covered under the scope of \nthe policy. Subject otherwise to the terms, conditions, \nlimitations and exceptions of the Policy.\nE."
+  },
+  {
+    "title": "SECTIONS)",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "You must comply with the following conditions to have the \nfull protection of Your Policy. It is a condition precedent\nto Our liability that You or any one claiming indemnity or \nbenefit complies with the terms and conditions of this\nPolicy.\n1.\nRepresentation and Warranty\nIn issuing this policy We have relied upon Your \nstatements, representations and information as being \ntrue and accurate. If Your statements, representations"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO \nCyber Sachet Insurance - IRDAN125RP0026V02202122.\n\n9\nor information contain misrepresentations which were \nmade with the actual intent to deceive and which \nmaterially affect Our acceptance of the risk or the \nhazard assumed, We shall not be liable for a loss or \nclaim based upon, arising from, or in consequence \nof, any such misrepresentation.\n2.\t\nChanges in Your circumstances\nYou must notify Us as soon as possible in writing of \nany change in Your circumstances which may affect \nthis"
+  },
+  {
+    "title": "CONTRIBUTION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If at the time of happening of any loss or damage\ncovered by this policy there shall be existing any\nother insurance of any nature whatsoever covering\nthe same risk as is covered under this policy, whether \neffected by the Insured or not, then the Company\nshall not be liable to pay or contribute more than its \nrateable proportion of any loss or damage.\nMultiple policies involving Bank or other lending or\nfinancing entity \u2013 \n  In case there is more than one insurance policy \nissued to the customer covering the same risk, \nthe Company will not apply contribution clause. \nUnderinsurance will be a"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO \nCyber Sachet Insurance - IRDAN125RP0026V02202122.\n\n10\nlearning of any circumstances likely to give \nrise to a claim, You must provide all relevant \ndocuments including receipts, bills and other \nrecords in support of Your claim.\nc.\nYou must make no admission or settlement\nand must not enter into any correspondence or \nexchange of communications about the claim\nwithout Our prior written authorization.\nd.\nAll claims are paid in Indian Rupee. If You suffer \na loss which is in a foreign cu"
+  },
+  {
+    "title": "10. Premium Payment",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "It is hereby agreed that, as a condition precedent to \nany liability under this Policy, any premium due must \nbe paid and actually realised by Us in full. In the event\nof non-realisation of the premium, the Policy shall be \ntreated as void-ab-initio.\n11.\nClerical Error\nA clerical error by Us shall not invalidate the insurance\ncover otherwise validly in force, nor continue the\ninsurance cover otherwise not validly in force."
+  },
+  {
+    "title": "12.\t Governing Law",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy shall be governed by the laws of India."
+  },
+  {
+    "title": "13. Assignment",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "No assignment of interest under this Policy shall\nbe binding upon Us. We do not assume any\nresponsibility for the validity of an assignment."
+  },
+  {
+    "title": "14. Sanctions/Embargoes",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "We shall not be deemed to provide cover and\nprovide any benefit hereunder to the extent that\nthe provision of such cover, payment of such loss\nor claim or provision of such benefit would expose\nUs to any sanction, prohibition or restriction under\nUnited Nations resolutions or the trade or economic \nsanctions, law or regulations of the European\nUnion, United States of America and/or any other\napplicable national economic or trade sanction law\nor regulations."
+  },
+  {
+    "title": "15. Territorial scope",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Where payment is to be made under this policy and \nsubject to all terms and conditions of this policy,\nthis policy shall apply to any Loss incurred or claims \nmade in India, unless otherwise stated in the Policy \nSchedule/Certificate."
+  },
+  {
+    "title": "16. Jurisdiction",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy is subject to the exclusive jurisdiction of\nthe Courts of India.\n17.\nThe Proposal Form\nIn issuing this policy, We have relied on the statements \nand particulars in the proposal form which shall\nform the basis of this policy and are considered as\nbeing incorporated therein. You shall not conceal or \nmisrepresent or wrongfully declare any material fact \nor circumstance when making any representation."
+  },
+  {
+    "title": "18.\t No Third party Rights",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Notwithstanding what is stated in any Law, this policy \nis not intended to confer any rights or benefits on and \nor enforceable by any Third Party other than You and\naccordingly no Third Party shall acquire any rights in \nrelation to or under this policy nor can enforce any\nbenefits or claim under term of this contract against \nYou."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO \nCyber Sachet Insurance - IRDAN125RP0026V02202122.\n\n11"
+  },
+  {
+    "title": "19. Policy Renewal",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "We shall be under no obligation to renew the policy \non expiry of the period for which premium has been \npaid. We reserves the right to offer revised rates,\nterms and conditions at renewal based on claim\nexperience and a fresh assessment of the risk. This \npolicy may be renewed only by mutual consent and \nsubject to payment in advance of the total premium at \nthe rate in force at the time of renewal. We, however, \nshall not be bound to give notice that the policy is\ndue for renewal or to accept any renewal premium. \nUnless renewed as herein provided, this policy shall \nautomatically terminate "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District ( Magnet\nMall), LBS Marg,\nBhandup (West) Mumbai-400078,\nIn case you are not satisfied with the response / resolution \ngiven / offered by the C&G cell, then you can write to the \nChief Grievance Officer of the Company at the following \naddress: \nTo the Chief Grievance Officer"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District (Magnet \nMall), LBS Marg,\nBhandup (West) Mumbai-400078,\ne-mail: cgo@hdfcergo.com \nGrievance may also be lodged at IRDAI Integrated \nGrievance Management System-\u00a0 https://bimabharosa. \nirdai.gov.in  \n \nYou may also approach the nearest Insurance Ombudsman \nfor resolution of Your grievance. The contact details \nof Ombudsman offices are mentioned below if Your \ngrievance pertains to: \n\u00b7\nInsurance claim that has been rejected or dispute of \na claim on legal construction of the policy \n\u00b7\t\nDelay in settlement of claim \n\u00b7\nDispute with regard to premium \n\u00b7\t\n"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO \nCyber Sachet Insurance - IRDAN125RP0026V02202122.\n\n12\nNames of Ombudsman and Addresses of Ombudsmen Centers"
+  },
+  {
+    "title": "AHMEDABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Prakash Building, 6th floor, Tilak Marg, Relief Road, \nAhmedabad \u2013 380 001.\nTel.: 079 - 25501201/02\nEmail: bimalokpal.ahmedabad@cioins.co.in\nGujarat, Dadra & Nagar Haveli, Daman and Diu."
+  },
+  {
+    "title": "BENGALURU",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Soudha Building, PID No. 57-27-N-19,  \nGround Floor, 19/19, 24th Main Road,"
+  },
+  {
+    "title": "JP Nagar, Ist Phase,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Bengaluru \u2013 560 078.\nTel.: 080 - 26652048 / 26652049\nEmail: bimalokpal.bengaluru@cioins.co.in\nKarnataka."
+  },
+  {
+    "title": "BHOPAL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n1st floor,\u201dJeevan Shikha\u201d, 60-B,Hoshangabad Road, \nOpp. Gayatri Mandir, Bhopal \u2013 462 011. \nTel.: 0755 - 2769201 / 2769202 \nEmail: bimalokpal.bhopal@cioins.co.in\nMadhya Pradesh, Chattisgarh."
+  },
+  {
+    "title": "BHUBANESHWAR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n62, Forest park, Bhubneshwar \u2013 751 009.\nTel.: 0674 - 2596461 /2596455\nFax: 0674 - 2596429\nEmail: bimalokpal.bhubaneswar@cioins.co.in\nOrissa."
+  },
+  {
+    "title": "CHANDIGARH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,  \nJeevan Deep Building SCO 20-27, \nGround Floor Sector- 17 A, Chandigarh \u2013 160 017. \nTel.: 0172-2706468 \nEmail: bimalokpal.chandigarh@cioins.co.in\nState of Punjab, Haryana (excluding 4 districts vizGurugram, \nFaridabad, Sonepat and Bahadurgarh), Himachal Pradesh, Union \nTerritories of Jammu &Kashmir, Ladakh and Chandigarh."
+  },
+  {
+    "title": "CHENNAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nFatima Akhtar Court, 4th Floor, 453,\nAnna Salai, Teynampet,"
+  },
+  {
+    "title": "CHENNAI \u2013 600 018.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 044 - 24333668 / 24333678\nFax: 044 - 24333664\nEmail: bimalokpal.chennai@cioins.co.in\nTamil Nadu, Puducherry Town and Karaikal (which are part of \nPuducherry)."
+  },
+  {
+    "title": "DELHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2/2 A, Universal Insurance Building,\nAsaf Ali Road,\nNew Delhi \u2013 110 002.\nTel.: 011 - 23237539\nEmail: bimalokpal.delhi@cioins.co.in\nDelhi, 4 districts of Haryana vizGurugram, Faridabad, Sonepat and \nBahadurgarh)"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO \nCyber Sachet Insurance - IRDAN125RP0026V02202122.\n\n13"
+  },
+  {
+    "title": "GUWAHATI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Nivesh, 5th Floor,\nNr. Panbazar over bridge, S.S. Road,\nGuwahati \u2013 781001 (ASSAM).\nTel.: 0361 - 2632204 / 2602205\nEmail: bimalokpal.guwahati@cioins.co.in\nAssam, Meghalaya, Manipur, Mizoram, Arunachal Pradesh, Nagaland \nand Tripura."
+  },
+  {
+    "title": "HYDERABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6-2-46, 1st floor, \u201cMoin Court\u201d,\nLane Opp. Saleem Function Palace,\nA. C. Guards, Lakdi-Ka-Pool,\nHyderabad - 500 004.\nTel.: 040 - 23312122\nEmail: bimalokpal.hyderabad@cioins.co.in\nState of Andhra Pradesh, Telangana and Yanam \u2013 a part of Union \nTerritory of Puducherry"
+  },
+  {
+    "title": "JAIPUR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Nidhi \u2013 II Bldg., Gr. Floor,\nBhawani Singh Marg,\nJaipur - 302 005.\nTel.: 0141 - 2740363 /2740798\nEmail: bimalokpal.jaipur@cioins.co.in\nRajasthan."
+  },
+  {
+    "title": "KOCH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman, \n10th Floor, Jeevan Prakash,LIC Building, \nOpp to Maharaja\u2019s College Ground,M.G.Road, \nKochi - 682 011. \nTel.: 0484 - 2358759 \nEmail: bimalokpal.ernakulam@cioins.co.in\nKerala, Lakshadweep, Mahe-a part of Union Territory of Puducherry."
+  },
+  {
+    "title": "KOLKATA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nHindustan Bldg. Annexe, 4th Floor,\n4, C.R. Avenue,"
+  },
+  {
+    "title": "KOLKATA - 700 072.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 033 - 22124339 \nFax : 033 - 22124341\nEmail: bimalokpal.kolkata@cioins.co.in\nStates of West Bengal, Sikkim and Union Territories of Andaman & \nNicobar Islands"
+  },
+  {
+    "title": "LUCKNOW",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6th Floor, Jeevan Bhawan, Phase-II,\nNawal Kishore Road, Hazratganj,\nLucknow - 226 001.\nTel.: 0522 - 4002082 / 3500613\nEmail: bimalokpal.lucknow@cioins.co.in\nDistricts of Uttar Pradesh :\nLalitpur, Jhansi, Mahoba, Hamirpur, Banda, Chitrakoot, Allahabad, \nMirzapur, Sonbhabdra, Fatehpur, Pratapgarh, Jaunpur, Varanasi, \nGazipur, Jalaun, Kanpur, Lucknow, Unnao, Sitapur, Lakhimpur, \nBahraich, Barabanki, Raebareli, Sravasti, Gonda, Faizabad, \nAmethi, Kaushambi, Balrampur, Basti, Ambedkarnagar, Sultanpur, \nMaharajgang, Santkabirnagar, Azamgarh, Kushinagar, Gorkhpur, \n"
+  },
+  {
+    "title": "MUMBAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n3rd Floor, Jeevan Seva Annexe,\nS. V. Road, Santacruz (W),\nMumbai - 400 054.\nTel.: 022 - 69038800/27/29/31/32/33\nEmail: bimalokpal.mumbai@cioins.co.in\nGoa, Mumbai Metropolitan Region excluding Navi Mumbai & Thane."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO \nCyber Sachet Insurance - IRDAN125RP0026V02202122.\n\n14"
+  },
+  {
+    "title": "NOIDA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nBhagwan Sahai Palace\n4th Floor, Main Road,\nNaya Bans, Sector 15,\nDistt: Gautam Buddh Nagar,\nU.P - 201301.\nTel.: 0120-2514252 / 2514253\nEmail: bimalokpal.noida@cioins.co.in\nState of Uttaranchal and the following Districts of Uttar Pradesh:\nAgra, Aligarh, Bagpat, Bareilly, Bijnor, Budaun, Bulandshehar, Etah, \nKanooj, Mainpuri, Mathura, Meerut, Moradabad, Muzaffarnagar, \nOraiyya, Pilibhit, Etawah, Farrukhabad, Firozbad, Gautambodhanagar, \nGhaziabad, Hardoi, Shahjahanpur, Hapur, Shamli, Rampur, Kashganj, \nSambhal, Amroha, Hathras, Kanshiramnagar, Saharanpur."
+  },
+  {
+    "title": "PATNA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2nd Floor, Lalit Bhawan, \nBailey Road, \nPatna 800 001. \nTel.: 0612-2547068 \nEmail: bimalokpal.patna@cioins.co.in\nBihar, Jharkhand."
+  },
+  {
+    "title": "PUNE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Darshan Bldg., \n3rd Floor,C.T.S. No.s. 195 to 198,\nN.C. Kelkar Road, \nNarayan Peth,\nPune \u2013 411 030.\nTel.: 020-24471175\nEmail: bimalokpal.pune@cioins.co.in\nMaharashtra, Area of Navi Mumbai and Thane excluding Mumbai \nMetropolitan Region."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO \nCyber Sachet Insurance - IRDAN125RP0026V02202122."
+  }
+]

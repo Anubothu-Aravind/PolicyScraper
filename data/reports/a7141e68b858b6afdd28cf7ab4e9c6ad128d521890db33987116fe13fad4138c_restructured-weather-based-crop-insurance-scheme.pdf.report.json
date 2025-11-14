@@ -1,0 +1,37 @@
+[
+  {
+    "title": "DEFINITIONS:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "1.\t\n\u201cCompany\u201d means the HDFC ERGO General Insurance \nCompany Limited.\n2.\t\n\u201cInsured/Policyholder\u201d means the person or entity whose \nname specifically appears as such in Part I of the Schedule \nto this Policy.\n3.\t\n\u201cBeneficiary\u201d means any person(s) whose property/crop \nis (are) insured under agricultural activity.\n4.\t\n\u201cPolicy\u201d means the Policy booklet, the Schedule and any \napplicable endorsement. The Policy contains details of \nthe extent of cover available to the Insured the exclusions \nfrom the cover and the terms and conditions of the issue \nof the Policy.\n\n2"
+  },
+  {
+    "title": "SCOPE OF COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Company hereby agrees, subject to the terms, \nconditions and exclusions herein contained, or otherwise \nexpressed herein, to compensate the Insured for the \ncost of input, yield and/or increased operational costs \nof agricultural economic activity, ,as stated in the Policy, \nresulting from deviation of Observed Weather Index from \nStrike Index if such deviation is as stated in coverage \nwithin a specific geographical location and specified time \nperiod, or losses/damages resulting from occurrence of \nidentified localized risks of hailstorm and cloud burst \nsubject to the maximum Sum Insure"
+  },
+  {
+    "title": "EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "3.1\t The Company shall not be liable to make any payment under \nthis Policy to the Insured in connection with or in respect of \nany expenses whatsoever incurred by any Insured arising \nout of deviation in Weather Index resulting from:\n\t\n(i)\t\nIonizing radiations or contaminations by radioactivity \nfrom any nuclear waste from the combustion of \nnuclear fuel; or\n\t\n(ii)\t\nThe radioactive, toxic, explosive or other hazardous \nproperties of any explosive nuclear assembly or \nnuclear component thereof.\n3.2\t The Company shall not be liable to make any payment \nunder this Policy in connection with or in"
+  },
+  {
+    "title": "BASIS OF ASSESSMENT OF CLAIMS:",
+    "deductible": "weather parameter",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Insofar as it relates to loss or damage to the Property and \n/or Crop Cultivated as specified in Part I of the Schedule to \nthe Policy, with regard to which the Insured shall make a \nclaim under this Policy, the basis upon which the Company \nshall assess the claim shall be as follows:\n\t\nWeather Index Cover\n\t\nIn the event that, in the geographical location and during \nthe time period specified in Part I of the Schedule to this \nPolicy, the Observed Weather Index is greater or lower \nthan the Strike Index, the benefit payable to the Insured \nshall be as per the Payment Formula specified in Part "
+  },
+  {
+    "title": "21.\t Policy Disputes:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Any dispute concerning the interpretation of the terms, \nconditions, limitations and/or exclusions contained herein \nis understood and agreed to by both the Insured and the \nCompany to be subject to Indian Law. Each party agrees \nto submit to the exclusive jurisdiction of the High Court of \nMumbai and to comply with all requirements necessary \nto give such Court the jurisdiction. All matters arising \nhereunder shall be determined in accordance with the \nlaw and practice of such Court."
+  }
+]

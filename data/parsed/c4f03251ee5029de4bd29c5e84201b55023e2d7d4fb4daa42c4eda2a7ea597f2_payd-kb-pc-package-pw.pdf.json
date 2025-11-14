@@ -1,0 +1,23 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. Motor Insurance- Pricing Revision- Private Cars - Add on - Pay \nAs You Drive \u2013 Kilometer Benefit | UIN - IRDAN125RP0001V02201415/A0033V01202223"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Policy Wording\nPay As You Drive \u2013 Kilometer Benefit - Add On Wording\nScope of Cover \nBased on the actual usage of the Insured vehicle as per \nodometer during the policy period, the Company will pay a \npercentage of the basic own damage as benefit under this \nAdd-on cover in accordance with the table mentioned in the \nPolicy schedule subject to terms and conditions.\nTerms and Conditions \nThe coverage is subject to terms, conditions, definitions and \ngeneral exclusions applicable to this policy and additional \nconditions as mentioned below:\n1.\nBenefit opted will be applied at the end of the Poli"
+  }
+]

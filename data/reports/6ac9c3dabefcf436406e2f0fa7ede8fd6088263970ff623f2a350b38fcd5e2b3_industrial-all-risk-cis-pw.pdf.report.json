@@ -1,0 +1,37 @@
+[
+  {
+    "title": "CLAUSE NUMBER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "3\nWhat are \nthe major \nexclusions in \nthe policy:\nSpecific Exclusions applicable to Section I \u2013 Material \nDamage\nPage 1\nA.\n1.\na)\nb)\nc)\nd)\n2."
+  },
+  {
+    "title": "CLAUSE NUMBER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "3.\n4.\n5.\nDamage occasioned directly or indirectly by or \nthrough or in consequence of any of the following \noccurrences, namely: -\na)war, invasion, act of foreign enemy hostilities\nor warlike operations (whether war be declared\nor not) civil war\nb) mutiny, civil commotion assuming the\nproportions of or amounting   to   a popular   rising\nmilitary, rising insurrection, rebellion revolution\nmilitary or usurped power\nIn any action, suit or other proceeding where the\nInsurer alleges that by reason of the provisions\nof Exclusions A3 (a) and (b) above any loss\ndestruction or damage is not covered by"
+  },
+  {
+    "title": "CLAUSE NUMBER",
+    "deductible": "beyond the amount which would",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.\n1.1.\n1.2.\ni) property insured if removed to any building or\nplace other than in which it is herein stated to\nbe insured, except machinery and equipments\ntemporarily removed for repairs, cleaning,\nrenovation or other similar purpose for a period\nnot exceeding 60 days.\nj) damage to property which at the time of the\nhappening of such damage  is  insured  by or\nwould for the  existence  of  this    policy be insured\nby any marine policy or policies except  in respect\nof any excess beyond the amount which would\nhave been   payable  under  the  marine  policy\nor  policies  had   this insurance no"
+  },
+  {
+    "title": "DEDUCTIBLES",
+    "deductible": "s stated",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "This policy does not cover the deductibles stated \nin the  schedule  in  respect  of  each and every \nloss  as  ascertained  after   the application  of \nall  other terms and  conditions  of  the  policy \nincluding any condition of Average.\nWarranted that during the currency of the policy \nthe Insured shall not effect insurance in respect \nof the amount of the deductibles stated in the \nschedule \nSpecial Exclusions to Section II : Business \nInterruption\nThis  Policy does not cover loss resulting from \ninterruption of  or interference with the business \ndirectly or  indirectly attributable to\t\n"
+  },
+  {
+    "title": "CLAUSE NUMBER",
+    "deductible": "stated",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1.3.\n1.4.\n1.5.\n1.6.\n1.7.\n2.\nloss  of  business  due to causes such  as \nsuspension  lapse or cancellation of a lease \nlicence or order etc. which occurs after the date \nwhen  the items lost destroyed or damaged  are \nagain in operating condition and the business \ncould have been resumed,  if said lease licence \norder etc. had not  lapsed or had not been \nsuspended or cancelled. \ndamage to boilers economisers turbines or \nother vessels machinery or apparatus in which \npressure is used or their contents resulting \nfrom their explosion or rupture. \t\nelectronic installations, computers and data \np"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "title": "1. ZERO DEPRECIATION CLAIM",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0038V01201819)\nIn consideration of the payment of additional premium of \nRs. _ paid by the Insured and realized by the Insurer not \nwithstanding anything to the contrary, it is hereby understood \n& agreed that for the purpose of this policy, in the event of \npartial loss, the depreciation applicable under section 1 of this \npolicy would stands deleted.\nInsured\u2019s Obligations:\n1.\nClaim to be intimated within seven days of loss/damage.\n2.\nCall our toll-free no. to arrange for survey.\nSpecific Exclusion: This cover excludes the following parts,\na.\nTyres\nb.\nBatteries"
+  },
+  {
+    "title": "3. VOLUNTARY DEDUCTIBLE",
+    "deductible": "of Rs.",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0040V01201819)\nIt is declared and agreed that the insured having opted for \na deductible of Rs. ____* a reduction in Rs. ______ * under \nsection 1 of the policy."
+  },
+  {
+    "title": "DISCOUNT",
+    "deductible": "would be applicable over and",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Rs. 500\n5% on the OD premium of the two wheeler\nRs. 750\n10% on the OD premium of the two wheeler\nRs. 1000\n15% on the OD premium of the two wheeler\nRs. 1500\n20% on the OD premium of the two wheeler\nRs. 3000\n25% on the OD premium of the two wheeler\nRs. 5000\n40% on the OD premium of the two wheeler\nThe voluntary deductible would be applicable over and \nabove the compulsory deductible as per the standard motor \ninsurance policy."
+  },
+  {
+    "title": "4. EMI PROTECTOR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0042V01201819)\nIn consideration of the payment of additional premium paid \nby the Insured and realized by the Insurer not withstanding \nanything to the contrary, it is hereby understood & agreed \nthat for the purpose of this policy, in the event of the vehicle \ninsured is kept in garage for accidental repairs for more than \n* days, Insurer will pay Equated Monthly Instalment Amount\n(EMI) to insured as mentioned in the policy schedule.\nSpecial conditions\na)\nHypothecation/Lease clause is endorsed in the policy\nschedule.\nb)\nBenefit will be restricted to EMI amount "
+  },
+  {
+    "title": "HDFC ERGO and not by the Insured or the Repair Shop/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Garage.\n2.\nThe benefit will be available for not more than one claim \npaid or pending during each policy year.\nSpecial Exclusion(s):\nThe Company will not be liable for\n1.\t\nWhere a loss is covered by any manufacturer\u2019s warranty \nor recall campaign or under any other such packages at \nthe same time."
+  },
+  {
+    "title": "7. RETURN TO INVOICE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0009V01202223)\nIn consideration of the payment of an additional premium \nit is hereby understood and agreed that the Company \nundertakes to pay in case of a Total Loss / Constructive Total \nLoss following an accident or if the insured vehicle is stolen \nduring the period of insurance and not recovered, leading to \na valid and admissible claim under Section I (Own Damage) of \nTwo Wheeler Package Policy.\n1.\t\nReplacement value of the vehicle as per the invoice;\n2.\nIf the vehicle is not manufactured any more than the\noriginal value (as per invoice) of the vehicle at"
+  },
+  {
+    "title": "8. CASH ALLOWANCE",
+    "deductible": "wherein the",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0010V01202223)\nIn consideration of the payment of an additional premium it is \nhereby understood and agreed that the Company undertakes \nto pay you Cash Allowance of Rs 200 per day if claim under \nSection I (Own Damage) of Two Wheeler Package Policy is \nvalid and admissible. This is subject to the following:\nSpecial Conditions:\n1.\nThe cash allowance will be paid for maximum period of\n10 days in case of repair for partial loss only.\n2.\nThe cash allowance will be subject to a franchise of 3\ndays and this will be counted from the date of survey.\nFranchise hereby wo"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Two Wheeler \nPolicy - Bundled - IRDAN125RP0009V01201819\n\n3\nSpecial Exclusion(s):\nCash allowance will not be paid for the period for which \nvehicle may be stuck for repair due to non-availability of any \npart/and or material at workshop."
+  },
+  {
+    "title": "9. DRIVE THROUGH PROTECTION FOR ENGINE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0011V01202223)\nIn consideration of the payment of an additional premium it is \nhereby understood and agreed that the Company undertakes \nto provide cover to the engine of Insured vehicle including its \nblock and child parts along with the gear box provided, the \nloss or damage is due to the ingress of water in the engine or \nleakage of lubricating oil from the engine / assembly due to \naccidental damage.\nSpecial Condition(s):\n1.\nWater damage cover will commence only when the raisin \nevidence of the vehicle is being submerged or having\nstopped in water logged are"
+  }
+]

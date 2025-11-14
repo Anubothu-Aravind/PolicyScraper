@@ -1,0 +1,30 @@
+[
+  {
+    "title": "DEDUCTIBLE",
+    "deductible": "stated in the",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Company shall not be liable for each and every claim \nunder Section - I (loss of or damage to the vehicle insured) \nof this Policy in respect of the deductible stated in the \nschedule."
+  },
+  {
+    "title": "PROPERTY DAMAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "It is hereby understood and agreed that notwithstanding \nanything to the contrary contained in the Policy the Company \ns liability is limited to Rs. 6000/- (Rupees six thousand only) for \ndamage to property other than the property belonging to the \nInsured or held in trust or in custody or control of the Insured. In \nconsideration of this reduction in the limit of liability a reduction \nin premium of Rs\u2026..* is hereby made to the Insured.\nSubject otherwise to the terms conditions limitations and \nexceptions of the Policy.\n*To insert Rs.50 for Two wheelers, Rs.100 for private cars, Rs.150 \nfor C"
+  },
+  {
+    "title": "DEDUCTIBLE (Applicable to all Commercial Vehicles",
+    "deductible": ". in addition to any amount which",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "excluding taxis and motorized two wheelers carrying \npassengers for hire or reward.)\nNotwithstanding anything to the contrary contained herein it \nis hereby understood and agreed that\n1) \t\nSpecial Exclusions except in the case of Total Loss of \nthe vehicle insured, the insurer shall not be liable under \nSection I of the policy for loss of or damage to lamps tyres \ntubes mudguards bonnet side parts bumpers and paint \nwork.\n2) \t Compulsory Deductible. in addition to any amount which \nthe insured may be required to bear under para (a) above \nthe insured shall also bear under section I of the poli"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": "under Section I of this Policy for the",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Motor Insurance - Two Wheeler \u00a0Policy - \nBundled - IRDAN125RP0009V01201819.\n** To insert the venue of the event.\n@ To insert Rs 5000/- for Private Cars. For the duration of \nthe event the deductible under Section I of this Policy for the \npurpose of IMT 22 will be the amount stated in IMT 22 or the \namount stated herein, whichever is higher.\n# To insert the name of the promoters of the event.\n## To delete the entire paragraph in case of Liability Only \nPolicies.\nIMT.32. ACCIDENTS TO SOLDIERS /SAILORS/ AIRMEN"
+  }
+]

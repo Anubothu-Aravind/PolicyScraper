@@ -1,0 +1,30 @@
+[
+  {
+    "title": "2. \t SCOPE OF COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Company hereby agrees, subject to the terms, \nconditions, warranties, special conditions and exclusions \nherein contained, or otherwise expressed hereon, to \ncompensate the Insured for the cost of input, yield and/\nor increased operational costs of agricultural or non-\nagricultural economic activity, as stated in the Policy, \nresulting from any material deviation of Observed Weather \nIndex from the Strike Index or Exit Index, as the case may \nbe, if such material deviation is as stated in the coverage \nand occurs within a specific geographical location and \nspecified time period, subject t"
+  },
+  {
+    "title": "3. \t EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "3.1.1 The Company shall not be liable to make any payment \nunder this Policy to the Insured in connection with or \nin respect of any expenses whatsoever incurred by the \nInsured directly or indirectly arising out of or due to or \nattributable to or in consequence of any material deviation \nin Weather Index directly or indirectly resulting from, or \nattributable to or due to or as a consequence of:\n\t\n(i) \t Ionizing radiations or contamination by radioactivity \nfrom any nuclear waste from the combustion of \nnuclear fuel; or\n\t\n(ii) \t The radioactive, toxic, explosive or other hazardous \npropertie"
+  },
+  {
+    "title": "4. \t BASIS OF ASSESSMENT OF CLAIMS:",
+    "deductible": "weather parameter cover or In the event",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4.1 \t The basis upon which the Company shall determine the \neligibility for compensation and quantum of compensation \npayout shall be as follows:-\n\t\nIn the event that, in the concerned geographical location \nand during the time period as specified in Part I of the \nSchedule attached to this Policy, the Observed Weather \nIndex is greater or lower than the Strike Index or the \nExit Index as the case may be, the benefit payable to \nthe Insured shall be as per the Compensation Payment \nFormula as specified in Part I of the Schedule attached \nto this Policy, subject to the maximum of the Sum Insure"
+  },
+  {
+    "title": "13.\t Policy Disputes:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Any dispute concerning the interpretation of the terms, \nconditions, limitations and/or exclusions contained herein \nis understood and agreed to by both the Insured and the \nCompany to be subject to Indian Law. Each party agrees \nto submit to the exclusive jurisdiction of the High Court of \nMumbai and to comply with all requirements necessary \nto give such Court the jurisdiction. All matters arising \nhereunder shall be determined in accordance with the \nlaw and practice of such Court."
+  }
+]

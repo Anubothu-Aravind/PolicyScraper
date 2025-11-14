@@ -1,0 +1,23 @@
+[
+  {
+    "title": "POLICY (OUTPUT BASIS)",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Whereas the Insured named in the Schedule hereto has made \nto the HDFC ERGO GENERAL INSURANCE COMPANY \nLtd. (hereinafter called `the Company\u2019) a written proposal by \ncompleting a Proposal cum Questionnaire, which together with \nany other statements made in writing by the Insured for the \npurpose of this Policy is deemed to be incorporated herein.\nNow this Policy witnesses that in consideration of the Insured \nhaving paid to the Company the premium mentioned in \nthe Schedule and also subject to the Terms, Exclusions, \nProvisions, Definitions and Conditions contained herein or \nendorsed hereon.\n"
+  },
+  {
+    "title": "PROVIDED ALSO that at the time of happening of an Accident",
+    "deductible": "there under.",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "there shall be in force an insurance covering the machinery \ndescribed in the Schedule from any accidental cause \nindemnifiable under the Standard Machinery Insurance Policy \nand or Boiler & Pressure Plant Insurance Policy and in respect \nof which liability shall have been admitted or would have been \nadmitted but for the operation of any Excess there under."
+  },
+  {
+    "title": "EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Company shall not be liable for any loss resulting from \ninterruption of or interference with the business directly or \nindirectly attributable to any of the following causes:"
+  }
+]

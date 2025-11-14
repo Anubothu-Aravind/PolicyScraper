@@ -1,0 +1,58 @@
+[
+  {
+    "title": "SECTION 2: EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "2.1 \nExclusions Applicable to All Insuring Clauses.\n \nCoverage under this policy does not apply to:\n \n(A) \nloss arising from, or in consequence of any claim, cost or expense of  \n \n \nwhatsoever nature directly or indirectly caused by, resulting from or in \n \n \nconnection with any of the following regardless of any other cause or  \n \n \nevent contributing concurrently or in any other sequence to the loss;\n \n \ndue to war, invasion, acts of foreign enemies, hostilities or warlike  \n \n \noperations (whether war be declared or not), civil war, rebellion,  \n \n \nrevolution, insurrection, civil commotio"
+  },
+  {
+    "title": "OTHER INSURANCE",
+    "deductible": "of the amount recoverable or received un",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "3.4 \nIf the Insured or any other party at interest in any loss covered by this policy \n \nhas any bond, indemnity or insurance which would cover such loss in whole or \n \nin part in the absence of this policy, then this policy shall be null and void to the \n \nextent of the amount recoverable or received under such other bond,  \n \nindemnity or insurance; but this policy shall cover such loss, subject to its  \n \nexclusions, conditions and other terms, only to the extent of the amount of  \n \nsuch loss in excess of the amount recoverable or received under such other \n \nbond, indemnity or insurance.\n"
+  },
+  {
+    "title": "ALTERATION AND ASSIGNMENT",
+    "deductible": "of the amount recovered or received by t",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "3.6 \nNo change in, modification of, or assignment of interest under this policy shall \n \nbe effective except when made by written endorsement which signed by an \n \nauthorised employee of HDFC ERGO General Insurance Company Limited.\n \n \ncharacter;\n \n(D) \nloss resulting directly or indirectly from trading whether or not in the  \n \n \nname of the Insured and whether or not in a genuine or fictitious  \n \n \naccount; or\n \n(E) \nloss or that part of any loss the proof of which involves in any manner (1) \n \n \na profit and loss computation or comparison or (2) a comparison of  \n \n \ninventory records with"
+  },
+  {
+    "title": "RECOVERIES",
+    "deductible": ", the Insured shall be fully",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4.7 \nIf the Insured shall sustain any loss covered by this policy, then all recoveries \n \n(except from sureties, insurance, reinsurance or indemnity taken by or for the \n \nbenefit of the Company) made after the loss, less the actual cost of recovery, \n \nshall be distributed as follows:\n \n(A) \nif the loss is not subject to a deductible, the Insured shall be fully  \n \n \nreimbursed from such recoveries for the amount of the loss which  \n \n \nexceeds the amount of coverage provided by this policy and any  \n \n \nbalance shall be applied to the reimbursement of the Company;\n \n(B) \nif the loss is subje"
+  },
+  {
+    "title": "KNOWLEDGE OF PRIOR THEFT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "4.9 \nFor the purposes of this policy and the exclusions contained in Section 2.2(B), \n \nknowledge possessed by the Insured means knowledge possessed by a  \n \npartner, director or an elected or appointed officer who is aware of the  \n \nemployment of a person and that person's prior acts of Theft, fraud or  \n \ndishonesty.\n \nAt the sole discretion of the Company, coverage may be extended to any  \n \nindividual upon written application by the Insured and consent given by the \n \nCompany."
+  },
+  {
+    "title": "DEDUCTIBLE - NO SUPERSEDED INSURANCE CARRIER INVOLVED",
+    "deductible": "shall apply to",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4.3 \nFrom each loss sustained or discovered by the Insured after deducting all  \n \nrecoveries (except insurance or sureties held by the Insured or the Company \n \nfor their benefit) on account thereof made prior to payment shall be deducted \n \nthe amount(s) specified in Item 3 of the Schedule. No deductible shall apply to \n \nloss sustained or discovered by any Employee Benefit Plans unless a  \n \ndeductible amount is specified for such Plans in Item 3 of the Schedule."
+  },
+  {
+    "title": "DEDUCTIBLE - SUPERSEDED INSURANCE CARRIER INVOLVED",
+    "deductible": "amount, the deductible amount specified",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "4.4 \nShould any loss be discovered which is partly recoverable under this policy  \n \nand partly recoverable under a prior bond or policy containing a deductible  \n \namount, the deductible amount specified in Item 3 of the Schedule shall be  \n \nreduced by the deductible amount applied to such loss by the superseded  \n \ninsurance carrier."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East),",
+    "deductible": "of the amount of coverage required by su",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai \u2013 400 059. UIN: Crime Insurance - IRDAN125RP0003V02200910. \n \nare substituted in their place.\n5.2 \nIn compliance with Title 1 of the U.S. Employee Retirement Income Security \n \nAct of 1974, as amended, or similar provision of any national, state, territory or \n \nlocal statutory or common law any where in the world, payment by the  \n \nCompany under this policy to the first named Insured shall be held by such \n \nInsured for the use and benefit of the Employee Benefit Plans sustaining such \n \nloss. If such payment is in excess of the amount of coverage required by such \n \nAct for said Plan"
+  }
+]

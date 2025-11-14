@@ -1,0 +1,464 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Warranty and Indemnity Insurance Policy -"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Warranty and Indemnity Insurance Policy"
+  },
+  {
+    "title": "DECLARATIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Item 1.\nNamed Insured:\n[\n[.]\nItem 2.\nInsurer:\n[=]\nPolicy no. [=]\n Item 3.\nFollowed Policy:\nInsurer/Policy No.\nLimit of Liability\nRetention\nPolicy Term\nPolicy No: [=]\nPolicy No: [=]\nin the aggregate for \nthe Policy Term.\nin the aggregate for \nthe Policy Term for \nAudit Expenses only.\nF r o m  [ c ]  ( t h e \nInception Date) to \nthe date falling 7 \nyears from [end of \nfinancial year in which \ncompletion occurs] \n(the Expiry Date), \nboth days inclusive.\nItem 4.\nTotal Underlying Limit:\nin the aggregate for the Policy Term.\nFor the avoidance of doubt, the Total Underlying Limit is above the \nRetent"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Warranty and Indemnity Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0007V01201920.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Warranty and Indemnity Insurance Policy"
+  },
+  {
+    "title": "FIRST EXCESS TAX LIABILITY INSURANCE",
+    "deductible": "Tax Liability Insurance Policy is issued",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This First Excess Tax Liability Insurance Policy is issued by the Insurer to the Insured and represents the complete \nagreement between the Insurer and the Insured concerning the coverage provided hereunder."
+  },
+  {
+    "title": "WHEREAS, the Insured have purchased primary insurance coverage from the Primary Insurer pursuant to the",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Followed Policy."
+  },
+  {
+    "title": "WHEREAS, the Insured desires to purchase further excess insurance coverage to insure themselves against",
+    "deductible": "of the coverage provided by the Followed",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Loss in excess of the coverage provided by the Followed Policy and the Insurer desires to provide such excess \ninsurance, subject to the terms and conditions of this Policy."
+  },
+  {
+    "title": "SECTION 1 DEFINITIONS",
+    "deductible": "Policy",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "All capitalised terms which are not otherwise defined in this Policy shall have the respective meanings given to \nthem in the Followed Policy at the Inception of this Policy.\nThe following capitalised terms shall have the meanings set out next to them below:\n(a)\t \u201cSeller\u201d means, a company incorporated under the laws of  (registered number [=] ) whose registered \noffice \n(b)\t \u201cSeller First Excess Policy\u201d means the first excess tax liability insurance policy issued by HDFC ERGO"
+  },
+  {
+    "title": "GIC with policy number [=] to the Seller including any Declarations, exhibits, attachments or endorsement",
+    "deductible": "tax liability insurance policy including",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "attached hereto.\n(c)\t\n\u201cClaim Notice\u201d has the meaning ascribed to this term in SECTION 6A of this Policy.\n(d)\t \u201cDeclarations\u201d means the Declarations of this Policy.\n(e)\t \u201cFollowed Policy\u201d means the primary tax liability insurance policy set forth in Item 3 of the Declarations.\n(f)\t\n\u201cInception\u201d means the date set forth in Item 5 of the Declarations.\n(g)\t \u201cInsolvency\u201d means, in relation to any entity, that entity entering into receivership, administration, formal \ninsolvency, liquidation, dissolution, rehabilitation or any similar proceeding, or such entity being taken over \nby any regulatory aut"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Warranty and Indemnity Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0007V01201920.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(s)\t\n\u201cTotal Underlying Limit\u201d means the amount set forth in Item 4 of the Declarations, which is the total limit \nof liability of the Followed Policy.\n(t)\t\n\u201cUnderlying Insurers\u201d means the Primary Insurers.\n(u)\t \u201cUnderlying Policies\u201d means the Followed Policies."
+  },
+  {
+    "title": "SECTION 2 INSURING AGREEMENT",
+    "deductible": "of the Total Underlying Limit,",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "A.\t\nSubject to the terms and conditions of this Policy, the Insurer shall, in excess of the Total Underlying Limit, \nprovide the Insured with coverage for Loss, in accordance with the same terms, conditions, exclusions \nand limitations of the Followed Policy as were in existence at the date of Inception of this Policy, except as \nregards the Premium, the Limit of Liability, the Total Underlying Limit (subject to the provisions of SECTION \n4 below) and any other provisions expressly stated in this Policy (noting that for the avoidance of doubt, \nno retention shall apply to this Policy).\nB.\t\nNot"
+  },
+  {
+    "title": "SECTION 3 LIMIT OF LIABILITY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A.\t\nThe Limit of Liability is the limit of the Insurers\u2019 aggregate liability for all payments made by the Insurer in \nconnection with this Policy. It is expressly agreed that liability for any Loss shall attach to and be payable \nby the Insurer only after:\n\t\n(i)\t\nthe Underlying Insurers have either: (a) paid; (b) agreed in writing to pay; or (c) been found liable to \npay (pursuant to a final determination in accordance with the respective dispute resolution provisions \ngoverning the Followed Policies) the full amount of the Total Underlying Limit, in accordance with the \nterms of the Underlyin"
+  },
+  {
+    "title": "SECTION 3A or SECTION 3B above:",
+    "deductible": "of the Total Underlying Limit",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(i)\t\nthe Insurer shall pay the Loss in excess of the Total Underlying Limit; and\n\t\n(ii)\t\nthis Policy shall \u201cdrop down\u201d and continue in force as the primary insurance.\n\n4"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Warranty and Indemnity Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0007V01201920.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy shall not drop down for any other reason, including (without limitation) any inability or refusal of \nthe Underlying Insurers to pay any Loss or the uncollectability (in whole or in part) of any amounts under \nthe Underlying Policies. \nD.\t\nAudit expenses are not payable by the Insurer over and above the Limit of Liability. Such Audit expenses \nare part of Loss and are subject to the Limit of Liability, which will be reduced by any such Audit expenses \nthe Insurer pays."
+  },
+  {
+    "title": "SECTION 4 EROSION OF THE TOTAL UNDERLYING LIMIT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Subject to SECTION 3A(ii) and SECTION 3A(iii), the Total Underlying Limit shall be eroded by all Loss that the \nUnderlying Insurers have either: (a) paid; (b) agreed in writing to pay; or (c) been found liable to pay (pursuant \nto a final determination in accordance with the respective dispute resolution provisions governing the Followed \nPolicies)."
+  },
+  {
+    "title": "SECTION 5 TOTAL UNDERLYING LIMIT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "A.\t\nIf a notification is made under SECTION 6B of this Policy, then this Policy shall continue in effect, but:\n\t\n(i)\t\nthe Insured, or an insurer or insurers providing replacement coverage for the Primary Insurer (if such \nreplacement coverage is obtained), shall be liable for the amount of the Total Underlying Limit; and \n\t\n(ii)\t\nthe Insurer shall be liable only to the extent that it would have been liable had the relevant circumstance \nleading to such notification not arisen. \nB.\t\nThe risk of uncollectability (in whole or in part) of any part of the Total Underlying Limit, whether because of "
+  },
+  {
+    "title": "SECTION 6 CLAIM FILING, NOTICE PROVISIONS AND AUTHORISATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A.\t\nWith respect to any breach, circumstance or event which is a claim, the Insured shall deliver a notice of \nsuch claim (a \u201cClaim Notice\u201d) to the Insurer at the address set out in Item 10 of the Declarations. Such Claim \nNotice shall be provided in the same manner, on the same basis and containing the same information as \nrequired by the Followed Policy.\nB.\t\nAs soon as reasonably practicable after a director or other executive officer of any Insured becomes aware \nof any of the following events, such Insured shall give written notice thereof to the Insurer:\n\t\n(i)\t\nthe cancellation of any Fol"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Warranty and Indemnity Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0007V01201920.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D.\t\nAny notice or communication:\n\t\n(i)\t\nto the Insured shall be delivered in the manner set out in the Followed Policy; and\n\t\n(ii)\t\nto the Insurer shall be delivered at its address or email address as set out in Item 10 of the Declarations."
+  },
+  {
+    "title": "SECTION 7 CLAIM PARTICIPATION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A.\t\nThe Insurer does not assume any duty to defend the Insured.\nB.\t\nThe Insurer shall, at its own expense, be entitled to participate in the defence, negotiation and settlement \nof any matter that is reasonably likely to involve the Insurer and this Policy, to the extent and in the manner \ncontemplated under the Followed Policy. With respect to any such matter, the relevant Insured shall give \nthe Insurer co-operation and such information as the Insurer may reasonably request, in accordance with \nand solely to the extent and in the manner contemplated under the Followed Policy.\nC.\t\nIf any disa"
+  },
+  {
+    "title": "SECTION 8 FOLLOWED POLICY",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Except as otherwise provided in this Policy, the Insurer shall be entitled to all of the rights, privileges and \nprotections which the Followed Policy affords to the Primary Insurer. Except as otherwise provided in this Policy, \nthe Insured shall be entitled to all of the rights, privileges and protections  which the Followed Policy affords \nto the Insured."
+  },
+  {
+    "title": "SECTION 9 RELIANCE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "In entering into this Policy, the Insurer is relying upon the Representations Letter provided by the  Insured to the \nPrimary Insurer pursuant to the Followed Policy. For the avoidance of doubt, this Policy is subject to the same \nexclusions as listed under Section 6 of the Followed Policy."
+  },
+  {
+    "title": "SECTION 10 PREMIUM PAYMENT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Insurers\u2019 obligations under this Policy shall be conditional upon payment of the Total Premium to the Insurer \n(or the Insurance Broker at the direction of the Insurer) in accordance with the terms of the Followed Policy. The \nPremium shall be fully earned at Inception."
+  },
+  {
+    "title": "SECTION 11 CONDITIONS OF COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A.\t\nThe Insurer\u2019s obligations under this Policy shall be conditional upon:\n\t\n(i)\t\nthe inception of the Followed Policy (an electronic copy of each of the executed Followed Policy and \nexecuted Representations Letter (as set out under Exhibit A of the Followed Policy) will be provided \nto the Insurer); and \n\t\n(ii)\t\npayment of the Total Premium to the Insurer in cleared funds before the Inception Date (unless an \nextension is consented to by the Insurer in writing).\nB.\t\nFailure to meet Conditions\n\t\nThis Policy is non-cancellable and non-renewable, and the Premium hereunder is earned fully on Inc"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Warranty and Indemnity Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0007V01201920.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(i)\t\nif the condition in SECTION 11A(ii) of this Policy has been satisfied, the Insurer shall refund the Premium \nto the Insured; or\n\t\n(ii)\t\nif the condition in SECTION 11A(ii) of this Policy has not been satisfied, the Insured shall not be liable \nfor the Premium.\n\t\nIf the conditions under this SECTION 11 are not satisfied or waived, the Insurer will give the relevant Insured \nthe opportunity to cure the failure to meet these conditions within 15 Business Days of the Insurer\u2019s written \nnotice."
+  },
+  {
+    "title": "SECTION 12 OTHER MATTERS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "A.\t\nThe descriptions in the headings of this Policy are solely for convenience, and form no part of the \ninterpretation or the terms and conditions of coverage.\nB.\t\nThis Policy constitutes the entire agreement and understanding concerning the subject matter of this \nPolicy and supersedes the terms and conditions of any prior oral or written agreements, discussions or \nother communications entered into between the Insurer and/or its Affiliates (including their respective \nrepresentatives), on the one hand, and each Insured and/or their respective Affiliates (including their \nrespective represen"
+  },
+  {
+    "title": "SECTION 13 CHOICE OF LAW AND DISPUTE RESOLUTION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This Policy shall be governed by and construed in accordance with the governing law stated in Section 13 of \nthe Followed Policy and any dispute arising out of or in connection with this Policy which cannot be otherwise \nresolved by the Insurer and each Insured shall be dealt with in accordance with Section 11 of the Followed Policy."
+  },
+  {
+    "title": "SECTION 14 SANCTIONS SUSPENSION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "It is a condition under this Policy that the provision of cover, the payment of any claim and the provision of \nany benefit will be suspended, to the extent that the provision of the cover, payment of the claim or provision \nof the benefit would exposes the Insurers to any sanction, prohibition or restriction under the United Nations \nresolutions or the trade or economic sanctions, laws or regulations of Australia, Canada, the European Union, \nUnited Kingdom or United States of America. The suspension will continue until such time the Insurers would \nno longer be exposed to the sanction, prohi"
+  },
+  {
+    "title": "SIGNATURE PAGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Date: [ ] 2025\nFor and on behalf of  HDFC ERGO General Insurance of Co. Ltd\n____________________________________\nName: \nTitle: \n\n7"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Warranty and Indemnity Insurance Policy -"
+  },
+  {
+    "title": "GREIVANCE REDRESSAL PROCEDURE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If you have a grievance that you wish us to redress, you may contact us with the details of your grievance through:\nOur Grievance Redressal Officer\n\u2022 \nCall Centre \u2013 022 6158 2020 / 022-6234 6234\n\u2022 \nEmails \u2013 grievance@hdfcergo.com  \n\u2022 \nContact Details for Senior Citizens: 022 6242 6226 | Email ID: seniorcitizen@hdfcergo.com \n\u2022 \nDesignated Grievance Officer in each branch.\n\u2022 \nCompany Website \u2013 www.hdfcergo.com \n\u2022 \nCourier - Any of our Branch office or corporate office\nYou may also approach the Complaint & Grievance (C&G) Redressal Cell at any of our branches with the details \nof your grievance d"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Ltd.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District (Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai \u2013 400078, Maharashtra\nIn case you are not satisfied with the response / resolution given / offered by the C&G cell, then you can write \nto the Chief Grievance Officer of the Company at the following address \nTo the Chief Grievance Officer"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District (Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai - 400078, Maharashtra\ne-mail: cgo@hdfcergo.com\nGrievance may also be lodged at IRDAI Integrated Grievance Management system- https://bimabharosa.irdai.gov.in\nYou may also approach the nearest Insurance Ombudsman for resolution, if your grievance is not redressed by \nthe Company. The contact details of Ombudsman offices are below if your grievance pertains to: \n\u2022 \nInsurance claim that has been rejected or dispute of a claim on legal construction of the policy \n\u2022 \nDelay in settlement of claim \n\u2022 \nDispute with regard to premium \n\u2022 \nNon-receipt of your insurance document\nYou may also refer "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Warranty and Indemnity Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0007V01201920.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Names of Ombudsman and Addresses of Ombudsmen Centers\nOffice Details\nJurisdiction of Office Union Territory, District"
+  },
+  {
+    "title": "AHMEDABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Prakash Building, 6th floor, Tilak Marg,\nRelief Road, Ahmedabad \u2013 380 001.\nTel.: 079 - 25501201/02\nEmail: oio.ahmedabad@cioins.co.in\nGujarat, Dadra & Nagar Haveli, Daman and Diu"
+  },
+  {
+    "title": "BENGALURU",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Soudha Building, PID No. 57-27-N-19\nGround Floor, 19/19, 24th Main Road,"
+  },
+  {
+    "title": "JP Nagar, 1st Phase, Bengaluru \u2013 560 078.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 080 - 26652048 / 26652049\nEmail: oio.bengaluru@cioins.co.in\nKarnataka"
+  },
+  {
+    "title": "BHOPAL",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,"
+  },
+  {
+    "title": "LIC of India, Zonal Office Bldg.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1st Floor, \u0007\u201cJeevan Shikha\u201d,\n60-B, Hoshangabad Road,  \nOpp. Gayatri Mandir, Bhopal \u2013 462 011.\nTel.: 0755 - 2769201 / 2769202/  \n        2769203/ 2769200\nEmail: oio.bhopal@cioins.co.in\nMadhya Pradesh, Chattisgarh"
+  },
+  {
+    "title": "BHUBANESHWAR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n62, Forest Park, Bhubneshwar \u2013 751 009.\nTel.: 0674 - 2596461 /2596455/  \n        2596003/ 2596429\nFax: 0674 - 2596429\nEmail: oio.bhubaneswar@cioins.co.in\nOrissa"
+  },
+  {
+    "title": "CHANDIGARH",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Deep Building SCO 20-27,\nGround Floor Sector - 17 A,\nChandigarh \u2013 160 017.\nTel.: 0172-2706468/ 2773101\nEmail: oio.chandigarh@cioins.co.in \nState of Punjab, Haryana (excluding 4 districts vizGurugram, \nFaridabad, Sonepat and Bahadurgarh), Himachal Pradesh, \nUnion Territories of Jammu &Kashmir, Ladakh and Chandigarh."
+  },
+  {
+    "title": "CHENNAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nFatima Akhtar Court, 4th Floor, 453,\nAnna Salai, Teynampet, CHENNAI \u2013 600 018.\nTel.: 044 - 24333668 / 24333678\nFax: 044 - 24333664\nEmail: oio.chennai@cioins.co.in\nTamil Nadu Puducherry Town and Karaikal (which are part of \nPuducherry)."
+  },
+  {
+    "title": "DELHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2/2 A, Universal Insurance Building,\nAsaf Ali Road, New Delhi \u2013 110 002.\nTel.:  011-46013992\nEmail: oio.delhi@cioins.co.in\nDelhi, 4 districts of Haryana vizGurugram, Faridabad, Sonepat \nand Bahadurgarh)\n\n9"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Warranty and Indemnity Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0007V01201920.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office Details\nJurisdiction of Office Union Territory, District"
+  },
+  {
+    "title": "GUWAHATI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Nivesh, 5th Floor,\nNr. Panbazar over bridge, S.S. Road,\nGuwahati \u2013 781 001 (ASSAM).\nTel.: 0361 - 2632204 / 2632205\nEmail: oio.guwahati@cioins.co.in\nAssam, Meghalaya, Manipur, Mizoram, Arunachal Pradesh, \nNagaland and Tripura"
+  },
+  {
+    "title": "HYDERABAD",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6-2-46, 1st floor, \u201cMoin Court\u201d,\nLane Opp. Saleem Function Palace,\nA. C. Guards, Lakdi-Ka-Pool,\nHyderabad - 500 004.\nTel.: 040 \u2013 23376991/ 23376599\nEmail: oio.hyderabad@cioins.co.in\nState of Andhra Pradesh, Telangana and Yanam \u2013 a part of \nUnion Territory of Puducherry"
+  },
+  {
+    "title": "JAIPUR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Nidhi \u2013 II Bldg., Gr. Floor,\nBhawani Singh Marg, Jaipur - 302 005.\nTel.: 0141 \u2013 2740363/2740798\nEmail: oio.jaipur@cioins.co.in\nRajasthan"
+  },
+  {
+    "title": "KOCHI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n10th Floor, Jeevan Prakash, LIC Building,\nOpp to Maharaja\u2019s College Ground, \nM. G. Road, Kochi - 682 011.\nTel.: 0484 \u2013 2358759/ 2358734\nEmail: oio.ernakulam@cioins.co.in\nKerala Lakshadweep, Mahe - a part of Union territory of \nPuducherry"
+  },
+  {
+    "title": "KOLKATA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nHindustan Bldg. Annexe, 4th Floor,\n4, C.R. Avenue, KOLKATA - 700 072.\nTel.: 033 - 22124339\nFax : 033 - 22124341\nEmail: oio.kolkata@cioins.co.in\nStates of West Bengal, Sikkim and Union Territories of \nAndaman & Nicobar Islands"
+  },
+  {
+    "title": "LUCKNOW",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6th Floor, Jeevan Bhawan, Phase-II,\nNawal Kishore Road, Hazratganj,\nLucknow - 226 001.\nTel.: 4002082 / 3500613\nEmail: oio.lucknow@cioins.co.in\nDistricts of Uttar Pradesh :Laitpur, Jhansi, Mahoba, Hamirpur, \nBanda, \nChitrakoot, \nAllahabad, \nMirzapur, \nSonbhabdra, \nFatehpur, Pratapgarh, Jaunpur,Varanasi, Gazipur, Jalaun, \nKanpur, Lucknow, Unnao, Sitapur, Lakhimpur, Bahraich, \nBarabanki, Raebareli, Sravasti, Gonda, Faizabad, Amethi, \nKaushambi, Balrampur, Basti, Ambedkarnagar, Sultanpur, \nMaharajgang, \nSantkabirnagar, \nAzamgarh, \nKushinagar, \nGorkhpur, \nDeoria, "
+  },
+  {
+    "title": "MUMBAI",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n3rd Floor, Jeevan Seva Annexe,\nS. V. Road, Santacruz (W), Mumbai - 400 054.\nTel.: 022 - 69038800/27/29/31/32/33 \nEmail: oio.mumbai@cioins.co.in\nList of wards under Mumbai Metropolitan Region excluding \nwards in Mumbai \u2013 i.e M/E, M/W, N, S and T covered under \nOffice of Insurance Ombudsman Thane and areas of Navi \nMumbai.\n\n10"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor,",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Warranty and Indemnity Insurance Policy -"
+  },
+  {
+    "title": "IRDAN125CP0007V01201920.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office Details\nJurisdiction of Office Union Territory, District"
+  },
+  {
+    "title": "NOIDA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nBhagwan Sahai Palace, 4th Floor,  \nMain Road, Naya Bans, Sector 15,\nDistt: Gautam Buddh Nagar, U.P. - 201 301.\nTel.: 0120 - 2514252 / 2514253\nEmail: oio.noida@cioins.co.in\nState of Uttaranchal and the Dis-tricts of Uttar Pradesh: Agra, \nAli-garh, Bagpat, Bareilly, Bijnor, Bu-daun, Bulandshehar, \nEtah, Kanooj, Mainpuri, Mathura, Meerut, Mora-dabad, \nMuzaffarnagar, \nOraiyya, \nPilibhit, \nEtawah, \nFarukkabad, \nFi-rozbad, \nGautambodhanagar, \nGha-ziabad, \nHardoi, \nShahjahanpur, Ha-pur, Shamli, Rampur, Kashganj, Sambhal, \nAmroha, Hathras, Kan-shiramnagar, Saharanpur"
+  },
+  {
+    "title": "PATNA",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2nd Floor, Lalit Bhawan, Bailey Road,  \nPatna - 800 001.\nTel.: 0612-2547068\nEmail: oio.patna@cioins.co.in\nBihar, Jharkhand"
+  },
+  {
+    "title": "PUNE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Darshan LIC Bldg., 3rd Floor,\nC.T.S. Nos. 195 to 198,\nN.C. Kelkar Road, Narayan Peth,\nPune \u2013 411 030.\nTel.: 020- 24471175 \nEmail: oio.pune@cioins.co.in\nState of Goa and State of Maha-rashtra excluding areas of \nNavi Mumbai, Thane district,Palghar District, Raigad district & \nMumbai Metropolitan Region"
+  },
+  {
+    "title": "THANE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2nd Floor, Jeevan Chintamani Building,\nVasantrao Naik Mahamarg,\nThane (West), Thane \u2013 400604\nTel.: 022-20812868/69\nEmail: oio.thane@cioins.co.in\nArea of Navi Mumbai, Thane Dis-trict, Raigad District, Palghar \nDis-trict and wards of Mumbai, M/East, M/West, N, S and T."
+  }
+]

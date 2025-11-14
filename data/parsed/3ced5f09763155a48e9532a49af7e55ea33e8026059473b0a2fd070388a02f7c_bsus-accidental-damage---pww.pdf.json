@@ -1,0 +1,30 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No. 146. CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th Floor, Leela Business",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: HDFC ERGO Bharat Sookshma Udyam Suraksha - Add-ons:"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings"
+  },
+  {
+    "title": "BHARAT SOOKSHMA UDYAM SURAKSHA POLICY",
+    "deductible": "5",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Accidental Damage\nThis is an additional cover that extends the insurance cover \nthat We give under the Bharat Sookshma Udyam Suraksha. \nWe give these additional covers if You have applied to and \npaid premium for the covers and We have accepted to give \ncovers to You.\nAccidental Damage\nIn consideration of additional premium under this Add-on \ncover and notwithstanding to the contrary contained in the \npolicy, it is hereby agreed that this policy is extended to cover \ndirect physical loss or damage to the insured property due \nto accidental external means whilst situated in the insured \npremise"
+  }
+]

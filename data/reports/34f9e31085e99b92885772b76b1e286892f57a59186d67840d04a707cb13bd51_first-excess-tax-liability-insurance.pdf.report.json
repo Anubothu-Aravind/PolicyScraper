@@ -1,0 +1,58 @@
+[
+  {
+    "title": "FIRST EXCESS TAX LIABILITY INSURANCE",
+    "deductible": "Tax Liability Insurance Policy is issued",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "This First Excess Tax Liability Insurance Policy is issued by the Insurer to the Insured and represents the complete \nagreement between the Insurer and the Insured concerning the coverage provided hereunder."
+  },
+  {
+    "title": "WHEREAS, the Insured desires to purchase further excess insurance coverage to insure themselves against",
+    "deductible": "of the coverage provided by the Followed",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Loss in excess of the coverage provided by the Followed Policy and the Insurer desires to provide such excess \ninsurance, subject to the terms and conditions of this Policy."
+  },
+  {
+    "title": "SECTION 1 DEFINITIONS",
+    "deductible": "Policy",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "All capitalised terms which are not otherwise defined in this Policy shall have the respective meanings given to \nthem in the Followed Policy at the Inception of this Policy.\nThe following capitalised terms shall have the meanings set out next to them below:\n(a)\t \u201cSeller\u201d means, a company incorporated under the laws of  (registered number [=] ) whose registered \noffice \n(b)\t \u201cSeller First Excess Policy\u201d means the first excess tax liability insurance policy issued by HDFC ERGO"
+  },
+  {
+    "title": "GIC with policy number [=] to the Seller including any Declarations, exhibits, attachments or endorsement",
+    "deductible": "tax liability insurance policy including",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "attached hereto.\n(c)\t\n\u201cClaim Notice\u201d has the meaning ascribed to this term in SECTION 6A of this Policy.\n(d)\t \u201cDeclarations\u201d means the Declarations of this Policy.\n(e)\t \u201cFollowed Policy\u201d means the primary tax liability insurance policy set forth in Item 3 of the Declarations.\n(f)\t\n\u201cInception\u201d means the date set forth in Item 5 of the Declarations.\n(g)\t \u201cInsolvency\u201d means, in relation to any entity, that entity entering into receivership, administration, formal \ninsolvency, liquidation, dissolution, rehabilitation or any similar proceeding, or such entity being taken over \nby any regulatory aut"
+  },
+  {
+    "title": "SECTION 2 INSURING AGREEMENT",
+    "deductible": "of the Total Underlying Limit,",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "A.\t\nSubject to the terms and conditions of this Policy, the Insurer shall, in excess of the Total Underlying Limit, \nprovide the Insured with coverage for Loss, in accordance with the same terms, conditions, exclusions \nand limitations of the Followed Policy as were in existence at the date of Inception of this Policy, except as \nregards the Premium, the Limit of Liability, the Total Underlying Limit (subject to the provisions of SECTION \n4 below) and any other provisions expressly stated in this Policy (noting that for the avoidance of doubt, \nno retention shall apply to this Policy).\nB.\t\nNot"
+  },
+  {
+    "title": "SECTION 3A or SECTION 3B above:",
+    "deductible": "of the Total Underlying Limit",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(i)\t\nthe Insurer shall pay the Loss in excess of the Total Underlying Limit; and\n\t\n(ii)\t\nthis Policy shall \u201cdrop down\u201d and continue in force as the primary insurance.\n\n4"
+  },
+  {
+    "title": "SECTION 5 TOTAL UNDERLYING LIMIT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "A.\t\nIf a notification is made under SECTION 6B of this Policy, then this Policy shall continue in effect, but:\n\t\n(i)\t\nthe Insured, or an insurer or insurers providing replacement coverage for the Primary Insurer (if such \nreplacement coverage is obtained), shall be liable for the amount of the Total Underlying Limit; and \n\t\n(ii)\t\nthe Insurer shall be liable only to the extent that it would have been liable had the relevant circumstance \nleading to such notification not arisen. \nB.\t\nThe risk of uncollectability (in whole or in part) of any part of the Total Underlying Limit, whether because of "
+  },
+  {
+    "title": "SECTION 9 RELIANCE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "In entering into this Policy, the Insurer is relying upon the Representations Letter provided by the  Insured to the \nPrimary Insurer pursuant to the Followed Policy. For the avoidance of doubt, this Policy is subject to the same \nexclusions as listed under Section 6 of the Followed Policy."
+  }
+]

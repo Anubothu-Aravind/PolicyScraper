@@ -1,0 +1,310 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Two Wheeler \nPolicy - Bundled - IRDAN125RP0009V01201819"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings Add On Covers\nTwo Wheeler Policy \u2013 Bundled\nA. POLICY WORDINGS"
+  },
+  {
+    "title": "1. ZERO DEPRECIATION CLAIM",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0038V01201819)\nIn consideration of the payment of additional premium of \nRs. _ paid by the Insured and realized by the Insurer not \nwithstanding anything to the contrary, it is hereby understood \n& agreed that for the purpose of this policy, in the event of \npartial loss, the depreciation applicable under section 1 of this \npolicy would stands deleted.\nInsured\u2019s Obligations:\n1.\nClaim to be intimated within seven days of loss/damage.\n2.\nCall our toll-free no. to arrange for survey.\nSpecific Exclusion: This cover excludes the following parts,\na.\nTyres\nb.\nBatteries"
+  },
+  {
+    "title": "2. MULTI VEHICLE DISCOUNT",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0039V01201819)\nIt is agreed by the Insurer that discount from the second \nvehicle onwards up to 20% over the base own damage rates, \napplicable may be provided to an Insured owning multiple \nvehicles, as declared by the Insured and vehicles may be \nadded in this policy as an endorsement or independently as \nidentified by the same owner.\nThe discounts applicable based on the number of vehicles \nare as under:\nNo of Vehicle\nDiscount\n2\n5%\n3-5\n10%\n6-10\n15%\n>10\n20%"
+  },
+  {
+    "title": "3. VOLUNTARY DEDUCTIBLE",
+    "deductible": "of Rs.",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0040V01201819)\nIt is declared and agreed that the insured having opted for \na deductible of Rs. ____* a reduction in Rs. ______ * under \nsection 1 of the policy."
+  },
+  {
+    "title": "DISCOUNT",
+    "deductible": "would be applicable over and",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Rs. 500\n5% on the OD premium of the two wheeler\nRs. 750\n10% on the OD premium of the two wheeler\nRs. 1000\n15% on the OD premium of the two wheeler\nRs. 1500\n20% on the OD premium of the two wheeler\nRs. 3000\n25% on the OD premium of the two wheeler\nRs. 5000\n40% on the OD premium of the two wheeler\nThe voluntary deductible would be applicable over and \nabove the compulsory deductible as per the standard motor \ninsurance policy."
+  },
+  {
+    "title": "4. EMI PROTECTOR",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0042V01201819)\nIn consideration of the payment of additional premium paid \nby the Insured and realized by the Insurer not withstanding \nanything to the contrary, it is hereby understood & agreed \nthat for the purpose of this policy, in the event of the vehicle \ninsured is kept in garage for accidental repairs for more than \n* days, Insurer will pay Equated Monthly Instalment Amount\n(EMI) to insured as mentioned in the policy schedule.\nSpecial conditions\na)\nHypothecation/Lease clause is endorsed in the policy\nschedule.\nb)\nBenefit will be restricted to EMI amount "
+  },
+  {
+    "title": "5. EMERGENCY ASSISTANCE COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0043V01201819)\nIn consideration of the payment of additional premium \nof Rs. paid by the Insured and realized by the Insurer, \nnotwithstanding anything contrary contained in the policy, it \nis hereby understood & agreed that for the purpose of this \npolicy, in the event of the Insured vehicle being disabled due \nto Loss or Damage covered under Section 1 of the policy, the \nInsurer would provide the below mentioned services:\na.\nMinor repairs on accident spot\nb.\nTowing assistance for accident and breakdown\nc.\nFlat tyre repair\nd.\nEmergency fuel delivery\ne.\nVehicle "
+  },
+  {
+    "title": "6. DEPRECIATION WAIVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0008V01202223)\nIn consideration of the payment of an additional premium \nit is hereby understood and agreed that the Company \nundertakes to pay the amount deducted towards the \ndepreciation on replacement of parts if Depreciation Waiver \nis mentioned in the Policy Schedule and, if claim under \nSection I (Own Damage) of Two Wheeler Package Policy is \nvalid and admissible.\nSpecial Condition(s):\n1.\nThis benefit will not be used to replace those parts of\nthe vehicle which is not necessary to replace under\nSection I (Own Damage) of Two Wheeler Package Policy \nThe nec"
+  },
+  {
+    "title": "HDFC ERGO and not by the Insured or the Repair Shop/",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Garage.\n2.\nThe benefit will be available for not more than one claim \npaid or pending during each policy year.\nSpecial Exclusion(s):\nThe Company will not be liable for\n1.\t\nWhere a loss is covered by any manufacturer\u2019s warranty \nor recall campaign or under any other such packages at \nthe same time."
+  },
+  {
+    "title": "7. RETURN TO INVOICE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0009V01202223)\nIn consideration of the payment of an additional premium \nit is hereby understood and agreed that the Company \nundertakes to pay in case of a Total Loss / Constructive Total \nLoss following an accident or if the insured vehicle is stolen \nduring the period of insurance and not recovered, leading to \na valid and admissible claim under Section I (Own Damage) of \nTwo Wheeler Package Policy.\n1.\t\nReplacement value of the vehicle as per the invoice;\n2.\nIf the vehicle is not manufactured any more than the\noriginal value (as per invoice) of the vehicle at"
+  },
+  {
+    "title": "8. CASH ALLOWANCE",
+    "deductible": "wherein the",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0010V01202223)\nIn consideration of the payment of an additional premium it is \nhereby understood and agreed that the Company undertakes \nto pay you Cash Allowance of Rs 200 per day if claim under \nSection I (Own Damage) of Two Wheeler Package Policy is \nvalid and admissible. This is subject to the following:\nSpecial Conditions:\n1.\nThe cash allowance will be paid for maximum period of\n10 days in case of repair for partial loss only.\n2.\nThe cash allowance will be subject to a franchise of 3\ndays and this will be counted from the date of survey.\nFranchise hereby wo"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Two Wheeler \nPolicy - Bundled - IRDAN125RP0009V01201819\n\n3\nSpecial Exclusion(s):\nCash allowance will not be paid for the period for which \nvehicle may be stuck for repair due to non-availability of any \npart/and or material at workshop."
+  },
+  {
+    "title": "9. DRIVE THROUGH PROTECTION FOR ENGINE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0011V01202223)\nIn consideration of the payment of an additional premium it is \nhereby understood and agreed that the Company undertakes \nto provide cover to the engine of Insured vehicle including its \nblock and child parts along with the gear box provided, the \nloss or damage is due to the ingress of water in the engine or \nleakage of lubricating oil from the engine / assembly due to \naccidental damage.\nSpecial Condition(s):\n1.\nWater damage cover will commence only when the raisin \nevidence of the vehicle is being submerged or having\nstopped in water logged are"
+  },
+  {
+    "title": "10. EMERGENCY MEDICAL EXPENSES",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0012V01202223)\nIn consideration of the payment of an additional premium \nit is hereby understood and agreed that the Company \nundertakes to pay reasonable medical charges to Insured / \nInsured person(s) for bodily injury arising out of accident in \ndirect connection with the vehicle insured or whilst mounting \nand dismounting from or\ntraveling in vehicle insured upto Sum Insured of Rs. <amt>. \nCover stands extended for both; Hospitalization and \nOutpatient treatment.\n\u2022 \nSub limits for Hospitalization:- 50% of PA cover taken \nunder Additional Personal Accident co"
+  },
+  {
+    "title": "11. NO CLAIM BONUS PROTECTION",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "(UIN - IRDAN125RP0009V01201819/A0013V01202223)\nIn consideration of the payment of an additional premium it is \nhereby understood and agreed that the Company undertakes \nto protect your accruing No Claim Bonus at the time of \nrenewal with the Company in case of a valid and admissible \nclaim under Section I (Own Damage).\nSpecial Condition(s):\n1.\nThe benefit will accrue if the policy is renewed with us\nwithin 90 days of expiry of this Policy.\n2.\nThis benefit will not be available if claim is for Total Loss \n(TL) Constructive Total Loss / Theft\n3.\t\nThe benefit will be available for not more than o"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Two Wheeler \nPolicy - Bundled - IRDAN125RP0009V01201819\n\n4\nContact Details for Grievance, Ombudsman\nIf you have a grievance that you wish us to redress, you may \ncontact us with the details of your grievance through:\n\u2022\nContact us- 022 6158 2020/ 022 6234 6234\n\u2022\nEmails \u2013 grievance@hdfcergo.com \n\u2022\nDesignated Grievance Officer in each branch.\n\u2022\nCompany Website \u2013 www.hdfcergo.com\n\u2022\nCourier : Any of our Branch office or corporate office\nYou may also approach the Complaint & Grievance (C&G) \nRedressal "
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Ltd.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301,3rd Floor, Eastern Business District (Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai \u2013 400078, Maharashtra\nIn case you are not satisfied with the response / resolution \ngiven / offered by the C&G cell, then you can write to the \nChief Grievance Officer of the Company at the following \naddress\nTo the Chief Grievance Officer"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "D-301, 3rd Floor, Eastern Business District (Magnet Mall),"
+  },
+  {
+    "title": "LBS Marg, Bhandup (West),",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Mumbai - 400078, Maharashtra\ne-mail: cgo @hdfcergo.com\nYou may also approach the nearest Insurance Ombudsman for \nresolution, if your grievance is not redressed by the Company. \nThe contact details of Ombudsman offices are mentioned \nbelow if your grievance pertains to:\nInsurance claim that has been rejected or dispute of a claim \non legal construction of the policy\nDelay in settlement of claim\nDispute with regard to premium\nNon-receipt of your insurance document"
+  },
+  {
+    "title": "AHMEDABAD - Shri Kuldip Singh",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Prakash Building, 6th floor,\nTilak Marg, Relief Road,\nAhmedabad \u2013 380 001.\nTel.: 079 - 25501201/02/05/06\nEmail: bimalokpal.ahmedabad@cioins.co.in\nGujarat, Dadra & Nagar Haveli, Daman and Diu."
+  },
+  {
+    "title": "BENGALURU - Smt. Neerja Shah",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Soudha Building, PID No. 57-27-N-19\nGround Floor, 19/19, 24th Main Road, JP Nagar, Ist Phase,\nBengaluru \u2013 560 078.\nTel.: 080 - 26652048 / 26652049\nEmail: bimalokpal.bengaluru@cioins.co.in\nKarnataka."
+  },
+  {
+    "title": "BHOPAL - Shri Guru Saran Shrivastava",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJanak Vihar Complex, 2nd Floor,\n6, Malviya Nagar, Opp. Airtel Office, Near New Market,\nBhopal \u2013 462 003.\nTel.: 0755 - 2769201 / 2769202\nFax: 0755 - 2769203\nEmail: bimalokpal.bhopal@cioins.co.in\nMadhya Pradesh, Chattisgarh."
+  },
+  {
+    "title": "BHUBANESHWAR - Shri Suresh Chandra Panda",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n62, Forest park,\nBhubneshwar \u2013 751 009.\nTel.: 0674 - 2596461 /2596455\nFax: 0674 - 2596429\nEmail: bimalokpal.bhubaneswar@cioins.co.in\nOrissa."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Two Wheeler \nPolicy - Bundled - IRDAN125RP0009V01201819\n\n5"
+  },
+  {
+    "title": "CHANDIGARH - Dr. Dinesh Kumar Verma",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nS.C.O. No. 101, 102 & 103, 2nd Floor,\nBatra Building, Sector 17 \u2013 D,\nChandigarh \u2013 160 017.\nTel.: 0172 - 2706196 / 2706468\nFax: 0172 - 2708274\nEmail: bimalokpal.chandigarh@cioins.co.in\nPunjab, Haryana (excluding Gurugram, Faridabad, Sonepat and \nBahadurgarh) Himachal Pradesh, Union Territories of Jammu & \nKashmir, Ladakh & Chandigarh."
+  },
+  {
+    "title": "CHENNAI - Shri M. Vasantha Krishna",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nFatima Akhtar Court, 4th Floor, 453,\nAnna Salai, Teynampet,"
+  },
+  {
+    "title": "CHENNAI \u2013 600 018.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 044 - 24333668 / 24335284\nFax: 044 - 24333664\nEmail: bimalokpal.chennai@cioins.co.in\nTamil Nadu, Puducherry Town and Karaikal (which are part of \nPuducherry)."
+  },
+  {
+    "title": "DELHI - Shri Sudhir Krishna",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2/2 A, Universal Insurance Building,\nAsaf Ali Road,\nNew Delhi \u2013 110 002.\nTel.: 011 - 23232481/23213504\nEmail: bimalokpal.delhi@cioins.co.in\nDelhi & Following Districts of Haryana - Gurugram, Faridabad, \nSonepat & Bahadurgarh."
+  },
+  {
+    "title": "GUWAHATI - Shri Kiriti B. Saha",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Nivesh, 5th Floor,\nNr. Panbazar over bridge, S.S. Road,\nGuwahati \u2013 781001 (ASSAM).\nTel.: 0361 - 2632204 / 2602205\nEmail: bimalokpal.guwahati@cioins.co.in\nAssam, Meghalaya, Manipur, Mizoram, Arunachal Pradesh, \nNagaland and Tripura."
+  },
+  {
+    "title": "HYDERABAD - Shri I. Suresh Babu",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6-2-46, 1st floor, \u201cMoin Court\u201d,\nLane Opp. Saleem Function Palace,\nA. C. Guards, Lakdi-Ka-Pool,\nHyderabad - 500 004.\nTel.: 040 - 23312122\nFax: 040 - 23376599\nEmail: bimalokpal.hyderabad@cioins.co.in\nAndhra Pradesh, Telangana, Yanam and part of Union Territory of \nPuducherry."
+  },
+  {
+    "title": "JAIPUR - Smt. Sandhya Baliga",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Nidhi \u2013 II Bldg., Gr. Floor,\nBhawani Singh Marg,\nJaipur - 302 005.\nTel.: 0141 - 2740363\nEmail: bimalokpal.jaipur@cioins.co.in\nRajasthan."
+  },
+  {
+    "title": "ERNAKULAM - Ms. Poonam Bodra",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n2nd Floor, Pulinat Bldg.,\nOpp. Cochin Shipyard, M. G. Road,\nErnakulam - 682 015.\nTel.: 0484 - 2358759 / 2359338\nFax: 0484 - 2359336\nEmail: bimalokpal.ernakulam@cioins.co.in\nKerala, Lakshadweep, Mahe-a part of Union Territory of Puducherry."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Two Wheeler \nPolicy - Bundled - IRDAN125RP0009V01201819\n\n6"
+  },
+  {
+    "title": "KOLKATA - Shri P. K. Rath",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nHindustan Bldg. Annexe, 4th Floor,\n4, C.R. Avenue,"
+  },
+  {
+    "title": "KOLKATA - 700 072.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Tel.: 033 - 22124339 / 22124340\nFax : 033 - 22124341\nEmail: bimalokpal.kolkata@cioins.co.in\nWest Bengal, Sikkim, Andaman & Nicobar Islands."
+  },
+  {
+    "title": "LUCKNOW - Shri Justice Anil Kumar Srivastava",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n6th Floor, Jeevan Bhawan, Phase-II,\nNawal Kishore Road, Hazratganj,\nLucknow - 226 001.\nTel.: 0522 - 2231330 / 2231331\nFax: 0522 - 2231310\nEmail: bimalokpal.lucknow@cioins.co.in\nDistricts of Uttar Pradesh :\nLalitpur, Jhansi, Mahoba, Hamirpur, Banda, Chitrakoot, Allahabad, \nMirzapur, Sonbhabdra, Fatehpur, Pratapgarh, Jaunpur, Varanasi, \nGazipur, Jalaun, Kanpur, Lucknow, Unnao, Sitapur, Lakhimpur, \nBahraich, Barabanki, Raebareli, Sravasti, Gonda, Faizabad, \nAmethi, Kaushambi, Balrampur, Basti, Ambedkarnagar, Sultanpur, \nMaharajgang, Santkabirnagar, Azamgarh, Kus"
+  },
+  {
+    "title": "MUMBAI - Shri Milind A. Kharat",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n3rd Floor, Jeevan Seva Annexe,\nS. V. Road, Santacruz (W),\nMumbai - 400 054.\nTel.: 022 - 26106552 / 26106960\nFax: 022 - 26106052\nEmail: bimalokpal.mumbai@cioins.co.in\nGoa, Mumbai Metropolitan Region excluding Navi Mumbai & Thane."
+  },
+  {
+    "title": "NOIDA - Shri Chandra Shekhar Prasad",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nBhagwan Sahai Palace\n4th Floor, Main Road,\nNaya Bans, Sector 15,\nDistt: Gautam Buddh Nagar,\nU.P - 201301.\nTel.: 0120-2514252 / 2514253\nEmail: bimalokpal.noida@cioins.co.in\nState of Uttaranchal and the following Districts of Uttar Pradesh:\nAgra, Aligarh, Bagpat, Bareilly, Bijnor, Budaun, Bulandshehar, \nEtah, Kanooj, Mainpuri, Mathura, Meerut, Moradabad, \nMuzaffarnagar, Oraiyya, Pilibhit, Etawah, Farrukhabad, Firozbad, \nGautambodhanagar, Ghaziabad, Hardoi, Shahjahanpur, \nHapur, Shamli, Rampur, Kashganj, Sambhal, Amroha, Hathras, \nKanshiramnagar, Saharanpur."
+  },
+  {
+    "title": "PATNA - Shri N. K. Singh",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\n1st Floor, Kalpana Arcade Building,,\nBazar Samiti Road, Bahadurpur,\nPatna - 800 006.\nTel.: 0612-2680952\nEmail: bimalokpal.patna@cioins.co.in\nBihar, Jharkhand."
+  },
+  {
+    "title": "PUNE - Shri Vinay Sah",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office of the Insurance Ombudsman,\nJeevan Darshan Bldg., 3rd Floor,\nC.T.S. No.s. 195 to 198,\nN.C. Kelkar Road, Narayan Peth,\nPune \u2013 411 030.\nTel.: 020-41312555\nEmail: bimalokpal.pune@cioins.co.in\nMaharashtra, Area of Navi Mumbai and Thane excluding Mumbai \nMetropolitan Region."
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Two Wheeler \nPolicy - Bundled - IRDAN125RP0009V01201819"
+  }
+]

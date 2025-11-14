@@ -1,0 +1,51 @@
+[
+  {
+    "title": "EXTENSIONS",
+    "deductible": "Amount applies to this extension.",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Fraud & Dishonesty\n2. \n(a) \nThe Company shall indemnify an Organization for Loss on account of \n \n \nany Claim which would otherwise be excluded by reason of Exclusion \n \n \n4.\u00a9 ) provided that such Organization has not condoned or committed \n \n \nthe dishonest, fraudulent or criminal act forming the basis of liability for \n \n \nsuch Loss as established in a final adjudication in any proceeding. The \n \n \nterm 'proceeding' shall not include any declaratory proceeding brought \n \n \nby or against the Company;\nLibel, Slander & Defamation\n \n(b) \nCoverage shall extend to Loss on account of any Claim made"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": "Amount",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Policy Wording\n2\n \n \nOutside Service Provider.\nCrisis Expenses\n \n(l) \nCoverage shall extend to Crisis Expenses up to the amount of the sub-\n \n \nlimit in Item 2.f of the Schedule. The limit set forth in Item 2 of the  \n \n \nSchedule is in addition to, and does not reduce, the Limits of Liability set \n \n \nforth in Items 2(a) and 2(b) of the Schedule. No Deductible Amount  \n \n \napplies to this extension.\nContractual Liability\n \n(m) Subject to exclusion 4. (e), coverage shall extend to any Claim if and to \n \n \nthe extent that the Claim alleges a breach of contractual obligations in \n \n \nthe renderi"
+  },
+  {
+    "title": "EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "4. \nThe Company shall not be liable for Loss on account of any Claim:\nPrior Notice\n(a) \nbased upon, arising from, or in consequence of any fact or circumstance if  \n \nwritten notice of such fact or circumstance has been given under any policy of \n \nwhich this policy is a renewal or replacement or which it may succeed in time;\nPending or Prior\n(b) \nbased upon, arising from, or in consequence of any demand, suit, or  \n \nproceeding pending against, or order, decree or judgment entered for or  \n \nagainst any Insured on or prior to the Pending or Prior date as set forth in \n \nItem  6. of the Schedu"
+  },
+  {
+    "title": "LIMIT OF LIABILITY AND DEDUCTIBLE",
+    "deductible": "of the applicable Deductible Amount set",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "6. \nThe Company's maximum liability for Loss on account of each Claim shall not \n \nexceed the Limit of Liability for each Loss set forth in Item 2.(a) of the  \n \nSchedule. The Company's maximum liability for Loss on account of all  \n \nClaims first made during the Policy Period shall not exceed the Limit of  \n \nLiability for each Policy Period set forth in Item 2. (b) of the Schedule.\n \nNotwithstanding the above, the Company's maximum liability for Loss in  \n \nrespect of which a sub-limit is specified for each Loss and/or each Policy  \n \nPeriod in the Schedule of this policy or any endorsement "
+  },
+  {
+    "title": "SEVERABILITY \u2013 IMPUTATION OF KNOWLEDGE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "5. \nWith respect to Exclusion 4 \u00a9, Dishonesty, in order to determine if coverage \n \nis available:\n \n(i) \nno fact pertaining to or knowledge possessed by any Insured Person  \n \n \nshall be imputed to any other Insured Person; and"
+  },
+  {
+    "title": "VALUATION AND FOREIGN CURRENCY",
+    "deductible": "s, Loss and other amounts under this pol",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "23. \nAll premiums, limits, Deductibles, Loss and other amounts under this policy \n \nare expressed and payable in Indian Rupees (INR).  If judgment is rendered, \n \nsettlement is denominated or another element of Loss is stated in a currency \n \nother than Indian Rupees (INR), then payment under this policy shall be made \n \nin Indian Rupees (INR) at the cash rate of exchange published by the Reserve \n \nBank of India, on the date the final judgment is reached, the amount of the  \n \nsettlement is agreed upon or the other element of Loss is due respectively."
+  },
+  {
+    "title": "OTHER INSURANCE",
+    "deductible": "of the",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "17. \nIf any Loss under this policy is insured under any other insurance policy, prior \n \nor current, then this policy shall cover such Loss, subject to its terms and  \n \nconditions, only to the extent that the amount of such Loss is in excess of the \n \napplicable retention (or deductible) and limit of liability of such other insurance, \n \nwhether such other insurance is stated to be primary, contributory, excess,  \n \ncontingent or otherwise, unless such other insurance is written only as specific \n \nexcess insurance over the Limits of Liability provided in this policy. Any  \n \npayment by Insur"
+  }
+]

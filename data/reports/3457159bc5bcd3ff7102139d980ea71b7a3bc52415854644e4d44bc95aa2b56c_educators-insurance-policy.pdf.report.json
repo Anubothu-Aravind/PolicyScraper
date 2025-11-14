@@ -1,0 +1,37 @@
+[
+  {
+    "title": "INSURANCE CLAUSE",
+    "deductible": "Amount",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Company shall pay on behalf of an Insured all Loss \nwhich such Insured becomes legally obligated to pay on \naccount of any Claim first made against such Insured \nduring the Policy Period or, if exercised, during the \nExtended Reporting Period, for:\n\t\n(a)\t a Wrongful Act;\n\t\n(b)\t Educator\u2019s Errors or Omissions; or\n\t\n(c)\t Employment Practices\n\t\ncommitted, attempted, or allegedly committed or attempted, \nby such Insured before or during the Policy Period.\n2.\t\nSpousal Liability Coverage\t\n\t\nIf a Claim against an Insured Person includes a claim \nagainst the lawful spouse of such Insured Person so"
+  },
+  {
+    "title": "3. \t Extended Reporting Period",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "If this policy is terminated or not renewed for any reason \nother than nonpayment of premium, any Insured shall \nhave the right, upon payment of the additional premium \nset forth in Item 8(a) of the Schedule, to an extension of \nthe coverage granted by this policy for the period set forth \nin Item 8(b) of the Schedule (Extended Reporting Period) \nfollowing the effective date of termination or nonrenewal, \nbut only for a Wrongful Act committed, attempted or \nallegedly committed or attempted, prior to the effective \ndate of termination or nonrenewal. This right of extension \nshall lapse unless w"
+  },
+  {
+    "title": "IRDAN125RP0006V01200607.",
+    "deductible": "For purposes of this policy, all Loss ar",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "to any workers\u2019 compensation, unemployment \ninsurance, social security, disability benefits or similar \nlaw. However, this exclusion shall not apply to any \nClaim for any retaliatory treatment of any claimant \nby any Insured based upon such claimant\u2019s exercise \nof rights pursuant to any such law;\n\t\n(j)\t\nfor bodily injury, sickness, disease or death of any \nperson, loss of use of tangible property whether \nor not it is damaged or destroyed, or damage to or \ndestruction of any tangible property; or\n\t\n(k)\t for assault, battery or any act or omission in \nconnection with the prevention or suppressi"
+  },
+  {
+    "title": "IRDAN125RP0006V01200607.",
+    "deductible": "Amount for Indemnifiable",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Loss is subject to the Deductible Amount for Indemnifiable \nLoss, the maximum Deductible Amount applicable to such \nLoss shall be the Deductible Amount for Indemnifiable \nLoss.\n\t\nAn Educational Institution shall be deemed permitted or \nrequired to indemnify an Insured, and the shareholder, \nmanaging committee, board of trustees and board of \ndirectors resolutions of an Educational Institution shall \nbe deemed to provide indemnification to an Insured, \nto the fullest extent authorised by law. For purposes of \nthis paragraph, the shareholder, managing committee, \nboard of trustees and board of d"
+  },
+  {
+    "title": "10.\t Other Insurance",
+    "deductible": "of the amount of",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "If Loss arising from any Claim made against any Insured is \ninsured under any other valid policy, prior or current, then \nthis policy shall cover such Loss, subject to its limitations, \nconditions, provisions and other terms, only to the extent \nthat the amount of such Loss is in excess of the amount of \npayment from such other insurance, whether such other \ninsurance is stated to be primary, contributory, excess, \ncontingent or otherwise, unless such other insurance is \nwritten only as specific excess insurance over the Limits \nof Liability provided in this policy.\n\t\nMultiple policies involvi"
+  }
+]

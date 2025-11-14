@@ -1,0 +1,51 @@
+[
+  {
+    "title": "DEDUCTIBLE",
+    "deductible": "stated in the schedule.",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The Company shall not be liable for each and every claim \nunder Section -I (loss of or damage to the vehicle insured) of \nthis Policy in respect of the deductible stated in the schedule."
+  },
+  {
+    "title": "DEDUCTIBLE (Applicable to all Commercial Vehicles",
+    "deductible": "in addition to any amount which the insu",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "excluding taxis and motorized two wheelers carrying \npassengers for hire or reward.)\n\t\nNotwithstanding anything to the contrary contained herein \nit is hereby understood and agreed that\na.\t\nSpecial Exclusions\n\t\nexcept in the case of Total Loss of the vehicle insured, the \ninsurer shall not be liable under Section I of the policy for \nloss of or damage to lamps tyres tubes mudguards bonnet \nside parts bumpers and paint work.\nb.\t\nCompulsory Deductible\n\t\nin addition to any amount which the insured may be \nrequired to bear under para (a) above the insured shall \nalso bear under section I of the po"
+  },
+  {
+    "title": "IRDAN125RP0011V01202122.",
+    "deductible": "in addition to",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "ii.\t\nin respect of a vehicle rated under the Tariff \nfor Private Car and in respect of a motorised \ntwo wheeler not carrying passengers for hire \nor reward, if any deductible in addition to \nthe compulsory deductible provided in this \nendorsement is voluntarily borne by the insured, \nthe sum representing the aggregate of the \ncompulsory and the voluntary deductibles is to \nbe inserted.\n\t\n\t\n**\t\nto insert Condition no 3 in respect of a vehicle \nrated under Tariff for Private Car/ Two wheelers \nor Condition no 4 in respect of a vehicle rated \nunder the Tariff for Commercial Vehicles."
+  },
+  {
+    "title": "PORTION ONLY. (For all Commercial Vehicles)",
+    "deductible": "other",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "In   consideration   of   payment   of   an   additional \npremium    of Rs. *,notwithstanding anything to the contrary \ncontained in the policy it is hereby understood and agreed \nthat subject to conditions (a) (b) and (c) hereunder loss of \nor damage (excluding theft under any circumstances) to \nlamps tyres/tubes mudguards bonnet/side parts bumpers \nheadlights and paintwork of damaged portion only is \ncovered provided the vehicle is also damaged at the same \ntime. Subject to:\n\t\na.\t\nDepreciation as per schedule provided in Section 1 of \nthe policy. It is further understood and agreed that in \n"
+  },
+  {
+    "title": "NOTE:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "* Insert make, number or some other means of identification. \nWhere a premium reduction is allowed for exclusion of damage \nwhen in use as a tool of trade omit from paragraph (a) (the words \n\u201cresulting from overturning\u201d and \u201cexcept for loss \u2026. or theft\u201d."
+  },
+  {
+    "title": "42.\t IMT.49. Exclusion of Liability to the Public Working Risk",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "(Except as required by the Motor Vehicle Act, 1988)\n\t\nIt is hereby declared and agreed that except so far as is \nnecessary to meet the requirements of the Motor Vehicles \nAct, 1988, the Insurer shall be under no liability under \nSection II of this Policy in respect of liability incurred by \nthe Insured arising out of the operation as a tool of the \n\n17"
+  },
+  {
+    "title": "45. \tIMT.52. Exclusion of damage while in use as a Tool of Trade",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "It is hereby declared and agreed that except so far as is \nnecessary to meet the requirements of the Motor Vehicles \nAct, 1988 the insurer shall be under no liability under \nSection II of this Policy in respect of liability incurred by the \ninsured arising out of the operation as a tool of the motor \nvehicle or of plant forming part of the vehicle insured or \nattached thereto."
+  }
+]

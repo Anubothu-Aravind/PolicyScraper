@@ -1,0 +1,37 @@
+[
+  {
+    "title": "IML Amount. A Contingent IML Amount shall also apply,",
+    "deductible": "of our Credit",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "being contingent upon the occurrence of the \ncircumstances, and subject to the limited application \nconsequent upon such occurrence, set out in paragraph 2 \nbelow. Unless these circumstances do in fact occur, the \nactual amount of the \u2018insurer\u2019s maximum liability\u2019 shall \nbe the Basic IML Amount. The Contingent IML Amount \nshall be [CONIML02] which shall only apply in relation to \ncontracts made with the Specified Buyer(s) listed below.\nSpecified Buyer(s)\n[SPBNAM03]\nChange in operations\t\t\n(62315.00)\nIn the event that your operations change substantially by \nmerger, acquisition, expansion or oth"
+  },
+  {
+    "title": "IRDAN125CP0004V01202122.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "3\nSecurities exclusion  \n(62388.00)\nThe policy shall not apply to receivables for which payment \nhas been wholly secured by [SECTYP01] (the Security) unless \nsuch security has been made a condition of cover for the \nBuyer. Where payment is partially secured by the Security, \nthe policy shall only apply to those receivables not secured \nby the Security, unless this has been made a condition of \ncover for the Buyer, in which case the Policy shall apply to \nall such receivables.\nQueried Invoices \t\t\t\t\n(62425.00)\nWhere the Buyer disputes or queries that an amount is \nowing, the non-payment of such "
+  },
+  {
+    "title": "IRDAN125CP0004V01202122.",
+    "deductible": "s. However, this",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "5\nReporting threshold \t\t\t\n(62796.00)\nWhere the total of the unpaid amount(s) for which the due \ndate has been exceeded no more than [NODAYS04] days and \ndoes not exceed [OUTAMT01] you need not notify us thereof.\nHowever, your obligations as set forth in the \u201cObligation to \nnotify adverse information\u201d section above to notify us without \nundue delay remains unaffected.\nQueried invoices \t\n(62797.00)\nWhere the Buyer disputes or queries that an amount is owing \nand the total of such queried or disputed amounts is less \nthan [QIAMT][QITYP], the non-payment of such an amount \nat the expiry of the \u2018ma"
+  },
+  {
+    "title": "IRDAN125CP0004V01202122.",
+    "deductible": "of our Credit Limit",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "7\nAdded Tax or charges included in the costs.\nAllocation of payments \t\t\n(62824.00)\nAll amounts received by you, by any person acting on your \nbehalf or by us before the date of the Automatic Stoppage of \nCover shall for the purposes of the policy be allocated to all \nreceivables due from the same Buyer in chronological order \nof due dates.\nAll amounts received by you, by any person acting on your \nbehalf or by us after the date of Automatic Stoppage of Cover \nand before the Date of Loss shall for the purposes of the policy \nbe allocated to the Insured Receivables on the following pro-\nrata bas"
+  },
+  {
+    "title": "IRDAN125CP0004V01202122.",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "10\nCover shall not apply to:\na)\nlosses directly or indirectly caused by, contributed to by \nor arising from the ionising, radioactive, toxic, explosive \nor other hazardous or contaminating properties or effects \nof any explosive nuclear assembly or component thereof, \nnuclear fuel, combustion or waste;\nb)\nlosses caused by or resulting from disputes where the \nBuyer claims for any reason whatsoever that he is justified \nin withholding partial or full payment or not performing \nany of his obligations under the contract.\nThis exclusion shall no longer apply as soon as and to \nthe extent that the "
+  }
+]

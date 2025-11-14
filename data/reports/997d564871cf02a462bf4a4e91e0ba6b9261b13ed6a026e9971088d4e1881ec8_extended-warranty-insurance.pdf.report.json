@@ -1,0 +1,37 @@
+[
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": "of the amount of the Deductible and subj",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Policy Wordings\nExtended Warranty Insurance\nWhereas the Insured has made to HDFC ERGO General \nInsurance Company Ltd. (hereinafter called the Company), a \nproposal which is hereby agreed to be the basis of this Policy \nand has paid the premium specified in the Schedule, now \nthe Company agrees, subject always to the following terms, \nconditions, exclusions, and limitations, to indemnify the Insured \nin excess of the amount of the Deductible and subject always \nto the Sum Insured against such loss as is herein provided."
+  },
+  {
+    "title": "DEFINITIONS",
+    "deductible": "means the amount which shall be borne by",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "The following words or terms shall have the meaning ascribed \nto them wherever they appear in this Policy, and reference \nto the singular or to the masculine shall include reference to \nthe plural and to the female wherever the context so permits:\n1.\t\nBreakdown means the mechanical and/or electrical failure \nof a physical object that causes it to not function in its \nintended manner.\n2.\t\nDeductible means the amount which shall be borne by the \nInsured in respect of each and every claim made under \nthis Policy. The Company\u2019s liability to make any payment \nunder the Policy is in excess of the De"
+  },
+  {
+    "title": "EXCLUSIONS",
+    "deductible": "amount specified in item 6 of the Schedu",
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Company is not liable for and no indemnity will be provided \nin respect of any loss arising out of, caused by, occasioned by, \nattributable to or howsoever connected to:\n1.\t\nDeductible: amount specified in item 6 of the Schedule \nin respect of each and every claim.\n2.\t\nLoss or damage arising out of the Insured Asset not being \nused in accordance with manufacturer\u2019s instructions.\n3.\t\nLoss or damage for which the manufacturer of the Insured \nAsset is responsible under a guarantee and/or warranty.\n4.\t\nLoss or damage arising out of improper use of the Insured \nAsset as determined Company.\n5.\t\n"
+  },
+  {
+    "title": "25.\t Mechanical and/or electrical Breakdown caused by",
+    "deductible": "ive",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "overloading, strain, overrunning, freezing, excessive \npressure, short- circuiting, heating of the Insured Asset."
+  },
+  {
+    "title": "34.\t Any loss or damage that arises when the Policy is not in",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "force due to any reason whatsoever. \nIf the Company alleges that by reason of this exclusion, this \nPolicy does not cover any loss, damage, cost or expenses \ninsurance the burden of proving the contrary shall be upon \nthe Insured."
+  }
+]

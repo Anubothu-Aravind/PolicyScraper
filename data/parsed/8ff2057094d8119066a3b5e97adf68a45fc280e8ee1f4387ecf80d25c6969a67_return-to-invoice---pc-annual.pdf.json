@@ -1,0 +1,30 @@
+[
+  {
+    "title": "start",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "1"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Office: 6th Floor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai \u2013 400 059. UIN: Return to Invoice \u2013"
+  },
+  {
+    "title": "HDFC ERGO General Insurance Company Limited",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "Policy Wordings Add On Covers\nPrivate Car Package Policy - Annual"
+  },
+  {
+    "title": "RETURN TO INVOICE",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Definition:\nInvoice value: For the purpose of this cover, the invoice value \nmeans the sum of Ex showroom price, registration charges, \nroad tax, insurance premium and any other expenses as \nnotified by the Company.\nInsuring Clause: In consideration of the payment of additional \npremium paid by the Insured and realized by the Company not \nwithstanding anything to the contrary, it is hereby understood \n& agreed that for the purpose of this policy, in the event of \nTotal Loss (TL) or a Constructive Total Loss (CTL) the Company \nwill pay the difference between the \u2018claim amount receivable\u2019 \nunder"
+  }
+]

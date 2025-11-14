@@ -1,0 +1,15 @@
+venv/
+parser/__pycache__/
+tests/__pycache__/
+*.pyc
+.DS_Store
+.env
+.idea/
+.vscode/
+__pycache__/
+*.log
+coverage
+htmlcov-report/
+.mypy_cache/
+pytest_cache/
+.ipynb_checkpoints/

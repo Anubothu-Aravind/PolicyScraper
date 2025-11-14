@@ -1,0 +1,37 @@
+[
+  {
+    "title": "DETAILS OF INSURED",
+    "deductible": "s",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "a)\nName of the Policy Holder / Insured\nb)\nMailing Address of the Policy holder/ \nInsured\nc)\nContact No. of the Policy holder / \nInsured\nd)\nBank/Financial Institution\n2.\nOther Details: (Please refer to the Annexure in case \nof group policy)\na)\nAddress and Description of land \nunder crop cultivation\nb)\nCrop & Variety\nc)\nInsured area (ha):\nd)\nStipulated Harvest (tons/ha)\ne)\nOverall yield / Threshold yield (tons)\nf)\nStipulated price per ton:\n3.\nPolicy Period:\nFrom :     To:\n4.\nSum Insured (in Rs)\n5.\nLevel of Indemnity\n6.\nDeductibles (if any)\n7.\nPremium:\na)\nBasic Premium\n(Rs)\nb)\nAdd: Service Tax an"
+  },
+  {
+    "title": "DEFINITIONS",
+    "deductible": "of the said",
+    "waiting_period": null,
+    "is_exclusion": false,
+    "sample_text": "\u201cActual Yield\u201d (AY) means yield per hectare of the insured \nCrop calculated on the basis of requisite number of Crop \nCutting Experiments (CCEs) in the insured season for \ndefined area or actual yield of insured Crop for the defined \narea and with in policy period under Policy.\n\t\n\u201cBank\u201d means an entity licensed as a Bank under Banking \nRegulation Act, 1949 and permitted by the Reserve Bank \nof India to carry on banking business in India.\n\t\n\u201cCompany\u201d means the HDFC ERGO General Insurance \nCompany Limited.\n\t\n\u201cCrop\u201d means the variety of seed and/ or plants the \nInsured cultivates as mentioned in "
+  },
+  {
+    "title": "SCOPE OF COVER",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "The Company hereby agrees, subject to the terms, \nconditions and exclusions herein contained, or otherwise \nexpressed herein, to compensate the Insured Person \nfor the short fall in yield as stated in the Policy, resulting \nfrom Natural Fire and lightning, Storm, Hailstorm, cyclone, \nTyphoon, Tempest, Hurricane, Tornado, Flood, Inundation, \nLandslide, Drought, Dry spells, Pests/ Diseases of the \nInsured Crop if such deviation is as stated in coverage \nand within the defined area and specified time period, \nsubject to the maximum Sum Insured specified in Part I \nof the Schedule to this Policy i"
+  },
+  {
+    "title": "EXCLUSIONS",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "3.1\t The Company shall not be liable to make any payment \nunder this Policy in connection with or in respect of any \nexpenses whatsoever incurred arising out of damage or \nloss to insured Crop arising from:\n\t\n\u2022\t\nThe burning of the property by order of any public \nauthority or subterranean fire.\n\t\n\u2022\t\nFire during harvest due to spark originating from \nengine exhaust and/or other hot machinery parts on \nharvesters and/or tractors.\n\t\n\u2022\t\nMalicious, willful act or gross negligence of the \nInsured or any of his representative(s) or employee(s).\n\t\n\u2022\t\nany peril not specifically covered under the Policy"
+  },
+  {
+    "title": "18.\t Policy Disputes:",
+    "deductible": null,
+    "waiting_period": null,
+    "is_exclusion": true,
+    "sample_text": "Any dispute concerning the interpretation of the terms, \nconditions, limitations and/or exclusions contained herein \nis understood and agreed to by both the Insured and the \nCompany to be subject to Indian Law. Each party agrees \nto submit to the exclusive jurisdiction of the High Court of \nMumbai and to comply with all requirements necessary \nto give such Court the jurisdiction. All matters arising \nhereunder shall be determined in accordance with the \nlaw and practice of such Court."
+  }
+]
